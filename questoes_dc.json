@@ -1,0 +1,1192 @@
+[
+  {
+    "id": "dc-001",
+    "numero_original": 1,
+    "ordem_exibicao": 1,
+    "tipo": "verdadeiro_falso",
+    "artigo": "Conceito e classificação constitucional",
+    "pergunta": "O Direito Constitucional pertence fundamentalmente ao setor do Direito Privado, servindo de base e harmonia exclusivamente para as relações particulares.",
+    "opcoes": [
+      "Verdadeiro",
+      "Falso"
+    ],
+    "correta": "F",
+    "comentario": "Falsa. O Direito Constitucional integra o Direito Público e disciplina a organização do Estado, os poderes públicos e os direitos fundamentais.",
+    "anulada": false,
+    "respondida": false,
+    "status": "VÁLIDA"
+  },
+  {
+    "id": "dc-002",
+    "numero_original": 2,
+    "ordem_exibicao": 2,
+    "tipo": "verdadeiro_falso",
+    "artigo": "Conceito e classificação constitucional",
+    "pergunta": "A Constituição de 1988 é classificada como uma constituição promulgada (popular ou democrática), pois nasceu de um órgão composto por representantes eleitos do povo.",
+    "opcoes": [
+      "Verdadeiro",
+      "Falso"
+    ],
+    "correta": "V",
+    "comentario": "Verdadeira. A Constituição de 1988 foi elaborada e aprovada por uma Assembleia Nacional Constituinte composta por representantes eleitos.",
+    "anulada": false,
+    "respondida": false,
+    "status": "VÁLIDA"
+  },
+  {
+    "id": "dc-003",
+    "numero_original": 3,
+    "ordem_exibicao": 3,
+    "tipo": "verdadeiro_falso",
+    "artigo": "Conceito e classificação constitucional",
+    "pergunta": "Constituições outorgadas são aquelas impostas pelo governante, sem que haja a participação ou consulta popular em sua elaboração.",
+    "opcoes": [
+      "Verdadeiro",
+      "Falso"
+    ],
+    "correta": "V",
+    "comentario": "Verdadeira. Constituição outorgada é imposta unilateralmente pelo governante, sem participação popular efetiva em sua elaboração.",
+    "anulada": false,
+    "respondida": false,
+    "status": "VÁLIDA"
+  },
+  {
+    "id": "dc-004",
+    "numero_original": 4,
+    "ordem_exibicao": 4,
+    "tipo": "verdadeiro_falso",
+    "artigo": "Conceito e classificação constitucional",
+    "pergunta": "De acordo com o texto, a Constituição Federal de 1988 possui um formato sintético, contendo poucos artigos voltados apenas para as diretrizes gerais do Estado.",
+    "opcoes": [
+      "Verdadeiro",
+      "Falso"
+    ],
+    "correta": "F",
+    "comentario": "Falsa. A Constituição de 1988 é analítica, pois trata de numerosos temas de forma detalhada, e não apenas de diretrizes gerais.",
+    "anulada": false,
+    "respondida": false,
+    "status": "VÁLIDA"
+  },
+  {
+    "id": "dc-005",
+    "numero_original": 5,
+    "ordem_exibicao": 5,
+    "tipo": "verdadeiro_falso",
+    "artigo": "Organização do Estado e dos Poderes",
+    "pergunta": "A tripartição clássica dos poderes adotada pela Constituição de 1988 divide as funções estatais em Legislativo, Executivo e Judiciário.",
+    "opcoes": [
+      "Verdadeiro",
+      "Falso"
+    ],
+    "correta": "V",
+    "comentario": "Verdadeira. A separação clássica das funções estatais compreende os Poderes Legislativo, Executivo e Judiciário.",
+    "anulada": false,
+    "respondida": false,
+    "status": "VÁLIDA"
+  },
+  {
+    "id": "dc-006",
+    "numero_original": 6,
+    "ordem_exibicao": 6,
+    "tipo": "verdadeiro_falso",
+    "artigo": "Organização do Estado e dos Poderes",
+    "pergunta": "No sistema presidencialista adotado pelo Brasil, o Poder Executivo concentra as funções de Chefe de Estado e Chefe de Governo na figura do Presidente da República.",
+    "opcoes": [
+      "Verdadeiro",
+      "Falso"
+    ],
+    "correta": "V",
+    "comentario": "Verdadeira. No presidencialismo, o Presidente da República exerce simultaneamente as funções de Chefe de Estado e de Chefe de Governo.",
+    "anulada": false,
+    "respondida": false,
+    "status": "VÁLIDA"
+  },
+  {
+    "id": "dc-007",
+    "numero_original": 7,
+    "ordem_exibicao": 7,
+    "tipo": "verdadeiro_falso",
+    "artigo": "Organização do Estado e dos Poderes",
+    "pergunta": "O Poder Legislativo no âmbito federal brasileiro possui uma estrutura bicameral, sendo exercido pelo Congresso Nacional, composto pela Câmara dos Deputados e pelo Senado Federal.",
+    "opcoes": [
+      "Verdadeiro",
+      "Falso"
+    ],
+    "correta": "V",
+    "comentario": "Verdadeira. O Congresso Nacional é bicameral e formado pela Câmara dos Deputados e pelo Senado Federal.",
+    "anulada": false,
+    "respondida": false,
+    "status": "VÁLIDA"
+  },
+  {
+    "id": "dc-008",
+    "numero_original": 8,
+    "ordem_exibicao": 8,
+    "tipo": "verdadeiro_falso",
+    "artigo": "Organização do Estado e dos Poderes",
+    "pergunta": "No Brasil, os direitos e garantias fundamentais previstos na Constituição Federal de 1988 situam-se no topo da sua pauta axiológica.",
+    "opcoes": [
+      "Verdadeiro",
+      "Falso"
+    ],
+    "correta": "V",
+    "comentario": "Verdadeira. A Constituição de 1988 confere posição central aos direitos e garantias fundamentais, que orientam a interpretação do sistema constitucional.",
+    "anulada": false,
+    "respondida": false,
+    "status": "VÁLIDA"
+  },
+  {
+    "id": "dc-009",
+    "numero_original": 9,
+    "ordem_exibicao": 9,
+    "tipo": "verdadeiro_falso",
+    "artigo": "Direitos e garantias fundamentais",
+    "pergunta": "O remédio constitucional específico utilizado para proteger estritamente a liberdade de locomoção (direito de ir, vir e permanecer) é o Mandado de Segurança.",
+    "opcoes": [
+      "Verdadeiro",
+      "Falso"
+    ],
+    "correta": "F",
+    "comentario": "Falsa. A liberdade de locomoção é protegida especificamente pelo habeas corpus, e não pelo mandado de segurança.",
+    "anulada": false,
+    "respondida": false,
+    "status": "VÁLIDA"
+  },
+  {
+    "id": "dc-010",
+    "numero_original": 10,
+    "ordem_exibicao": 10,
+    "tipo": "verdadeiro_falso",
+    "artigo": "Direitos e garantias fundamentais",
+    "pergunta": "O direito à vida garantido pela Constituição de 1988 não se limita ao aspecto biológico, abrangendo também o direito a uma existência digna.",
+    "opcoes": [
+      "Verdadeiro",
+      "Falso"
+    ],
+    "correta": "V",
+    "comentario": "Verdadeira. O direito à vida inclui não apenas a existência biológica, mas também condições mínimas para uma vida digna.",
+    "anulada": false,
+    "respondida": false,
+    "status": "VÁLIDA"
+  },
+  {
+    "id": "dc-011",
+    "numero_original": 11,
+    "ordem_exibicao": 11,
+    "tipo": "verdadeiro_falso",
+    "artigo": "Direitos e garantias fundamentais",
+    "pergunta": "A Constituição Federal de 1988 proíbe de forma absoluta a pena de morte no Brasil, não admitindo qualquer tipo de exceção, mesmo em caso de guerra externa declarada.",
+    "opcoes": [
+      "Verdadeiro",
+      "Falso"
+    ],
+    "correta": "F",
+    "comentario": "Falsa. A Constituição admite pena de morte em caso de guerra declarada, nos termos do art. 5º, XLVII, alínea a.",
+    "anulada": false,
+    "respondida": false,
+    "status": "VÁLIDA"
+  },
+  {
+    "id": "dc-012",
+    "numero_original": 12,
+    "ordem_exibicao": 12,
+    "tipo": "verdadeiro_falso",
+    "artigo": "Segurança pública e militares estaduais",
+    "pergunta": "Conforme o texto legal, são considerados militares estaduais os integrantes da Polícia Militar e do Corpo de Bombeiros Militar.",
+    "opcoes": [
+      "Verdadeiro",
+      "Falso"
+    ],
+    "correta": "V",
+    "comentario": "Verdadeira. Os membros das Polícias Militares e dos Corpos de Bombeiros Militares são militares dos Estados, do Distrito Federal e dos Territórios.",
+    "anulada": false,
+    "respondida": false,
+    "status": "VÁLIDA"
+  },
+  {
+    "id": "dc-013",
+    "numero_original": 13,
+    "ordem_exibicao": 13,
+    "tipo": "verdadeiro_falso",
+    "artigo": "Segurança pública e militares estaduais",
+    "pergunta": "À Polícia Militar cabe a polícia ostensiva e a preservação da ordem pública, de acordo com a Constituição Federal de 1988.",
+    "opcoes": [
+      "Verdadeiro",
+      "Falso"
+    ],
+    "correta": "V",
+    "comentario": "Verdadeira. À Polícia Militar compete a polícia ostensiva e a preservação da ordem pública.",
+    "anulada": false,
+    "respondida": false,
+    "status": "VÁLIDA"
+  },
+  {
+    "id": "dc-014",
+    "numero_original": 14,
+    "ordem_exibicao": 14,
+    "tipo": "verdadeiro_falso",
+    "artigo": "Segurança pública e militares estaduais",
+    "pergunta": "A Polícia Militar e o Corpo de Bombeiros Militar do Estado do Paraná são considerados forças auxiliares e reserva do Exército.",
+    "opcoes": [
+      "Verdadeiro",
+      "Falso"
+    ],
+    "correta": "V",
+    "comentario": "Verdadeira. As Polícias Militares e os Corpos de Bombeiros Militares são forças auxiliares e reserva do Exército.",
+    "anulada": false,
+    "respondida": false,
+    "status": "VÁLIDA"
+  },
+  {
+    "id": "dc-015",
+    "numero_original": 15,
+    "ordem_exibicao": 15,
+    "tipo": "verdadeiro_falso",
+    "artigo": "Segurança pública e militares estaduais",
+    "pergunta": "Tanto a Polícia Militar quanto a Polícia Civil, a Polícia Penal e o Corpo de Bombeiros Militar subordinam-se ao Govenador do Estado.",
+    "opcoes": [
+      "Verdadeiro",
+      "Falso"
+    ],
+    "correta": "V",
+    "comentario": "Verdadeira. As polícias civis, militares e penais estaduais, bem como os corpos de bombeiros militares, subordinam-se aos Governadores.",
+    "anulada": false,
+    "respondida": false,
+    "status": "VÁLIDA"
+  },
+  {
+    "id": "dc-016",
+    "numero_original": 16,
+    "ordem_exibicao": 16,
+    "tipo": "verdadeiro_falso",
+    "artigo": "Supremacia constitucional e direitos fundamentais",
+    "pergunta": "O princípio da supremacia constitucional decorre diretamente da rigidez da Constituição, posicionando-a no vértice do sistema jurídico.",
+    "opcoes": [
+      "Verdadeiro",
+      "Falso"
+    ],
+    "correta": "V",
+    "comentario": "Verdadeira. Nas constituições rígidas, a supremacia formal decorre do processo mais dificultoso de alteração constitucional.",
+    "anulada": false,
+    "respondida": false,
+    "status": "VÁLIDA"
+  },
+  {
+    "id": "dc-017",
+    "numero_original": 17,
+    "ordem_exibicao": 17,
+    "tipo": "verdadeiro_falso",
+    "artigo": "Supremacia constitucional e direitos fundamentais",
+    "pergunta": "O direito de petição e o direito de obter certidões em repartições públicas são condicionados ao pagamento de taxas administrativas de segurança.",
+    "opcoes": [
+      "Verdadeiro",
+      "Falso"
+    ],
+    "correta": "F",
+    "comentario": "Falsa. O direito de petição e a obtenção de certidões para defesa de direitos são assegurados independentemente do pagamento de taxas.",
+    "anulada": false,
+    "respondida": false,
+    "status": "VÁLIDA"
+  },
+  {
+    "id": "dc-018",
+    "numero_original": 18,
+    "ordem_exibicao": 18,
+    "tipo": "verdadeiro_falso",
+    "artigo": "Supremacia constitucional e direitos fundamentais",
+    "pergunta": "A criação de associações no Brasil depende de autorização prévia e discricionária do Poder Executivo para que possam iniciar suas atividades.",
+    "opcoes": [
+      "Verdadeiro",
+      "Falso"
+    ],
+    "correta": "F",
+    "comentario": "Falsa. A criação de associações independe de autorização, sendo vedada a interferência estatal em seu funcionamento, salvo hipóteses constitucionais.",
+    "anulada": false,
+    "respondida": false,
+    "status": "VÁLIDA"
+  },
+  {
+    "id": "dc-019",
+    "numero_original": 19,
+    "ordem_exibicao": 19,
+    "tipo": "verdadeiro_falso",
+    "artigo": "Supremacia constitucional e direitos fundamentais",
+    "pergunta": "O racismo é classificado pela Constituição Federal de 1988 como um crime inafiançável e imprescritível.",
+    "opcoes": [
+      "Verdadeiro",
+      "Falso"
+    ],
+    "correta": "V",
+    "comentario": "Verdadeira. A prática do racismo constitui crime inafiançável e imprescritível.",
+    "anulada": false,
+    "respondida": false,
+    "status": "VÁLIDA"
+  },
+  {
+    "id": "dc-020",
+    "numero_original": 20,
+    "ordem_exibicao": 20,
+    "tipo": "verdadeiro_falso",
+    "artigo": "Direitos fundamentais e remédios constitucionais",
+    "pergunta": "Conforme o Artigo 5º, inciso XI da CF/88, a casa é o asilo inviolável do indivíduo, exigindo-se, como regra geral, o consentimento do morador para nela ingressar.",
+    "opcoes": [
+      "Verdadeiro",
+      "Falso"
+    ],
+    "correta": "V",
+    "comentario": "Verdadeira. A entrada em domicílio depende, como regra, do consentimento do morador, ressalvadas as hipóteses constitucionais.",
+    "anulada": false,
+    "respondida": false,
+    "status": "VÁLIDA"
+  },
+  {
+    "id": "dc-021",
+    "numero_original": 21,
+    "ordem_exibicao": 21,
+    "tipo": "verdadeiro_falso",
+    "artigo": "Direitos fundamentais e remédios constitucionais",
+    "pergunta": "A denúncia anônima isolada (\"Disque-Denúncia\"), por si só, é plenamente suficiente para justificar a entrada forçada da polícia em um domicílio sem mandado judicial.",
+    "opcoes": [
+      "Verdadeiro",
+      "Falso"
+    ],
+    "correta": "F",
+    "comentario": "Falsa. A denúncia anônima isolada não basta para autorizar ingresso forçado em domicílio; são necessárias diligências e fundadas razões.",
+    "anulada": false,
+    "respondida": false,
+    "status": "VÁLIDA"
+  },
+  {
+    "id": "dc-022",
+    "numero_original": 22,
+    "ordem_exibicao": 22,
+    "tipo": "verdadeiro_falso",
+    "artigo": "Direitos fundamentais e remédios constitucionais",
+    "pergunta": "Os direitos fundamentais do homem possuem caráter estático e imutável, o que significa que eles nunca se transformam ao longo do tempo ou das lutas sociais.",
+    "opcoes": [
+      "Verdadeiro",
+      "Falso"
+    ],
+    "correta": "F",
+    "comentario": "Falsa. Os direitos fundamentais possuem historicidade e se transformam conforme a evolução social, política e jurídica.",
+    "anulada": false,
+    "respondida": false,
+    "status": "VÁLIDA"
+  },
+  {
+    "id": "dc-023",
+    "numero_original": 23,
+    "ordem_exibicao": 23,
+    "tipo": "verdadeiro_falso",
+    "artigo": "Direitos fundamentais e remédios constitucionais",
+    "pergunta": "A Constituição do Império de 1824 estabeleceu um Estado federalista e descentralizado, conferindo total autonomia jurídica às províncias.",
+    "opcoes": [
+      "Verdadeiro",
+      "Falso"
+    ],
+    "correta": "F",
+    "comentario": "Falsa. A Constituição de 1824 instituiu um Estado unitário e centralizado, com províncias sem autonomia federativa.",
+    "anulada": false,
+    "respondida": false,
+    "status": "VÁLIDA"
+  },
+  {
+    "id": "dc-024",
+    "numero_original": 24,
+    "ordem_exibicao": 24,
+    "tipo": "verdadeiro_falso",
+    "artigo": "Direitos fundamentais e remédios constitucionais",
+    "pergunta": "O Mandado de Injunção é um remédio constitucional voltado para combater a falta de norma regulamentadora que inviabilize o exercício de direitos constitucionais.",
+    "opcoes": [
+      "Verdadeiro",
+      "Falso"
+    ],
+    "correta": "V",
+    "comentario": "Verdadeira. O mandado de injunção combate a falta de norma regulamentadora que inviabilize o exercício de direitos e liberdades constitucionais.",
+    "anulada": false,
+    "respondida": false,
+    "status": "VÁLIDA"
+  },
+  {
+    "id": "dc-025",
+    "numero_original": 25,
+    "ordem_exibicao": 25,
+    "tipo": "verdadeiro_falso",
+    "artigo": "Direitos fundamentais e remédios constitucionais",
+    "pergunta": "O Ministério Público é uma instituição permanente e essencial à função jurisdicional do Estado, incumbindo-lhe a defesa da ordem jurídica e do regime democrático.",
+    "opcoes": [
+      "Verdadeiro",
+      "Falso"
+    ],
+    "correta": "V",
+    "comentario": "Verdadeira. O Ministério Público é instituição permanente, essencial à função jurisdicional, responsável pela defesa da ordem jurídica e do regime democrático.",
+    "anulada": false,
+    "respondida": false,
+    "status": "VÁLIDA"
+  },
+  {
+    "id": "dc-026",
+    "numero_original": 26,
+    "ordem_exibicao": 26,
+    "tipo": "verdadeiro_falso",
+    "artigo": "Teoria da Constituição",
+    "pergunta": "O Direito Constitucional Positivo (ou Particular) dedica-se ao estudo teórico, abstrato e universal dos princípios que fundamentam qualquer constituição, sem se ligar a um Estado determinado.",
+    "opcoes": [
+      "Verdadeiro",
+      "Falso"
+    ],
+    "correta": "F",
+    "comentario": "Falsa. O Direito Constitucional Positivo estuda a constituição de um Estado determinado; o estudo abstrato e universal pertence ao Direito Constitucional Geral.",
+    "anulada": false,
+    "respondida": false,
+    "status": "VÁLIDA"
+  },
+  {
+    "id": "dc-029",
+    "numero_original": 29,
+    "ordem_exibicao": 27,
+    "tipo": "verdadeiro_falso",
+    "artigo": "Teoria da Constituição",
+    "pergunta": "As constituições dogmáticas são aquelas resultantes do lento e gradual evoluir das tradições, dos costumes e dos fatos sócio-políticos de um povo.",
+    "opcoes": [
+      "Verdadeiro",
+      "Falso"
+    ],
+    "correta": "F",
+    "comentario": "Falsa. As constituições formadas pela evolução lenta de costumes e tradições são históricas; as dogmáticas resultam de elaboração sistematizada em determinado momento.",
+    "anulada": false,
+    "respondida": false,
+    "status": "VÁLIDA"
+  },
+  {
+    "id": "dc-030",
+    "numero_original": 30,
+    "ordem_exibicao": 28,
+    "tipo": "verdadeiro_falso",
+    "artigo": "Teoria da Constituição",
+    "pergunta": "A classificação das constituições em rígidas, flexíveis e semi-rígidas toma como critério principal a estabilidade da norma e a complexidade do seu processo de modificação.",
+    "opcoes": [
+      "Verdadeiro",
+      "Falso"
+    ],
+    "correta": "V",
+    "comentario": "Verdadeira. A classificação em rígida, flexível e semirrígida considera o grau de dificuldade do processo de alteração constitucional.",
+    "anulada": false,
+    "respondida": false,
+    "status": "VÁLIDA"
+  },
+  {
+    "id": "dc-031",
+    "numero_original": 31,
+    "ordem_exibicao": 29,
+    "tipo": "verdadeiro_falso",
+    "artigo": "Teoria da Constituição",
+    "pergunta": "As normas constitucionais classificadas como \"orgânicas\" são aquelas que estabelecem os direitos e garantias fundamentais do homem, limitando diretamente a atuação do Estado.",
+    "opcoes": [
+      "Verdadeiro",
+      "Falso"
+    ],
+    "correta": "F",
+    "comentario": "Falsa. Elementos orgânicos estruturam o Estado e os poderes; os direitos e garantias fundamentais integram os elementos limitativos.",
+    "anulada": false,
+    "respondida": false,
+    "status": "VÁLIDA"
+  },
+  {
+    "id": "dc-032",
+    "numero_original": 32,
+    "ordem_exibicao": 30,
+    "tipo": "verdadeiro_falso",
+    "artigo": "Controle de constitucionalidade",
+    "pergunta": "A inconstitucionalidade por omissão verifica-se quando o Poder Público deixa de praticar os atos legislativos ou administrativos necessários para tornar plenamente aplicáveis as normas constitucionais.",
+    "opcoes": [
+      "Verdadeiro",
+      "Falso"
+    ],
+    "correta": "V",
+    "comentario": "Verdadeira. A omissão inconstitucional ocorre quando o Poder Público deixa de editar normas ou praticar atos necessários à efetividade da Constituição.",
+    "anulada": false,
+    "respondida": false,
+    "status": "VÁLIDA"
+  },
+  {
+    "id": "dc-034",
+    "numero_original": 34,
+    "ordem_exibicao": 31,
+    "tipo": "verdadeiro_falso",
+    "artigo": "Controle de constitucionalidade",
+    "pergunta": "No controle de constitucionalidade difuso, o exercício da fiscalização é reconhecido a todos os órgãos e componentes do Poder Judiciário, ocorrendo por via de exceção (ou incidental).",
+    "opcoes": [
+      "Verdadeiro",
+      "Falso"
+    ],
+    "correta": "V",
+    "comentario": "Verdadeira. No controle difuso, qualquer juiz ou tribunal pode examinar incidentalmente a constitucionalidade em um caso concreto.",
+    "anulada": false,
+    "respondida": false,
+    "status": "VÁLIDA"
+  },
+  {
+    "id": "dc-036",
+    "numero_original": 36,
+    "ordem_exibicao": 32,
+    "tipo": "verdadeiro_falso",
+    "artigo": "Controle de constitucionalidade",
+    "pergunta": "A legitimação para a propositura de ações diretas de inconstitucionalidade (ADI) na redação original do sistema constitucional brasileiro anterior a 1988 era de exclusividade do Procurador-Geral da República.",
+    "opcoes": [
+      "Verdadeiro",
+      "Falso"
+    ],
+    "correta": "V",
+    "comentario": "Verdadeira. Antes de 1988, a representação de inconstitucionalidade de caráter genérico era proposta exclusivamente pelo Procurador-Geral da República.",
+    "anulada": false,
+    "respondida": false,
+    "status": "VÁLIDA"
+  },
+  {
+    "id": "dc-037",
+    "numero_original": 37,
+    "ordem_exibicao": 33,
+    "tipo": "verdadeiro_falso",
+    "artigo": "História e princípios constitucionais",
+    "pergunta": "De acordo com o pensamento de José Afonso da Silva, o Preâmbulo da Constituição Federal de 1988 possui força normativa plena e autônoma, gerando direitos e obrigações imediatas.",
+    "opcoes": [
+      "Verdadeiro",
+      "Falso"
+    ],
+    "correta": "F",
+    "comentario": "Falsa. O preâmbulo não possui força normativa autônoma capaz de criar direitos e obrigações diretamente.",
+    "anulada": false,
+    "respondida": false,
+    "status": "VÁLIDA"
+  },
+  {
+    "id": "dc-038",
+    "numero_original": 38,
+    "ordem_exibicao": 34,
+    "tipo": "verdadeiro_falso",
+    "artigo": "História e princípios constitucionais",
+    "pergunta": "Os Atos das Disposições Constitucionais Transitórias (ADCT) servem para regular a passagem do ordenamento jurídico antigo para o novo, garantindo a segurança jurídica.",
+    "opcoes": [
+      "Verdadeiro",
+      "Falso"
+    ],
+    "correta": "V",
+    "comentario": "Verdadeira. O ADCT contém normas destinadas à transição entre a ordem constitucional anterior e a nova, preservando a segurança jurídica.",
+    "anulada": false,
+    "respondida": false,
+    "status": "VÁLIDA"
+  },
+  {
+    "id": "dc-039",
+    "numero_original": 39,
+    "ordem_exibicao": 35,
+    "tipo": "verdadeiro_falso",
+    "artigo": "História e princípios constitucionais",
+    "pergunta": "Segundo José Afonso da Silva, o Direito não é um dado da natureza, mas sim uma construção sociocultural humana voltada a realizar valores de justiça e ordem.",
+    "opcoes": [
+      "Verdadeiro",
+      "Falso"
+    ],
+    "correta": "V",
+    "comentario": "Verdadeira. O Direito é compreendido como construção cultural humana voltada à realização de valores sociais, justiça e ordem.",
+    "anulada": false,
+    "respondida": false,
+    "status": "VÁLIDA"
+  },
+  {
+    "id": "dc-042",
+    "numero_original": 42,
+    "ordem_exibicao": 36,
+    "tipo": "verdadeiro_falso",
+    "artigo": "História e princípios constitucionais",
+    "pergunta": "Os princípios político-constitucionais consistem nas opções e decisões políticas fundamentais do constituinte, a exemplo das descritas nos artigos 1º ao 4º da CF/88.",
+    "opcoes": [
+      "Verdadeiro",
+      "Falso"
+    ],
+    "correta": "V",
+    "comentario": "Verdadeira. Os princípios político-constitucionais expressam decisões fundamentais do constituinte, como as previstas nos arts. 1º a 4º.",
+    "anulada": false,
+    "respondida": false,
+    "status": "VÁLIDA"
+  },
+  {
+    "id": "dc-043",
+    "numero_original": 43,
+    "ordem_exibicao": 37,
+    "tipo": "verdadeiro_falso",
+    "artigo": "História e princípios constitucionais",
+    "pergunta": "No Estado Federal brasileiro, a União, os Estados-membros e os Municípios são dotados de soberania plena tanto no plano interno quanto no internacional.",
+    "opcoes": [
+      "Verdadeiro",
+      "Falso"
+    ],
+    "correta": "F",
+    "comentario": "Falsa. A soberania pertence à República Federativa do Brasil; União, Estados, Distrito Federal e Municípios possuem autonomia nos limites constitucionais.",
+    "anulada": false,
+    "respondida": false,
+    "status": "VÁLIDA"
+  },
+  {
+    "id": "dc-044",
+    "numero_original": 44,
+    "ordem_exibicao": 38,
+    "tipo": "verdadeiro_falso",
+    "artigo": "História e princípios constitucionais",
+    "pergunta": "O conceito de Estado Democrático de Direito adotado pela CF/88 caracteriza-se por não ser uma mera soma de termos, mas um conceito novo imantado pela soberania popular e focado na transformação da realidade social.",
+    "opcoes": [
+      "Verdadeiro",
+      "Falso"
+    ],
+    "correta": "V",
+    "comentario": "Verdadeira. O Estado Democrático de Direito combina legalidade, soberania popular e compromisso de transformação social.",
+    "anulada": false,
+    "respondida": false,
+    "status": "VÁLIDA"
+  },
+  {
+    "id": "dc-045",
+    "numero_original": 45,
+    "ordem_exibicao": 39,
+    "tipo": "verdadeiro_falso",
+    "artigo": "Direitos fundamentais e funções essenciais",
+    "pergunta": "A isonomia material difere da isonomia formal por buscar a equalização dos socialmente desiguais por meio de ações afirmativas e tratamentos diferenciados na medida das desigualdades.",
+    "opcoes": [
+      "Verdadeiro",
+      "Falso"
+    ],
+    "correta": "V",
+    "comentario": "Verdadeira. A igualdade material permite tratamentos diferenciados para reduzir desigualdades reais, na medida das diferenças existentes.",
+    "anulada": false,
+    "respondida": false,
+    "status": "VÁLIDA"
+  },
+  {
+    "id": "dc-046",
+    "numero_original": 46,
+    "ordem_exibicao": 40,
+    "tipo": "verdadeiro_falso",
+    "artigo": "Direitos fundamentais e funções essenciais",
+    "pergunta": "Conforme a doutrina de Ruy Barbosa citada no material, \"direitos\" são as disposições assecuratórias protetivas, enquanto \"garantias\" são as vantagens e bens meramente declarados.",
+    "opcoes": [
+      "Verdadeiro",
+      "Falso"
+    ],
+    "correta": "F",
+    "comentario": "Falsa. Direitos são bens e vantagens declarados; garantias são instrumentos assecuratórios destinados a protegê-los.",
+    "anulada": false,
+    "respondida": false,
+    "status": "VÁLIDA"
+  },
+  {
+    "id": "dc-047",
+    "numero_original": 47,
+    "ordem_exibicao": 41,
+    "tipo": "verdadeiro_falso",
+    "artigo": "Direitos fundamentais e funções essenciais",
+    "pergunta": "O direito à privacidade, nos termos do art. 5º, X da CF/88, engloba quatro esferas distintas e invioláveis: a intimidade, a vida privada, a honra e a imagem.",
+    "opcoes": [
+      "Verdadeiro",
+      "Falso"
+    ],
+    "correta": "V",
+    "comentario": "Verdadeira. O art. 5º, X, protege a intimidade, a vida privada, a honra e a imagem.",
+    "anulada": false,
+    "respondida": false,
+    "status": "VÁLIDA"
+  },
+  {
+    "id": "dc-048",
+    "numero_original": 48,
+    "ordem_exibicao": 42,
+    "tipo": "verdadeiro_falso",
+    "artigo": "Direitos fundamentais e funções essenciais",
+    "pergunta": "A tortura, embora condenada moralmente, não recebeu tratamento criminal específico na Constituição, sendo permitida em situações excepcionais de segurança nacional.",
+    "opcoes": [
+      "Verdadeiro",
+      "Falso"
+    ],
+    "correta": "F",
+    "comentario": "Falsa. A Constituição proíbe a tortura e a lei a trata como crime, não havendo autorização por razões de segurança nacional.",
+    "anulada": false,
+    "respondida": false,
+    "status": "VÁLIDA"
+  },
+  {
+    "id": "dc-049",
+    "numero_original": 49,
+    "ordem_exibicao": 43,
+    "tipo": "verdadeiro_falso",
+    "artigo": "Direitos fundamentais e funções essenciais",
+    "pergunta": "A liberdade de reunião em locais abertos ao público é um direito individual de expressão coletiva que, para o seu exercício legítimo, independe de autorização, exigindo apenas prévio aviso.",
+    "opcoes": [
+      "Verdadeiro",
+      "Falso"
+    ],
+    "correta": "V",
+    "comentario": "Verdadeira. A reunião pacífica em local aberto ao público independe de autorização, mas exige prévio aviso e não pode frustrar reunião anteriormente convocada.",
+    "anulada": false,
+    "respondida": false,
+    "status": "VÁLIDA"
+  },
+  {
+    "id": "dc-050",
+    "numero_original": 50,
+    "ordem_exibicao": 44,
+    "tipo": "verdadeiro_falso",
+    "artigo": "Direitos fundamentais e funções essenciais",
+    "pergunta": "De acordo com o Tema 280 do STF, a entrada forçada em domicílio sem mandado judicial, mesmo em período noturno, só é lícita se estiver amparada em fundadas razões, justificadas a posteriori.",
+    "opcoes": [
+      "Verdadeiro",
+      "Falso"
+    ],
+    "correta": "V",
+    "comentario": "Verdadeira. O Tema 280 do STF exige fundadas razões, justificadas posteriormente, para o ingresso forçado sem mandado, inclusive à noite.",
+    "anulada": false,
+    "respondida": false,
+    "status": "VÁLIDA"
+  },
+  {
+    "id": "dc-051",
+    "numero_original": 51,
+    "ordem_exibicao": 45,
+    "tipo": "verdadeiro_falso",
+    "artigo": "Direitos fundamentais e funções essenciais",
+    "pergunta": "No Mandado de Segurança Individual, exige-se como pressuposto essencial que o direito alegado seja líquido e certo, demonstrável de plano por meio de prova pré- constituída.",
+    "opcoes": [
+      "Verdadeiro",
+      "Falso"
+    ],
+    "correta": "V",
+    "comentario": "Verdadeira. O mandado de segurança exige direito líquido e certo comprovável de plano por prova pré-constituída.",
+    "anulada": false,
+    "respondida": false,
+    "status": "VÁLIDA"
+  },
+  {
+    "id": "dc-052",
+    "numero_original": 52,
+    "ordem_exibicao": 46,
+    "tipo": "verdadeiro_falso",
+    "artigo": "Direitos fundamentais e funções essenciais",
+    "pergunta": "O remédio constitucional do Habeas Data é concedido exclusivamente para a soltura de cidadãos detidos por crimes civis ou para contestar decisões administrativas de trânsito.",
+    "opcoes": [
+      "Verdadeiro",
+      "Falso"
+    ],
+    "correta": "F",
+    "comentario": "Falsa. O habeas data serve para conhecer ou retificar informações pessoais em registros públicos ou de caráter público.",
+    "anulada": false,
+    "respondida": false,
+    "status": "VÁLIDA"
+  },
+  {
+    "id": "dc-053",
+    "numero_original": 53,
+    "ordem_exibicao": 47,
+    "tipo": "verdadeiro_falso",
+    "artigo": "Direitos fundamentais e funções essenciais",
+    "pergunta": "O mandato político na democracia representativa brasileira caracteriza-se tradicionalmente por ser um mandato imperativo, no qual os eleitores podem revogar o cargo do parlamentar a qualquer tempo via recall.",
+    "opcoes": [
+      "Verdadeiro",
+      "Falso"
+    ],
+    "correta": "F",
+    "comentario": "Falsa. O mandato parlamentar brasileiro é representativo e livre, não imperativo, e não há recall geral para revogação do mandato a qualquer tempo.",
+    "anulada": false,
+    "respondida": false,
+    "status": "VÁLIDA"
+  },
+  {
+    "id": "dc-054",
+    "numero_original": 54,
+    "ordem_exibicao": 48,
+    "tipo": "verdadeiro_falso",
+    "artigo": "Direitos fundamentais e funções essenciais",
+    "pergunta": "A Ação Declaratória de Constitucionalidade (ADC) pressupõe a existência de uma controvérsia judicial generalizada em torno de uma lei federal e busca ratificar a sua presunção de validade.",
+    "opcoes": [
+      "Verdadeiro",
+      "Falso"
+    ],
+    "correta": "V",
+    "comentario": "Verdadeira. A ADC exige controvérsia judicial relevante sobre lei ou ato normativo federal e busca confirmar sua constitucionalidade.",
+    "anulada": false,
+    "respondida": false,
+    "status": "VÁLIDA"
+  },
+  {
+    "id": "dc-055",
+    "numero_original": 55,
+    "ordem_exibicao": 49,
+    "tipo": "verdadeiro_falso",
+    "artigo": "Direitos fundamentais e funções essenciais",
+    "pergunta": "A Defensoria Pública é definida como uma instituição essencial à função jurisdicional, voltada à orientação jurídica e à defesa dos necessitados e hipossuficientes.",
+    "opcoes": [
+      "Verdadeiro",
+      "Falso"
+    ],
+    "correta": "V",
+    "comentario": "Verdadeira. A Defensoria Pública presta orientação jurídica e defesa integral e gratuita aos necessitados.",
+    "anulada": false,
+    "respondida": false,
+    "status": "VÁLIDA"
+  },
+  {
+    "id": "dc-057",
+    "numero_original": 57,
+    "ordem_exibicao": 50,
+    "tipo": "verdadeiro_falso",
+    "artigo": "Teoria e controle de constitucionalidade",
+    "pergunta": "A distinção clássica entre constituição material e formal, no Direito Constitucional contemporâneo defendido por José Afonso da Silva, ganhou ainda mais relevância prática, pois os fins econômicos e sociais do Estado não integram os elementos essenciais da constituição.",
+    "opcoes": [
+      "Verdadeiro",
+      "Falso"
+    ],
+    "correta": "F",
+    "comentario": "Falsa. A inclusão de matérias econômicas e sociais nas constituições contemporâneas reduziu a utilidade prática da separação rígida entre constituição material e formal.",
+    "anulada": false,
+    "respondida": false,
+    "status": "VÁLIDA"
+  },
+  {
+    "id": "dc-058",
+    "numero_original": 58,
+    "ordem_exibicao": 51,
+    "tipo": "verdadeiro_falso",
+    "artigo": "Teoria e controle de constitucionalidade",
+    "pergunta": "Sob a ótica da supremacia constitucional, a supremacia formal apoia-se estritamente na regra da rigidez da norma, gerando a distinção jurídica entre leis ordinárias e leis constitucionais, enquanto a supremacia material pode existir até em constituições flexíveis.",
+    "opcoes": [
+      "Verdadeiro",
+      "Falso"
+    ],
+    "correta": "V",
+    "comentario": "Verdadeira. A supremacia formal depende da rigidez constitucional, enquanto a supremacia material pode existir mesmo em constituições flexíveis.",
+    "anulada": false,
+    "respondida": false,
+    "status": "VÁLIDA"
+  },
+  {
+    "id": "dc-059",
+    "numero_original": 59,
+    "ordem_exibicao": 52,
+    "tipo": "verdadeiro_falso",
+    "artigo": "Teoria e controle de constitucionalidade",
+    "pergunta": "No tocante à inconstitucionalidade por ação, o aspecto formal manifesta-se quando o próprio conteúdo da lei afronta um preceito constitucional, ao passo que o aspecto material liga-se à incompetência da autoridade ou ao descumprimento de rito procedimental.",
+    "opcoes": [
+      "Verdadeiro",
+      "Falso"
+    ],
+    "correta": "F",
+    "comentario": "Falsa. A inconstitucionalidade material decorre do conteúdo incompatível com a Constituição; a formal decorre de vício de competência ou procedimento.",
+    "anulada": false,
+    "respondida": false,
+    "status": "VÁLIDA"
+  },
+  {
+    "id": "dc-064",
+    "numero_original": 64,
+    "ordem_exibicao": 53,
+    "tipo": "verdadeiro_falso",
+    "artigo": "Democracia, propriedade e remédios constitucionais",
+    "pergunta": "A Constituição Imperial de 1824 adotou a divisão quadripartida do poder, na qual o Poder Moderador, exercido exclusivamente pelo Imperador, funcionava como a chave do regime, permitindo a intervenção nos demais poderes.",
+    "opcoes": [
+      "Verdadeiro",
+      "Falso"
+    ],
+    "correta": "V",
+    "comentario": "Verdadeira. A Constituição de 1824 adotou quatro poderes, incluindo o Poder Moderador exercido pelo Imperador.",
+    "anulada": false,
+    "respondida": false,
+    "status": "VÁLIDA"
+  },
+  {
+    "id": "dc-066",
+    "numero_original": 66,
+    "ordem_exibicao": 54,
+    "tipo": "verdadeiro_falso",
+    "artigo": "Democracia, propriedade e remédios constitucionais",
+    "pergunta": "De acordo com a doutrina exposta, a função social da propriedade não atua como uma mera limitação externa ao direito de propriedade, mas sim como um princípio ordenador interno que transforma a sua própria estrutura jurídica.",
+    "opcoes": [
+      "Verdadeiro",
+      "Falso"
+    ],
+    "correta": "V",
+    "comentario": "Verdadeira. A função social integra a própria estrutura do direito de propriedade e condiciona seu exercício.",
+    "anulada": false,
+    "respondida": false,
+    "status": "VÁLIDA"
+  },
+  {
+    "id": "dc-067",
+    "numero_original": 67,
+    "ordem_exibicao": 55,
+    "tipo": "verdadeiro_falso",
+    "artigo": "Democracia, propriedade e remédios constitucionais",
+    "pergunta": "Na fundamentação jurídica do Tema 280 do STF, estabeleceu-se que a validade da busca domiciliar sem mandado em crimes permanentes não é testada pelo que se encontrou depois (validação pelo resultado), mas sim pelo que a polícia sabia antes de entrar.",
+    "opcoes": [
+      "Verdadeiro",
+      "Falso"
+    ],
+    "correta": "V",
+    "comentario": "Verdadeira. A legalidade do ingresso é avaliada pelas informações e fundadas razões existentes antes da entrada, e não pelo resultado obtido depois.",
+    "anulada": false,
+    "respondida": false,
+    "status": "VÁLIDA"
+  },
+  {
+    "id": "dc-070",
+    "numero_original": 70,
+    "ordem_exibicao": 56,
+    "tipo": "verdadeiro_falso",
+    "artigo": "Militares estaduais",
+    "pergunta": "Nos termos das normas aplicáveis aos militares estaduais do Paraná, o oficial da PM só perderá o posto e a patente se for julgado indigno do oficialato ou com ele incompatível por decisão do tribunal competente, sendo que a condenação na justiça comum à pena privativa de liberdade superior a 2 anos, por sentença transitada em julgado, exige a submissão a esse julgamento.",
+    "opcoes": [
+      "Verdadeiro",
+      "Falso"
+    ],
+    "correta": "V",
+    "comentario": "Verdadeira. Aplicam-se aos militares estaduais as regras segundo as quais a perda do posto e da patente depende de julgamento pelo tribunal competente, inclusive após condenação definitiva superior a dois anos.",
+    "anulada": false,
+    "respondida": false,
+    "status": "VÁLIDA"
+  },
+  {
+    "id": "dc-027",
+    "numero_original": 27,
+    "ordem_exibicao": 57,
+    "tipo": "verdadeiro_falso",
+    "artigo": "Teoria da Constituição",
+    "pergunta": "Na concepção sociológica de Ferdinand Lassalle, a constituição escrita de um país não passa de uma \"folha de papel\" se não corresponder aos fatores reais de poder que regem a sociedade.",
+    "opcoes": [
+      "Verdadeiro",
+      "Falso"
+    ],
+    "correta": "V",
+    "comentario": "Verdadeira. Para Lassalle, a constituição escrita perde efetividade quando não corresponde aos fatores reais de poder existentes na sociedade.",
+    "anulada": true,
+    "respondida": true,
+    "status": "ANULADA E RESPONDIDA"
+  },
+  {
+    "id": "dc-028",
+    "numero_original": 28,
+    "ordem_exibicao": 58,
+    "tipo": "verdadeiro_falso",
+    "artigo": "Teoria da Constituição",
+    "pergunta": "Para Carl Schmitt, em sua concepção política, a Constituição propriamente dita confunde-se integralmente com as Leis Constitucionais, possuindo todas os mesmos valores e matérias.",
+    "opcoes": [
+      "Verdadeiro",
+      "Falso"
+    ],
+    "correta": "F",
+    "comentario": "Falsa. Carl Schmitt distingue a Constituição, formada por decisões políticas fundamentais, das leis constitucionais, que podem tratar de matérias sem essa natureza.",
+    "anulada": true,
+    "respondida": true,
+    "status": "ANULADA E RESPONDIDA"
+  },
+  {
+    "id": "dc-033",
+    "numero_original": 33,
+    "ordem_exibicao": 59,
+    "tipo": "verdadeiro_falso",
+    "artigo": "Controle de constitucionalidade",
+    "pergunta": "O sistema de controle de constitucionalidade adotado de forma generalizada no constitucionalismo contemporâneo mundial é o Político, em que as leis são controladas exclusivamente por comitês legislativos.",
+    "opcoes": [
+      "Verdadeiro",
+      "Falso"
+    ],
+    "correta": "F",
+    "comentario": "Falsa. O modelo jurisdicional de controle de constitucionalidade é amplamente adotado; o controle exclusivamente político não é o sistema generalizado.",
+    "anulada": true,
+    "respondida": true,
+    "status": "ANULADA E RESPONDIDA"
+  },
+  {
+    "id": "dc-035",
+    "numero_original": 35,
+    "ordem_exibicao": 60,
+    "tipo": "verdadeiro_falso",
+    "artigo": "Controle de constitucionalidade",
+    "pergunta": "A Constituição Brasileira de 1934 introduziu inovações cruciais, tais como a cláusula de barreira do Plenário e a competência do Senado Federal para suspender a execução de lei declarada inconstitucional.",
+    "opcoes": [
+      "Verdadeiro",
+      "Falso"
+    ],
+    "correta": "V",
+    "comentario": "Verdadeira. A Constituição de 1934 previu a exigência de maioria absoluta do tribunal e atribuiu ao Senado competência para suspender a execução de norma declarada inconstitucional.",
+    "anulada": true,
+    "respondida": true,
+    "status": "ANULADA E RESPONDIDA"
+  },
+  {
+    "id": "dc-040",
+    "numero_original": 40,
+    "ordem_exibicao": 61,
+    "tipo": "verdadeiro_falso",
+    "artigo": "História e princípios constitucionais",
+    "pergunta": "Na evolução político-constitucional brasileira, a Constituição de 1934 representou o marco da transição do Estado liberal puro para o Estado social e intervencionista, inspirando-se na Constituição de Weimar.",
+    "opcoes": [
+      "Verdadeiro",
+      "Falso"
+    ],
+    "correta": "V",
+    "comentario": "Verdadeira. A Constituição de 1934 incorporou direitos sociais e maior intervenção estatal, sob influência do constitucionalismo social e da Constituição de Weimar.",
+    "anulada": true,
+    "respondida": true,
+    "status": "ANULADA E RESPONDIDA"
+  },
+  {
+    "id": "dc-041",
+    "numero_original": 41,
+    "ordem_exibicao": 62,
+    "tipo": "verdadeiro_falso",
+    "artigo": "História e princípios constitucionais",
+    "pergunta": "Durante o Estado Novo, sob a égide da Carta de 1937 outorgada por Getúlio Vargas, o Parlamento funcionava com total independência, e o Executivo foi severamente limitado.",
+    "opcoes": [
+      "Verdadeiro",
+      "Falso"
+    ],
+    "correta": "F",
+    "comentario": "Falsa. A Carta de 1937 concentrou poderes no Executivo, restringiu o Parlamento e marcou o caráter autoritário do Estado Novo.",
+    "anulada": true,
+    "respondida": true,
+    "status": "ANULADA E RESPONDIDA"
+  },
+  {
+    "id": "dc-056",
+    "numero_original": 56,
+    "ordem_exibicao": 63,
+    "tipo": "verdadeiro_falso",
+    "artigo": "Teoria e controle de constitucionalidade",
+    "pergunta": "Na concepção jurídica de Hans Kelsen, a constituição é dividida em dois sentidos: o lógico-jurídico, que se refere à norma fundamental hipotética; e o jurídico-positivo, que representa a norma positiva suprema reguladora da criação de outras normas.",
+    "opcoes": [
+      "Verdadeiro",
+      "Falso"
+    ],
+    "correta": "V",
+    "comentario": "Verdadeira. Em Kelsen, o sentido lógico-jurídico corresponde à norma fundamental hipotética, e o jurídico-positivo à Constituição positiva suprema.",
+    "anulada": true,
+    "respondida": true,
+    "status": "ANULADA E RESPONDIDA"
+  },
+  {
+    "id": "dc-060",
+    "numero_original": 60,
+    "ordem_exibicao": 64,
+    "tipo": "verdadeiro_falso",
+    "artigo": "Teoria e controle de constitucionalidade",
+    "pergunta": "José Afonso da Silva tece críticas às consequências da inconstitucionalidade por omissão no texto brasileiro por entender que ela foi tímida, já que a decretação apenas dá ciência ao Legislativo para legislar, preservando sua discricionariedade política.",
+    "opcoes": [
+      "Verdadeiro",
+      "Falso"
+    ],
+    "correta": "V",
+    "comentario": "Verdadeira. A crítica aponta que a mera ciência ao Legislativo, preservando sua liberdade política, pode ser insuficiente para superar a omissão.",
+    "anulada": true,
+    "respondida": true,
+    "status": "ANULADA E RESPONDIDA"
+  },
+  {
+    "id": "dc-061",
+    "numero_original": 61,
+    "ordem_exibicao": 65,
+    "tipo": "verdadeiro_falso",
+    "artigo": "Teoria e controle de constitucionalidade",
+    "pergunta": "O sistema brasileiro de controle de constitucionalidade é qualificado como eclético ou híbrido porque combina historicamente as matrizes do critério difuso e do concentrado, utilizando tanto a via de exceção quanto a via de ação direta.",
+    "opcoes": [
+      "Verdadeiro",
+      "Falso"
+    ],
+    "correta": "V",
+    "comentario": "Verdadeira. O Brasil combina controle difuso e concentrado, por via incidental e por ações de controle abstrato.",
+    "anulada": true,
+    "respondida": true,
+    "status": "ANULADA E RESPONDIDA"
+  },
+  {
+    "id": "dc-062",
+    "numero_original": 62,
+    "ordem_exibicao": 66,
+    "tipo": "verdadeiro_falso",
+    "artigo": "Teoria e controle de constitucionalidade",
+    "pergunta": "Na evolução do controle concentrado no Brasil, a Emenda Constitucional nº 16/1965 (sob a CF de 1946) criou a representação de inconstitucionalidade de caráter genérico, cuja legitimação para propositura competia exclusivamente ao Advogado-Geral da União.",
+    "opcoes": [
+      "Verdadeiro",
+      "Falso"
+    ],
+    "correta": "F",
+    "comentario": "Falsa. A EC nº 16/1965 atribuiu a legitimidade da representação de inconstitucionalidade ao Procurador-Geral da República, não ao Advogado-Geral da União.",
+    "anulada": true,
+    "respondida": true,
+    "status": "ANULADA E RESPONDIDA"
+  },
+  {
+    "id": "dc-063",
+    "numero_original": 63,
+    "ordem_exibicao": 67,
+    "tipo": "verdadeiro_falso",
+    "artigo": "Teoria e controle de constitucionalidade",
+    "pergunta": "As normas constitucionais classificadas como elementos \"sócio-ideológicos\" são aquelas destinadas a assegurar a defesa da própria Constituição e das instituições, a exemplo da intervenção federal e do processo de emendas.",
+    "opcoes": [
+      "Verdadeiro",
+      "Falso"
+    ],
+    "correta": "F",
+    "comentario": "Falsa. Elementos sócio-ideológicos revelam o compromisso entre Estado liberal e Estado social; a defesa da Constituição integra os elementos de estabilização constitucional.",
+    "anulada": true,
+    "respondida": true,
+    "status": "ANULADA E RESPONDIDA"
+  },
+  {
+    "id": "dc-065",
+    "numero_original": 65,
+    "ordem_exibicao": 68,
+    "tipo": "verdadeiro_falso",
+    "artigo": "Democracia, propriedade e remédios constitucionais",
+    "pergunta": "No modelo de democracia participativa e pluralista da CF/88, a iniciativa popular permite a apresentação de projetos de lei pelo eleitorado, desde que obedecido o quórum de, no mínimo, 5% dos eleitores a nível nacional.",
+    "opcoes": [
+      "Verdadeiro",
+      "Falso"
+    ],
+    "correta": "F",
+    "comentario": "Falsa. A iniciativa popular federal exige assinatura de, no mínimo, 1% do eleitorado nacional, distribuído por pelo menos cinco Estados, com 0,3% dos eleitores de cada um.",
+    "anulada": true,
+    "respondida": true,
+    "status": "ANULADA E RESPONDIDA"
+  },
+  {
+    "id": "dc-068",
+    "numero_original": 68,
+    "ordem_exibicao": 69,
+    "tipo": "verdadeiro_falso",
+    "artigo": "Democracia, propriedade e remédios constitucionais",
+    "pergunta": "O Mandado de Injunção possui suas raízes históricas ligadas ao juízo de equidade da equity inglesa, operando como uma garantia constitucional especial de caráter instrumental.",
+    "opcoes": [
+      "Verdadeiro",
+      "Falso"
+    ],
+    "correta": "V",
+    "comentario": "Verdadeira. O mandado de injunção é associado historicamente aos instrumentos de equidade do direito inglês e atua como garantia contra omissões normativas.",
+    "anulada": true,
+    "respondida": true,
+    "status": "ANULADA E RESPONDIDA"
+  },
+  {
+    "id": "dc-069",
+    "numero_original": 69,
+    "ordem_exibicao": 70,
+    "tipo": "verdadeiro_falso",
+    "artigo": "Democracia, propriedade e remédios constitucionais",
+    "pergunta": "No processamento da Ação Declaratória de Constitucionalidade (ADC) perante o STF, a figura do Advogado-Geral da União atua obrigatoriamente como defensor/curador do texto legal questionado, dispensando-se a oitiva do Procurador-Geral da República.",
+    "opcoes": [
+      "Verdadeiro",
+      "Falso"
+    ],
+    "correta": "F",
+    "comentario": "Falsa. Na ADC, o Procurador-Geral da República deve ser ouvido; não há atuação obrigatória do Advogado-Geral da União como curador da norma nos termos afirmados.",
+    "anulada": true,
+    "respondida": true,
+    "status": "ANULADA E RESPONDIDA"
+  }
+]
