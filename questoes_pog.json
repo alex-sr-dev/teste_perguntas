@@ -1,0 +1,3845 @@
+[
+  {
+    "id": "pog-001",
+    "numero_original": 1,
+    "topico_numero": 1,
+    "topico": "Necessidades na Assunção de Serviço",
+    "tipo": "verdadeiro_falso",
+    "artigo": "Preparação",
+    "pergunta": "A assunção do serviço inicia-se apenas quando a equipe deixa o quartel, sendo dispensáveis briefing, conferência da escala e verificação dos equipamentos.",
+    "comentario": "Resposta correta: Falso. A preparação começa antes do patrulhamento, com ciência da missão, escala, setor, ordens, ocorrências relevantes, equipamentos e condições da viatura.",
+    "palavras_chave": [
+      "assunção",
+      "briefing",
+      "conferência"
+    ],
+    "nivel": "médio",
+    "anulada": false,
+    "ativa": true,
+    "respondida": false,
+    "status": "ATIVA",
+    "fonte": "Resumo POG 1 V.A; Diretriz de Emprego Operacional da PMPR nº 016/2024-PM/3; princípios de proatividade, foco, integração, legitimidade social e proporcionalidade.",
+    "opcoes": [
+      "Verdadeiro",
+      "Falso"
+    ],
+    "correta": "Falso"
+  },
+  {
+    "id": "pog-002",
+    "numero_original": 2,
+    "topico_numero": 1,
+    "topico": "Necessidades na Assunção de Serviço",
+    "tipo": "verdadeiro_falso",
+    "artigo": "Conferência",
+    "pergunta": "Defeitos em rádio, sinalização, armamento, equipamentos de proteção ou viatura devem ser comunicados e registrados antes do emprego operacional.",
+    "comentario": "Resposta correta: Verdadeiro. Registrar a alteração permite correção, responsabilização adequada e evita emprego de recurso inseguro.",
+    "palavras_chave": [
+      "defeito",
+      "comunicar",
+      "registrar"
+    ],
+    "nivel": "médio",
+    "anulada": false,
+    "ativa": true,
+    "respondida": false,
+    "status": "ATIVA",
+    "fonte": "Princípios gerais de policiamento ostensivo, segurança da equipe, comunicação, proporcionalidade e observância dos POPs e ordens internas vigentes.",
+    "opcoes": [
+      "Verdadeiro",
+      "Falso"
+    ],
+    "correta": "Verdadeiro"
+  },
+  {
+    "id": "pog-003",
+    "numero_original": 3,
+    "topico_numero": 1,
+    "topico": "Necessidades na Assunção de Serviço",
+    "tipo": "verdadeiro_falso",
+    "artigo": "Condição pessoal",
+    "pergunta": "O policial deve avaliar sua condição física e mental e comunicar situação que comprometa a segurança da equipe ou da população.",
+    "comentario": "Resposta correta: Verdadeiro. A aptidão para o serviço integra a segurança operacional.",
+    "palavras_chave": [
+      "condição física",
+      "condição mental",
+      "segurança"
+    ],
+    "nivel": "médio",
+    "anulada": false,
+    "ativa": true,
+    "respondida": false,
+    "status": "ATIVA",
+    "fonte": "Princípios gerais de policiamento ostensivo, segurança da equipe, comunicação, proporcionalidade e observância dos POPs e ordens internas vigentes.",
+    "opcoes": [
+      "Verdadeiro",
+      "Falso"
+    ],
+    "correta": "Verdadeiro"
+  },
+  {
+    "id": "pog-004",
+    "numero_original": 4,
+    "topico_numero": 1,
+    "topico": "Necessidades na Assunção de Serviço",
+    "tipo": "verdadeiro_falso",
+    "artigo": "Passagem de serviço",
+    "pergunta": "Ocorrências pendentes, pontos sensíveis e alterações da viatura não precisam ser transmitidos à equipe que assume, pois pertencem ao turno anterior.",
+    "comentario": "Resposta correta: Falso. A continuidade operacional exige passagem de serviço completa.",
+    "palavras_chave": [
+      "passagem",
+      "pendências",
+      "continuidade"
+    ],
+    "nivel": "médio",
+    "anulada": false,
+    "ativa": true,
+    "respondida": false,
+    "status": "ATIVA",
+    "fonte": "Princípios gerais de policiamento ostensivo, segurança da equipe, comunicação, proporcionalidade e observância dos POPs e ordens internas vigentes.",
+    "opcoes": [
+      "Verdadeiro",
+      "Falso"
+    ],
+    "correta": "Falso"
+  },
+  {
+    "id": "pog-005",
+    "numero_original": 5,
+    "topico_numero": 1,
+    "topico": "Necessidades na Assunção de Serviço",
+    "tipo": "multipla_escolha",
+    "artigo": "Assunção",
+    "pergunta": "Qual providência deve ser priorizada antes do patrulhamento motorizado?",
+    "comentario": "Resposta correta: Confirmar missão, setor, equipe, rádio, equipamentos e viatura. A assunção segura combina informação, planejamento e verificação dos meios.",
+    "palavras_chave": [
+      "missão",
+      "equipe",
+      "rádio",
+      "viatura"
+    ],
+    "nivel": "médio",
+    "anulada": false,
+    "ativa": true,
+    "respondida": false,
+    "status": "ATIVA",
+    "fonte": "Resumo POG 1 V.A; Diretriz de Emprego Operacional da PMPR nº 016/2024-PM/3; princípios de proatividade, foco, integração, legitimidade social e proporcionalidade.",
+    "opcoes": [
+      "Sair imediatamente e conferir depois.",
+      "Confirmar missão, setor, equipe, rádio, equipamentos e viatura.",
+      "Alterar o cartão-programa sem comunicar.",
+      "Usar material particular não autorizado.",
+      "Ignorar ordens e patrulhar aleatoriamente."
+    ],
+    "correta": "Confirmar missão, setor, equipe, rádio, equipamentos e viatura."
+  },
+  {
+    "id": "pog-006",
+    "numero_original": 6,
+    "topico_numero": 1,
+    "topico": "Necessidades na Assunção de Serviço",
+    "tipo": "multipla_escolha",
+    "artigo": "Registro de alteração",
+    "pergunta": "A equipe identifica pneu inseguro e falha no sistema luminoso. A conduta adequada é:",
+    "comentario": "Resposta correta: Comunicar, registrar e aguardar solução ou substituição. O registro prévio protege a equipe, a Administração e os usuários.",
+    "palavras_chave": [
+      "falha",
+      "registro",
+      "substituição"
+    ],
+    "nivel": "médio",
+    "anulada": false,
+    "ativa": true,
+    "respondida": false,
+    "status": "ATIVA",
+    "fonte": "Princípios gerais de policiamento ostensivo, segurança da equipe, comunicação, proporcionalidade e observância dos POPs e ordens internas vigentes.",
+    "opcoes": [
+      "Assumir e comunicar no fim.",
+      "Ocultar o defeito.",
+      "Comunicar, registrar e aguardar solução ou substituição.",
+      "Usar apenas em alta velocidade.",
+      "Transferir informalmente a responsabilidade."
+    ],
+    "correta": "Comunicar, registrar e aguardar solução ou substituição."
+  },
+  {
+    "id": "pog-007",
+    "numero_original": 7,
+    "topico_numero": 1,
+    "topico": "Necessidades na Assunção de Serviço",
+    "tipo": "multipla_escolha",
+    "artigo": "Briefing",
+    "pergunta": "O briefing deve fornecer, entre outros elementos:",
+    "comentario": "Resposta correta: Missões, áreas críticas, procurados, pendências e ordens. O briefing reduz improvisação e orienta o patrulhamento.",
+    "palavras_chave": [
+      "áreas críticas",
+      "procurados",
+      "ordens"
+    ],
+    "nivel": "médio",
+    "anulada": false,
+    "ativa": true,
+    "respondida": false,
+    "status": "ATIVA",
+    "fonte": "Resumo POG 1 V.A; Diretriz de Emprego Operacional da PMPR nº 016/2024-PM/3; princípios de proatividade, foco, integração, legitimidade social e proporcionalidade.",
+    "opcoes": [
+      "Somente o término do turno.",
+      "Apenas dados administrativos.",
+      "Missões, áreas críticas, procurados, pendências e ordens.",
+      "Informação sigilosa a terceiros.",
+      "Autorização para descumprir o CTB."
+    ],
+    "correta": "Missões, áreas críticas, procurados, pendências e ordens."
+  },
+  {
+    "id": "pog-008",
+    "numero_original": 8,
+    "topico_numero": 1,
+    "topico": "Necessidades na Assunção de Serviço",
+    "tipo": "multipla_escolha",
+    "artigo": "Cartão-programa",
+    "pergunta": "No POG, o cartão-programa representa:",
+    "comentario": "Resposta correta: Representação do posto, itinerários, horários e missões. É ordem específica de policiamento ostensivo.",
+    "palavras_chave": [
+      "cartão-programa",
+      "itinerário",
+      "missão"
+    ],
+    "nivel": "médio",
+    "anulada": false,
+    "ativa": true,
+    "respondida": false,
+    "status": "ATIVA",
+    "fonte": "Resumo POG 1 V.A; Diretriz de Emprego Operacional da PMPR nº 016/2024-PM/3; princípios de proatividade, foco, integração, legitimidade social e proporcionalidade.",
+    "opcoes": [
+      "Documento do motorista.",
+      "Representação do posto, itinerários, horários e missões.",
+      "Registro mecânico.",
+      "Autorização para abandonar o setor.",
+      "Lista disciplinar."
+    ],
+    "correta": "Representação do posto, itinerários, horários e missões."
+  },
+  {
+    "id": "pog-009",
+    "numero_original": 9,
+    "topico_numero": 1,
+    "topico": "Necessidades na Assunção de Serviço",
+    "tipo": "relacionar",
+    "artigo": "Preparação",
+    "pergunta": "Associe cada verificação realizada na assunção do serviço ao objetivo operacional que ela pretende alcançar. Preencha a Coluna B com o número correspondente da Coluna A.",
+    "comentario": "Gabarito da Coluna B: 1, 2, 3, 4, 5. Cada conferência reduz um risco específico.",
+    "palavras_chave": [
+      "briefing",
+      "viatura",
+      "comunicação",
+      "passagem",
+      "equipamento"
+    ],
+    "nivel": "difícil",
+    "anulada": false,
+    "ativa": true,
+    "respondida": false,
+    "status": "ATIVA",
+    "fonte": "Princípios gerais de policiamento ostensivo, segurança da equipe, comunicação, proporcionalidade e observância dos POPs e ordens internas vigentes.",
+    "coluna_a": [
+      "Briefing",
+      "Conferência da viatura",
+      "Teste de comunicação",
+      "Passagem de serviço",
+      "Inspeção de equipamentos"
+    ],
+    "coluna_b": [
+      "Conhecer ordens, riscos e prioridades",
+      "Identificar falhas mecânicas e de sinalização",
+      "Confirmar contato com a central",
+      "Receber pendências e alterações anteriores",
+      "Verificar material individual e coletivo"
+    ],
+    "correta": "1, 2, 3, 4, 5"
+  },
+  {
+    "id": "pog-010",
+    "numero_original": 10,
+    "topico_numero": 1,
+    "topico": "Necessidades na Assunção de Serviço",
+    "tipo": "relacionar",
+    "artigo": "Alterações",
+    "pergunta": "Diante das alterações constatadas antes da saída para o patrulhamento, vincule cada problema à providência inicial tecnicamente adequada. Indique na Coluna B o número da Coluna A.",
+    "comentario": "Gabarito da Coluna B: 1, 2, 3, 4, 5. Alterações não devem ser ocultadas.",
+    "palavras_chave": [
+      "alteração",
+      "comunicação",
+      "registro"
+    ],
+    "nivel": "difícil",
+    "anulada": false,
+    "ativa": true,
+    "respondida": false,
+    "status": "ATIVA",
+    "fonte": "Princípios gerais de policiamento ostensivo, segurança da equipe, comunicação, proporcionalidade e observância dos POPs e ordens internas vigentes.",
+    "coluna_a": [
+      "Rádio inoperante",
+      "EPI ausente",
+      "Falha mecânica",
+      "Divergência na carga",
+      "Informação crítica do setor"
+    ],
+    "coluna_b": [
+      "Providenciar comunicação confiável",
+      "Regularizar antes da exposição ao risco",
+      "Registrar e substituir conforme orientação",
+      "Conferir e comunicar imediatamente",
+      "Compartilhar e ajustar o planejamento"
+    ],
+    "correta": "1, 2, 3, 4, 5"
+  },
+  {
+    "id": "pog-011",
+    "numero_original": 11,
+    "topico_numero": 2,
+    "topico": "Técnicas de Policiamento e Patrulhamento",
+    "tipo": "verdadeiro_falso",
+    "artigo": "Princípio do foco",
+    "pergunta": "O patrulhamento eficiente deve ser totalmente aleatório, pois dados sobre pontos críticos não devem influenciar o emprego.",
+    "comentario": "Resposta correta: Falso. O foco recomenda emprego orientado por dados, problemas e áreas críticas.",
+    "palavras_chave": [
+      "foco",
+      "dados",
+      "hotspots"
+    ],
+    "nivel": "médio",
+    "anulada": false,
+    "ativa": true,
+    "respondida": false,
+    "status": "ATIVA",
+    "fonte": "Resumo POG 1 V.A; Diretriz de Emprego Operacional da PMPR nº 016/2024-PM/3; princípios de proatividade, foco, integração, legitimidade social e proporcionalidade.",
+    "opcoes": [
+      "Verdadeiro",
+      "Falso"
+    ],
+    "correta": "Falso"
+  },
+  {
+    "id": "pog-012",
+    "numero_original": 12,
+    "topico_numero": 2,
+    "topico": "Técnicas de Policiamento e Patrulhamento",
+    "tipo": "verdadeiro_falso",
+    "artigo": "Modalidade",
+    "pergunta": "Patrulhamento é modalidade caracterizada pelo deslocamento móvel e constante de observação no posto.",
+    "comentario": "Resposta correta: Verdadeiro. Diferencia-se da permanência, escolta e diligência.",
+    "palavras_chave": [
+      "patrulhamento",
+      "deslocamento",
+      "observação"
+    ],
+    "nivel": "médio",
+    "anulada": false,
+    "ativa": true,
+    "respondida": false,
+    "status": "ATIVA",
+    "fonte": "Resumo POG 1 V.A; Diretriz de Emprego Operacional da PMPR nº 016/2024-PM/3; princípios de proatividade, foco, integração, legitimidade social e proporcionalidade.",
+    "opcoes": [
+      "Verdadeiro",
+      "Falso"
+    ],
+    "correta": "Verdadeiro"
+  },
+  {
+    "id": "pog-013",
+    "numero_original": 13,
+    "topico_numero": 2,
+    "topico": "Técnicas de Policiamento e Patrulhamento",
+    "tipo": "verdadeiro_falso",
+    "artigo": "Legitimidade",
+    "pergunta": "Uma atuação tecnicamente eficaz pode perder legitimidade quando executada com arbitrariedade, desrespeito ou força desproporcional.",
+    "comentario": "Resposta correta: Verdadeiro. Legalidade, justiça procedimental e proporcionalidade influenciam a confiança.",
+    "palavras_chave": [
+      "legitimidade",
+      "respeito",
+      "proporcionalidade"
+    ],
+    "nivel": "médio",
+    "anulada": false,
+    "ativa": true,
+    "respondida": false,
+    "status": "ATIVA",
+    "fonte": "Resumo POG 1 V.A; Diretriz de Emprego Operacional da PMPR nº 016/2024-PM/3; princípios de proatividade, foco, integração, legitimidade social e proporcionalidade.",
+    "opcoes": [
+      "Verdadeiro",
+      "Falso"
+    ],
+    "correta": "Verdadeiro"
+  },
+  {
+    "id": "pog-014",
+    "numero_original": 14,
+    "topico_numero": 2,
+    "topico": "Técnicas de Policiamento e Patrulhamento",
+    "tipo": "verdadeiro_falso",
+    "artigo": "Observação",
+    "pergunta": "Todos os integrantes podem concentrar a atenção no mesmo ponto, pois a segurança periférica é exclusiva do motorista.",
+    "comentario": "Resposta correta: Falso. A equipe deve distribuir setores de observação e manter consciência situacional.",
+    "palavras_chave": [
+      "observação",
+      "setores",
+      "consciência situacional"
+    ],
+    "nivel": "médio",
+    "anulada": false,
+    "ativa": true,
+    "respondida": false,
+    "status": "ATIVA",
+    "fonte": "Princípios gerais de policiamento ostensivo, segurança da equipe, comunicação, proporcionalidade e observância dos POPs e ordens internas vigentes.",
+    "opcoes": [
+      "Verdadeiro",
+      "Falso"
+    ],
+    "correta": "Falso"
+  },
+  {
+    "id": "pog-015",
+    "numero_original": 15,
+    "topico_numero": 2,
+    "topico": "Técnicas de Policiamento e Patrulhamento",
+    "tipo": "multipla_escolha",
+    "artigo": "Matriz de variáveis",
+    "pergunta": "A classificação a pé, motorizado, montado, aéreo, embarcado ou bicicleta corresponde à variável:",
+    "comentario": "Resposta correta: Processo. Processo é o meio de locomoção.",
+    "palavras_chave": [
+      "processo",
+      "locomoção"
+    ],
+    "nivel": "médio",
+    "anulada": false,
+    "ativa": true,
+    "respondida": false,
+    "status": "ATIVA",
+    "fonte": "Resumo POG 1 V.A; Diretriz de Emprego Operacional da PMPR nº 016/2024-PM/3; princípios de proatividade, foco, integração, legitimidade social e proporcionalidade.",
+    "opcoes": [
+      "Tipo.",
+      "Processo.",
+      "Modalidade.",
+      "Circunstância.",
+      "Duração."
+    ],
+    "correta": "Processo."
+  },
+  {
+    "id": "pog-016",
+    "numero_original": 16,
+    "topico_numero": 2,
+    "topico": "Técnicas de Policiamento e Patrulhamento",
+    "tipo": "multipla_escolha",
+    "artigo": "Modalidade",
+    "pergunta": "Equipe permanece em ponto crítico para aumentar visibilidade. A modalidade é:",
+    "comentario": "Resposta correta: Permanência. Permanência é atividade estática em ponto-base.",
+    "palavras_chave": [
+      "permanência",
+      "ponto-base"
+    ],
+    "nivel": "médio",
+    "anulada": false,
+    "ativa": true,
+    "respondida": false,
+    "status": "ATIVA",
+    "fonte": "Resumo POG 1 V.A; Diretriz de Emprego Operacional da PMPR nº 016/2024-PM/3; princípios de proatividade, foco, integração, legitimidade social e proporcionalidade.",
+    "opcoes": [
+      "Escolta.",
+      "Diligência.",
+      "Permanência.",
+      "Investigação.",
+      "Processo aéreo."
+    ],
+    "correta": "Permanência."
+  },
+  {
+    "id": "pog-017",
+    "numero_original": 17,
+    "topico_numero": 2,
+    "topico": "Técnicas de Policiamento e Patrulhamento",
+    "tipo": "multipla_escolha",
+    "artigo": "Foco",
+    "pergunta": "Identificada concentração de furtos em horários e locais específicos, a decisão coerente é:",
+    "comentario": "Resposta correta: Planejar presença nos períodos críticos e avaliar resultados. O foco direciona recursos sem abandonar o equilíbrio territorial.",
+    "palavras_chave": [
+      "hotspot",
+      "horário crítico",
+      "avaliação"
+    ],
+    "nivel": "médio",
+    "anulada": false,
+    "ativa": true,
+    "respondida": false,
+    "status": "ATIVA",
+    "fonte": "Resumo POG 1 V.A; Diretriz de Emprego Operacional da PMPR nº 016/2024-PM/3; princípios de proatividade, foco, integração, legitimidade social e proporcionalidade.",
+    "opcoes": [
+      "Ignorar dados.",
+      "Fixar todo o efetivo permanentemente.",
+      "Planejar presença nos períodos críticos e avaliar resultados.",
+      "Divulgar dados das vítimas.",
+      "Suspender os demais setores."
+    ],
+    "correta": "Planejar presença nos períodos críticos e avaliar resultados."
+  },
+  {
+    "id": "pog-018",
+    "numero_original": 18,
+    "topico_numero": 2,
+    "topico": "Técnicas de Policiamento e Patrulhamento",
+    "tipo": "multipla_escolha",
+    "artigo": "Proatividade",
+    "pergunta": "Qual ação melhor representa policiamento proativo?",
+    "comentario": "Resposta correta: Identificar o problema, articular serviços e prevenir. Proatividade atua antes da repetição e valoriza integração.",
+    "palavras_chave": [
+      "proatividade",
+      "resolução",
+      "integração"
+    ],
+    "nivel": "médio",
+    "anulada": false,
+    "ativa": true,
+    "respondida": false,
+    "status": "ATIVA",
+    "fonte": "Resumo POG 1 V.A; Diretriz de Emprego Operacional da PMPR nº 016/2024-PM/3; princípios de proatividade, foco, integração, legitimidade social e proporcionalidade.",
+    "opcoes": [
+      "Aguardar repetição.",
+      "Identificar o problema, articular serviços e prevenir.",
+      "Atuar só com ordem judicial.",
+      "Abordar indiscriminadamente.",
+      "Substituir todos os serviços públicos."
+    ],
+    "correta": "Identificar o problema, articular serviços e prevenir."
+  },
+  {
+    "id": "pog-019",
+    "numero_original": 19,
+    "topico_numero": 2,
+    "topico": "Técnicas de Policiamento e Patrulhamento",
+    "tipo": "relacionar",
+    "artigo": "Variáveis",
+    "pergunta": "Classifique os exemplos apresentados segundo as variáveis doutrinárias do policiamento ostensivo. Em cada descrição da Coluna B, registre o número correto da Coluna A.",
+    "comentario": "Gabarito da Coluna B: 1, 2, 3, 4, 5. Tipo indica escopo; processo, meio; modalidade, dinâmica; circunstância, previsibilidade; duração, tempo.",
+    "palavras_chave": [
+      "tipo",
+      "processo",
+      "modalidade",
+      "circunstância",
+      "duração"
+    ],
+    "nivel": "difícil",
+    "anulada": false,
+    "ativa": true,
+    "respondida": false,
+    "status": "ATIVA",
+    "fonte": "Resumo POG 1 V.A; Diretriz de Emprego Operacional da PMPR nº 016/2024-PM/3; princípios de proatividade, foco, integração, legitimidade social e proporcionalidade.",
+    "coluna_a": [
+      "Tipo",
+      "Processo",
+      "Modalidade",
+      "Circunstância",
+      "Duração"
+    ],
+    "coluna_b": [
+      "POG ou especializado",
+      "Meio de locomoção",
+      "Patrulhamento, permanência, escolta ou diligência",
+      "Ordinário, extraordinário ou especial",
+      "Jornada ou turno"
+    ],
+    "correta": "1, 2, 3, 4, 5"
+  },
+  {
+    "id": "pog-020",
+    "numero_original": 20,
+    "topico_numero": 2,
+    "topico": "Técnicas de Policiamento e Patrulhamento",
+    "tipo": "relacionar",
+    "artigo": "Princípios",
+    "pergunta": "Associe os cinco princípios do policiamento ostensivo às respectivas formas de aplicação prática. Use, na Coluna B, a numeração indicada na Coluna A.",
+    "comentario": "Gabarito da Coluna B: 1, 2, 3, 4, 5. Os cinco princípios devem ser combinados.",
+    "palavras_chave": [
+      "proatividade",
+      "foco",
+      "integração",
+      "legitimidade",
+      "proporcionalidade"
+    ],
+    "nivel": "difícil",
+    "anulada": false,
+    "ativa": true,
+    "respondida": false,
+    "status": "ATIVA",
+    "fonte": "Resumo POG 1 V.A; Diretriz de Emprego Operacional da PMPR nº 016/2024-PM/3; princípios de proatividade, foco, integração, legitimidade social e proporcionalidade.",
+    "coluna_a": [
+      "Proatividade",
+      "Foco",
+      "Integração",
+      "Legitimidade social",
+      "Proporcionalidade"
+    ],
+    "coluna_b": [
+      "Agir preventivamente",
+      "Empregar dados e concentração criminal",
+      "Coordenar com outros órgãos",
+      "Atuar de modo justo e transparente",
+      "Usar medida adequada, necessária e equilibrada"
+    ],
+    "correta": "1, 2, 3, 4, 5"
+  },
+  {
+    "id": "pog-021",
+    "numero_original": 21,
+    "topico_numero": 3,
+    "topico": "Sinalização e Posicionamento da Viatura",
+    "tipo": "verdadeiro_falso",
+    "artigo": "CTB — urgência",
+    "pergunta": "Alarme sonoro e iluminação intermitente podem ser usados durante todo o turno, mesmo sem serviço de urgência.",
+    "comentario": "Resposta correta: Falso. O CTB restringe o uso à efetiva prestação de serviço de urgência.",
+    "palavras_chave": [
+      "alarme",
+      "luz intermitente",
+      "urgência"
+    ],
+    "nivel": "médio",
+    "anulada": false,
+    "ativa": true,
+    "respondida": false,
+    "status": "ATIVA",
+    "fonte": "Código de Trânsito Brasileiro — Lei nº 9.503/1997, especialmente art. 29, VII; procedimentos institucionais de segurança viária.",
+    "opcoes": [
+      "Verdadeiro",
+      "Falso"
+    ],
+    "correta": "Falso"
+  },
+  {
+    "id": "pog-022",
+    "numero_original": 22,
+    "topico_numero": 3,
+    "topico": "Sinalização e Posicionamento da Viatura",
+    "tipo": "verdadeiro_falso",
+    "artigo": "Proteção",
+    "pergunta": "O posicionamento deve considerar proteção, visibilidade e redução do risco de nova colisão.",
+    "comentario": "Resposta correta: Verdadeiro. A viatura não deve criar perigo adicional.",
+    "palavras_chave": [
+      "proteção",
+      "visibilidade",
+      "colisão secundária"
+    ],
+    "nivel": "médio",
+    "anulada": false,
+    "ativa": true,
+    "respondida": false,
+    "status": "ATIVA",
+    "fonte": "Código de Trânsito Brasileiro — Lei nº 9.503/1997, especialmente art. 29, VII; procedimentos institucionais de segurança viária.",
+    "opcoes": [
+      "Verdadeiro",
+      "Falso"
+    ],
+    "correta": "Verdadeiro"
+  },
+  {
+    "id": "pog-023",
+    "numero_original": 23,
+    "topico_numero": 3,
+    "topico": "Sinalização e Posicionamento da Viatura",
+    "tipo": "verdadeiro_falso",
+    "artigo": "Acesso",
+    "pergunta": "A sinalização deve evitar bloquear desnecessariamente rotas de ambulâncias, bombeiros e apoio.",
+    "comentario": "Resposta correta: Verdadeiro. Proteção e corredor de emergência devem coexistir.",
+    "palavras_chave": [
+      "corredor",
+      "apoio",
+      "acesso"
+    ],
+    "nivel": "médio",
+    "anulada": false,
+    "ativa": true,
+    "respondida": false,
+    "status": "ATIVA",
+    "fonte": "Princípios gerais de policiamento ostensivo, segurança da equipe, comunicação, proporcionalidade e observância dos POPs e ordens internas vigentes.",
+    "opcoes": [
+      "Verdadeiro",
+      "Falso"
+    ],
+    "correta": "Verdadeiro"
+  },
+  {
+    "id": "pog-024",
+    "numero_original": 24,
+    "topico_numero": 3,
+    "topico": "Sinalização e Posicionamento da Viatura",
+    "tipo": "verdadeiro_falso",
+    "artigo": "Posição",
+    "pergunta": "Existe posição única e obrigatória da viatura para qualquer ocorrência, independentemente da via e do risco.",
+    "comentario": "Resposta correta: Falso. A posição depende de fluxo, luminosidade, geometria, natureza e POP.",
+    "palavras_chave": [
+      "posição",
+      "avaliação",
+      "cenário"
+    ],
+    "nivel": "médio",
+    "anulada": false,
+    "ativa": true,
+    "respondida": false,
+    "status": "ATIVA",
+    "fonte": "Princípios gerais de policiamento ostensivo, segurança da equipe, comunicação, proporcionalidade e observância dos POPs e ordens internas vigentes.",
+    "opcoes": [
+      "Verdadeiro",
+      "Falso"
+    ],
+    "correta": "Falso"
+  },
+  {
+    "id": "pog-025",
+    "numero_original": 25,
+    "topico_numero": 3,
+    "topico": "Sinalização e Posicionamento da Viatura",
+    "tipo": "multipla_escolha",
+    "artigo": "CTB",
+    "pergunta": "A prioridade de passagem em urgência depende, em regra, de:",
+    "comentario": "Resposta correta: Dispositivos regulamentares acionados e condução prudente. A prioridade não elimina o dever de prudência.",
+    "palavras_chave": [
+      "prioridade",
+      "dispositivos",
+      "prudência"
+    ],
+    "nivel": "médio",
+    "anulada": false,
+    "ativa": true,
+    "respondida": false,
+    "status": "ATIVA",
+    "fonte": "Código de Trânsito Brasileiro — Lei nº 9.503/1997, especialmente art. 29, VII; procedimentos institucionais de segurança viária.",
+    "opcoes": [
+      "Somente pintura.",
+      "Dispositivos regulamentares acionados e condução prudente.",
+      "Velocidade irrestrita.",
+      "Autorização de pedestre.",
+      "Uso obrigatório do acostamento."
+    ],
+    "correta": "Dispositivos regulamentares acionados e condução prudente."
+  },
+  {
+    "id": "pog-026",
+    "numero_original": 26,
+    "topico_numero": 3,
+    "topico": "Sinalização e Posicionamento da Viatura",
+    "tipo": "multipla_escolha",
+    "artigo": "Cena viária",
+    "pergunta": "Em sinistro noturno, qual medida reduz colisão secundária?",
+    "comentario": "Resposta correta: Posicionar e sinalizar de forma visível e controlar aproximação. A advertência deve anteceder o perigo.",
+    "palavras_chave": [
+      "sinistro",
+      "advertência",
+      "colisão"
+    ],
+    "nivel": "médio",
+    "anulada": false,
+    "ativa": true,
+    "respondida": false,
+    "status": "ATIVA",
+    "fonte": "Código de Trânsito Brasileiro — Lei nº 9.503/1997, especialmente art. 29, VII; procedimentos institucionais de segurança viária.",
+    "opcoes": [
+      "Apagar luzes.",
+      "Parar em curva sem avaliação.",
+      "Posicionar e sinalizar de forma visível e controlar aproximação.",
+      "Manter policiais na faixa.",
+      "Permitir trânsito sobre vestígios."
+    ],
+    "correta": "Posicionar e sinalizar de forma visível e controlar aproximação."
+  },
+  {
+    "id": "pog-027",
+    "numero_original": 27,
+    "topico_numero": 3,
+    "topico": "Sinalização e Posicionamento da Viatura",
+    "tipo": "multipla_escolha",
+    "artigo": "Posicionamento",
+    "pergunta": "Ao escolher a parada, a equipe deve priorizar:",
+    "comentario": "Resposta correta: Proteção, observação e saída segura, sem bloqueio excessivo. Proteção, observação e mobilidade devem ser avaliadas juntas.",
+    "palavras_chave": [
+      "observação",
+      "proteção",
+      "saída"
+    ],
+    "nivel": "médio",
+    "anulada": false,
+    "ativa": true,
+    "respondida": false,
+    "status": "ATIVA",
+    "fonte": "Princípios gerais de policiamento ostensivo, segurança da equipe, comunicação, proporcionalidade e observância dos POPs e ordens internas vigentes.",
+    "opcoes": [
+      "Proximidade máxima a qualquer custo.",
+      "Proteção, observação e saída segura, sem bloqueio excessivo.",
+      "Melhor ângulo para fotos.",
+      "Menor visibilidade.",
+      "Abandono na faixa."
+    ],
+    "correta": "Proteção, observação e saída segura, sem bloqueio excessivo."
+  },
+  {
+    "id": "pog-028",
+    "numero_original": 28,
+    "topico_numero": 3,
+    "topico": "Sinalização e Posicionamento da Viatura",
+    "tipo": "multipla_escolha",
+    "artigo": "Sinalização progressiva",
+    "pergunta": "Ocorrência após curva exige:",
+    "comentario": "Resposta correta: Advertir com antecedência compatível com o risco e velocidade. A antecipação permite reação segura.",
+    "palavras_chave": [
+      "curva",
+      "antecedência",
+      "advertência"
+    ],
+    "nivel": "médio",
+    "anulada": false,
+    "ativa": true,
+    "respondida": false,
+    "status": "ATIVA",
+    "fonte": "Código de Trânsito Brasileiro — Lei nº 9.503/1997, especialmente art. 29, VII; procedimentos institucionais de segurança viária.",
+    "opcoes": [
+      "Sinalizar apenas junto à viatura.",
+      "Advertir com antecedência compatível com o risco e velocidade.",
+      "Dispensar sinalização.",
+      "Usar pessoa no centro da pista.",
+      "Sinalizar só ao final."
+    ],
+    "correta": "Advertir com antecedência compatível com o risco e velocidade."
+  },
+  {
+    "id": "pog-029",
+    "numero_original": 29,
+    "topico_numero": 3,
+    "topico": "Sinalização e Posicionamento da Viatura",
+    "tipo": "relacionar",
+    "artigo": "Objetivos",
+    "pergunta": "Vincule cada finalidade do posicionamento da viatura à medida de sinalização ou proteção que melhor a concretiza. Complete a Coluna B com os números da Coluna A.",
+    "comentario": "Gabarito da Coluna B: 1, 2, 3, 4, 5. Uma cena segura combina todos os objetivos.",
+    "palavras_chave": [
+      "advertência",
+      "proteção",
+      "canalização",
+      "acesso",
+      "mobilidade"
+    ],
+    "nivel": "difícil",
+    "anulada": false,
+    "ativa": true,
+    "respondida": false,
+    "status": "ATIVA",
+    "fonte": "Princípios gerais de policiamento ostensivo, segurança da equipe, comunicação, proporcionalidade e observância dos POPs e ordens internas vigentes.",
+    "coluna_a": [
+      "Advertência",
+      "Proteção",
+      "Canalização",
+      "Acesso",
+      "Mobilidade"
+    ],
+    "coluna_b": [
+      "Tornar o perigo perceptível",
+      "Criar área de segurança",
+      "Orientar o fluxo",
+      "Manter passagem de emergência",
+      "Permitir reposicionamento"
+    ],
+    "correta": "1, 2, 3, 4, 5"
+  },
+  {
+    "id": "pog-030",
+    "numero_original": 30,
+    "topico_numero": 3,
+    "topico": "Sinalização e Posicionamento da Viatura",
+    "tipo": "relacionar",
+    "artigo": "Fatores",
+    "pergunta": "Considere os fatores ambientais e operacionais que influenciam a parada da viatura. Associe cada fator à decisão correspondente, numerando a Coluna B conforme a Coluna A.",
+    "comentario": "Gabarito da Coluna B: 1, 2, 3, 4, 5. O ambiente determina o posicionamento.",
+    "palavras_chave": [
+      "luminosidade",
+      "velocidade",
+      "geometria",
+      "vestígio"
+    ],
+    "nivel": "difícil",
+    "anulada": false,
+    "ativa": true,
+    "respondida": false,
+    "status": "ATIVA",
+    "fonte": "Princípios gerais de policiamento ostensivo, segurança da equipe, comunicação, proporcionalidade e observância dos POPs e ordens internas vigentes.",
+    "coluna_a": [
+      "Luminosidade",
+      "Velocidade",
+      "Geometria",
+      "Natureza da ocorrência",
+      "Vestígios"
+    ],
+    "coluna_b": [
+      "Reforçar visibilidade",
+      "Ampliar antecipação",
+      "Considerar curvas e cruzamentos",
+      "Definir proteção e recursos",
+      "Isolar e evitar manipulação"
+    ],
+    "correta": "1, 2, 3, 4, 5"
+  },
+  {
+    "id": "pog-031",
+    "numero_original": 31,
+    "topico_numero": 4,
+    "topico": "Procedimentos em Acompanhamentos Táticos e Cerco Policial",
+    "tipo": "verdadeiro_falso",
+    "artigo": "Avaliação de risco",
+    "pergunta": "O acompanhamento deve continuar obrigatoriamente até a captura, mesmo quando o risco à população se torna manifestamente desproporcional.",
+    "comentario": "Resposta correta: Falso. A decisão é dinâmica e considera gravidade, necessidade, via, fluxo, clima, identificação e ordens vigentes.",
+    "palavras_chave": [
+      "risco-benefício",
+      "proporcionalidade",
+      "reavaliação"
+    ],
+    "nivel": "médio",
+    "anulada": false,
+    "ativa": true,
+    "respondida": false,
+    "status": "ATIVA",
+    "fonte": "Princípios gerais de policiamento ostensivo, segurança da equipe, comunicação, proporcionalidade e observância dos POPs e ordens internas vigentes.",
+    "opcoes": [
+      "Verdadeiro",
+      "Falso"
+    ],
+    "correta": "Falso"
+  },
+  {
+    "id": "pog-032",
+    "numero_original": 32,
+    "topico_numero": 4,
+    "topico": "Procedimentos em Acompanhamentos Táticos e Cerco Policial",
+    "tipo": "verdadeiro_falso",
+    "artigo": "Comunicação",
+    "pergunta": "Durante o acompanhamento, a equipe deve transmitir localização, sentido, características e riscos relevantes.",
+    "comentario": "Resposta correta: Verdadeiro. Informação atualizada permite coordenação e apoio.",
+    "palavras_chave": [
+      "localização",
+      "sentido",
+      "características"
+    ],
+    "nivel": "médio",
+    "anulada": false,
+    "ativa": true,
+    "respondida": false,
+    "status": "ATIVA",
+    "fonte": "Princípios gerais de policiamento ostensivo, segurança da equipe, comunicação, proporcionalidade e observância dos POPs e ordens internas vigentes.",
+    "opcoes": [
+      "Verdadeiro",
+      "Falso"
+    ],
+    "correta": "Verdadeiro"
+  },
+  {
+    "id": "pog-033",
+    "numero_original": 33,
+    "topico_numero": 4,
+    "topico": "Procedimentos em Acompanhamentos Táticos e Cerco Policial",
+    "tipo": "verdadeiro_falso",
+    "artigo": "Apoio",
+    "pergunta": "Viaturas de apoio devem disputar posição com a equipe principal para se aproximarem do veículo acompanhado.",
+    "comentario": "Resposta correta: Falso. A atuação competitiva aumenta riscos; o apoio deve cumprir funções coordenadas.",
+    "palavras_chave": [
+      "apoio",
+      "coordenação",
+      "não competir"
+    ],
+    "nivel": "médio",
+    "anulada": false,
+    "ativa": true,
+    "respondida": false,
+    "status": "ATIVA",
+    "fonte": "Princípios gerais de policiamento ostensivo, segurança da equipe, comunicação, proporcionalidade e observância dos POPs e ordens internas vigentes.",
+    "opcoes": [
+      "Verdadeiro",
+      "Falso"
+    ],
+    "correta": "Falso"
+  },
+  {
+    "id": "pog-034",
+    "numero_original": 34,
+    "topico_numero": 4,
+    "topico": "Procedimentos em Acompanhamentos Táticos e Cerco Policial",
+    "tipo": "verdadeiro_falso",
+    "artigo": "Cerco",
+    "pergunta": "O cerco busca conter deslocamentos e exige setores, comunicação e controle para evitar entradas descoordenadas e fogo cruzado.",
+    "comentario": "Resposta correta: Verdadeiro. A contenção organizada é mais segura que aproximações simultâneas sem comando.",
+    "palavras_chave": [
+      "contenção",
+      "setores",
+      "fogo cruzado"
+    ],
+    "nivel": "médio",
+    "anulada": false,
+    "ativa": true,
+    "respondida": false,
+    "status": "ATIVA",
+    "fonte": "Princípios gerais de policiamento ostensivo, segurança da equipe, comunicação, proporcionalidade e observância dos POPs e ordens internas vigentes.",
+    "opcoes": [
+      "Verdadeiro",
+      "Falso"
+    ],
+    "correta": "Verdadeiro"
+  },
+  {
+    "id": "pog-035",
+    "numero_original": 35,
+    "topico_numero": 4,
+    "topico": "Procedimentos em Acompanhamentos Táticos e Cerco Policial",
+    "tipo": "multipla_escolha",
+    "artigo": "Acompanhamento",
+    "pergunta": "Quais fatores devem ser reavaliados durante o acompanhamento?",
+    "comentario": "Resposta correta: Gravidade, risco coletivo, fluxo, clima, via, identificação e alternativas. A continuidade depende de análise permanente.",
+    "palavras_chave": [
+      "gravidade",
+      "trânsito",
+      "alternativa"
+    ],
+    "nivel": "médio",
+    "anulada": false,
+    "ativa": true,
+    "respondida": false,
+    "status": "ATIVA",
+    "fonte": "Princípios gerais de policiamento ostensivo, segurança da equipe, comunicação, proporcionalidade e observância dos POPs e ordens internas vigentes.",
+    "opcoes": [
+      "Somente a velocidade policial.",
+      "Gravidade, risco coletivo, fluxo, clima, via, identificação e alternativas.",
+      "Só o tempo do turno.",
+      "Apenas a distância.",
+      "Repercussão em redes sociais."
+    ],
+    "correta": "Gravidade, risco coletivo, fluxo, clima, via, identificação e alternativas."
+  },
+  {
+    "id": "pog-036",
+    "numero_original": 36,
+    "topico_numero": 4,
+    "topico": "Procedimentos em Acompanhamentos Táticos e Cerco Policial",
+    "tipo": "multipla_escolha",
+    "artigo": "Rádio",
+    "pergunta": "Qual comunicação é mais útil ao apoio?",
+    "comentario": "Resposta correta: Via, sentido, referências, veículo, ocupantes e riscos. A mensagem deve ser curta, atual e operacional.",
+    "palavras_chave": [
+      "via",
+      "sentido",
+      "ocupantes",
+      "risco"
+    ],
+    "nivel": "médio",
+    "anulada": false,
+    "ativa": true,
+    "respondida": false,
+    "status": "ATIVA",
+    "fonte": "Princípios gerais de policiamento ostensivo, segurança da equipe, comunicação, proporcionalidade e observância dos POPs e ordens internas vigentes.",
+    "opcoes": [
+      "Relato longo sem localização.",
+      "Via, sentido, referências, veículo, ocupantes e riscos.",
+      "Comentários pessoais.",
+      "Silêncio.",
+      "Somente placa não confirmada."
+    ],
+    "correta": "Via, sentido, referências, veículo, ocupantes e riscos."
+  },
+  {
+    "id": "pog-037",
+    "numero_original": 37,
+    "topico_numero": 4,
+    "topico": "Procedimentos em Acompanhamentos Táticos e Cerco Policial",
+    "tipo": "multipla_escolha",
+    "artigo": "Cerco",
+    "pergunta": "Ao estabelecer cerco, a prioridade inicial é:",
+    "comentario": "Resposta correta: Definir comando, setores, limites, comunicação e áreas de risco. Organização reduz lacunas e risco entre equipes.",
+    "palavras_chave": [
+      "comando",
+      "setores",
+      "limites"
+    ],
+    "nivel": "médio",
+    "anulada": false,
+    "ativa": true,
+    "respondida": false,
+    "status": "ATIVA",
+    "fonte": "Princípios gerais de policiamento ostensivo, segurança da equipe, comunicação, proporcionalidade e observância dos POPs e ordens internas vigentes.",
+    "opcoes": [
+      "Entrada simultânea.",
+      "Definir comando, setores, limites, comunicação e áreas de risco.",
+      "Abandonar isolamento.",
+      "Reunir todas as viaturas.",
+      "Permitir curiosos."
+    ],
+    "correta": "Definir comando, setores, limites, comunicação e áreas de risco."
+  },
+  {
+    "id": "pog-038",
+    "numero_original": 38,
+    "topico_numero": 4,
+    "topico": "Procedimentos em Acompanhamentos Táticos e Cerco Policial",
+    "tipo": "multipla_escolha",
+    "artigo": "Interrupção",
+    "pergunta": "Interromper acompanhamento porque o risco supera o benefício significa:",
+    "comentario": "Resposta correta: Aplicar proporcionalidade e usar identificação, inteligência ou diligências posteriores. A captura pode prosseguir por outras estratégias.",
+    "palavras_chave": [
+      "interrupção",
+      "proporcionalidade",
+      "estratégia"
+    ],
+    "nivel": "médio",
+    "anulada": false,
+    "ativa": true,
+    "respondida": false,
+    "status": "ATIVA",
+    "fonte": "Princípios gerais de policiamento ostensivo, segurança da equipe, comunicação, proporcionalidade e observância dos POPs e ordens internas vigentes.",
+    "opcoes": [
+      "Renunciar à responsabilização.",
+      "Aplicar proporcionalidade e usar identificação, inteligência ou diligências posteriores.",
+      "Apagar registros.",
+      "Liberar formalmente o suspeito.",
+      "Impedir apoio."
+    ],
+    "correta": "Aplicar proporcionalidade e usar identificação, inteligência ou diligências posteriores."
+  },
+  {
+    "id": "pog-039",
+    "numero_original": 39,
+    "topico_numero": 4,
+    "topico": "Procedimentos em Acompanhamentos Táticos e Cerco Policial",
+    "tipo": "relacionar",
+    "artigo": "Funções",
+    "pergunta": "Em um acompanhamento tático coordenado, associe cada componente operacional à responsabilidade que lhe cabe. Informe, na Coluna B, os números da Coluna A.",
+    "comentario": "Gabarito da Coluna B: 1, 2, 3, 4, 5. A divisão evita duplicidade e improvisação.",
+    "palavras_chave": [
+      "principal",
+      "apoio",
+      "central",
+      "comando",
+      "contenção"
+    ],
+    "nivel": "difícil",
+    "anulada": false,
+    "ativa": true,
+    "respondida": false,
+    "status": "ATIVA",
+    "fonte": "Princípios gerais de policiamento ostensivo, segurança da equipe, comunicação, proporcionalidade e observância dos POPs e ordens internas vigentes.",
+    "coluna_a": [
+      "Equipe principal",
+      "Equipe de apoio",
+      "Central",
+      "Comando no terreno",
+      "Contenção"
+    ],
+    "coluna_b": [
+      "Manter contato e atualizar",
+      "Apoiar sem competir",
+      "Difundir e coordenar recursos",
+      "Organizar decisões e setores",
+      "Limitar deslocamentos no ponto designado"
+    ],
+    "correta": "1, 2, 3, 4, 5"
+  },
+  {
+    "id": "pog-040",
+    "numero_original": 40,
+    "topico_numero": 4,
+    "topico": "Procedimentos em Acompanhamentos Táticos e Cerco Policial",
+    "tipo": "relacionar",
+    "artigo": "Fases",
+    "pergunta": "Ordene conceitualmente as fases de um acompanhamento e de sua eventual transição para cerco, relacionando cada momento à providência adequada. Numere a Coluna B conforme a Coluna A.",
+    "comentario": "Gabarito da Coluna B: 1, 2, 3, 4, 5. O procedimento deve ser continuamente reavaliado e documentado.",
+    "palavras_chave": [
+      "início",
+      "reavaliação",
+      "cerco",
+      "registro"
+    ],
+    "nivel": "difícil",
+    "anulada": false,
+    "ativa": true,
+    "respondida": false,
+    "status": "ATIVA",
+    "fonte": "Princípios gerais de policiamento ostensivo, segurança da equipe, comunicação, proporcionalidade e observância dos POPs e ordens internas vigentes.",
+    "coluna_a": [
+      "Início",
+      "Desenvolvimento",
+      "Apoio",
+      "Transição para cerco",
+      "Encerramento"
+    ],
+    "coluna_b": [
+      "Confirmar motivo e comunicar",
+      "Reavaliar riscos",
+      "Distribuir funções",
+      "Definir setores e limites",
+      "Registrar decisões e resultado"
+    ],
+    "correta": "1, 2, 3, 4, 5"
+  },
+  {
+    "id": "pog-041",
+    "numero_original": 41,
+    "topico_numero": 5,
+    "topico": "Apoio a Oficial de Justiça em Cumprimento de Mandado Judicial",
+    "tipo": "verdadeiro_falso",
+    "artigo": "CPC — força policial",
+    "pergunta": "No apoio, a polícia assume automaticamente a direção do ato e pode ampliar o conteúdo do mandado.",
+    "comentario": "Resposta correta: Falso. O Oficial de Justiça cumpre o mandado; a polícia presta segurança e preserva a ordem dentro da legalidade.",
+    "palavras_chave": [
+      "oficial de justiça",
+      "apoio",
+      "limites"
+    ],
+    "nivel": "médio",
+    "anulada": false,
+    "ativa": true,
+    "respondida": false,
+    "status": "ATIVA",
+    "fonte": "Código de Processo Civil — Lei nº 13.105/2015; cumprimento de mandado judicial e requisição de força policial.",
+    "opcoes": [
+      "Verdadeiro",
+      "Falso"
+    ],
+    "correta": "Falso"
+  },
+  {
+    "id": "pog-042",
+    "numero_original": 42,
+    "topico_numero": 5,
+    "topico": "Apoio a Oficial de Justiça em Cumprimento de Mandado Judicial",
+    "tipo": "verdadeiro_falso",
+    "artigo": "Planejamento",
+    "pergunta": "Antes da diligência, é adequado confirmar identidade, conteúdo, alcance, local, envolvidos e riscos.",
+    "comentario": "Resposta correta: Verdadeiro. O planejamento evita atuação fora do objeto judicial.",
+    "palavras_chave": [
+      "mandado",
+      "risco",
+      "planejamento"
+    ],
+    "nivel": "médio",
+    "anulada": false,
+    "ativa": true,
+    "respondida": false,
+    "status": "ATIVA",
+    "fonte": "Código de Processo Civil — Lei nº 13.105/2015; cumprimento de mandado judicial e requisição de força policial.",
+    "opcoes": [
+      "Verdadeiro",
+      "Falso"
+    ],
+    "correta": "Verdadeiro"
+  },
+  {
+    "id": "pog-043",
+    "numero_original": 43,
+    "topico_numero": 5,
+    "topico": "Apoio a Oficial de Justiça em Cumprimento de Mandado Judicial",
+    "tipo": "verdadeiro_falso",
+    "artigo": "Flagrante",
+    "pergunta": "Se surgir flagrante durante o cumprimento, a equipe permanece impedida de agir porque estava apenas em apoio civil.",
+    "comentario": "Resposta correta: Falso. O flagrante gera dever de atuação conforme a lei.",
+    "palavras_chave": [
+      "flagrante",
+      "dever de agir",
+      "apoio"
+    ],
+    "nivel": "médio",
+    "anulada": false,
+    "ativa": true,
+    "respondida": false,
+    "status": "ATIVA",
+    "fonte": "Código de Processo Civil — Lei nº 13.105/2015; cumprimento de mandado judicial e requisição de força policial.",
+    "opcoes": [
+      "Verdadeiro",
+      "Falso"
+    ],
+    "correta": "Falso"
+  },
+  {
+    "id": "pog-044",
+    "numero_original": 44,
+    "topico_numero": 5,
+    "topico": "Apoio a Oficial de Justiça em Cumprimento de Mandado Judicial",
+    "tipo": "verdadeiro_falso",
+    "artigo": "Uso da força",
+    "pergunta": "A requisição de apoio autoriza força ilimitada e dispensa registro de danos, resistência ou prisão.",
+    "comentario": "Resposta correta: Falso. A força deve ser legal, necessária, proporcional e documentada.",
+    "palavras_chave": [
+      "força",
+      "proporcionalidade",
+      "registro"
+    ],
+    "nivel": "médio",
+    "anulada": false,
+    "ativa": true,
+    "respondida": false,
+    "status": "ATIVA",
+    "fonte": "Código de Processo Civil — Lei nº 13.105/2015; cumprimento de mandado judicial e requisição de força policial.",
+    "opcoes": [
+      "Verdadeiro",
+      "Falso"
+    ],
+    "correta": "Falso"
+  },
+  {
+    "id": "pog-045",
+    "numero_original": 45,
+    "topico_numero": 5,
+    "topico": "Apoio a Oficial de Justiça em Cumprimento de Mandado Judicial",
+    "tipo": "multipla_escolha",
+    "artigo": "Divisão de funções",
+    "pergunta": "Qual divisão é adequada?",
+    "comentario": "Resposta correta: Oficial conduz o ato e polícia garante segurança. A função policial é de apoio, sem usurpar atribuição judicial.",
+    "palavras_chave": [
+      "divisão",
+      "ato judicial",
+      "segurança"
+    ],
+    "nivel": "médio",
+    "anulada": false,
+    "ativa": true,
+    "respondida": false,
+    "status": "ATIVA",
+    "fonte": "Código de Processo Civil — Lei nº 13.105/2015; cumprimento de mandado judicial e requisição de força policial.",
+    "opcoes": [
+      "Polícia altera o mandado.",
+      "Oficial conduz o ato e polícia garante segurança.",
+      "Destinatário escolhe o alcance.",
+      "Polícia apreende sem Oficial.",
+      "Todos executam juntos."
+    ],
+    "correta": "Oficial conduz o ato e polícia garante segurança."
+  },
+  {
+    "id": "pog-046",
+    "numero_original": 46,
+    "topico_numero": 5,
+    "topico": "Apoio a Oficial de Justiça em Cumprimento de Mandado Judicial",
+    "tipo": "multipla_escolha",
+    "artigo": "Entrada forçada",
+    "pergunta": "Diante de resistência à entrada, a equipe deve:",
+    "comentario": "Resposta correta: Confirmar o alcance da ordem e agir dentro da autorização legal. Medidas invasivas exigem fundamento e proporcionalidade.",
+    "palavras_chave": [
+      "entrada",
+      "autorização",
+      "proporcionalidade"
+    ],
+    "nivel": "médio",
+    "anulada": false,
+    "ativa": true,
+    "respondida": false,
+    "status": "ATIVA",
+    "fonte": "Código de Processo Civil — Lei nº 13.105/2015; cumprimento de mandado judicial e requisição de força policial.",
+    "opcoes": [
+      "Arrombar sem verificar.",
+      "Confirmar o alcance da ordem e agir dentro da autorização legal.",
+      "Encerrar sempre.",
+      "Sair sem registrar.",
+      "Permitir arrombamento por terceiros."
+    ],
+    "correta": "Confirmar o alcance da ordem e agir dentro da autorização legal."
+  },
+  {
+    "id": "pog-047",
+    "numero_original": 47,
+    "topico_numero": 5,
+    "topico": "Apoio a Oficial de Justiça em Cumprimento de Mandado Judicial",
+    "tipo": "multipla_escolha",
+    "artigo": "Discordância",
+    "pergunta": "Se o destinatário apenas discorda verbalmente, sem violência ou ameaça, a equipe deve:",
+    "comentario": "Resposta correta: Diferenciar inconformismo de crime e manter controle. Oposição verbal não equivale automaticamente a resistência penal.",
+    "palavras_chave": [
+      "discordância",
+      "resistência",
+      "diferenciação"
+    ],
+    "nivel": "médio",
+    "anulada": false,
+    "ativa": true,
+    "respondida": false,
+    "status": "ATIVA",
+    "fonte": "Código de Processo Civil — Lei nº 13.105/2015; cumprimento de mandado judicial e requisição de força policial.",
+    "opcoes": [
+      "Tratá-lo automaticamente como resistente.",
+      "Diferenciar inconformismo de crime e manter controle.",
+      "Usar força como primeira medida.",
+      "Impedir diálogo.",
+      "Apreender bens pessoais."
+    ],
+    "correta": "Diferenciar inconformismo de crime e manter controle."
+  },
+  {
+    "id": "pog-048",
+    "numero_original": 48,
+    "topico_numero": 5,
+    "topico": "Apoio a Oficial de Justiça em Cumprimento de Mandado Judicial",
+    "tipo": "multipla_escolha",
+    "artigo": "Documentação",
+    "pergunta": "Diligência termina com dano e prisão em flagrante. O registro deve:",
+    "comentario": "Resposta correta: Descrever ordem, apoio, resistência, medidas, danos e responsáveis. Registro policial e certidão judicial são complementares.",
+    "palavras_chave": [
+      "registro",
+      "dano",
+      "medidas"
+    ],
+    "nivel": "médio",
+    "anulada": false,
+    "ativa": true,
+    "respondida": false,
+    "status": "ATIVA",
+    "fonte": "Código de Processo Civil — Lei nº 13.105/2015; cumprimento de mandado judicial e requisição de força policial.",
+    "opcoes": [
+      "Omitir o mandado.",
+      "Descrever ordem, apoio, resistência, medidas, danos e responsáveis.",
+      "Conter só opinião do destinatário.",
+      "Ser substituído pela certidão.",
+      "Excluir uso da força."
+    ],
+    "correta": "Descrever ordem, apoio, resistência, medidas, danos e responsáveis."
+  },
+  {
+    "id": "pog-049",
+    "numero_original": 49,
+    "topico_numero": 5,
+    "topico": "Apoio a Oficial de Justiça em Cumprimento de Mandado Judicial",
+    "tipo": "relacionar",
+    "artigo": "Participantes",
+    "pergunta": "No apoio ao cumprimento de mandado judicial, identifique a atribuição predominante de cada participante. Preencha as descrições da Coluna B com a numeração da Coluna A.",
+    "comentario": "Gabarito da Coluna B: 1, 2, 3, 4, 5. Cada participante possui atribuição própria.",
+    "palavras_chave": [
+      "juiz",
+      "oficial",
+      "polícia",
+      "destinatário",
+      "perito"
+    ],
+    "nivel": "difícil",
+    "anulada": false,
+    "ativa": true,
+    "respondida": false,
+    "status": "ATIVA",
+    "fonte": "Código de Processo Civil — Lei nº 13.105/2015; cumprimento de mandado judicial e requisição de força policial.",
+    "coluna_a": [
+      "Juiz",
+      "Oficial de Justiça",
+      "Equipe policial",
+      "Destinatário",
+      "Perito"
+    ],
+    "coluna_b": [
+      "Determina a medida",
+      "Cumpre e certifica",
+      "Garante segurança e atua em ilícitos",
+      "Recebe a ordem e exerce defesa legal",
+      "Executa avaliação técnica"
+    ],
+    "correta": "1, 2, 3, 4, 5"
+  },
+  {
+    "id": "pog-050",
+    "numero_original": 50,
+    "topico_numero": 5,
+    "topico": "Apoio a Oficial de Justiça em Cumprimento de Mandado Judicial",
+    "tipo": "relacionar",
+    "artigo": "Etapas",
+    "pergunta": "Associe cada momento da diligência judicial — da preparação ao encerramento — à providência policial compatível com o apoio solicitado. Use os números da Coluna A na Coluna B.",
+    "comentario": "Gabarito da Coluna B: 1, 2, 3, 4, 5. O apoio deve ser planejado e documentado.",
+    "palavras_chave": [
+      "preparação",
+      "cumprimento",
+      "intercorrência",
+      "registro"
+    ],
+    "nivel": "difícil",
+    "anulada": false,
+    "ativa": true,
+    "respondida": false,
+    "status": "ATIVA",
+    "fonte": "Código de Processo Civil — Lei nº 13.105/2015; cumprimento de mandado judicial e requisição de força policial.",
+    "coluna_a": [
+      "Preparação",
+      "Chegada",
+      "Cumprimento",
+      "Intercorrência",
+      "Encerramento"
+    ],
+    "coluna_b": [
+      "Confirmar ordem e riscos",
+      "Avaliar ambiente",
+      "Permitir condução do ato pelo Oficial",
+      "Responder a ameaça ou flagrante",
+      "Registrar e liberar com segurança"
+    ],
+    "correta": "1, 2, 3, 4, 5"
+  },
+  {
+    "id": "pog-051",
+    "numero_original": 51,
+    "topico_numero": 6,
+    "topico": "Ocorrência Envolvendo Animais Soltos",
+    "tipo": "verdadeiro_falso",
+    "artigo": "Segurança viária",
+    "pergunta": "Em animal de grande porte na via, a primeira preocupação é reduzir risco para pessoas, tráfego e o próprio animal.",
+    "comentario": "Resposta correta: Verdadeiro. A equipe deve sinalizar, controlar aproximação e acionar recursos.",
+    "palavras_chave": [
+      "animal",
+      "via",
+      "segurança"
+    ],
+    "nivel": "médio",
+    "anulada": false,
+    "ativa": true,
+    "respondida": false,
+    "status": "ATIVA",
+    "fonte": "Código Civil, art. 936; CTB; orientações oficiais de segurança viária e acionamento dos órgãos competentes.",
+    "opcoes": [
+      "Verdadeiro",
+      "Falso"
+    ],
+    "correta": "Verdadeiro"
+  },
+  {
+    "id": "pog-052",
+    "numero_original": 52,
+    "topico_numero": 6,
+    "topico": "Ocorrência Envolvendo Animais Soltos",
+    "tipo": "verdadeiro_falso",
+    "artigo": "Manejo",
+    "pergunta": "Policiais sem treinamento devem perseguir e encurralar imediatamente qualquer animal, mesmo aumentando sua agitação.",
+    "comentario": "Resposta correta: Falso. Manejo improvisado pode agravar o risco; deve-se manter distância e acionar equipe adequada.",
+    "palavras_chave": [
+      "não perseguir",
+      "distância",
+      "capacitada"
+    ],
+    "nivel": "médio",
+    "anulada": false,
+    "ativa": true,
+    "respondida": false,
+    "status": "ATIVA",
+    "fonte": "Código Civil, art. 936; CTB; orientações oficiais de segurança viária e acionamento dos órgãos competentes.",
+    "opcoes": [
+      "Verdadeiro",
+      "Falso"
+    ],
+    "correta": "Falso"
+  },
+  {
+    "id": "pog-053",
+    "numero_original": 53,
+    "topico_numero": 6,
+    "topico": "Ocorrência Envolvendo Animais Soltos",
+    "tipo": "verdadeiro_falso",
+    "artigo": "Responsabilidade civil",
+    "pergunta": "O dono ou detentor responde pelo dano causado pelo animal, salvo culpa da vítima ou força maior.",
+    "comentario": "Resposta correta: Verdadeiro. É a regra do art. 936 do Código Civil.",
+    "palavras_chave": [
+      "art. 936",
+      "dono",
+      "dano"
+    ],
+    "nivel": "médio",
+    "anulada": false,
+    "ativa": true,
+    "respondida": false,
+    "status": "ATIVA",
+    "fonte": "Código Civil, art. 936; CTB; orientações oficiais de segurança viária e acionamento dos órgãos competentes.",
+    "opcoes": [
+      "Verdadeiro",
+      "Falso"
+    ],
+    "correta": "Verdadeiro"
+  },
+  {
+    "id": "pog-054",
+    "numero_original": 54,
+    "topico_numero": 6,
+    "topico": "Ocorrência Envolvendo Animais Soltos",
+    "tipo": "verdadeiro_falso",
+    "artigo": "Proteção animal",
+    "pergunta": "A necessidade de liberar a via autoriza método desnecessariamente cruel contra o animal.",
+    "comentario": "Resposta correta: Falso. A intervenção deve proteger a vida e evitar sofrimento indevido.",
+    "palavras_chave": [
+      "maus-tratos",
+      "proporcionalidade",
+      "proteção"
+    ],
+    "nivel": "médio",
+    "anulada": false,
+    "ativa": true,
+    "respondida": false,
+    "status": "ATIVA",
+    "fonte": "Código Civil, art. 936; CTB; orientações oficiais de segurança viária e acionamento dos órgãos competentes.",
+    "opcoes": [
+      "Verdadeiro",
+      "Falso"
+    ],
+    "correta": "Falso"
+  },
+  {
+    "id": "pog-055",
+    "numero_original": 55,
+    "topico_numero": 6,
+    "topico": "Ocorrência Envolvendo Animais Soltos",
+    "tipo": "multipla_escolha",
+    "artigo": "Animal na pista",
+    "pergunta": "Ao localizar bovino solto em rodovia de baixa visibilidade, deve-se:",
+    "comentario": "Resposta correta: Sinalizar, reduzir fluxo, manter distância e acionar responsável e órgão competente. Sinalização e contenção do risco antecedem a remoção.",
+    "palavras_chave": [
+      "sinalizar",
+      "distância",
+      "acionar"
+    ],
+    "nivel": "médio",
+    "anulada": false,
+    "ativa": true,
+    "respondida": false,
+    "status": "ATIVA",
+    "fonte": "Código Civil, art. 936; CTB; orientações oficiais de segurança viária e acionamento dos órgãos competentes.",
+    "opcoes": [
+      "Buzinar e avançar.",
+      "Sinalizar, reduzir fluxo, manter distância e acionar responsável e órgão competente.",
+      "Abandonar o local.",
+      "Permitir curiosos.",
+      "Disparar para afastar."
+    ],
+    "correta": "Sinalizar, reduzir fluxo, manter distância e acionar responsável e órgão competente."
+  },
+  {
+    "id": "pog-056",
+    "numero_original": 56,
+    "topico_numero": 6,
+    "topico": "Ocorrência Envolvendo Animais Soltos",
+    "tipo": "multipla_escolha",
+    "artigo": "Responsável",
+    "pergunta": "Identificar o dono ou detentor é importante para:",
+    "comentario": "Resposta correta: Auxiliar retirada, registrar e apurar responsabilidade. A identificação integra a solução e o registro.",
+    "palavras_chave": [
+      "proprietário",
+      "retirada",
+      "responsabilidade"
+    ],
+    "nivel": "médio",
+    "anulada": false,
+    "ativa": true,
+    "respondida": false,
+    "status": "ATIVA",
+    "fonte": "Código Civil, art. 936; CTB; orientações oficiais de segurança viária e acionamento dos órgãos competentes.",
+    "opcoes": [
+      "Transferir automaticamente culpa penal.",
+      "Auxiliar retirada, registrar e apurar responsabilidade.",
+      "Dispensar sinalização.",
+      "Impedir veterinário.",
+      "Expor publicamente o dono."
+    ],
+    "correta": "Auxiliar retirada, registrar e apurar responsabilidade."
+  },
+  {
+    "id": "pog-057",
+    "numero_original": 57,
+    "topico_numero": 6,
+    "topico": "Ocorrência Envolvendo Animais Soltos",
+    "tipo": "multipla_escolha",
+    "artigo": "Animal ferido",
+    "pergunta": "Se o animal está ferido e oferece risco, deve-se:",
+    "comentario": "Resposta correta: Proteger a área e solicitar serviço veterinário, ambiental ou municipal. A polícia controla o risco e articula atendimento especializado.",
+    "palavras_chave": [
+      "ferido",
+      "veterinário",
+      "isolamento"
+    ],
+    "nivel": "médio",
+    "anulada": false,
+    "ativa": true,
+    "respondida": false,
+    "status": "ATIVA",
+    "fonte": "Código Civil, art. 936; CTB; orientações oficiais de segurança viária e acionamento dos órgãos competentes.",
+    "opcoes": [
+      "Arrastar sem avaliação.",
+      "Proteger a área e solicitar serviço veterinário, ambiental ou municipal.",
+      "Liberar o tráfego junto ao animal.",
+      "Permitir qualquer manipulação.",
+      "Ocultar do proprietário."
+    ],
+    "correta": "Proteger a área e solicitar serviço veterinário, ambiental ou municipal."
+  },
+  {
+    "id": "pog-058",
+    "numero_original": 58,
+    "topico_numero": 6,
+    "topico": "Ocorrência Envolvendo Animais Soltos",
+    "tipo": "multipla_escolha",
+    "artigo": "Registro",
+    "pergunta": "Qual informação é relevante?",
+    "comentario": "Resposta correta: Local, espécie, quantidade, riscos, danos, responsável e providências. O registro deve permitir reconstruir a ocorrência.",
+    "palavras_chave": [
+      "local",
+      "espécie",
+      "dano",
+      "providências"
+    ],
+    "nivel": "médio",
+    "anulada": false,
+    "ativa": true,
+    "respondida": false,
+    "status": "ATIVA",
+    "fonte": "Código Civil, art. 936; CTB; orientações oficiais de segurança viária e acionamento dos órgãos competentes.",
+    "opcoes": [
+      "Somente a cor da viatura.",
+      "Local, espécie, quantidade, riscos, danos, responsável e providências.",
+      "Opinião de curiosos.",
+      "Só o horário final.",
+      "Boatos sobre outros animais."
+    ],
+    "correta": "Local, espécie, quantidade, riscos, danos, responsável e providências."
+  },
+  {
+    "id": "pog-059",
+    "numero_original": 59,
+    "topico_numero": 6,
+    "topico": "Ocorrência Envolvendo Animais Soltos",
+    "tipo": "relacionar",
+    "artigo": "Riscos",
+    "pergunta": "Analise diferentes ocorrências envolvendo animais soltos e vincule cada situação à prioridade operacional correspondente. Registre na Coluna B o número adequado da Coluna A.",
+    "comentario": "Gabarito da Coluna B: 1, 2, 3, 4, 5. A resposta varia conforme espécie, risco e local.",
+    "palavras_chave": [
+      "trânsito",
+      "agressivo",
+      "ferido",
+      "silvestre",
+      "dano"
+    ],
+    "nivel": "difícil",
+    "anulada": false,
+    "ativa": true,
+    "respondida": false,
+    "status": "ATIVA",
+    "fonte": "Código Civil, art. 936; CTB; orientações oficiais de segurança viária e acionamento dos órgãos competentes.",
+    "coluna_a": [
+      "Animal em via",
+      "Animal agressivo",
+      "Animal ferido",
+      "Animal silvestre",
+      "Dano causado"
+    ],
+    "coluna_b": [
+      "Sinalizar e controlar tráfego",
+      "Isolar e requisitar manejo",
+      "Proteger e solicitar atendimento",
+      "Acionar órgão ambiental",
+      "Identificar envolvidos e registrar"
+    ],
+    "correta": "1, 2, 3, 4, 5"
+  },
+  {
+    "id": "pog-060",
+    "numero_original": 60,
+    "topico_numero": 6,
+    "topico": "Ocorrência Envolvendo Animais Soltos",
+    "tipo": "relacionar",
+    "artigo": "Ações",
+    "pergunta": "Relacione as ações possíveis em ocorrência com animais à finalidade de segurança, manejo ou documentação que cada uma atende. Complete a Coluna B segundo a Coluna A.",
+    "comentario": "Gabarito da Coluna B: 1, 2, 3, 4, 5. A equipe controla a emergência sem substituir profissionais de manejo.",
+    "palavras_chave": [
+      "sinalização",
+      "isolamento",
+      "identificação",
+      "acionamento",
+      "documentação"
+    ],
+    "nivel": "difícil",
+    "anulada": false,
+    "ativa": true,
+    "respondida": false,
+    "status": "ATIVA",
+    "fonte": "Código Civil, art. 936; CTB; orientações oficiais de segurança viária e acionamento dos órgãos competentes.",
+    "coluna_a": [
+      "Sinalização",
+      "Isolamento",
+      "Identificação",
+      "Acionamento especializado",
+      "Documentação"
+    ],
+    "coluna_b": [
+      "Advertir usuários",
+      "Evitar agravamento",
+      "Localizar dono e testemunhas",
+      "Permitir captura técnica",
+      "Registrar riscos e medidas"
+    ],
+    "correta": "1, 2, 3, 4, 5"
+  },
+  {
+    "id": "pog-061",
+    "numero_original": 61,
+    "topico_numero": 7,
+    "topico": "Ocorrência com CACs",
+    "tipo": "verdadeiro_falso",
+    "artigo": "Porte de trânsito",
+    "pergunta": "O porte de trânsito equivale a porte para defesa pessoal e permite condução ostensiva da arma carregada em qualquer deslocamento.",
+    "comentario": "Resposta correta: Falso. O porte de trânsito tem finalidade específica de transporte e exige observância das condições regulamentares.",
+    "palavras_chave": [
+      "porte de trânsito",
+      "não é defesa pessoal",
+      "desmuniciada"
+    ],
+    "nivel": "médio",
+    "anulada": false,
+    "ativa": true,
+    "respondida": false,
+    "status": "ATIVA",
+    "fonte": "Lei nº 10.826/2003; Decreto nº 11.615/2023, alterado pelo Decreto nº 12.345/2024.",
+    "opcoes": [
+      "Verdadeiro",
+      "Falso"
+    ],
+    "correta": "Falso"
+  },
+  {
+    "id": "pog-062",
+    "numero_original": 62,
+    "topico_numero": 7,
+    "topico": "Ocorrência com CACs",
+    "tipo": "verdadeiro_falso",
+    "artigo": "Fiscalização",
+    "pergunta": "A condição de CAC não torna toda arma automaticamente regular; documentos, registro, validade e compatibilidade devem ser verificados.",
+    "comentario": "Resposta correta: Verdadeiro. A análise deve ser concreta e documental.",
+    "palavras_chave": [
+      "CR",
+      "registro",
+      "validade"
+    ],
+    "nivel": "médio",
+    "anulada": false,
+    "ativa": true,
+    "respondida": false,
+    "status": "ATIVA",
+    "fonte": "Lei nº 10.826/2003; Decreto nº 11.615/2023, alterado pelo Decreto nº 12.345/2024.",
+    "opcoes": [
+      "Verdadeiro",
+      "Falso"
+    ],
+    "correta": "Verdadeiro"
+  },
+  {
+    "id": "pog-063",
+    "numero_original": 63,
+    "topico_numero": 7,
+    "topico": "Ocorrência com CACs",
+    "tipo": "verdadeiro_falso",
+    "artigo": "Documentos",
+    "pergunta": "A apresentação do certificado de registro pessoal dispensa a conferência do documento da arma e das condições do transporte.",
+    "comentario": "Resposta correta: Falso. A regularidade envolve pessoa, arma, acervo e condição de trânsito.",
+    "palavras_chave": [
+      "documentos",
+      "arma",
+      "transporte"
+    ],
+    "nivel": "médio",
+    "anulada": false,
+    "ativa": true,
+    "respondida": false,
+    "status": "ATIVA",
+    "fonte": "Lei nº 10.826/2003; Decreto nº 11.615/2023, alterado pelo Decreto nº 12.345/2024.",
+    "opcoes": [
+      "Verdadeiro",
+      "Falso"
+    ],
+    "correta": "Falso"
+  },
+  {
+    "id": "pog-064",
+    "numero_original": 64,
+    "topico_numero": 7,
+    "topico": "Ocorrência com CACs",
+    "tipo": "verdadeiro_falso",
+    "artigo": "Abordagem",
+    "pergunta": "A equipe deve agir com segurança e respeito, distinguindo atividade regular de porte, transporte ou posse irregular.",
+    "comentario": "Resposta correta: Verdadeiro. A condição de CAC não gera presunção automática de crime.",
+    "palavras_chave": [
+      "segurança",
+      "respeito",
+      "regularidade"
+    ],
+    "nivel": "médio",
+    "anulada": false,
+    "ativa": true,
+    "respondida": false,
+    "status": "ATIVA",
+    "fonte": "Lei nº 10.826/2003; Decreto nº 11.615/2023, alterado pelo Decreto nº 12.345/2024.",
+    "opcoes": [
+      "Verdadeiro",
+      "Falso"
+    ],
+    "correta": "Verdadeiro"
+  },
+  {
+    "id": "pog-065",
+    "numero_original": 65,
+    "topico_numero": 7,
+    "topico": "Ocorrência com CACs",
+    "tipo": "multipla_escolha",
+    "artigo": "Porte de trânsito",
+    "pergunta": "Qual situação é mais compatível com o porte de trânsito?",
+    "comentario": "Resposta correta: Arma registrada, desmuniciada, com munição em recipiente próprio e documentos válidos. O porte de trânsito não é porte defensivo geral.",
+    "palavras_chave": [
+      "arma registrada",
+      "desmuniciada",
+      "recipiente"
+    ],
+    "nivel": "médio",
+    "anulada": false,
+    "ativa": true,
+    "respondida": false,
+    "status": "ATIVA",
+    "fonte": "Lei nº 10.826/2003; Decreto nº 11.615/2023, alterado pelo Decreto nº 12.345/2024.",
+    "opcoes": [
+      "Arma carregada na cintura.",
+      "Arma registrada, desmuniciada, com munição em recipiente próprio e documentos válidos.",
+      "Arma de terceiro sem documento.",
+      "Arma com numeração suprimida.",
+      "Arma exibida em evento sem autorização."
+    ],
+    "correta": "Arma registrada, desmuniciada, com munição em recipiente próprio e documentos válidos."
+  },
+  {
+    "id": "pog-066",
+    "numero_original": 66,
+    "topico_numero": 7,
+    "topico": "Ocorrência com CACs",
+    "tipo": "multipla_escolha",
+    "artigo": "Verificação",
+    "pergunta": "Qual conjunto deve ser conferido?",
+    "comentario": "Resposta correta: Identificação, registros, validade, correspondência da arma e condições do transporte. A conferência vincula pessoa, arma e autorização.",
+    "palavras_chave": [
+      "identificação",
+      "registro",
+      "correspondência"
+    ],
+    "nivel": "médio",
+    "anulada": false,
+    "ativa": true,
+    "respondida": false,
+    "status": "ATIVA",
+    "fonte": "Lei nº 10.826/2003; Decreto nº 11.615/2023, alterado pelo Decreto nº 12.345/2024.",
+    "opcoes": [
+      "Somente profissão.",
+      "Identificação, registros, validade, correspondência da arma e condições do transporte.",
+      "Só nota fiscal.",
+      "Apenas endereço.",
+      "Somente clube."
+    ],
+    "correta": "Identificação, registros, validade, correspondência da arma e condições do transporte."
+  },
+  {
+    "id": "pog-067",
+    "numero_original": 67,
+    "topico_numero": 7,
+    "topico": "Ocorrência com CACs",
+    "tipo": "multipla_escolha",
+    "artigo": "Irregularidade",
+    "pergunta": "Arma carregada e acessível em situação incompatível com o porte de trânsito. A equipe deve:",
+    "comentario": "Resposta correta: Controlar a arma, verificar e adotar medidas legais. A condição de CAC não substitui autorização para a forma concreta de condução.",
+    "palavras_chave": [
+      "carregada",
+      "acessível",
+      "irregularidade"
+    ],
+    "nivel": "médio",
+    "anulada": false,
+    "ativa": true,
+    "respondida": false,
+    "status": "ATIVA",
+    "fonte": "Lei nº 10.826/2003; Decreto nº 11.615/2023, alterado pelo Decreto nº 12.345/2024.",
+    "opcoes": [
+      "Ignorar porque é CAC.",
+      "Controlar a arma, verificar e adotar medidas legais.",
+      "Destruir no local.",
+      "Liberar após advertência.",
+      "Presumir legítima defesa."
+    ],
+    "correta": "Controlar a arma, verificar e adotar medidas legais."
+  },
+  {
+    "id": "pog-068",
+    "numero_original": 68,
+    "topico_numero": 7,
+    "topico": "Ocorrência com CACs",
+    "tipo": "multipla_escolha",
+    "artigo": "Apreensão",
+    "pergunta": "Quando a arma é apreendida, deve-se:",
+    "comentario": "Resposta correta: Identificar, acondicionar e preservar cadeia de custódia. A arma torna-se objeto relacionado à ocorrência.",
+    "palavras_chave": [
+      "apreensão",
+      "arma",
+      "cadeia de custódia"
+    ],
+    "nivel": "médio",
+    "anulada": false,
+    "ativa": true,
+    "respondida": false,
+    "status": "ATIVA",
+    "fonte": "Lei nº 10.826/2003; Decreto nº 11.615/2023, alterado pelo Decreto nº 12.345/2024. Código de Processo Penal — arts. 158-A a 158-F.",
+    "opcoes": [
+      "Manipular para demonstração.",
+      "Identificar, acondicionar e preservar cadeia de custódia.",
+      "Entregar a familiar.",
+      "Misturar munições.",
+      "Omitir estado e numeração."
+    ],
+    "correta": "Identificar, acondicionar e preservar cadeia de custódia."
+  },
+  {
+    "id": "pog-069",
+    "numero_original": 69,
+    "topico_numero": 7,
+    "topico": "Ocorrência com CACs",
+    "tipo": "relacionar",
+    "artigo": "Documentos",
+    "pergunta": "Durante a fiscalização de um CAC, associe cada documento ou instrumento de consulta à finalidade específica de verificação. Numere a Coluna B com base na Coluna A.",
+    "comentario": "Gabarito da Coluna B: 1, 2, 3, 4, 5. A regularidade decorre do conjunto.",
+    "palavras_chave": [
+      "CR",
+      "arma",
+      "trânsito",
+      "identidade",
+      "sistema"
+    ],
+    "nivel": "difícil",
+    "anulada": false,
+    "ativa": true,
+    "respondida": false,
+    "status": "ATIVA",
+    "fonte": "Lei nº 10.826/2003; Decreto nº 11.615/2023, alterado pelo Decreto nº 12.345/2024.",
+    "coluna_a": [
+      "Registro da pessoa",
+      "Registro da arma",
+      "Porte de trânsito",
+      "Identificação pessoal",
+      "Consulta aos sistemas"
+    ],
+    "coluna_b": [
+      "Comprovar condição registral",
+      "Vincular arma ao acervo",
+      "Autorizar transporte regulamentar",
+      "Confirmar identidade",
+      "Verificar validade e restrições"
+    ],
+    "correta": "1, 2, 3, 4, 5"
+  },
+  {
+    "id": "pog-070",
+    "numero_original": 70,
+    "topico_numero": 7,
+    "topico": "Ocorrência com CACs",
+    "tipo": "relacionar",
+    "artigo": "Situações",
+    "pergunta": "Examine as situações documentais e materiais envolvendo arma de CAC e vincule cada uma à providência inicial compatível. Indique os números correspondentes na Coluna B.",
+    "comentario": "Gabarito da Coluna B: 1, 2, 3, 4, 5. A resposta deve corresponder à irregularidade constatada.",
+    "palavras_chave": [
+      "regular",
+      "vencido",
+      "divergente",
+      "sinal",
+      "apreensão"
+    ],
+    "nivel": "difícil",
+    "anulada": false,
+    "ativa": true,
+    "respondida": false,
+    "status": "ATIVA",
+    "fonte": "Lei nº 10.826/2003; Decreto nº 11.615/2023, alterado pelo Decreto nº 12.345/2024.",
+    "coluna_a": [
+      "Transporte regular",
+      "Documento vencido",
+      "Arma divergente",
+      "Sinal identificador alterado",
+      "Arma apreendida"
+    ],
+    "coluna_b": [
+      "Conferir e liberar se regular",
+      "Verificar consequência legal",
+      "Aprofundar checagem",
+      "Encaminhar para apuração",
+      "Documentar e preservar"
+    ],
+    "correta": "1, 2, 3, 4, 5"
+  },
+  {
+    "id": "pog-071",
+    "numero_original": 71,
+    "topico_numero": 8,
+    "topico": "Perturbação do Sossego",
+    "tipo": "verdadeiro_falso",
+    "artigo": "LCP — art. 42",
+    "pergunta": "A perturbação somente pode ocorrer depois das 22 horas.",
+    "comentario": "Resposta correta: Falso. O art. 42 não estabelece horário federal único; o contexto e normas locais devem ser considerados.",
+    "palavras_chave": [
+      "não só 22h",
+      "art. 42",
+      "contexto"
+    ],
+    "nivel": "médio",
+    "anulada": false,
+    "ativa": true,
+    "respondida": false,
+    "status": "ATIVA",
+    "fonte": "Lei das Contravenções Penais — Decreto-Lei nº 3.688/1941, art. 42; legislação local aplicável.",
+    "opcoes": [
+      "Verdadeiro",
+      "Falso"
+    ],
+    "correta": "Falso"
+  },
+  {
+    "id": "pog-072",
+    "numero_original": 72,
+    "topico_numero": 8,
+    "topico": "Perturbação do Sossego",
+    "tipo": "verdadeiro_falso",
+    "artigo": "LCP — art. 42",
+    "pergunta": "Gritaria, algazarra, abuso de instrumentos sonoros e barulho de animal sob guarda podem integrar as hipóteses legais.",
+    "comentario": "Resposta correta: Verdadeiro. Essas situações aparecem nos incisos do art. 42.",
+    "palavras_chave": [
+      "gritaria",
+      "som",
+      "animal"
+    ],
+    "nivel": "médio",
+    "anulada": false,
+    "ativa": true,
+    "respondida": false,
+    "status": "ATIVA",
+    "fonte": "Lei das Contravenções Penais — Decreto-Lei nº 3.688/1941, art. 42; legislação local aplicável.",
+    "opcoes": [
+      "Verdadeiro",
+      "Falso"
+    ],
+    "correta": "Verdadeiro"
+  },
+  {
+    "id": "pog-073",
+    "numero_original": 73,
+    "topico_numero": 8,
+    "topico": "Perturbação do Sossego",
+    "tipo": "verdadeiro_falso",
+    "artigo": "Prova",
+    "pergunta": "Sem medidor de decibéis, toda intervenção é impossível e testemunhos ou constatações são irrelevantes.",
+    "comentario": "Resposta correta: Falso. A prova depende do caso; testemunhos, constatação e registros podem ser relevantes.",
+    "palavras_chave": [
+      "prova",
+      "testemunha",
+      "constatação"
+    ],
+    "nivel": "médio",
+    "anulada": false,
+    "ativa": true,
+    "respondida": false,
+    "status": "ATIVA",
+    "fonte": "Lei das Contravenções Penais — Decreto-Lei nº 3.688/1941, art. 42; legislação local aplicável.",
+    "opcoes": [
+      "Verdadeiro",
+      "Falso"
+    ],
+    "correta": "Falso"
+  },
+  {
+    "id": "pog-074",
+    "numero_original": 74,
+    "topico_numero": 8,
+    "topico": "Perturbação do Sossego",
+    "tipo": "verdadeiro_falso",
+    "artigo": "Registro",
+    "pergunta": "A equipe deve identificar fonte, responsável, afetados e registrar duração, meios e providências.",
+    "comentario": "Resposta correta: Verdadeiro. Descrição objetiva é superior à expressão genérica 'som alto'.",
+    "palavras_chave": [
+      "fonte",
+      "responsável",
+      "registro"
+    ],
+    "nivel": "médio",
+    "anulada": false,
+    "ativa": true,
+    "respondida": false,
+    "status": "ATIVA",
+    "fonte": "Lei das Contravenções Penais — Decreto-Lei nº 3.688/1941, art. 42; legislação local aplicável.",
+    "opcoes": [
+      "Verdadeiro",
+      "Falso"
+    ],
+    "correta": "Verdadeiro"
+  },
+  {
+    "id": "pog-075",
+    "numero_original": 75,
+    "topico_numero": 8,
+    "topico": "Perturbação do Sossego",
+    "tipo": "multipla_escolha",
+    "artigo": "Art. 42",
+    "pergunta": "Qual conduta está expressamente prevista?",
+    "comentario": "Resposta correta: Abuso de instrumentos sonoros ou sinais acústicos. O abuso de instrumento sonoro é hipótese legal.",
+    "palavras_chave": [
+      "instrumento sonoro",
+      "abuso"
+    ],
+    "nivel": "médio",
+    "anulada": false,
+    "ativa": true,
+    "respondida": false,
+    "status": "ATIVA",
+    "fonte": "Lei das Contravenções Penais — Decreto-Lei nº 3.688/1941, art. 42; legislação local aplicável.",
+    "opcoes": [
+      "Conversa normal.",
+      "Abuso de instrumentos sonoros ou sinais acústicos.",
+      "Atividade silenciosa.",
+      "Fechar comércio.",
+      "Caminhar em via."
+    ],
+    "correta": "Abuso de instrumentos sonoros ou sinais acústicos."
+  },
+  {
+    "id": "pog-076",
+    "numero_original": 76,
+    "topico_numero": 8,
+    "topico": "Perturbação do Sossego",
+    "tipo": "multipla_escolha",
+    "artigo": "Atendimento",
+    "pergunta": "Em festa com reclamação de ruído, a atuação inicial inclui:",
+    "comentario": "Resposta correta: Identificar responsável, constatar, ouvir reclamantes e registrar. A intervenção deve partir de constatação e documentação.",
+    "palavras_chave": [
+      "responsável",
+      "constatação",
+      "reclamantes"
+    ],
+    "nivel": "médio",
+    "anulada": false,
+    "ativa": true,
+    "respondida": false,
+    "status": "ATIVA",
+    "fonte": "Lei das Contravenções Penais — Decreto-Lei nº 3.688/1941, art. 42; legislação local aplicável.",
+    "opcoes": [
+      "Apreender tudo sem verificar.",
+      "Identificar responsável, constatar, ouvir reclamantes e registrar.",
+      "Encerrar por ser antes das 22h.",
+      "Divulgar nomes.",
+      "Usar aplicativo pessoal como única prova."
+    ],
+    "correta": "Identificar responsável, constatar, ouvir reclamantes e registrar."
+  },
+  {
+    "id": "pog-077",
+    "numero_original": 77,
+    "topico_numero": 8,
+    "topico": "Perturbação do Sossego",
+    "tipo": "multipla_escolha",
+    "artigo": "Animal",
+    "pergunta": "Guardião não procura impedir barulho contínuo de cão. O art. 42 menciona:",
+    "comentario": "Resposta correta: Provocar ou não procurar impedir barulho de animal sob guarda. A omissão do guardião pode integrar a hipótese.",
+    "palavras_chave": [
+      "animal",
+      "guarda",
+      "não impedir"
+    ],
+    "nivel": "médio",
+    "anulada": false,
+    "ativa": true,
+    "respondida": false,
+    "status": "ATIVA",
+    "fonte": "Lei das Contravenções Penais — Decreto-Lei nº 3.688/1941, art. 42; legislação local aplicável.",
+    "opcoes": [
+      "Só animal silvestre.",
+      "Provocar ou não procurar impedir barulho de animal sob guarda.",
+      "Só dano físico.",
+      "Abandono material.",
+      "Infração de trânsito."
+    ],
+    "correta": "Provocar ou não procurar impedir barulho de animal sob guarda."
+  },
+  {
+    "id": "pog-078",
+    "numero_original": 78,
+    "topico_numero": 8,
+    "topico": "Perturbação do Sossego",
+    "tipo": "multipla_escolha",
+    "artigo": "Descrição",
+    "pergunta": "Qual registro é mais adequado?",
+    "comentario": "Resposta correta: Fonte, equipamento, responsável, reclamantes, período, audibilidade e providências. O registro deve ser objetivo e verificável.",
+    "palavras_chave": [
+      "equipamento",
+      "período",
+      "audibilidade"
+    ],
+    "nivel": "médio",
+    "anulada": false,
+    "ativa": true,
+    "respondida": false,
+    "status": "ATIVA",
+    "fonte": "Lei das Contravenções Penais — Decreto-Lei nº 3.688/1941, art. 42; legislação local aplicável.",
+    "opcoes": [
+      "Havia barulho.",
+      "Fonte, equipamento, responsável, reclamantes, período, audibilidade e providências.",
+      "O local era ruim.",
+      "A equipe não gostou da música.",
+      "Todos pareciam culpados."
+    ],
+    "correta": "Fonte, equipamento, responsável, reclamantes, período, audibilidade e providências."
+  },
+  {
+    "id": "pog-079",
+    "numero_original": 79,
+    "topico_numero": 8,
+    "topico": "Perturbação do Sossego",
+    "tipo": "relacionar",
+    "artigo": "Hipóteses",
+    "pergunta": "Associe as hipóteses legais de perturbação do trabalho ou do sossego aos exemplos concretos apresentados. Preencha a Coluna B com a numeração da Coluna A.",
+    "comentario": "Gabarito da Coluna B: 1, 2, 3, 4, 5. A ocorrência pode envolver contravenção e regra administrativa.",
+    "palavras_chave": [
+      "algazarra",
+      "profissão",
+      "som",
+      "animal",
+      "município"
+    ],
+    "nivel": "difícil",
+    "anulada": false,
+    "ativa": true,
+    "respondida": false,
+    "status": "ATIVA",
+    "fonte": "Lei das Contravenções Penais — Decreto-Lei nº 3.688/1941, art. 42; legislação local aplicável.",
+    "coluna_a": [
+      "Gritaria",
+      "Profissão ruidosa",
+      "Instrumento sonoro",
+      "Barulho de animal",
+      "Norma municipal"
+    ],
+    "coluna_b": [
+      "Tumulto vocal",
+      "Atividade em desacordo com prescrições",
+      "Equipamento usado abusivamente",
+      "Guardião não impede ruído",
+      "Pode definir limites administrativos"
+    ],
+    "correta": "1, 2, 3, 4, 5"
+  },
+  {
+    "id": "pog-080",
+    "numero_original": 80,
+    "topico_numero": 8,
+    "topico": "Perturbação do Sossego",
+    "tipo": "relacionar",
+    "artigo": "Elementos",
+    "pergunta": "Para documentar corretamente uma ocorrência de perturbação, associe cada elemento de apuração à informação que deve ser levantada. Use os números da Coluna A na Coluna B.",
+    "comentario": "Gabarito da Coluna B: 1, 2, 3, 4, 5. A apuração deve ligar o responsável ao fato.",
+    "palavras_chave": [
+      "fonte",
+      "responsável",
+      "afetados",
+      "persistência",
+      "providência"
+    ],
+    "nivel": "difícil",
+    "anulada": false,
+    "ativa": true,
+    "respondida": false,
+    "status": "ATIVA",
+    "fonte": "Lei das Contravenções Penais — Decreto-Lei nº 3.688/1941, art. 42; legislação local aplicável.",
+    "coluna_a": [
+      "Fonte",
+      "Responsável",
+      "Afetados",
+      "Persistência",
+      "Providência"
+    ],
+    "coluna_b": [
+      "Origem do ruído",
+      "Quem controla a fonte",
+      "Quem teve sossego perturbado",
+      "Duração e repetição",
+      "Orientação ou encaminhamento"
+    ],
+    "correta": "1, 2, 3, 4, 5"
+  },
+  {
+    "id": "pog-081",
+    "numero_original": 81,
+    "topico_numero": 9,
+    "topico": "Violência Sexual",
+    "tipo": "verdadeiro_falso",
+    "artigo": "Lei nº 12.845/2013",
+    "pergunta": "O atendimento hospitalar emergencial depende da apresentação prévia de boletim de ocorrência.",
+    "comentario": "Resposta correta: Falso. A assistência em saúde não deve ser condicionada ao registro policial.",
+    "palavras_chave": [
+      "atendimento",
+      "não depende de BO",
+      "urgência"
+    ],
+    "nivel": "médio",
+    "anulada": false,
+    "ativa": true,
+    "respondida": false,
+    "status": "ATIVA",
+    "fonte": "Código Penal; Lei nº 12.845/2013; Lei nº 13.431/2017; atendimento humanizado e prevenção da revitimização.",
+    "opcoes": [
+      "Verdadeiro",
+      "Falso"
+    ],
+    "correta": "Falso"
+  },
+  {
+    "id": "pog-082",
+    "numero_original": 82,
+    "topico_numero": 9,
+    "topico": "Violência Sexual",
+    "tipo": "verdadeiro_falso",
+    "artigo": "Conceito",
+    "pergunta": "Violência sexual abrange qualquer forma de atividade sexual não consentida.",
+    "comentario": "Resposta correta: Verdadeiro. Consentimento deve ser livre e válido.",
+    "palavras_chave": [
+      "não consentida",
+      "consentimento"
+    ],
+    "nivel": "médio",
+    "anulada": false,
+    "ativa": true,
+    "respondida": false,
+    "status": "ATIVA",
+    "fonte": "Código Penal; Lei nº 12.845/2013; Lei nº 13.431/2017; atendimento humanizado e prevenção da revitimização.",
+    "opcoes": [
+      "Verdadeiro",
+      "Falso"
+    ],
+    "correta": "Verdadeiro"
+  },
+  {
+    "id": "pog-083",
+    "numero_original": 83,
+    "topico_numero": 9,
+    "topico": "Violência Sexual",
+    "tipo": "verdadeiro_falso",
+    "artigo": "Revitimização",
+    "pergunta": "A vítima deve repetir detalhadamente a narrativa a cada policial e diante de todos os presentes.",
+    "comentario": "Resposta correta: Falso. Perguntas devem se limitar ao necessário, com privacidade e sem revitimização.",
+    "palavras_chave": [
+      "evitar repetição",
+      "privacidade",
+      "revitimização"
+    ],
+    "nivel": "médio",
+    "anulada": false,
+    "ativa": true,
+    "respondida": false,
+    "status": "ATIVA",
+    "fonte": "Código Penal; Lei nº 12.845/2013; Lei nº 13.431/2017; atendimento humanizado e prevenção da revitimização.",
+    "opcoes": [
+      "Verdadeiro",
+      "Falso"
+    ],
+    "correta": "Falso"
+  },
+  {
+    "id": "pog-084",
+    "numero_original": 84,
+    "topico_numero": 9,
+    "topico": "Violência Sexual",
+    "tipo": "verdadeiro_falso",
+    "artigo": "Vestígios",
+    "pergunta": "Preservar roupas e vestígios, quando possível, não pode atrasar socorro nem justificar culpabilização da vítima.",
+    "comentario": "Resposta correta: Verdadeiro. Saúde e segurança são prioritárias.",
+    "palavras_chave": [
+      "vestígios",
+      "socorro",
+      "sem culpabilização"
+    ],
+    "nivel": "médio",
+    "anulada": false,
+    "ativa": true,
+    "respondida": false,
+    "status": "ATIVA",
+    "fonte": "Código Penal; Lei nº 12.845/2013; Lei nº 13.431/2017; atendimento humanizado e prevenção da revitimização.",
+    "opcoes": [
+      "Verdadeiro",
+      "Falso"
+    ],
+    "correta": "Verdadeiro"
+  },
+  {
+    "id": "pog-085",
+    "numero_original": 85,
+    "topico_numero": 9,
+    "topico": "Violência Sexual",
+    "tipo": "multipla_escolha",
+    "artigo": "Ação inicial",
+    "pergunta": "A prioridade é:",
+    "comentario": "Resposta correta: Garantir segurança, privacidade, escuta respeitosa e saúde. A resposta protege saúde, dignidade e segurança.",
+    "palavras_chave": [
+      "segurança",
+      "privacidade",
+      "saúde"
+    ],
+    "nivel": "médio",
+    "anulada": false,
+    "ativa": true,
+    "respondida": false,
+    "status": "ATIVA",
+    "fonte": "Código Penal; Lei nº 12.845/2013; Lei nº 13.431/2017; atendimento humanizado e prevenção da revitimização.",
+    "opcoes": [
+      "Confrontar com suspeito.",
+      "Garantir segurança, privacidade, escuta respeitosa e saúde.",
+      "Exigir detalhes diante de terceiros.",
+      "Condicionar à representação.",
+      "Mandar retornar para casa."
+    ],
+    "correta": "Garantir segurança, privacidade, escuta respeitosa e saúde."
+  },
+  {
+    "id": "pog-086",
+    "numero_original": 86,
+    "topico_numero": 9,
+    "topico": "Violência Sexual",
+    "tipo": "multipla_escolha",
+    "artigo": "Escuta",
+    "pergunta": "Qual pergunta é adequada?",
+    "comentario": "Resposta correta: O que você precisa agora e há risco ou necessidade de socorro? A escuta identifica necessidade e risco sem julgamento.",
+    "palavras_chave": [
+      "escuta",
+      "necessidade",
+      "risco"
+    ],
+    "nivel": "médio",
+    "anulada": false,
+    "ativa": true,
+    "respondida": false,
+    "status": "ATIVA",
+    "fonte": "Código Penal; Lei nº 12.845/2013; Lei nº 13.431/2017; atendimento humanizado e prevenção da revitimização.",
+    "opcoes": [
+      "Por que não reagiu?",
+      "Você provocou?",
+      "O que você precisa agora e há risco ou necessidade de socorro?",
+      "Quantas vezes contou?",
+      "Pretende esquecer?"
+    ],
+    "correta": "O que você precisa agora e há risco ou necessidade de socorro?"
+  },
+  {
+    "id": "pog-087",
+    "numero_original": 87,
+    "topico_numero": 9,
+    "topico": "Violência Sexual",
+    "tipo": "multipla_escolha",
+    "artigo": "Criança ou adolescente",
+    "pergunta": "Quando a vítima é menor, deve-se:",
+    "comentario": "Resposta correta: Proteger, evitar indução e acionar rede especializada. A Lei nº 13.431/2017 previne violência institucional.",
+    "palavras_chave": [
+      "criança",
+      "rede",
+      "escuta especializada"
+    ],
+    "nivel": "médio",
+    "anulada": false,
+    "ativa": true,
+    "respondida": false,
+    "status": "ATIVA",
+    "fonte": "Código Penal; Lei nº 12.845/2013; Lei nº 13.431/2017; atendimento humanizado e prevenção da revitimização.",
+    "opcoes": [
+      "Interrogar repetidamente.",
+      "Proteger, evitar indução e acionar rede especializada.",
+      "Divulgar identidade.",
+      "Colocar com suspeito.",
+      "Dispensar rede de proteção."
+    ],
+    "correta": "Proteger, evitar indução e acionar rede especializada."
+  },
+  {
+    "id": "pog-088",
+    "numero_original": 88,
+    "topico_numero": 9,
+    "topico": "Violência Sexual",
+    "tipo": "multipla_escolha",
+    "artigo": "Roupas",
+    "pergunta": "Roupas relacionadas ao fato devem ser:",
+    "comentario": "Resposta correta: Preservadas e encaminhadas conforme orientação pericial. Vestígios visíveis ou latentes exigem preservação.",
+    "palavras_chave": [
+      "roupas",
+      "preservar",
+      "contaminação"
+    ],
+    "nivel": "médio",
+    "anulada": false,
+    "ativa": true,
+    "respondida": false,
+    "status": "ATIVA",
+    "fonte": "Código Penal; Lei nº 12.845/2013; Lei nº 13.431/2017; atendimento humanizado e prevenção da revitimização. Código de Processo Penal — arts. 158-A a 158-F.",
+    "opcoes": [
+      "Misturadas em embalagem inadequada.",
+      "Preservadas e encaminhadas conforme orientação pericial.",
+      "Lavadas.",
+      "Manipuladas por todos.",
+      "Descartadas sem mancha visível."
+    ],
+    "correta": "Preservadas e encaminhadas conforme orientação pericial."
+  },
+  {
+    "id": "pog-089",
+    "numero_original": 89,
+    "topico_numero": 9,
+    "topico": "Violência Sexual",
+    "tipo": "relacionar",
+    "artigo": "Necessidades",
+    "pergunta": "No atendimento a uma vítima de violência sexual, vincule cada necessidade imediata à providência protetiva correspondente. Complete a Coluna B com os números da Coluna A.",
+    "comentario": "Gabarito da Coluna B: 1, 2, 3, 4, 5. O atendimento é protetivo e técnico.",
+    "palavras_chave": [
+      "segurança",
+      "saúde",
+      "privacidade",
+      "informação",
+      "prova"
+    ],
+    "nivel": "difícil",
+    "anulada": false,
+    "ativa": true,
+    "respondida": false,
+    "status": "ATIVA",
+    "fonte": "Código Penal; Lei nº 12.845/2013; Lei nº 13.431/2017; atendimento humanizado e prevenção da revitimização.",
+    "coluna_a": [
+      "Segurança",
+      "Saúde",
+      "Privacidade",
+      "Informação",
+      "Proteção probatória"
+    ],
+    "coluna_b": [
+      "Afastar risco e suspeito",
+      "Providenciar atendimento",
+      "Atender em local reservado",
+      "Explicar direitos e encaminhamentos",
+      "Preservar vestígios sem atrasar cuidado"
+    ],
+    "correta": "1, 2, 3, 4, 5"
+  },
+  {
+    "id": "pog-090",
+    "numero_original": 90,
+    "topico_numero": 9,
+    "topico": "Violência Sexual",
+    "tipo": "relacionar",
+    "artigo": "Condutas inadequadas",
+    "pergunta": "Identifique como determinadas práticas inadequadas podem agravar o atendimento de violência sexual. Associe cada conduta da Coluna A ao risco descrito na Coluna B.",
+    "comentario": "Gabarito da Coluna B: 1, 2, 3, 4, 5. A atuação deve reduzir o dano.",
+    "palavras_chave": [
+      "culpabilização",
+      "repetição",
+      "exposição",
+      "confronto",
+      "atraso"
+    ],
+    "nivel": "difícil",
+    "anulada": false,
+    "ativa": true,
+    "respondida": false,
+    "status": "ATIVA",
+    "fonte": "Código Penal; Lei nº 12.845/2013; Lei nº 13.431/2017; atendimento humanizado e prevenção da revitimização.",
+    "coluna_a": [
+      "Culpabilizar",
+      "Repetir perguntas",
+      "Expor identidade",
+      "Confrontar com suspeito",
+      "Atrasar atendimento"
+    ],
+    "coluna_b": [
+      "Afastar a vítima da rede",
+      "Revitimizar",
+      "Violar intimidade",
+      "Intimidar e agravar trauma",
+      "Comprometer saúde"
+    ],
+    "correta": "1, 2, 3, 4, 5"
+  },
+  {
+    "id": "pog-091",
+    "numero_original": 91,
+    "topico_numero": 10,
+    "topico": "Recuperação de Veículos",
+    "tipo": "verdadeiro_falso",
+    "artigo": "Identificação",
+    "pergunta": "A placa aparente é suficiente para confirmar definitivamente a identidade de veículo recuperado.",
+    "comentario": "Resposta correta: Falso. Placas podem ser substituídas ou adulteradas; devem ser conferidos outros sinais e sistemas.",
+    "palavras_chave": [
+      "placa",
+      "sinais identificadores",
+      "conferência"
+    ],
+    "nivel": "médio",
+    "anulada": false,
+    "ativa": true,
+    "respondida": false,
+    "status": "ATIVA",
+    "fonte": "Princípios gerais de policiamento ostensivo, segurança da equipe, comunicação, proporcionalidade e observância dos POPs e ordens internas vigentes.",
+    "opcoes": [
+      "Verdadeiro",
+      "Falso"
+    ],
+    "correta": "Falso"
+  },
+  {
+    "id": "pog-092",
+    "numero_original": 92,
+    "topico_numero": 10,
+    "topico": "Recuperação de Veículos",
+    "tipo": "verdadeiro_falso",
+    "artigo": "Preservação",
+    "pergunta": "O interior do veículo pode conter impressões, objetos e outros vestígios, devendo ser evitada manipulação desnecessária.",
+    "comentario": "Resposta correta: Verdadeiro. A preservação auxilia identificação de autores e reconstrução do fato.",
+    "palavras_chave": [
+      "interior",
+      "vestígios",
+      "não manipular"
+    ],
+    "nivel": "médio",
+    "anulada": false,
+    "ativa": true,
+    "respondida": false,
+    "status": "ATIVA",
+    "fonte": "Código de Processo Penal — arts. 158-A a 158-F.",
+    "opcoes": [
+      "Verdadeiro",
+      "Falso"
+    ],
+    "correta": "Verdadeiro"
+  },
+  {
+    "id": "pog-093",
+    "numero_original": 93,
+    "topico_numero": 10,
+    "topico": "Recuperação de Veículos",
+    "tipo": "verdadeiro_falso",
+    "artigo": "Sistema SINAL",
+    "pergunta": "O alerta no sistema SINAL da PRF substitui o boletim de ocorrência na polícia judiciária.",
+    "comentario": "Resposta correta: Falso. O serviço oficial informa que o alerta não dispensa o registro da ocorrência.",
+    "palavras_chave": [
+      "SINAL",
+      "não substitui BO",
+      "PRF"
+    ],
+    "nivel": "médio",
+    "anulada": false,
+    "ativa": true,
+    "respondida": false,
+    "status": "ATIVA",
+    "fonte": "Serviço oficial SINAL/PRF; Princípios gerais de policiamento ostensivo, segurança da equipe, comunicação, proporcionalidade e observância dos POPs e ordens internas vigentes.",
+    "opcoes": [
+      "Verdadeiro",
+      "Falso"
+    ],
+    "correta": "Falso"
+  },
+  {
+    "id": "pog-094",
+    "numero_original": 94,
+    "topico_numero": 10,
+    "topico": "Recuperação de Veículos",
+    "tipo": "verdadeiro_falso",
+    "artigo": "Restituição",
+    "pergunta": "O veículo pode ser entregue imediatamente a quem se apresenta como proprietário, antes de verificações e liberação.",
+    "comentario": "Resposta correta: Falso. A restituição depende de confirmação, documentação e liberação competente.",
+    "palavras_chave": [
+      "restituição",
+      "confirmação",
+      "liberação"
+    ],
+    "nivel": "médio",
+    "anulada": false,
+    "ativa": true,
+    "respondida": false,
+    "status": "ATIVA",
+    "fonte": "Princípios gerais de policiamento ostensivo, segurança da equipe, comunicação, proporcionalidade e observância dos POPs e ordens internas vigentes.",
+    "opcoes": [
+      "Verdadeiro",
+      "Falso"
+    ],
+    "correta": "Falso"
+  },
+  {
+    "id": "pog-095",
+    "numero_original": 95,
+    "topico_numero": 10,
+    "topico": "Recuperação de Veículos",
+    "tipo": "multipla_escolha",
+    "artigo": "Localização",
+    "pergunta": "Veículo com alerta é localizado vazio. A equipe deve:",
+    "comentario": "Resposta correta: Confirmar, proteger, evitar manipulação e acionar polícia judiciária/perícia. O veículo pode ser local e objeto de prova.",
+    "palavras_chave": [
+      "confirmar",
+      "proteger",
+      "perícia"
+    ],
+    "nivel": "médio",
+    "anulada": false,
+    "ativa": true,
+    "respondida": false,
+    "status": "ATIVA",
+    "fonte": "Código de Processo Penal — arts. 158-A a 158-F.",
+    "opcoes": [
+      "Entrar e procurar documentos.",
+      "Confirmar, proteger, evitar manipulação e acionar polícia judiciária/perícia.",
+      "Entregar a familiar.",
+      "Remover objetos.",
+      "Publicar fotos internas."
+    ],
+    "correta": "Confirmar, proteger, evitar manipulação e acionar polícia judiciária/perícia."
+  },
+  {
+    "id": "pog-096",
+    "numero_original": 96,
+    "topico_numero": 10,
+    "topico": "Recuperação de Veículos",
+    "tipo": "multipla_escolha",
+    "artigo": "Veículo ocupado",
+    "pergunta": "Ao abordar veículo com alerta e ocupantes, deve-se priorizar:",
+    "comentario": "Resposta correta: Segurança, controle dos ocupantes, confirmação e preservação. A abordagem considera risco, autoria e prova.",
+    "palavras_chave": [
+      "ocupantes",
+      "controle",
+      "alerta"
+    ],
+    "nivel": "médio",
+    "anulada": false,
+    "ativa": true,
+    "respondida": false,
+    "status": "ATIVA",
+    "fonte": "Princípios gerais de policiamento ostensivo, segurança da equipe, comunicação, proporcionalidade e observância dos POPs e ordens internas vigentes.",
+    "opcoes": [
+      "Aproximar sem cautela.",
+      "Segurança, controle dos ocupantes, confirmação e preservação.",
+      "Permitir retirada de objetos.",
+      "Questionar todos juntos.",
+      "Liberar com a chave."
+    ],
+    "correta": "Segurança, controle dos ocupantes, confirmação e preservação."
+  },
+  {
+    "id": "pog-097",
+    "numero_original": 97,
+    "topico_numero": 10,
+    "topico": "Recuperação de Veículos",
+    "tipo": "multipla_escolha",
+    "artigo": "Identificadores",
+    "pergunta": "Qual conjunto auxilia a confirmar identidade?",
+    "comentario": "Resposta correta: Placa, numeração, etiquetas, gravações e sistemas. Múltiplos elementos ajudam a detectar clonagem.",
+    "palavras_chave": [
+      "placa",
+      "numeração",
+      "etiquetas",
+      "sistemas"
+    ],
+    "nivel": "médio",
+    "anulada": false,
+    "ativa": true,
+    "respondida": false,
+    "status": "ATIVA",
+    "fonte": "Princípios gerais de policiamento ostensivo, segurança da equipe, comunicação, proporcionalidade e observância dos POPs e ordens internas vigentes.",
+    "opcoes": [
+      "Só cor e modelo.",
+      "Placa, numeração, etiquetas, gravações e sistemas.",
+      "Só chave.",
+      "Declaração do condutor.",
+      "Foto em rede social."
+    ],
+    "correta": "Placa, numeração, etiquetas, gravações e sistemas."
+  },
+  {
+    "id": "pog-098",
+    "numero_original": 98,
+    "topico_numero": 10,
+    "topico": "Recuperação de Veículos",
+    "tipo": "multipla_escolha",
+    "artigo": "Remoção",
+    "pergunta": "Quando o veículo precisa ser removido, deve-se:",
+    "comentario": "Resposta correta: Documentar estado e posição, preservar vestígios e usar meio autorizado. A remoção deve alterar o mínimo possível.",
+    "palavras_chave": [
+      "documentar",
+      "remoção",
+      "preservar"
+    ],
+    "nivel": "médio",
+    "anulada": false,
+    "ativa": true,
+    "respondida": false,
+    "status": "ATIVA",
+    "fonte": "Código de Processo Penal — arts. 158-A a 158-F.",
+    "opcoes": [
+      "Dirigi-lo longamente.",
+      "Documentar estado e posição, preservar vestígios e usar meio autorizado.",
+      "Permitir condução por curioso.",
+      "Misturar objetos.",
+      "Omitir avarias."
+    ],
+    "correta": "Documentar estado e posição, preservar vestígios e usar meio autorizado."
+  },
+  {
+    "id": "pog-099",
+    "numero_original": 99,
+    "topico_numero": 10,
+    "topico": "Recuperação de Veículos",
+    "tipo": "relacionar",
+    "artigo": "Etapas",
+    "pergunta": "Considere o fluxo operacional de localização e recuperação de um veículo. Associe cada etapa à providência necessária, numerando a Coluna B conforme a Coluna A.",
+    "comentario": "Gabarito da Coluna B: 1, 2, 3, 4, 5. A recuperação não termina na constatação visual.",
+    "palavras_chave": [
+      "localização",
+      "confirmação",
+      "segurança",
+      "preservação",
+      "encaminhamento"
+    ],
+    "nivel": "difícil",
+    "anulada": false,
+    "ativa": true,
+    "respondida": false,
+    "status": "ATIVA",
+    "fonte": "Princípios gerais de policiamento ostensivo, segurança da equipe, comunicação, proporcionalidade e observância dos POPs e ordens internas vigentes.",
+    "coluna_a": [
+      "Localização",
+      "Confirmação",
+      "Segurança",
+      "Preservação",
+      "Encaminhamento"
+    ],
+    "coluna_b": [
+      "Identificar possível veículo relacionado",
+      "Consultar sistemas e sinais",
+      "Controlar local e ocupantes",
+      "Evitar manipulação",
+      "Comunicar, remover e apresentar"
+    ],
+    "correta": "1, 2, 3, 4, 5"
+  },
+  {
+    "id": "pog-100",
+    "numero_original": 100,
+    "topico_numero": 10,
+    "topico": "Recuperação de Veículos",
+    "tipo": "relacionar",
+    "artigo": "Vestígios",
+    "pergunta": "Em veículo recuperado, diferentes vestígios exigem cuidados específicos. Vincule cada tipo de material à cautela de preservação indicada e numere a Coluna B.",
+    "comentario": "Gabarito da Coluna B: 1, 2, 3, 4, 5. Cada material exige cuidado compatível.",
+    "palavras_chave": [
+      "impressão",
+      "objeto",
+      "fluido",
+      "documento",
+      "eletrônico"
+    ],
+    "nivel": "difícil",
+    "anulada": false,
+    "ativa": true,
+    "respondida": false,
+    "status": "ATIVA",
+    "fonte": "Código de Processo Penal — arts. 158-A a 158-F.",
+    "coluna_a": [
+      "Impressões",
+      "Objetos",
+      "Fluidos ou manchas",
+      "Documentos",
+      "Eletrônico"
+    ],
+    "coluna_b": [
+      "Evitar tocar superfícies",
+      "Manter posição e individualizar",
+      "Impedir limpeza e contaminação",
+      "Preservar estado e autenticidade",
+      "Não acessar sem fundamento e preservar"
+    ],
+    "correta": "1, 2, 3, 4, 5"
+  },
+  {
+    "id": "pog-101",
+    "numero_original": 101,
+    "topico_numero": 11,
+    "topico": "Pessoas em Situação de Rua",
+    "tipo": "verdadeiro_falso",
+    "artigo": "Dignidade",
+    "pergunta": "Estar em situação de rua constitui, por si só, fundada suspeita para busca pessoal e remoção compulsória.",
+    "comentario": "Resposta correta: Falso. Pobreza e condição social não são crime nem substituem elementos objetivos.",
+    "palavras_chave": [
+      "não é crime",
+      "fundada suspeita",
+      "não discriminar"
+    ],
+    "nivel": "médio",
+    "anulada": false,
+    "ativa": true,
+    "respondida": false,
+    "status": "ATIVA",
+    "fonte": "Decreto nº 7.053/2009; ADPF 976/STF; dignidade e não criminalização da pobreza.",
+    "opcoes": [
+      "Verdadeiro",
+      "Falso"
+    ],
+    "correta": "Falso"
+  },
+  {
+    "id": "pog-102",
+    "numero_original": 102,
+    "topico_numero": 11,
+    "topico": "Pessoas em Situação de Rua",
+    "tipo": "verdadeiro_falso",
+    "artigo": "ADPF 976",
+    "pergunta": "Recolhimento forçado de pertences e transporte compulsório sem base legal contrariam as diretrizes do STF.",
+    "comentario": "Resposta correta: Verdadeiro. A decisão impede remoção forçada e tratamento degradante.",
+    "palavras_chave": [
+      "pertences",
+      "remoção forçada",
+      "ADPF 976"
+    ],
+    "nivel": "médio",
+    "anulada": false,
+    "ativa": true,
+    "respondida": false,
+    "status": "ATIVA",
+    "fonte": "Decreto nº 7.053/2009; ADPF 976/STF; dignidade e não criminalização da pobreza.",
+    "opcoes": [
+      "Verdadeiro",
+      "Falso"
+    ],
+    "correta": "Verdadeiro"
+  },
+  {
+    "id": "pog-103",
+    "numero_original": 103,
+    "topico_numero": 11,
+    "topico": "Pessoas em Situação de Rua",
+    "tipo": "verdadeiro_falso",
+    "artigo": "Intersetorialidade",
+    "pergunta": "Demandas envolvendo pessoas em situação de rua podem exigir saúde, assistência social e outros serviços, além da polícia.",
+    "comentario": "Resposta correta: Verdadeiro. As necessidades são multidimensionais.",
+    "palavras_chave": [
+      "intersetorial",
+      "saúde",
+      "assistência"
+    ],
+    "nivel": "médio",
+    "anulada": false,
+    "ativa": true,
+    "respondida": false,
+    "status": "ATIVA",
+    "fonte": "Decreto nº 7.053/2009; ADPF 976/STF; dignidade e não criminalização da pobreza.",
+    "opcoes": [
+      "Verdadeiro",
+      "Falso"
+    ],
+    "correta": "Verdadeiro"
+  },
+  {
+    "id": "pog-104",
+    "numero_original": 104,
+    "topico_numero": 11,
+    "topico": "Pessoas em Situação de Rua",
+    "tipo": "verdadeiro_falso",
+    "artigo": "Espaço público",
+    "pergunta": "A pessoa pode ser removida apenas porque comerciantes não desejam sua presença, mesmo sem ilícito ou risco.",
+    "comentario": "Resposta correta: Falso. A atuação deve basear-se em fato concreto e fundamento legal.",
+    "palavras_chave": [
+      "espaço público",
+      "sem ilícito",
+      "não remover"
+    ],
+    "nivel": "médio",
+    "anulada": false,
+    "ativa": true,
+    "respondida": false,
+    "status": "ATIVA",
+    "fonte": "Decreto nº 7.053/2009; ADPF 976/STF; dignidade e não criminalização da pobreza.",
+    "opcoes": [
+      "Verdadeiro",
+      "Falso"
+    ],
+    "correta": "Falso"
+  },
+  {
+    "id": "pog-105",
+    "numero_original": 105,
+    "topico_numero": 11,
+    "topico": "Pessoas em Situação de Rua",
+    "tipo": "multipla_escolha",
+    "artigo": "Abordagem",
+    "pergunta": "Qual postura é adequada?",
+    "comentario": "Resposta correta: Identificar-se, explicar o motivo, respeitar e basear coerção em fatos. A abordagem deve respeitar dignidade e legalidade.",
+    "palavras_chave": [
+      "identificar-se",
+      "explicar",
+      "respeito"
+    ],
+    "nivel": "médio",
+    "anulada": false,
+    "ativa": true,
+    "respondida": false,
+    "status": "ATIVA",
+    "fonte": "Decreto nº 7.053/2009; ADPF 976/STF; dignidade e não criminalização da pobreza.",
+    "opcoes": [
+      "Presumir crime pela aparência.",
+      "Identificar-se, explicar o motivo, respeitar e basear coerção em fatos.",
+      "Destruir pertences.",
+      "Impedir serviço social.",
+      "Exigir saída da cidade."
+    ],
+    "correta": "Identificar-se, explicar o motivo, respeitar e basear coerção em fatos."
+  },
+  {
+    "id": "pog-106",
+    "numero_original": 106,
+    "topico_numero": 11,
+    "topico": "Pessoas em Situação de Rua",
+    "tipo": "multipla_escolha",
+    "artigo": "Crise de saúde",
+    "pergunta": "Pessoa desorientada está prestes a cair no trânsito. A prioridade é:",
+    "comentario": "Resposta correta: Proteger, acionar saúde e conter apenas se necessário. O quadro exige resposta protetiva e de saúde.",
+    "palavras_chave": [
+      "desorientação",
+      "saúde",
+      "proteção"
+    ],
+    "nivel": "médio",
+    "anulada": false,
+    "ativa": true,
+    "respondida": false,
+    "status": "ATIVA",
+    "fonte": "Decreto nº 7.053/2009; ADPF 976/STF; dignidade e não criminalização da pobreza.",
+    "opcoes": [
+      "Punir por estar na rua.",
+      "Proteger, acionar saúde e conter apenas se necessário.",
+      "Recolher pertences.",
+      "Levar para outra cidade.",
+      "Ignorar."
+    ],
+    "correta": "Proteger, acionar saúde e conter apenas se necessário."
+  },
+  {
+    "id": "pog-107",
+    "numero_original": 107,
+    "topico_numero": 11,
+    "topico": "Pessoas em Situação de Rua",
+    "tipo": "multipla_escolha",
+    "artigo": "Pertences",
+    "pergunta": "Em operação de limpeza urbana, deve-se:",
+    "comentario": "Resposta correta: Proteger bens e impedir recolhimento compulsório sem base legal. Bens pessoais não são lixo pela condição do proprietário.",
+    "palavras_chave": [
+      "bens",
+      "não recolher",
+      "proteção"
+    ],
+    "nivel": "médio",
+    "anulada": false,
+    "ativa": true,
+    "respondida": false,
+    "status": "ATIVA",
+    "fonte": "Decreto nº 7.053/2009; ADPF 976/STF; dignidade e não criminalização da pobreza.",
+    "opcoes": [
+      "Descartar pertences.",
+      "Proteger bens e impedir recolhimento compulsório sem base legal.",
+      "Queimar objetos.",
+      "Apreender documentos.",
+      "Condicionar devolução à saída."
+    ],
+    "correta": "Proteger bens e impedir recolhimento compulsório sem base legal."
+  },
+  {
+    "id": "pog-108",
+    "numero_original": 108,
+    "topico_numero": 11,
+    "topico": "Pessoas em Situação de Rua",
+    "tipo": "multipla_escolha",
+    "artigo": "Rede",
+    "pergunta": "Sem crime, mas com necessidade social, a equipe deve:",
+    "comentario": "Resposta correta: Ofertar e acionar a rede, respeitando autonomia. Assistência deve ser articulada, não imposta arbitrariamente.",
+    "palavras_chave": [
+      "rede",
+      "autonomia",
+      "oferta"
+    ],
+    "nivel": "médio",
+    "anulada": false,
+    "ativa": true,
+    "respondida": false,
+    "status": "ATIVA",
+    "fonte": "Decreto nº 7.053/2009; ADPF 976/STF; dignidade e não criminalização da pobreza.",
+    "opcoes": [
+      "Prender para garantir abrigo.",
+      "Ofertar e acionar a rede, respeitando autonomia.",
+      "Obrigar deslocamento.",
+      "Apreender documentos.",
+      "Exigir antecedentes."
+    ],
+    "correta": "Ofertar e acionar a rede, respeitando autonomia."
+  },
+  {
+    "id": "pog-109",
+    "numero_original": 109,
+    "topico_numero": 11,
+    "topico": "Pessoas em Situação de Rua",
+    "tipo": "relacionar",
+    "artigo": "Demandas",
+    "pergunta": "Diferencie as possíveis demandas envolvendo pessoa em situação de rua e associe cada cenário à resposta pública prioritária. Preencha a Coluna B com a numeração da Coluna A.",
+    "comentario": "Gabarito da Coluna B: 1, 2, 3, 4, 5. A condição de rua não define sozinha a ocorrência.",
+    "palavras_chave": [
+      "flagrante",
+      "saúde",
+      "social",
+      "risco",
+      "permanência"
+    ],
+    "nivel": "difícil",
+    "anulada": false,
+    "ativa": true,
+    "respondida": false,
+    "status": "ATIVA",
+    "fonte": "Decreto nº 7.053/2009; ADPF 976/STF; dignidade e não criminalização da pobreza.",
+    "coluna_a": [
+      "Flagrante",
+      "Emergência médica",
+      "Necessidade social",
+      "Risco ambiental",
+      "Permanência sem ilícito"
+    ],
+    "coluna_b": [
+      "Atuar conforme a lei",
+      "Acionar saúde",
+      "Articular assistência",
+      "Integrar defesa civil ou serviço",
+      "Respeitar permanência"
+    ],
+    "correta": "1, 2, 3, 4, 5"
+  },
+  {
+    "id": "pog-110",
+    "numero_original": 110,
+    "topico_numero": 11,
+    "topico": "Pessoas em Situação de Rua",
+    "tipo": "relacionar",
+    "artigo": "Princípios",
+    "pergunta": "Associe os princípios de atendimento às pessoas em situação de rua às condutas policiais que os materializam. Use os números da Coluna A para completar a Coluna B.",
+    "comentario": "Gabarito da Coluna B: 1, 2, 3, 4, 5. Os princípios orientam todo contato.",
+    "palavras_chave": [
+      "dignidade",
+      "legalidade",
+      "não discriminação",
+      "integração",
+      "proporcionalidade"
+    ],
+    "nivel": "difícil",
+    "anulada": false,
+    "ativa": true,
+    "respondida": false,
+    "status": "ATIVA",
+    "fonte": "Decreto nº 7.053/2009; ADPF 976/STF; dignidade e não criminalização da pobreza.",
+    "coluna_a": [
+      "Dignidade",
+      "Legalidade",
+      "Não discriminação",
+      "Intersetorialidade",
+      "Proporcionalidade"
+    ],
+    "coluna_b": [
+      "Tratar como sujeito de direitos",
+      "Exigir fundamento para coerção",
+      "Não usar pobreza como suspeita",
+      "Articular serviços",
+      "Escolher medida menos gravosa"
+    ],
+    "correta": "1, 2, 3, 4, 5"
+  },
+  {
+    "id": "pog-111",
+    "numero_original": 111,
+    "topico_numero": 12,
+    "topico": "Cadeia de Custódia",
+    "tipo": "verdadeiro_falso",
+    "artigo": "CPP — art. 158-A",
+    "pergunta": "A cadeia de custódia começa somente quando o vestígio chega ao Instituto de Criminalística.",
+    "comentario": "Resposta correta: Falso. Começa com a preservação do local ou detecção do vestígio.",
+    "palavras_chave": [
+      "início",
+      "preservação",
+      "reconhecimento"
+    ],
+    "nivel": "médio",
+    "anulada": false,
+    "ativa": true,
+    "respondida": false,
+    "status": "ATIVA",
+    "fonte": "Código de Processo Penal — arts. 158-A a 158-F.",
+    "opcoes": [
+      "Verdadeiro",
+      "Falso"
+    ],
+    "correta": "Falso"
+  },
+  {
+    "id": "pog-112",
+    "numero_original": 112,
+    "topico_numero": 12,
+    "topico": "Cadeia de Custódia",
+    "tipo": "verdadeiro_falso",
+    "artigo": "CPP — art. 158-A",
+    "pergunta": "O agente que reconhece elemento de interesse pericial torna-se responsável por sua preservação.",
+    "comentario": "Resposta correta: Verdadeiro. A responsabilidade surge antes da coleta formal.",
+    "palavras_chave": [
+      "agente",
+      "reconhecer",
+      "preservar"
+    ],
+    "nivel": "médio",
+    "anulada": false,
+    "ativa": true,
+    "respondida": false,
+    "status": "ATIVA",
+    "fonte": "Código de Processo Penal — arts. 158-A a 158-F.",
+    "opcoes": [
+      "Verdadeiro",
+      "Falso"
+    ],
+    "correta": "Verdadeiro"
+  },
+  {
+    "id": "pog-113",
+    "numero_original": 113,
+    "topico_numero": 12,
+    "topico": "Cadeia de Custódia",
+    "tipo": "verdadeiro_falso",
+    "artigo": "CPP — art. 158-C",
+    "pergunta": "É permitido retirar vestígios do local isolado antes da liberação do perito para liberar rapidamente a área.",
+    "comentario": "Resposta correta: Falso. A remoção indevida compromete a prova e pode caracterizar fraude processual.",
+    "palavras_chave": [
+      "não remover",
+      "liberação do perito",
+      "fraude"
+    ],
+    "nivel": "médio",
+    "anulada": false,
+    "ativa": true,
+    "respondida": false,
+    "status": "ATIVA",
+    "fonte": "Código de Processo Penal — arts. 158-A a 158-F.",
+    "opcoes": [
+      "Verdadeiro",
+      "Falso"
+    ],
+    "correta": "Falso"
+  },
+  {
+    "id": "pog-114",
+    "numero_original": 114,
+    "topico_numero": 12,
+    "topico": "Cadeia de Custódia",
+    "tipo": "verdadeiro_falso",
+    "artigo": "CPP — art. 158-D",
+    "pergunta": "Vestígios devem ser individualizados, acondicionados conforme a natureza e lacrados com numeração.",
+    "comentario": "Resposta correta: Verdadeiro. Isso evita mistura, contaminação e perda de rastreabilidade.",
+    "palavras_chave": [
+      "individualizar",
+      "acondicionar",
+      "lacre"
+    ],
+    "nivel": "médio",
+    "anulada": false,
+    "ativa": true,
+    "respondida": false,
+    "status": "ATIVA",
+    "fonte": "Código de Processo Penal — arts. 158-A a 158-F.",
+    "opcoes": [
+      "Verdadeiro",
+      "Falso"
+    ],
+    "correta": "Verdadeiro"
+  },
+  {
+    "id": "pog-115",
+    "numero_original": 115,
+    "topico_numero": 12,
+    "topico": "Cadeia de Custódia",
+    "tipo": "multipla_escolha",
+    "artigo": "CPP — art. 158-B",
+    "pergunta": "Distinguir elemento de potencial interesse pericial é a etapa de:",
+    "comentario": "Resposta correta: Reconhecimento. Reconhecimento é a identificação inicial.",
+    "palavras_chave": [
+      "reconhecimento",
+      "interesse",
+      "vestígio"
+    ],
+    "nivel": "médio",
+    "anulada": false,
+    "ativa": true,
+    "respondida": false,
+    "status": "ATIVA",
+    "fonte": "Código de Processo Penal — arts. 158-A a 158-F.",
+    "opcoes": [
+      "Descarte.",
+      "Reconhecimento.",
+      "Armazenamento.",
+      "Processamento.",
+      "Recebimento."
+    ],
+    "correta": "Reconhecimento."
+  },
+  {
+    "id": "pog-116",
+    "numero_original": 116,
+    "topico_numero": 12,
+    "topico": "Cadeia de Custódia",
+    "tipo": "multipla_escolha",
+    "artigo": "CPP — art. 158-B",
+    "pergunta": "Descrição detalhada da posição, com fotografia ou croqui, é:",
+    "comentario": "Resposta correta: Fixação. Fixação documenta o estado antes da coleta.",
+    "palavras_chave": [
+      "fixação",
+      "fotografia",
+      "posição"
+    ],
+    "nivel": "médio",
+    "anulada": false,
+    "ativa": true,
+    "respondida": false,
+    "status": "ATIVA",
+    "fonte": "Código de Processo Penal — arts. 158-A a 158-F.",
+    "opcoes": [
+      "Fixação.",
+      "Descarte.",
+      "Transporte.",
+      "Recebimento.",
+      "Armazenamento."
+    ],
+    "correta": "Fixação."
+  },
+  {
+    "id": "pog-117",
+    "numero_original": 117,
+    "topico_numero": 12,
+    "topico": "Cadeia de Custódia",
+    "tipo": "multipla_escolha",
+    "artigo": "CPP — art. 158-D",
+    "pergunta": "Após rompimento autorizado do lacre, deve-se:",
+    "comentario": "Resposta correta: Registrar responsável, data, finalidade e novo lacre, guardando o lacre antigo. Cada abertura integra a rastreabilidade.",
+    "palavras_chave": [
+      "rompimento",
+      "registro",
+      "novo lacre"
+    ],
+    "nivel": "médio",
+    "anulada": false,
+    "ativa": true,
+    "respondida": false,
+    "status": "ATIVA",
+    "fonte": "Código de Processo Penal — arts. 158-A a 158-F.",
+    "opcoes": [
+      "Descartar sem registro.",
+      "Registrar responsável, data, finalidade e novo lacre, guardando o lacre antigo.",
+      "Reusar o mesmo número.",
+      "Deixar sem lacre.",
+      "Misturar vestígios."
+    ],
+    "correta": "Registrar responsável, data, finalidade e novo lacre, guardando o lacre antigo."
+  },
+  {
+    "id": "pog-118",
+    "numero_original": 118,
+    "topico_numero": 12,
+    "topico": "Cadeia de Custódia",
+    "tipo": "multipla_escolha",
+    "artigo": "Local de crime",
+    "pergunta": "Ao chegar primeiro, a equipe deve:",
+    "comentario": "Resposta correta: Socorrer, controlar riscos, isolar, preservar e documentar alterações inevitáveis. Socorro e segurança são prioritários, com preservação do local.",
+    "palavras_chave": [
+      "socorro",
+      "isolar",
+      "preservar"
+    ],
+    "nivel": "médio",
+    "anulada": false,
+    "ativa": true,
+    "respondida": false,
+    "status": "ATIVA",
+    "fonte": "Código de Processo Penal — arts. 158-A a 158-F.",
+    "opcoes": [
+      "Permitir acesso geral.",
+      "Socorrer, controlar riscos, isolar, preservar e documentar alterações inevitáveis.",
+      "Reorganizar objetos.",
+      "Recolher tudo sem registro.",
+      "Liberar antes da perícia."
+    ],
+    "correta": "Socorrer, controlar riscos, isolar, preservar e documentar alterações inevitáveis."
+  },
+  {
+    "id": "pog-119",
+    "numero_original": 119,
+    "topico_numero": 12,
+    "topico": "Cadeia de Custódia",
+    "tipo": "relacionar",
+    "artigo": "Etapas iniciais",
+    "pergunta": "Associe as cinco etapas iniciais da cadeia de custódia — desde a identificação do vestígio até seu acondicionamento — às respectivas definições. Numere a Coluna B.",
+    "comentario": "Gabarito da Coluna B: 1, 2, 3, 4, 5. A ordem protege o contexto.",
+    "palavras_chave": [
+      "reconhecimento",
+      "isolamento",
+      "fixação",
+      "coleta",
+      "acondicionamento"
+    ],
+    "nivel": "difícil",
+    "anulada": false,
+    "ativa": true,
+    "respondida": false,
+    "status": "ATIVA",
+    "fonte": "Código de Processo Penal — arts. 158-A a 158-F.",
+    "coluna_a": [
+      "Reconhecimento",
+      "Isolamento",
+      "Fixação",
+      "Coleta",
+      "Acondicionamento"
+    ],
+    "coluna_b": [
+      "Identificar potencial vestígio",
+      "Evitar alteração do ambiente",
+      "Documentar posição",
+      "Recolher tecnicamente",
+      "Embalar conforme natureza"
+    ],
+    "correta": "1, 2, 3, 4, 5"
+  },
+  {
+    "id": "pog-120",
+    "numero_original": 120,
+    "topico_numero": 12,
+    "topico": "Cadeia de Custódia",
+    "tipo": "relacionar",
+    "artigo": "Etapas posteriores",
+    "pergunta": "Vincule as etapas posteriores da cadeia de custódia, do transporte ao descarte, às operações que asseguram a rastreabilidade do vestígio. Complete a Coluna B com os números da Coluna A.",
+    "comentario": "Gabarito da Coluna B: 1, 2, 3, 4, 5. A rastreabilidade continua até a destinação final.",
+    "palavras_chave": [
+      "transporte",
+      "recebimento",
+      "processamento",
+      "armazenamento",
+      "descarte"
+    ],
+    "nivel": "difícil",
+    "anulada": false,
+    "ativa": true,
+    "respondida": false,
+    "status": "ATIVA",
+    "fonte": "Código de Processo Penal — arts. 158-A a 158-F.",
+    "coluna_a": [
+      "Transporte",
+      "Recebimento",
+      "Processamento",
+      "Armazenamento",
+      "Descarte"
+    ],
+    "coluna_b": [
+      "Transferir preservando características",
+      "Formalizar entrada e posse",
+      "Realizar exame",
+      "Guardar sob controle",
+      "Dar destinação final legal"
+    ],
+    "correta": "1, 2, 3, 4, 5"
+  },
+  {
+    "id": "pog-121",
+    "numero_original": 121,
+    "topico_numero": 13,
+    "topico": "Conduta Infracional",
+    "tipo": "verdadeiro_falso",
+    "artigo": "ECA — art. 103",
+    "pergunta": "Ato infracional é a conduta descrita como crime ou contravenção penal.",
+    "comentario": "Resposta correta: Verdadeiro. É a definição legal do ECA.",
+    "palavras_chave": [
+      "ato infracional",
+      "crime",
+      "contravenção"
+    ],
+    "nivel": "médio",
+    "anulada": false,
+    "ativa": true,
+    "respondida": false,
+    "status": "ATIVA",
+    "fonte": "Estatuto da Criança e do Adolescente — Lei nº 8.069/1990, especialmente arts. 103 a 107 e 171 a 178.",
+    "opcoes": [
+      "Verdadeiro",
+      "Falso"
+    ],
+    "correta": "Verdadeiro"
+  },
+  {
+    "id": "pog-122",
+    "numero_original": 122,
+    "topico_numero": 13,
+    "topico": "Conduta Infracional",
+    "tipo": "verdadeiro_falso",
+    "artigo": "ECA — arts. 104 e 105",
+    "pergunta": "Criança e adolescente recebem necessariamente o mesmo procedimento e as mesmas medidas.",
+    "comentario": "Resposta correta: Falso. À criança cabem medidas protetivas; ao adolescente podem caber medidas socioeducativas.",
+    "palavras_chave": [
+      "criança",
+      "adolescente",
+      "medidas"
+    ],
+    "nivel": "médio",
+    "anulada": false,
+    "ativa": true,
+    "respondida": false,
+    "status": "ATIVA",
+    "fonte": "Estatuto da Criança e do Adolescente — Lei nº 8.069/1990, especialmente arts. 103 a 107 e 171 a 178.",
+    "opcoes": [
+      "Verdadeiro",
+      "Falso"
+    ],
+    "correta": "Falso"
+  },
+  {
+    "id": "pog-123",
+    "numero_original": 123,
+    "topico_numero": 13,
+    "topico": "Conduta Infracional",
+    "tipo": "verdadeiro_falso",
+    "artigo": "ECA — art. 106",
+    "pergunta": "Adolescente só pode ser privado de liberdade em flagrante de ato infracional ou por ordem judicial escrita e fundamentada.",
+    "comentario": "Resposta correta: Verdadeiro. Também deve ser informado de seus direitos e dos responsáveis pela apreensão.",
+    "palavras_chave": [
+      "flagrante",
+      "ordem escrita",
+      "direitos"
+    ],
+    "nivel": "médio",
+    "anulada": false,
+    "ativa": true,
+    "respondida": false,
+    "status": "ATIVA",
+    "fonte": "Estatuto da Criança e do Adolescente — Lei nº 8.069/1990, especialmente arts. 103 a 107 e 171 a 178.",
+    "opcoes": [
+      "Verdadeiro",
+      "Falso"
+    ],
+    "correta": "Verdadeiro"
+  },
+  {
+    "id": "pog-124",
+    "numero_original": 124,
+    "topico_numero": 13,
+    "topico": "Conduta Infracional",
+    "tipo": "verdadeiro_falso",
+    "artigo": "ECA — art. 178",
+    "pergunta": "O adolescente pode ser transportado em compartimento fechado e degradante se o trajeto for curto.",
+    "comentario": "Resposta correta: Falso. O ECA proíbe condições atentatórias à dignidade ou integridade.",
+    "palavras_chave": [
+      "transporte",
+      "dignidade",
+      "art. 178"
+    ],
+    "nivel": "médio",
+    "anulada": false,
+    "ativa": true,
+    "respondida": false,
+    "status": "ATIVA",
+    "fonte": "Estatuto da Criança e do Adolescente — Lei nº 8.069/1990, especialmente arts. 103 a 107 e 171 a 178.",
+    "opcoes": [
+      "Verdadeiro",
+      "Falso"
+    ],
+    "correta": "Falso"
+  },
+  {
+    "id": "pog-125",
+    "numero_original": 125,
+    "topico_numero": 13,
+    "topico": "Conduta Infracional",
+    "tipo": "multipla_escolha",
+    "artigo": "ECA — art. 107",
+    "pergunta": "Após apreensão, deve-se:",
+    "comentario": "Resposta correta: Comunicar imediatamente ao juiz e família e analisar liberação. A comunicação e a análise de liberação são imediatas.",
+    "palavras_chave": [
+      "comunicação",
+      "família",
+      "liberação"
+    ],
+    "nivel": "médio",
+    "anulada": false,
+    "ativa": true,
+    "respondida": false,
+    "status": "ATIVA",
+    "fonte": "Estatuto da Criança e do Adolescente — Lei nº 8.069/1990, especialmente arts. 103 a 107 e 171 a 178.",
+    "opcoes": [
+      "Comunicar no dia seguinte.",
+      "Comunicar imediatamente ao juiz e família e analisar liberação.",
+      "Divulgar nome.",
+      "Manter com adultos.",
+      "Impedir defensor."
+    ],
+    "correta": "Comunicar imediatamente ao juiz e família e analisar liberação."
+  },
+  {
+    "id": "pog-126",
+    "numero_original": 126,
+    "topico_numero": 13,
+    "topico": "Conduta Infracional",
+    "tipo": "multipla_escolha",
+    "artigo": "ECA — art. 173",
+    "pergunta": "Em flagrante com violência ou grave ameaça, deve-se:",
+    "comentario": "Resposta correta: Lavrar auto, ouvir, apreender produtos/instrumentos e requisitar exames. O art. 173 define essas providências.",
+    "palavras_chave": [
+      "violência",
+      "auto de apreensão",
+      "perícia"
+    ],
+    "nivel": "médio",
+    "anulada": false,
+    "ativa": true,
+    "respondida": false,
+    "status": "ATIVA",
+    "fonte": "Estatuto da Criança e do Adolescente — Lei nº 8.069/1990, especialmente arts. 103 a 107 e 171 a 178.",
+    "opcoes": [
+      "Só advertir.",
+      "Lavrar auto, ouvir, apreender produtos/instrumentos e requisitar exames.",
+      "Aplicar internação definitiva.",
+      "Encerrar sem prova.",
+      "Entregar à vítima."
+    ],
+    "correta": "Lavrar auto, ouvir, apreender produtos/instrumentos e requisitar exames."
+  },
+  {
+    "id": "pog-127",
+    "numero_original": 127,
+    "topico_numero": 13,
+    "topico": "Conduta Infracional",
+    "tipo": "multipla_escolha",
+    "artigo": "Algemas",
+    "pergunta": "Sobre algemas em adolescente:",
+    "comentario": "Resposta correta: Uso excepcional, necessário e justificado. A medida deve observar necessidade, proporcionalidade e registro.",
+    "palavras_chave": [
+      "algemas",
+      "excepcional",
+      "justificar"
+    ],
+    "nivel": "médio",
+    "anulada": false,
+    "ativa": true,
+    "respondida": false,
+    "status": "ATIVA",
+    "fonte": "Estatuto da Criança e do Adolescente — Lei nº 8.069/1990, especialmente arts. 103 a 107 e 171 a 178. Súmula Vinculante nº 11/STF.",
+    "opcoes": [
+      "Uso automático.",
+      "Uso excepcional, necessário e justificado.",
+      "Uso punitivo.",
+      "Uso para exposição.",
+      "Sem avaliação de risco."
+    ],
+    "correta": "Uso excepcional, necessário e justificado."
+  },
+  {
+    "id": "pog-128",
+    "numero_original": 128,
+    "topico_numero": 13,
+    "topico": "Conduta Infracional",
+    "tipo": "multipla_escolha",
+    "artigo": "Identidade",
+    "pergunta": "Na documentação e comunicação, deve-se:",
+    "comentario": "Resposta correta: Proteger identidade e restringir informações aos canais legais. A proteção evita estigmatização e cumpre o ECA.",
+    "palavras_chave": [
+      "identidade",
+      "sigilo",
+      "adolescente"
+    ],
+    "nivel": "médio",
+    "anulada": false,
+    "ativa": true,
+    "respondida": false,
+    "status": "ATIVA",
+    "fonte": "Estatuto da Criança e do Adolescente — Lei nº 8.069/1990, especialmente arts. 103 a 107 e 171 a 178.",
+    "opcoes": [
+      "Divulgar nome e imagem.",
+      "Proteger identidade e restringir informações aos canais legais.",
+      "Publicar em grupo.",
+      "Permitir entrevista de curiosos.",
+      "Expor antecedentes."
+    ],
+    "correta": "Proteger identidade e restringir informações aos canais legais."
+  },
+  {
+    "id": "pog-129",
+    "numero_original": 129,
+    "topico_numero": 13,
+    "topico": "Conduta Infracional",
+    "tipo": "relacionar",
+    "artigo": "Conceitos",
+    "pergunta": "Diferencie os conceitos centrais do ECA relacionados à prática de ato infracional e associe cada termo à regra jurídica correspondente. Numere a Coluna B conforme a Coluna A.",
+    "comentario": "Gabarito da Coluna B: 1, 2, 3, 4, 5. Não se aplica automaticamente a lógica penal adulta.",
+    "palavras_chave": [
+      "criança",
+      "adolescente",
+      "ato",
+      "apreensão",
+      "socioeducativa"
+    ],
+    "nivel": "difícil",
+    "anulada": false,
+    "ativa": true,
+    "respondida": false,
+    "status": "ATIVA",
+    "fonte": "Estatuto da Criança e do Adolescente — Lei nº 8.069/1990, especialmente arts. 103 a 107 e 171 a 178.",
+    "coluna_a": [
+      "Criança",
+      "Adolescente",
+      "Ato infracional",
+      "Apreensão",
+      "Medida socioeducativa"
+    ],
+    "coluna_b": [
+      "Até 12 anos incompletos",
+      "Entre 12 e 18 anos",
+      "Conduta descrita como crime ou contravenção",
+      "Privação inicial em flagrante ou por ordem",
+      "Resposta jurisdicional após devido processo"
+    ],
+    "correta": "1, 2, 3, 4, 5"
+  },
+  {
+    "id": "pog-130",
+    "numero_original": 130,
+    "topico_numero": 13,
+    "topico": "Conduta Infracional",
+    "tipo": "relacionar",
+    "artigo": "Providências",
+    "pergunta": "Após a apreensão de adolescente, associe cada providência policial à garantia ou finalidade que ela protege. Complete a Coluna B com os números indicados na Coluna A.",
+    "comentario": "Gabarito da Coluna B: 1, 2, 3, 4, 5. A atuação combina proteção e responsabilização.",
+    "palavras_chave": [
+      "direitos",
+      "comunicação",
+      "separação",
+      "prova",
+      "força"
+    ],
+    "nivel": "difícil",
+    "anulada": false,
+    "ativa": true,
+    "respondida": false,
+    "status": "ATIVA",
+    "fonte": "Estatuto da Criança e do Adolescente — Lei nº 8.069/1990, especialmente arts. 103 a 107 e 171 a 178.",
+    "coluna_a": [
+      "Informar direitos",
+      "Comunicar família e juiz",
+      "Separar de adultos",
+      "Preservar produtos e instrumentos",
+      "Registrar uso da força"
+    ],
+    "coluna_b": [
+      "Garantir conhecimento e defesa",
+      "Permitir controle imediato",
+      "Proteger integridade",
+      "Assegurar prova",
+      "Demonstrar necessidade e proporcionalidade"
+    ],
+    "correta": "1, 2, 3, 4, 5"
+  }
+]
