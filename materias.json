@@ -1,4 +1,5 @@
 [
   { "id": "dppm", "materia": "DPPM" },
+  { "id": "pog", "materia": "POG" },
   { "id": "dc", "materia": "DC" }
 ]
