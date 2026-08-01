@@ -1,0 +1,745 @@
+[
+  {
+    "topico_numero": 1,
+    "topico": "Fundamentos e classificação do crime militar",
+    "tipo": "verdadeiro_falso",
+    "artigo": "CPM — art. 2º, § 1º",
+    "pergunta": "A lei posterior que, de qualquer outro modo, favoreça o agente aplica-se retroativamente, ainda quando já tenha sobrevindo sentença condenatória irrecorrível.",
+    "comentario": "Resposta correta: Verdadeiro. A lei penal posterior mais benéfica retroage, inclusive após sentença condenatória irrecorrível.",
+    "palavras_chave": [
+      "lei posterior",
+      "retroatividade",
+      "lei mais benéfica"
+    ],
+    "nivel": "fácil",
+    "anulada": false,
+    "ativa": true,
+    "respondida": false,
+    "status": "ATIVA",
+    "fonte": "Avaliação fotografada do CFP 11º BPM/2026; Decreto-Lei nº 1.001/1969 (Código Penal Militar, texto compilado); Lei nº 14.688/2023.",
+    "lote_importacao": "avaliacao_fotografada_2026-08-01",
+    "opcoes": [
+      "Verdadeiro",
+      "Falso"
+    ],
+    "correta": "Verdadeiro",
+    "id": "dppm-prova-001",
+    "numero_original": 1,
+    "id_banco_original": "dppm-101"
+  },
+  {
+    "topico_numero": 1,
+    "topico": "Fundamentos e classificação do crime militar",
+    "tipo": "verdadeiro_falso",
+    "artigo": "CPM — art. 4º",
+    "pergunta": "A lei excepcional ou temporária, embora decorrido o período de sua duração ou cessadas as circunstâncias que a determinaram, permanece válida para os crimes nela tipificados, aplicando-se aos fatos praticados durante e após sua vigência.",
+    "comentario": "Resposta correta: Falso. A ultratividade alcança o fato praticado durante a vigência da lei excepcional ou temporária, não o fato cometido depois de encerrada sua vigência.",
+    "palavras_chave": [
+      "lei excepcional",
+      "lei temporária",
+      "ultratividade"
+    ],
+    "nivel": "médio",
+    "anulada": false,
+    "ativa": true,
+    "respondida": false,
+    "status": "ATIVA",
+    "fonte": "Avaliação fotografada do CFP 11º BPM/2026; Decreto-Lei nº 1.001/1969 (Código Penal Militar, texto compilado); Lei nº 14.688/2023.",
+    "lote_importacao": "avaliacao_fotografada_2026-08-01",
+    "opcoes": [
+      "Verdadeiro",
+      "Falso"
+    ],
+    "correta": "Falso",
+    "id": "dppm-prova-002",
+    "numero_original": 2,
+    "id_banco_original": "dppm-102"
+  },
+  {
+    "topico_numero": 1,
+    "topico": "Fundamentos e classificação do crime militar",
+    "tipo": "verdadeiro_falso",
+    "artigo": "CPM — art. 6º",
+    "pergunta": "Considera-se praticado o fato no lugar em que se desenvolveu a atividade criminosa, no todo ou em parte, ainda que sob forma de participação, bem como onde se produziu ou deveria produzir-se o resultado.",
+    "comentario": "Resposta correta: Verdadeiro. O CPM adota, quanto ao lugar do crime, a teoria da ubiquidade.",
+    "palavras_chave": [
+      "lugar do crime",
+      "ubiquidade",
+      "atividade e resultado"
+    ],
+    "nivel": "médio",
+    "anulada": false,
+    "ativa": true,
+    "respondida": false,
+    "status": "ATIVA",
+    "fonte": "Avaliação fotografada do CFP 11º BPM/2026; Decreto-Lei nº 1.001/1969 (Código Penal Militar, texto compilado); Lei nº 14.688/2023.",
+    "lote_importacao": "avaliacao_fotografada_2026-08-01",
+    "opcoes": [
+      "Verdadeiro",
+      "Falso"
+    ],
+    "correta": "Verdadeiro",
+    "id": "dppm-prova-003",
+    "numero_original": 3,
+    "id_banco_original": "dppm-103"
+  },
+  {
+    "topico_numero": 10,
+    "topico": "Tipos penais militares, reformas legislativas e cadeia documental",
+    "tipo": "verdadeiro_falso",
+    "artigo": "CPM — arts. 149 e 150",
+    "pergunta": "O crime de revolta exige a participação de, no mínimo, dez militares para sua configuração.",
+    "comentario": "Resposta correta: Falso. Não se exige o número mínimo de dez militares. No texto vigente, a revolta está disciplinada no art. 150 e pressupõe a reunião de dois ou mais militares nas condições legais.",
+    "palavras_chave": [
+      "revolta",
+      "número de militares",
+      "art. 150"
+    ],
+    "nivel": "fácil",
+    "anulada": false,
+    "ativa": true,
+    "respondida": false,
+    "status": "ATIVA",
+    "fonte": "Avaliação fotografada do CFP 11º BPM/2026; Decreto-Lei nº 1.001/1969 (Código Penal Militar, texto compilado); Lei nº 14.688/2023.",
+    "lote_importacao": "avaliacao_fotografada_2026-08-01",
+    "opcoes": [
+      "Verdadeiro",
+      "Falso"
+    ],
+    "correta": "Falso",
+    "id": "dppm-prova-004",
+    "numero_original": 4,
+    "id_banco_original": "dppm-104"
+  },
+  {
+    "topico_numero": 1,
+    "topico": "Fundamentos e classificação do crime militar",
+    "tipo": "verdadeiro_falso",
+    "artigo": "CPM — art. 7º",
+    "pergunta": "Aplica-se a lei penal militar, sem prejuízo de convenções, tratados e regras de direito internacional, ao crime cometido no todo ou em parte no território nacional ou fora dele, desde que, neste último caso, o agente não esteja sendo processado nem tenha sido julgado pela justiça estrangeira.",
+    "comentario": "Resposta correta: Falso. A lei penal militar brasileira pode aplicar-se ao crime praticado fora do país ainda que o agente esteja sendo processado ou tenha sido julgado pela justiça estrangeira, observadas as regras legais.",
+    "palavras_chave": [
+      "aplicação da lei penal militar",
+      "extraterritorialidade",
+      "justiça estrangeira"
+    ],
+    "nivel": "difícil",
+    "anulada": false,
+    "ativa": true,
+    "respondida": false,
+    "status": "ATIVA",
+    "fonte": "Avaliação fotografada do CFP 11º BPM/2026; Decreto-Lei nº 1.001/1969 (Código Penal Militar, texto compilado); Lei nº 14.688/2023.",
+    "lote_importacao": "avaliacao_fotografada_2026-08-01",
+    "opcoes": [
+      "Verdadeiro",
+      "Falso"
+    ],
+    "correta": "Falso",
+    "id": "dppm-prova-005",
+    "numero_original": 5,
+    "id_banco_original": "dppm-105"
+  },
+  {
+    "topico_numero": 10,
+    "topico": "Tipos penais militares, reformas legislativas e cadeia documental",
+    "tipo": "verdadeiro_falso",
+    "artigo": "CPM — art. 152, parágrafo único",
+    "pergunta": "O militar que participa de conspiração fica isento de pena se denunciar o ajuste mesmo após o início da execução do crime.",
+    "comentario": "Resposta correta: Falso. A isenção exige denúncia antes da execução do crime e quando ainda seja possível evitar suas consequências.",
+    "palavras_chave": [
+      "conspiração",
+      "isenção de pena",
+      "denúncia do ajuste"
+    ],
+    "nivel": "médio",
+    "anulada": false,
+    "ativa": true,
+    "respondida": false,
+    "status": "ATIVA",
+    "fonte": "Avaliação fotografada do CFP 11º BPM/2026; Decreto-Lei nº 1.001/1969 (Código Penal Militar, texto compilado); Lei nº 14.688/2023.",
+    "lote_importacao": "avaliacao_fotografada_2026-08-01",
+    "opcoes": [
+      "Verdadeiro",
+      "Falso"
+    ],
+    "correta": "Falso",
+    "id": "dppm-prova-006",
+    "numero_original": 6,
+    "id_banco_original": "dppm-106"
+  },
+  {
+    "topico_numero": 10,
+    "topico": "Tipos penais militares, reformas legislativas e cadeia documental",
+    "tipo": "verdadeiro_falso",
+    "artigo": "CPM — art. 155 e parágrafo único",
+    "pergunta": "O crime de incitamento à indisciplina somente pode ser praticado por palavras faladas diretamente à tropa.",
+    "comentario": "Resposta correta: Falso. O incitamento também pode ocorrer por material impresso, manuscrito, eletrônico, fotocopiado ou gravado, nas condições do parágrafo único do art. 155.",
+    "palavras_chave": [
+      "incitamento",
+      "indisciplina",
+      "material eletrônico"
+    ],
+    "nivel": "médio",
+    "anulada": false,
+    "ativa": true,
+    "respondida": false,
+    "status": "ATIVA",
+    "fonte": "Avaliação fotografada do CFP 11º BPM/2026; Decreto-Lei nº 1.001/1969 (Código Penal Militar, texto compilado); Lei nº 14.688/2023.",
+    "lote_importacao": "avaliacao_fotografada_2026-08-01",
+    "opcoes": [
+      "Verdadeiro",
+      "Falso"
+    ],
+    "correta": "Falso",
+    "id": "dppm-prova-007",
+    "numero_original": 7,
+    "id_banco_original": "dppm-107"
+  },
+  {
+    "topico_numero": 10,
+    "topico": "Tipos penais militares, reformas legislativas e cadeia documental",
+    "tipo": "verdadeiro_falso",
+    "artigo": "CPM — art. 157, § 1º",
+    "pergunta": "Praticar violência contra o comandante da unidade a que pertence o agente constitui forma qualificada do crime de violência contra superior.",
+    "comentario": "Resposta correta: Verdadeiro. O § 1º do art. 157 prevê forma qualificada quando o superior é comandante da unidade a que pertence o agente ou oficial-general.",
+    "palavras_chave": [
+      "violência contra superior",
+      "comandante",
+      "forma qualificada"
+    ],
+    "nivel": "fácil",
+    "anulada": false,
+    "ativa": true,
+    "respondida": false,
+    "status": "ATIVA",
+    "fonte": "Avaliação fotografada do CFP 11º BPM/2026; Decreto-Lei nº 1.001/1969 (Código Penal Militar, texto compilado); Lei nº 14.688/2023.",
+    "lote_importacao": "avaliacao_fotografada_2026-08-01",
+    "opcoes": [
+      "Verdadeiro",
+      "Falso"
+    ],
+    "correta": "Verdadeiro",
+    "id": "dppm-prova-008",
+    "numero_original": 8,
+    "id_banco_original": "dppm-108"
+  },
+  {
+    "topico_numero": 10,
+    "topico": "Tipos penais militares, reformas legislativas e cadeia documental",
+    "tipo": "verdadeiro_falso",
+    "artigo": "CPM — art. 158",
+    "pergunta": "Se da violência contra militar de serviço, como uma sentinela, resultar morte, a pena prevista é de reclusão de doze a trinta anos.",
+    "comentario": "Resposta correta: Verdadeiro. A forma qualificada pelo resultado morte prevê reclusão de doze a trinta anos.",
+    "palavras_chave": [
+      "militar de serviço",
+      "sentinela",
+      "resultado morte"
+    ],
+    "nivel": "médio",
+    "anulada": false,
+    "ativa": true,
+    "respondida": false,
+    "status": "ATIVA",
+    "fonte": "Avaliação fotografada do CFP 11º BPM/2026; Decreto-Lei nº 1.001/1969 (Código Penal Militar, texto compilado); Lei nº 14.688/2023.",
+    "lote_importacao": "avaliacao_fotografada_2026-08-01",
+    "opcoes": [
+      "Verdadeiro",
+      "Falso"
+    ],
+    "correta": "Verdadeiro",
+    "id": "dppm-prova-009",
+    "numero_original": 9,
+    "id_banco_original": "dppm-109"
+  },
+  {
+    "topico_numero": 10,
+    "topico": "Tipos penais militares, reformas legislativas e cadeia documental",
+    "tipo": "verdadeiro_falso",
+    "artigo": "CPM — art. 160",
+    "pergunta": "O crime de desrespeito a superior pode configurar-se sem que o ato ocorra diante de outro militar.",
+    "comentario": "Resposta correta: Falso. O tipo penal exige que o desrespeito ao superior seja praticado diante de outro militar.",
+    "palavras_chave": [
+      "desrespeito a superior",
+      "outro militar",
+      "elemento do tipo"
+    ],
+    "nivel": "fácil",
+    "anulada": false,
+    "ativa": true,
+    "respondida": false,
+    "status": "ATIVA",
+    "fonte": "Avaliação fotografada do CFP 11º BPM/2026; Decreto-Lei nº 1.001/1969 (Código Penal Militar, texto compilado); Lei nº 14.688/2023.",
+    "lote_importacao": "avaliacao_fotografada_2026-08-01",
+    "opcoes": [
+      "Verdadeiro",
+      "Falso"
+    ],
+    "correta": "Falso",
+    "id": "dppm-prova-010",
+    "numero_original": 10,
+    "id_banco_original": "dppm-110"
+  },
+  {
+    "topico_numero": 9,
+    "topico": "Conselhos de Justiça, provas e legalidade processual",
+    "tipo": "verdadeiro_falso",
+    "artigo": "CPP — art. 400; STF, HC 127.900",
+    "pergunta": "Nos processos por crimes militares, aplica-se a regra de que o interrogatório do réu deve ser realizado ao final da instrução criminal.",
+    "comentario": "Resposta correta: Verdadeiro. O STF reconheceu a aplicação do art. 400 do CPP aos processos penais militares, com o interrogatório ao final da instrução.",
+    "palavras_chave": [
+      "interrogatório",
+      "final da instrução",
+      "HC 127900"
+    ],
+    "nivel": "difícil",
+    "anulada": false,
+    "ativa": true,
+    "respondida": false,
+    "status": "ATIVA",
+    "fonte": "Avaliação fotografada do CFP 11º BPM/2026; Decreto-Lei nº 1.001/1969 (Código Penal Militar, texto compilado); Lei nº 14.688/2023.",
+    "lote_importacao": "avaliacao_fotografada_2026-08-01",
+    "opcoes": [
+      "Verdadeiro",
+      "Falso"
+    ],
+    "correta": "Verdadeiro",
+    "id": "dppm-prova-011",
+    "numero_original": 11,
+    "id_banco_original": "dppm-111"
+  },
+  {
+    "topico_numero": 10,
+    "topico": "Tipos penais militares, reformas legislativas e cadeia documental",
+    "tipo": "verdadeiro_falso",
+    "artigo": "CPM — art. 161",
+    "pergunta": "O desrespeito a símbolo nacional pode ser punido como crime militar mesmo quando praticado por civil em local não sujeito à administração militar.",
+    "comentario": "Resposta correta: Falso. O art. 161 refere-se à conduta praticada pelo militar diante da tropa ou em lugar sujeito à administração militar.",
+    "palavras_chave": [
+      "símbolo nacional",
+      "militar",
+      "administração militar"
+    ],
+    "nivel": "médio",
+    "anulada": false,
+    "ativa": true,
+    "respondida": false,
+    "status": "ATIVA",
+    "fonte": "Avaliação fotografada do CFP 11º BPM/2026; Decreto-Lei nº 1.001/1969 (Código Penal Militar, texto compilado); Lei nº 14.688/2023.",
+    "lote_importacao": "avaliacao_fotografada_2026-08-01",
+    "opcoes": [
+      "Verdadeiro",
+      "Falso"
+    ],
+    "correta": "Falso",
+    "id": "dppm-prova-012",
+    "numero_original": 12,
+    "id_banco_original": "dppm-112"
+  },
+  {
+    "topico_numero": 8,
+    "topico": "Deserção, prazo de graça e procedimentos",
+    "tipo": "verdadeiro_falso",
+    "artigo": "CPM — art. 193, parágrafo único",
+    "pergunta": "O militar que dá asilo a desertor é punível mesmo quando o desertor é seu filho.",
+    "comentario": "Resposta correta: Falso. O favorecedor fica isento de pena quando for ascendente, descendente, cônjuge ou irmão do desertor.",
+    "palavras_chave": [
+      "asilo a desertor",
+      "isenção",
+      "descendente"
+    ],
+    "nivel": "fácil",
+    "anulada": false,
+    "ativa": true,
+    "respondida": false,
+    "status": "ATIVA",
+    "fonte": "Avaliação fotografada do CFP 11º BPM/2026; Decreto-Lei nº 1.001/1969 (Código Penal Militar, texto compilado); Lei nº 14.688/2023.",
+    "lote_importacao": "avaliacao_fotografada_2026-08-01",
+    "opcoes": [
+      "Verdadeiro",
+      "Falso"
+    ],
+    "correta": "Falso",
+    "id": "dppm-prova-013",
+    "numero_original": 13,
+    "id_banco_original": "dppm-113"
+  },
+  {
+    "topico_numero": 10,
+    "topico": "Tipos penais militares, reformas legislativas e cadeia documental",
+    "tipo": "verdadeiro_falso",
+    "artigo": "Código Penal — art. 216-A; CPM — art. 9º",
+    "pergunta": "Caracteriza assédio sexual constranger alguém, prevalecendo-se o agente de sua condição de superior hierárquico ou de ascendência funcional, com o fim de obter vantagem ou favorecimento sexual, podendo a conduta assumir natureza militar quando presentes as hipóteses do art. 9º do CPM.",
+    "comentario": "Resposta correta: Verdadeiro. Essa é a estrutura do tipo de assédio sexual do art. 216-A do Código Penal; sua natureza militar depende do enquadramento nas hipóteses legais do CPM.",
+    "palavras_chave": [
+      "assédio sexual",
+      "superior hierárquico",
+      "vantagem sexual"
+    ],
+    "nivel": "difícil",
+    "anulada": false,
+    "ativa": true,
+    "respondida": false,
+    "status": "ATIVA",
+    "fonte": "Avaliação fotografada do CFP 11º BPM/2026; Decreto-Lei nº 1.001/1969 (Código Penal Militar, texto compilado); Lei nº 14.688/2023.",
+    "lote_importacao": "avaliacao_fotografada_2026-08-01",
+    "opcoes": [
+      "Verdadeiro",
+      "Falso"
+    ],
+    "correta": "Verdadeiro",
+    "id": "dppm-prova-014",
+    "numero_original": 14,
+    "id_banco_original": "dppm-114"
+  },
+  {
+    "topico_numero": 10,
+    "topico": "Tipos penais militares, reformas legislativas e cadeia documental",
+    "tipo": "verdadeiro_falso",
+    "artigo": "Assédio moral — conceito doutrinário",
+    "pergunta": "Um ato isolado de impaciência ou excesso, sem reiteração sistemática, não basta, por si só, para caracterizar assédio moral.",
+    "comentario": "Resposta correta: Verdadeiro. O assédio moral pressupõe, em regra, conduta reiterada, repetitiva e abusiva, apta a fragilizar a integridade psíquica ou profissional da vítima.",
+    "palavras_chave": [
+      "assédio moral",
+      "reiteração",
+      "conduta abusiva"
+    ],
+    "nivel": "médio",
+    "anulada": false,
+    "ativa": true,
+    "respondida": false,
+    "status": "ATIVA",
+    "fonte": "Avaliação fotografada do CFP 11º BPM/2026; Decreto-Lei nº 1.001/1969 (Código Penal Militar, texto compilado); Lei nº 14.688/2023.",
+    "lote_importacao": "avaliacao_fotografada_2026-08-01",
+    "opcoes": [
+      "Verdadeiro",
+      "Falso"
+    ],
+    "correta": "Verdadeiro",
+    "id": "dppm-prova-015",
+    "numero_original": 15,
+    "id_banco_original": "dppm-115"
+  },
+  {
+    "topico_numero": 10,
+    "topico": "Tipos penais militares, reformas legislativas e cadeia documental",
+    "tipo": "verdadeiro_falso",
+    "artigo": "CPM — arts. 174, 175 e 216",
+    "pergunta": "Maus-tratos, rigor excessivo, violência contra inferior e injúria são condutas que jamais podem integrar uma situação de assédio moral no ambiente militar.",
+    "comentario": "Resposta correta: Falso. Essas condutas podem integrar um contexto de assédio moral e, conforme o caso concreto, também configurar tipos penais autônomos previstos no CPM.",
+    "palavras_chave": [
+      "assédio moral",
+      "rigor excessivo",
+      "violência contra inferior"
+    ],
+    "nivel": "difícil",
+    "anulada": false,
+    "ativa": true,
+    "respondida": false,
+    "status": "ATIVA",
+    "fonte": "Avaliação fotografada do CFP 11º BPM/2026; Decreto-Lei nº 1.001/1969 (Código Penal Militar, texto compilado); Lei nº 14.688/2023.",
+    "lote_importacao": "avaliacao_fotografada_2026-08-01",
+    "opcoes": [
+      "Verdadeiro",
+      "Falso"
+    ],
+    "correta": "Falso",
+    "id": "dppm-prova-016",
+    "numero_original": 16,
+    "id_banco_original": "dppm-116"
+  },
+  {
+    "topico_numero": 10,
+    "topico": "Tipos penais militares, reformas legislativas e cadeia documental",
+    "tipo": "relacionar",
+    "artigo": "CPM — arts. 149, 150, 183, 187 e 303; CPPM — art. 9º",
+    "pergunta": "Relacione cada conceito da Coluna A com sua definição na Coluna B. Para cada item da Coluna B, informe o número correspondente da Coluna A.",
+    "comentario": "Gabarito da Coluna B: 4, 5, 1, 2, 3, 9, 8, 7, 6, 10. Observação: após a Lei nº 14.688/2023, a revolta passou a ser disciplinada autonomamente no art. 150 do CPM.",
+    "palavras_chave": [
+      "motim",
+      "revolta",
+      "IPM",
+      "deserção",
+      "peculato"
+    ],
+    "nivel": "médio",
+    "anulada": false,
+    "ativa": true,
+    "respondida": false,
+    "status": "ATIVA",
+    "fonte": "Avaliação fotografada do CFP 11º BPM/2026; Decreto-Lei nº 1.001/1969 (Código Penal Militar, texto compilado); Lei nº 14.688/2023. Avaliação fotografada; Decreto-Lei nº 1.002/1969 (Código de Processo Penal Militar, texto vigente).",
+    "lote_importacao": "avaliacao_fotografada_2026-08-01",
+    "coluna_a": [
+      "Motim",
+      "Superior Tribunal Militar (STM)",
+      "Revolta",
+      "Hierarquia e disciplina",
+      "Crimes propriamente militares",
+      "Insubmissão",
+      "Deserção",
+      "Peculato-furto",
+      "Inquérito Policial Militar (IPM)",
+      "Peculato-apropriação"
+    ],
+    "coluna_b": [
+      "Pilares fundamentais que sustentam as instituições militares",
+      "Crimes exclusivamente previstos na legislação penal militar",
+      "Reunião de militares nas hipóteses de oposição coletiva previstas para o motim",
+      "Órgão de cúpula da Justiça Militar da União",
+      "Reunião armada de militares nas condições legais da revolta",
+      "Apuração sumária de fato que, nos termos legais, configure crime militar, e de sua autoria",
+      "Subtração ou contribuição para que seja subtraído dinheiro, valor ou bem, em proveito próprio ou alheio, por quem não detinha previamente a posse",
+      "Ausência do militar, sem licença, da unidade em que serve ou do lugar em que deve permanecer, por mais de oito dias",
+      "Não apresentação do convocado para incorporação no prazo marcado",
+      "Apropriação de dinheiro, valor ou bem móvel de que o militar tem posse ou detenção em razão do cargo"
+    ],
+    "correta": "4, 5, 1, 2, 3, 9, 8, 7, 6, 10",
+    "id": "dppm-prova-017",
+    "numero_original": 17,
+    "id_banco_original": "dppm-117"
+  },
+  {
+    "topico_numero": 5,
+    "topico": "Atores, hierarquia, sigilo e prazos do IPM",
+    "tipo": "multipla_escolha",
+    "artigo": "CPPM — art. 20",
+    "pergunta": "De acordo com o CPPM, em quais prazos o Inquérito Policial Militar deverá terminar?",
+    "comentario": "Resposta correta: C. O prazo é de vinte dias quando o indiciado estiver preso e de quarenta dias quando estiver solto.",
+    "palavras_chave": [
+      "prazo do IPM",
+      "indiciado preso",
+      "indiciado solto"
+    ],
+    "nivel": "fácil",
+    "anulada": false,
+    "ativa": true,
+    "respondida": false,
+    "status": "ATIVA",
+    "fonte": "Avaliação fotografada; Decreto-Lei nº 1.002/1969 (Código de Processo Penal Militar, texto vigente).",
+    "lote_importacao": "avaliacao_fotografada_2026-08-01",
+    "opcoes": [
+      "A) Trinta dias se o indiciado estiver preso e cinquenta dias se estiver solto.",
+      "B) Vinte dias se o indiciado estiver preso e trinta dias se estiver solto.",
+      "C) Vinte dias se o indiciado estiver preso e quarenta dias se estiver solto.",
+      "D) Trinta dias se o indiciado estiver preso e quarenta dias se estiver solto.",
+      "E) Vinte dias se o indiciado estiver preso e sessenta dias se estiver solto."
+    ],
+    "correta": "C) Vinte dias se o indiciado estiver preso e quarenta dias se estiver solto.",
+    "id": "dppm-prova-018",
+    "numero_original": 18,
+    "id_banco_original": "dppm-118"
+  },
+  {
+    "topico_numero": 9,
+    "topico": "Conselhos de Justiça, provas e legalidade processual",
+    "tipo": "multipla_escolha",
+    "artigo": "CPPM — art. 307",
+    "pergunta": "Para que a confissão tenha valor de prova, analise: I — ser feita perante autoridade competente; II — ser livre, espontânea e expressa; III — versar sobre o fato principal e também sobre tudo o que o acusado julgar necessário à defesa; IV — ser verossímil e concordar com as demais provas. Assinale a alternativa correta.",
+    "comentario": "Resposta correta: E. Estão corretas I, II e IV. A confissão deve versar sobre o fato principal; a ampliação contida no item III não corresponde ao art. 307.",
+    "palavras_chave": [
+      "confissão",
+      "valor de prova",
+      "art. 307"
+    ],
+    "nivel": "difícil",
+    "anulada": false,
+    "ativa": true,
+    "respondida": false,
+    "status": "ATIVA",
+    "fonte": "Avaliação fotografada; Decreto-Lei nº 1.002/1969 (Código de Processo Penal Militar, texto vigente).",
+    "lote_importacao": "avaliacao_fotografada_2026-08-01",
+    "opcoes": [
+      "A) Somente a afirmativa I está correta.",
+      "B) Somente as afirmativas I e II estão corretas.",
+      "C) Todas as afirmativas estão corretas.",
+      "D) Somente as afirmativas I, II e III estão corretas.",
+      "E) Somente as afirmativas I, II e IV estão corretas."
+    ],
+    "correta": "E) Somente as afirmativas I, II e IV estão corretas.",
+    "id": "dppm-prova-019",
+    "numero_original": 19,
+    "id_banco_original": "dppm-119"
+  },
+  {
+    "topico_numero": 4,
+    "topico": "Inquérito Policial Militar: natureza, finalidade e instauração",
+    "tipo": "multipla_escolha",
+    "artigo": "CPPM — arts. 9º, 10 e 11",
+    "pergunta": "Sobre o Inquérito Policial Militar, analise: I — é a apuração sumária de fato que configure crime militar e de sua autoria; II — possui caráter de instrução provisória e visa fornecer elementos à ação penal; III — inicia-se mediante despacho da autoridade militar competente; IV — a designação do escrivão cabe exclusivamente ao encarregado. Assinale a alternativa correta.",
+    "comentario": "Resposta correta: A. I e II estão corretas. III está incorreta porque o IPM é iniciado mediante portaria; IV está incorreta porque a autoridade delegante também pode designar o escrivão.",
+    "palavras_chave": [
+      "natureza do IPM",
+      "portaria",
+      "escrivão"
+    ],
+    "nivel": "difícil",
+    "anulada": false,
+    "ativa": true,
+    "respondida": false,
+    "status": "ATIVA",
+    "fonte": "Avaliação fotografada; Decreto-Lei nº 1.002/1969 (Código de Processo Penal Militar, texto vigente).",
+    "lote_importacao": "avaliacao_fotografada_2026-08-01",
+    "opcoes": [
+      "A) As afirmativas III e IV estão incorretas.",
+      "B) Somente a afirmativa I está correta.",
+      "C) As afirmativas I, II e III estão corretas.",
+      "D) Todas as afirmativas estão corretas.",
+      "E) Todas as afirmativas estão incorretas."
+    ],
+    "correta": "A) As afirmativas III e IV estão incorretas.",
+    "id": "dppm-prova-020",
+    "numero_original": 20,
+    "id_banco_original": "dppm-120"
+  },
+  {
+    "topico_numero": 7,
+    "topico": "Ação penal militar, denúncia e arquivamento",
+    "tipo": "multipla_escolha",
+    "artigo": "CPPM — arts. 29, 30, 32 e 33",
+    "pergunta": "Sobre a ação penal militar, analise: I — a ação penal é pública e somente pode ser promovida por denúncia do Ministério Público Militar; II — a denúncia deve ser apresentada quando houver prova de fato que, em tese, constitua crime e indícios de autoria; III — apresentada a denúncia, o Ministério Público poderá desistir da ação penal se concluir que não há crime; IV — qualquer pessoa poderá provocar a iniciativa do Ministério Público, fornecendo informações e elementos de convicção. Assinale a alternativa correta.",
+    "comentario": "Resposta correta: B. Somente a afirmativa III está incorreta, pois, apresentada a denúncia, o Ministério Público não poderá desistir da ação penal.",
+    "palavras_chave": [
+      "ação penal militar",
+      "denúncia",
+      "indisponibilidade"
+    ],
+    "nivel": "médio",
+    "anulada": false,
+    "ativa": true,
+    "respondida": false,
+    "status": "ATIVA",
+    "fonte": "Avaliação fotografada; Decreto-Lei nº 1.002/1969 (Código de Processo Penal Militar, texto vigente).",
+    "lote_importacao": "avaliacao_fotografada_2026-08-01",
+    "opcoes": [
+      "A) Todas as afirmativas estão corretas.",
+      "B) Somente a afirmativa III está incorreta.",
+      "C) Somente as afirmativas I e IV estão corretas.",
+      "D) Somente a afirmativa I está incorreta.",
+      "E) Todas as afirmativas estão incorretas."
+    ],
+    "correta": "B) Somente a afirmativa III está incorreta.",
+    "id": "dppm-prova-021",
+    "numero_original": 21,
+    "id_banco_original": "dppm-121"
+  },
+  {
+    "topico_numero": 7,
+    "topico": "Ação penal militar, denúncia e arquivamento",
+    "tipo": "multipla_escolha",
+    "artigo": "CPPM — arts. 24, 25, 26 e 28",
+    "pergunta": "Sobre o IPM, analise: I — a autoridade militar poderá arquivar os autos se concluir pela inexistência de crime ou inimputabilidade; II — o arquivamento não impede novo inquérito se surgirem novas provas, ressalvados os limites legais; III — os autos jamais poderão ser devolvidos à autoridade policial militar; IV — o inquérito nunca poderá ser dispensado. Assinale a alternativa correta.",
+    "comentario": "Resposta correta: D. Somente a afirmativa II está correta. A autoridade militar não arquiva por conta própria; a devolução é admitida nas hipóteses do art. 26; e o IPM pode ser dispensado nas situações do art. 28.",
+    "palavras_chave": [
+      "arquivamento",
+      "novo inquérito",
+      "dispensa do IPM"
+    ],
+    "nivel": "difícil",
+    "anulada": false,
+    "ativa": true,
+    "respondida": false,
+    "status": "ATIVA",
+    "fonte": "Avaliação fotografada; Decreto-Lei nº 1.002/1969 (Código de Processo Penal Militar, texto vigente).",
+    "lote_importacao": "avaliacao_fotografada_2026-08-01",
+    "opcoes": [
+      "A) Todas as afirmativas estão corretas.",
+      "B) Somente a afirmativa I está correta.",
+      "C) Somente as afirmativas I e II estão incorretas.",
+      "D) Somente a afirmativa II está correta.",
+      "E) Somente a afirmativa IV está correta.",
+      "F) Todas as afirmativas estão incorretas."
+    ],
+    "correta": "D) Somente a afirmativa II está correta.",
+    "id": "dppm-prova-022",
+    "numero_original": 22,
+    "id_banco_original": "dppm-122"
+  },
+  {
+    "topico_numero": 5,
+    "topico": "Atores, hierarquia, sigilo e prazos do IPM",
+    "tipo": "multipla_escolha",
+    "artigo": "CPPM — art. 19",
+    "pergunta": "Salvo urgência inadiável registrada na assentada, em qual período as testemunhas e o indiciado devem ser ouvidos durante o IPM?",
+    "comentario": "Resposta correta: C. As oitivas devem ocorrer entre as sete e as dezoito horas.",
+    "palavras_chave": [
+      "oitiva",
+      "testemunha",
+      "sete às dezoito"
+    ],
+    "nivel": "fácil",
+    "anulada": false,
+    "ativa": true,
+    "respondida": false,
+    "status": "ATIVA",
+    "fonte": "Avaliação fotografada; Decreto-Lei nº 1.002/1969 (Código de Processo Penal Militar, texto vigente).",
+    "lote_importacao": "avaliacao_fotografada_2026-08-01",
+    "opcoes": [
+      "A) Das seis às dezoito horas.",
+      "B) Das oito às dezoito horas.",
+      "C) Das sete às dezoito horas.",
+      "D) Das sete às dezessete horas.",
+      "E) Das oito às dezessete horas."
+    ],
+    "correta": "C) Das sete às dezoito horas.",
+    "id": "dppm-prova-023",
+    "numero_original": 23,
+    "id_banco_original": "dppm-123"
+  },
+  {
+    "topico_numero": 4,
+    "topico": "Inquérito Policial Militar: natureza, finalidade e instauração",
+    "tipo": "resposta_curta",
+    "artigo": "CPPM — art. 10",
+    "pergunta": "Explique de quais formas o Inquérito Policial Militar pode ser iniciado.",
+    "comentario": "A resposta deve mencionar as hipóteses do art. 10 do CPPM.",
+    "palavras_chave": [
+      "instauração do IPM",
+      "portaria",
+      "art. 10"
+    ],
+    "nivel": "difícil",
+    "anulada": false,
+    "ativa": true,
+    "respondida": false,
+    "status": "ATIVA",
+    "fonte": "Avaliação fotografada; Decreto-Lei nº 1.002/1969 (Código de Processo Penal Militar, texto vigente).",
+    "lote_importacao": "avaliacao_fotografada_2026-08-01",
+    "respostas_aceitas": [
+      "de ofício determinação ou delegação de autoridade superior requisição do ministério público decisão do stm requerimento da parte ofendida sindicância",
+      "portaria de ofício autoridade superior ministério público superior tribunal militar parte ofendida sindicância"
+    ],
+    "resposta_modelo": "O IPM é iniciado mediante portaria: de ofício pela autoridade militar competente; por determinação ou delegação de autoridade militar superior; por requisição do Ministério Público; por decisão do Superior Tribunal Militar, nos termos legais; a requerimento da parte ofendida ou de seu representante, ou por representação de quem tenha conhecimento da infração; e quando sindicância realizada no âmbito militar revelar indício de infração penal militar.",
+    "id": "dppm-prova-024",
+    "numero_original": 24,
+    "id_banco_original": "dppm-124"
+  },
+  {
+    "topico_numero": 4,
+    "topico": "Inquérito Policial Militar: natureza, finalidade e instauração",
+    "tipo": "resposta_curta",
+    "artigo": "CPPM — arts. 9º, 10, 16, 21 e 24",
+    "pergunta": "Cite e comente as principais características do Inquérito Policial Militar.",
+    "comentario": "A resposta esperada reúne as sete características apresentadas no material fotografado.",
+    "palavras_chave": [
+      "características do IPM",
+      "sigiloso",
+      "inquisitivo",
+      "indisponível"
+    ],
+    "nivel": "difícil",
+    "anulada": false,
+    "ativa": true,
+    "respondida": false,
+    "status": "ATIVA",
+    "fonte": "Avaliação fotografada; Decreto-Lei nº 1.002/1969 (Código de Processo Penal Militar, texto vigente).",
+    "lote_importacao": "avaliacao_fotografada_2026-08-01",
+    "respostas_aceitas": [
+      "administrativo formal sigiloso inquisitivo autoridade oficiosidade indisponibilidade",
+      "administrativo escrito sigiloso inquisitivo autoridade competente de ofício não pode arquivar"
+    ],
+    "resposta_modelo": "O IPM é: administrativo, pois não é processo judicial e fornece elementos para a ação penal; formal, porque seus atos são documentados por escrito e reunidos em ordem; sigiloso, sem prejuízo dos direitos de acesso da defesa às provas documentadas; inquisitivo, porque a investigação se concentra na autoridade encarregada, sem o contraditório pleno próprio do processo; sujeito à autoridade competente, pois somente pode ser instaurado por quem detenha atribuição legal; oficioso, por poder iniciar-se independentemente de provocação nas hipóteses de ação pública; e indisponível para a autoridade policial militar, que não pode arquivar os autos por conta própria.",
+    "id": "dppm-prova-025",
+    "numero_original": 25,
+    "id_banco_original": "dppm-125"
+  }
+]
+I
