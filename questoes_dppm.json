@@ -34,3 +34,2841 @@
     "artigo": "Classificação doutrinária",
     "pergunta": "Todo crime propriamente militar possui figura equivalente no Código Penal comum, diferenciando-se apenas pela competência do órgão julgador.",
     "comentario": "Resposta correta: Falso. A afirmação está incorreta. O crime propriamente militar é caracterizado, em regra, por possuir previsão própria no CPM e por tutelar deveres tipicamente castrenses, como ocorre com a deserção e o motim. A existência de equivalente comum é característica associada ao crime impropriamente militar.",
+    "palavras_chave": [
+      "propriamente militar",
+      "sem equivalente comum",
+      "deserção"
+    ],
+    "nivel": "médio",
+    "anulada": false,
+    "ativa": true,
+    "respondida": false,
+    "status": "ATIVA",
+    "fonte": "Código Penal Militar (Decreto-Lei nº 1.001/1969, texto compilado); Lei nº 13.491/2017; Lei nº 14.688/2023; material_direito_militar.pdf; memorex_direito_penal_militar.pdf",
+    "opcoes": [
+      "Verdadeiro",
+      "Falso"
+    ],
+    "correta": "Falso"
+  },
+  {
+    "id": "dppm-003",
+    "numero_original": 3,
+    "topico_numero": 1,
+    "topico": "Fundamentos e classificação do crime militar",
+    "tipo": "verdadeiro_falso",
+    "artigo": "Classificação doutrinária",
+    "pergunta": "O homicídio pode configurar crime impropriamente militar quando, embora também previsto na legislação penal comum, for praticado em uma das circunstâncias previstas no art. 9º do CPM.",
+    "comentario": "Resposta correta: Verdadeiro. A afirmação está correta. O homicídio possui correspondência na legislação comum e no CPM. O contexto descrito no art. 9º pode atrair a natureza militar, sem prejuízo da regra constitucional de competência do Tribunal do Júri quando a vítima civil e o crime for doloso contra a vida.",
+    "palavras_chave": [
+      "impropriamente militar",
+      "homicídio",
+      "contexto"
+    ],
+    "nivel": "difícil",
+    "anulada": false,
+    "ativa": true,
+    "respondida": false,
+    "status": "ATIVA",
+    "fonte": "Código Penal Militar (Decreto-Lei nº 1.001/1969, texto compilado); Lei nº 13.491/2017; Lei nº 14.688/2023; material_direito_militar.pdf; memorex_direito_penal_militar.pdf",
+    "opcoes": [
+      "Verdadeiro",
+      "Falso"
+    ],
+    "correta": "Verdadeiro"
+  },
+  {
+    "id": "dppm-004",
+    "numero_original": 4,
+    "topico_numero": 1,
+    "topico": "Fundamentos e classificação do crime militar",
+    "tipo": "verdadeiro_falso",
+    "artigo": "CPM - art. 19",
+    "pergunta": "Uma transgressão disciplinar converte-se automaticamente em crime militar sempre que for praticada no interior de uma organização militar.",
+    "comentario": "Resposta correta: Falso. A afirmação está incorreta. O CPM não se confunde com os regulamentos disciplinares. A infração disciplinar somente terá repercussão penal quando a conduta também preencher um tipo penal e as condições legais de incidência.",
+    "palavras_chave": [
+      "transgressão disciplinar",
+      "tipicidade",
+      "art. 19"
+    ],
+    "nivel": "médio",
+    "anulada": false,
+    "ativa": true,
+    "respondida": false,
+    "status": "ATIVA",
+    "fonte": "Código Penal Militar (Decreto-Lei nº 1.001/1969, texto compilado); Lei nº 13.491/2017; Lei nº 14.688/2023; material_direito_militar.pdf; memorex_direito_penal_militar.pdf",
+    "opcoes": [
+      "Verdadeiro",
+      "Falso"
+    ],
+    "correta": "Falso"
+  },
+  {
+    "id": "dppm-005",
+    "numero_original": 5,
+    "topico_numero": 1,
+    "topico": "Fundamentos e classificação do crime militar",
+    "tipo": "multipla_escolha",
+    "artigo": "Classificação doutrinária",
+    "pergunta": "Assinale a alternativa que diferencia corretamente crimes propriamente militares, impropriamente militares e militares por extensão:",
+    "comentario": "Resposta correta: Propriamente militares possuem natureza tipicamente castrense; impropriamente militares têm correspondência na legislação comum; por extensão estão previstos apenas na legislação penal comum, mas tornam-se militares nas circunstâncias legais. A classificação considera a origem do tipo penal e a natureza da conduta. A Lei nº 13.491/2017 permitiu que delitos previstos apenas na legislação penal comum fossem considerados militares quando enquadrados no art. 9º.",
+    "palavras_chave": [
+      "próprio",
+      "impróprio",
+      "por extensão"
+    ],
+    "nivel": "médio",
+    "anulada": false,
+    "ativa": true,
+    "respondida": false,
+    "status": "ATIVA",
+    "fonte": "Código Penal Militar (Decreto-Lei nº 1.001/1969, texto compilado); Lei nº 13.491/2017; Lei nº 14.688/2023; material_direito_militar.pdf; memorex_direito_penal_militar.pdf",
+    "opcoes": [
+      "Propriamente militares são apenas os crimes praticados em quartel; impropriamente militares são os praticados em serviço; por extensão são os praticados em guerra.",
+      "Propriamente militares possuem natureza tipicamente castrense; impropriamente militares têm correspondência na legislação comum; por extensão estão previstos apenas na legislação penal comum, mas tornam-se militares nas circunstâncias legais.",
+      "Propriamente militares podem ser praticados somente por civis; impropriamente militares somente por oficiais; por extensão somente por praças.",
+      "As três categorias são sinônimas e produzem apenas diferenças administrativas."
+    ],
+    "correta": "Propriamente militares possuem natureza tipicamente castrense; impropriamente militares têm correspondência na legislação comum; por extensão estão previstos apenas na legislação penal comum, mas tornam-se militares nas circunstâncias legais."
+  },
+  {
+    "id": "dppm-006",
+    "numero_original": 6,
+    "topico_numero": 1,
+    "topico": "Fundamentos e classificação do crime militar",
+    "tipo": "multipla_escolha",
+    "artigo": "Critérios de classificação",
+    "pergunta": "Um delito é analisado principalmente em razão da qualidade militar dos sujeitos envolvidos. Qual critério está sendo empregado?",
+    "comentario": "Resposta correta: Ratione personae. Ratione personae considera a qualidade das pessoas envolvidas, como na hipótese de militar da ativa contra militar na mesma situação.",
+    "palavras_chave": [
+      "ratione personae",
+      "qualidade do sujeito",
+      "militar da ativa"
+    ],
+    "nivel": "fácil",
+    "anulada": false,
+    "ativa": true,
+    "respondida": false,
+    "status": "ATIVA",
+    "fonte": "Código Penal Militar (Decreto-Lei nº 1.001/1969, texto compilado); Lei nº 13.491/2017; Lei nº 14.688/2023; material_direito_militar.pdf; memorex_direito_penal_militar.pdf",
+    "opcoes": [
+      "Ratione loci.",
+      "Ratione temporis.",
+      "Ratione personae.",
+      "Ratione materiae exclusivamente patrimonial."
+    ],
+    "correta": "Ratione personae."
+  },
+  {
+    "id": "dppm-007",
+    "numero_original": 7,
+    "topico_numero": 1,
+    "topico": "Fundamentos e classificação do crime militar",
+    "tipo": "multipla_escolha",
+    "artigo": "Critérios de classificação",
+    "pergunta": "A incidência da lei penal militar fundada no fato de a infração ter ocorrido em lugar sujeito à administração militar corresponde ao critério:",
+    "comentario": "Resposta correta: Ratione loci. Ratione loci utiliza o lugar da infração como elemento de conexão, observadas as demais condições expressamente previstas no art. 9º.",
+    "palavras_chave": [
+      "ratione loci",
+      "lugar",
+      "administração militar"
+    ],
+    "nivel": "fácil",
+    "anulada": false,
+    "ativa": true,
+    "respondida": false,
+    "status": "ATIVA",
+    "fonte": "Código Penal Militar (Decreto-Lei nº 1.001/1969, texto compilado); Lei nº 13.491/2017; Lei nº 14.688/2023; material_direito_militar.pdf; memorex_direito_penal_militar.pdf",
+    "opcoes": [
+      "Ratione loci.",
+      "Ratione temporis.",
+      "Ratione poenae.",
+      "Ratione valoris."
+    ],
+    "correta": "Ratione loci."
+  },
+  {
+    "id": "dppm-008",
+    "numero_original": 8,
+    "topico_numero": 1,
+    "topico": "Fundamentos e classificação do crime militar",
+    "tipo": "multipla_escolha",
+    "artigo": "CPM - arts. 12 e 13",
+    "pergunta": "Sobre militares da reserva ou reformados, assinale a alternativa correta:",
+    "comentario": "Resposta correta: Podem submeter-se à lei penal militar nas hipóteses legais, inclusive quando empregados na administração militar ou quando praticam ou sofrem crime militar. O CPM disciplina hipóteses específicas de equiparação e conserva responsabilidades e prerrogativas para fins de aplicação da lei penal militar, sem criar equiparação geral para todos os atos privados.",
+    "palavras_chave": [
+      "reserva",
+      "reformado",
+      "equiparação"
+    ],
+    "nivel": "difícil",
+    "anulada": false,
+    "ativa": true,
+    "respondida": false,
+    "status": "ATIVA",
+    "fonte": "Código Penal Militar (Decreto-Lei nº 1.001/1969, texto compilado); Lei nº 13.491/2017; Lei nº 14.688/2023; material_direito_militar.pdf; memorex_direito_penal_militar.pdf",
+    "opcoes": [
+      "Jamais se submetem à lei penal militar após a passagem para a inatividade.",
+      "Equiparam-se automaticamente ao militar da ativa para qualquer fato da vida privada.",
+      "Podem submeter-se à lei penal militar nas hipóteses legais, inclusive quando empregados na administração militar ou quando praticam ou sofrem crime militar.",
+      "Somente respondem perante a Justiça Militar se retornarem definitivamente ao serviço ativo."
+    ],
+    "correta": "Podem submeter-se à lei penal militar nas hipóteses legais, inclusive quando empregados na administração militar ou quando praticam ou sofrem crime militar."
+  },
+  {
+    "id": "dppm-009",
+    "numero_original": 9,
+    "topico_numero": 1,
+    "topico": "Fundamentos e classificação do crime militar",
+    "tipo": "relacionar",
+    "artigo": "Classificação doutrinária",
+    "pergunta": "Relacione as categorias de crime militar às respectivas descrições. Para cada item da Coluna B, informe o número do item correspondente da Coluna A.",
+    "comentario": "Gabarito da Coluna B: 3, 4, 1, 2. Por extensão = legislação comum atraída pelo art. 9º; infração disciplinar exige tipicidade para repercussão penal; propriamente militar = dever castrense; impropriamente militar = figura com correspondência comum.",
+    "palavras_chave": [
+      "classificação",
+      "tipicidade",
+      "extensão"
+    ],
+    "nivel": "difícil",
+    "anulada": false,
+    "ativa": true,
+    "respondida": false,
+    "status": "ATIVA",
+    "fonte": "Código Penal Militar (Decreto-Lei nº 1.001/1969, texto compilado); Lei nº 13.491/2017; Lei nº 14.688/2023; material_direito_militar.pdf; memorex_direito_penal_militar.pdf",
+    "coluna_a": [
+      "Crime propriamente militar",
+      "Crime impropriamente militar",
+      "Crime militar por extensão",
+      "Infração disciplinar"
+    ],
+    "coluna_b": [
+      "Conduta prevista apenas na legislação penal comum que adquire natureza militar nas circunstâncias do art. 9º",
+      "Violação administrativa que não se transforma em crime sem tipificação penal",
+      "Conduta de natureza tipicamente castrense, como deserção ou motim",
+      "Conduta também conhecida pelo direito penal comum, atraída ao âmbito militar pelo contexto legal"
+    ],
+    "correta": "3, 4, 1, 2"
+  },
+  {
+    "id": "dppm-010",
+    "numero_original": 10,
+    "topico_numero": 1,
+    "topico": "Fundamentos e classificação do crime militar",
+    "tipo": "relacionar",
+    "artigo": "Critérios de incidência",
+    "pergunta": "Relacione cada critério de classificação à situação apresentada. Para cada item da Coluna B, informe o número do item correspondente da Coluna A.",
+    "comentario": "Gabarito da Coluna B: 1, 2, 3, 4. Legis = lei; personae = pessoas; loci = lugar; temporis = tempo.",
+    "palavras_chave": [
+      "legis",
+      "personae",
+      "loci",
+      "temporis"
+    ],
+    "nivel": "médio",
+    "anulada": false,
+    "ativa": true,
+    "respondida": false,
+    "status": "ATIVA",
+    "fonte": "Código Penal Militar (Decreto-Lei nº 1.001/1969, texto compilado); Lei nº 13.491/2017; Lei nº 14.688/2023; material_direito_militar.pdf; memorex_direito_penal_militar.pdf",
+    "coluna_a": [
+      "Ratione legis",
+      "Ratione personae",
+      "Ratione loci",
+      "Ratione temporis"
+    ],
+    "coluna_b": [
+      "Definição do crime militar conforme as hipóteses estabelecidas em lei",
+      "Análise da qualidade militar dos sujeitos envolvidos",
+      "Consideração do local sujeito à administração militar",
+      "Distinção entre crimes praticados em tempo de paz e em tempo de guerra"
+    ],
+    "correta": "1, 2, 3, 4"
+  },
+  {
+    "id": "dppm-011",
+    "numero_original": 11,
+    "topico_numero": 2,
+    "topico": "Hipóteses do art. 9º e crimes militares por extensão",
+    "tipo": "verdadeiro_falso",
+    "artigo": "CPM - art. 9º, II, a",
+    "pergunta": "O crime previsto no CPM ou na legislação penal pode ser considerado militar quando praticado por militar da ativa contra militar na mesma situação, ainda que o fato ocorra fora de quartel.",
+    "comentario": "Resposta correta: Verdadeiro. A afirmação está correta. A alínea 'a' utiliza a condição dos sujeitos como elemento de conexão e não exige que o fato ocorra em área militar.",
+    "palavras_chave": [
+      "ativa contra ativa",
+      "independe do local",
+      "art. 9º II a"
+    ],
+    "nivel": "médio",
+    "anulada": false,
+    "ativa": true,
+    "respondida": false,
+    "status": "ATIVA",
+    "fonte": "Código Penal Militar (Decreto-Lei nº 1.001/1969, texto compilado); Lei nº 13.491/2017; Lei nº 14.688/2023; material_direito_militar.pdf; memorex_direito_penal_militar.pdf",
+    "opcoes": [
+      "Verdadeiro",
+      "Falso"
+    ],
+    "correta": "Verdadeiro"
+  },
+  {
+    "id": "dppm-012",
+    "numero_original": 12,
+    "topico_numero": 2,
+    "topico": "Hipóteses do art. 9º e crimes militares por extensão",
+    "tipo": "verdadeiro_falso",
+    "artigo": "CPM - art. 9º, II, b",
+    "pergunta": "Qualquer infração praticada dentro de um quartel será necessariamente crime militar, independentemente da qualidade do agente, da vítima e do bem jurídico atingido.",
+    "comentario": "Resposta correta: Falso. A afirmação está incorreta. O lugar sujeito à administração militar é relevante, mas deve ser conjugado com as hipóteses legais. A mera localização física não substitui a análise completa do art. 9º.",
+    "palavras_chave": [
+      "quartel",
+      "não é automático",
+      "hipótese legal"
+    ],
+    "nivel": "difícil",
+    "anulada": false,
+    "ativa": true,
+    "respondida": false,
+    "status": "ATIVA",
+    "fonte": "Código Penal Militar (Decreto-Lei nº 1.001/1969, texto compilado); Lei nº 13.491/2017; Lei nº 14.688/2023; material_direito_militar.pdf; memorex_direito_penal_militar.pdf",
+    "opcoes": [
+      "Verdadeiro",
+      "Falso"
+    ],
+    "correta": "Falso"
+  },
+  {
+    "id": "dppm-013",
+    "numero_original": 13,
+    "topico_numero": 2,
+    "topico": "Hipóteses do art. 9º e crimes militares por extensão",
+    "tipo": "verdadeiro_falso",
+    "artigo": "CPM - art. 9º, II, c",
+    "pergunta": "A conduta de militar em serviço ou atuando em razão da função pode configurar crime militar mesmo quando praticada fora de lugar sujeito à administração militar.",
+    "comentario": "Resposta correta: Verdadeiro. A afirmação está correta. O nexo funcional permite a incidência da lei penal militar fora do quartel quando o militar atua em serviço, em razão da função, em comissão militar ou em formatura, contra as pessoas indicadas na lei.",
+    "palavras_chave": [
+      "serviço",
+      "razão da função",
+      "fora do quartel"
+    ],
+    "nivel": "médio",
+    "anulada": false,
+    "ativa": true,
+    "respondida": false,
+    "status": "ATIVA",
+    "fonte": "Código Penal Militar (Decreto-Lei nº 1.001/1969, texto compilado); Lei nº 13.491/2017; Lei nº 14.688/2023; material_direito_militar.pdf; memorex_direito_penal_militar.pdf",
+    "opcoes": [
+      "Verdadeiro",
+      "Falso"
+    ],
+    "correta": "Verdadeiro"
+  },
+  {
+    "id": "dppm-014",
+    "numero_original": 14,
+    "topico_numero": 2,
+    "topico": "Hipóteses do art. 9º e crimes militares por extensão",
+    "tipo": "verdadeiro_falso",
+    "artigo": "CPM - art. 9º",
+    "pergunta": "O simples uso de arma pertencente à corporação constitui, isoladamente, hipótese autônoma e suficiente para transformar todo delito comum praticado de folga em crime militar.",
+    "comentario": "Resposta correta: Falso. A afirmação está incorreta. O art. 9º não apresenta o simples uso de armamento como cláusula autônoma e universal. O fato deve ser enquadrado em uma das hipóteses legais, como serviço, razão da função, ofensa ao patrimônio ou à ordem administrativa militar.",
+    "palavras_chave": [
+      "arma da corporação",
+      "não basta isoladamente",
+      "enquadramento"
+    ],
+    "nivel": "difícil",
+    "anulada": false,
+    "ativa": true,
+    "respondida": false,
+    "status": "ATIVA",
+    "fonte": "Código Penal Militar (Decreto-Lei nº 1.001/1969, texto compilado); Lei nº 13.491/2017; Lei nº 14.688/2023; material_direito_militar.pdf; memorex_direito_penal_militar.pdf",
+    "opcoes": [
+      "Verdadeiro",
+      "Falso"
+    ],
+    "correta": "Falso"
+  },
+  {
+    "id": "dppm-015",
+    "numero_original": 15,
+    "topico_numero": 2,
+    "topico": "Hipóteses do art. 9º e crimes militares por extensão",
+    "tipo": "multipla_escolha",
+    "artigo": "CPM - art. 9º, II, a",
+    "pergunta": "Dois policiais militares da ativa, ambos de folga, envolvem-se em uma agressão intencional em residência particular. Para a análise inicial da natureza militar do fato, qual circunstância do art. 9º é especialmente relevante?",
+    "comentario": "Resposta correta: A condição de militar da ativa de ambos os envolvidos. A hipótese ratione personae do art. 9º, II, 'a', considera o fato praticado por militar da ativa contra militar na mesma situação.",
+    "palavras_chave": [
+      "dois militares da ativa",
+      "folga",
+      "ratione personae"
+    ],
+    "nivel": "difícil",
+    "anulada": false,
+    "ativa": true,
+    "respondida": false,
+    "status": "ATIVA",
+    "fonte": "Código Penal Militar (Decreto-Lei nº 1.001/1969, texto compilado); Lei nº 13.491/2017; Lei nº 14.688/2023; material_direito_militar.pdf; memorex_direito_penal_militar.pdf",
+    "opcoes": [
+      "O valor econômico do imóvel onde ocorreu o fato.",
+      "A condição de militar da ativa de ambos os envolvidos.",
+      "A existência de ordem judicial anterior.",
+      "O uso obrigatório de uniforme."
+    ],
+    "correta": "A condição de militar da ativa de ambos os envolvidos."
+  },
+  {
+    "id": "dppm-016",
+    "numero_original": 16,
+    "topico_numero": 2,
+    "topico": "Hipóteses do art. 9º e crimes militares por extensão",
+    "tipo": "multipla_escolha",
+    "artigo": "CPM - art. 9º, II, b",
+    "pergunta": "Um militar da ativa pratica furto contra um civil no interior de área sujeita à administração militar. Qual elemento de conexão está diretamente presente?",
+    "comentario": "Resposta correta: Ratione loci, pela ocorrência em lugar sujeito à administração militar. A situação descreve a hipótese do art. 9º, II, 'b', que combina militar da ativa, lugar sujeito à administração militar e vítima civil, da reserva ou reformada.",
+    "palavras_chave": [
+      "lugar sujeito",
+      "civil",
+      "art. 9º II b"
+    ],
+    "nivel": "médio",
+    "anulada": false,
+    "ativa": true,
+    "respondida": false,
+    "status": "ATIVA",
+    "fonte": "Código Penal Militar (Decreto-Lei nº 1.001/1969, texto compilado); Lei nº 13.491/2017; Lei nº 14.688/2023; material_direito_militar.pdf; memorex_direito_penal_militar.pdf",
+    "opcoes": [
+      "Ratione loci, pela ocorrência em lugar sujeito à administração militar.",
+      "Ratione temporis, porque todo quartel é considerado tempo de guerra.",
+      "Ratione poenae, pelo valor da pena abstrata.",
+      "Competência automática do Tribunal do Júri."
+    ],
+    "correta": "Ratione loci, pela ocorrência em lugar sujeito à administração militar."
+  },
+  {
+    "id": "dppm-017",
+    "numero_original": 17,
+    "topico_numero": 2,
+    "topico": "Hipóteses do art. 9º e crimes militares por extensão",
+    "tipo": "multipla_escolha",
+    "artigo": "Lei nº 13.491/2017",
+    "pergunta": "Qual situação exemplifica corretamente um possível crime militar por extensão?",
+    "comentario": "Resposta correta: Abuso de autoridade previsto em lei especial, praticado por militar em serviço e enquadrado no art. 9º do CPM. O crime por extensão está previsto apenas na legislação penal comum ou especial, mas pode receber natureza militar quando praticado em circunstância legal do art. 9º.",
+    "palavras_chave": [
+      "Lei 13.491",
+      "abuso de autoridade",
+      "extensão"
+    ],
+    "nivel": "difícil",
+    "anulada": false,
+    "ativa": true,
+    "respondida": false,
+    "status": "ATIVA",
+    "fonte": "Código Penal Militar (Decreto-Lei nº 1.001/1969, texto compilado); Lei nº 13.491/2017; Lei nº 14.688/2023; material_direito_militar.pdf; memorex_direito_penal_militar.pdf",
+    "opcoes": [
+      "Deserção, porque é prevista apenas no Código Penal comum.",
+      "Abuso de autoridade previsto em lei especial, praticado por militar em serviço e enquadrado no art. 9º do CPM.",
+      "Qualquer contravenção praticada por civil em via pública, sem vínculo com instituição militar.",
+      "Infração exclusivamente disciplinar, ainda que não exista tipo penal."
+    ],
+    "correta": "Abuso de autoridade previsto em lei especial, praticado por militar em serviço e enquadrado no art. 9º do CPM."
+  },
+  {
+    "id": "dppm-018",
+    "numero_original": 18,
+    "topico_numero": 2,
+    "topico": "Hipóteses do art. 9º e crimes militares por extensão",
+    "tipo": "multipla_escolha",
+    "artigo": "CPM - art. 9º, II, e",
+    "pergunta": "Um militar da ativa adultera documento de controle de munição pertencente à sua unidade, atingindo diretamente a regularidade administrativa militar. A hipótese se aproxima de:",
+    "comentario": "Resposta correta: Crime contra patrimônio sob administração militar ou contra a ordem administrativa militar. O art. 9º, II, 'e', alcança o crime praticado por militar da ativa contra patrimônio sob administração militar ou contra a ordem administrativa militar.",
+    "palavras_chave": [
+      "ordem administrativa militar",
+      "patrimônio",
+      "documento"
+    ],
+    "nivel": "difícil",
+    "anulada": false,
+    "ativa": true,
+    "respondida": false,
+    "status": "ATIVA",
+    "fonte": "Código Penal Militar (Decreto-Lei nº 1.001/1969, texto compilado); Lei nº 13.491/2017; Lei nº 14.688/2023; material_direito_militar.pdf; memorex_direito_penal_militar.pdf",
+    "opcoes": [
+      "Crime contra patrimônio sob administração militar ou contra a ordem administrativa militar.",
+      "Crime eleitoral sem qualquer conexão militar.",
+      "Infração exclusivamente civil por ocorrer em documento.",
+      "Competência necessária do Tribunal do Júri."
+    ],
+    "correta": "Crime contra patrimônio sob administração militar ou contra a ordem administrativa militar."
+  },
+  {
+    "id": "dppm-019",
+    "numero_original": 19,
+    "topico_numero": 2,
+    "topico": "Hipóteses do art. 9º e crimes militares por extensão",
+    "tipo": "relacionar",
+    "artigo": "CPM - art. 9º, II",
+    "pergunta": "Relacione as hipóteses legais às situações práticas. Para cada item da Coluna B, informe o número do item correspondente da Coluna A.",
+    "comentario": "Gabarito da Coluna B: 1, 2, 3, 4. A sequência acompanha as alíneas 'a', 'b', 'c' e 'e' do art. 9º, II.",
+    "palavras_chave": [
+      "art. 9º",
+      "hipóteses",
+      "nexo funcional"
+    ],
+    "nivel": "difícil",
+    "anulada": false,
+    "ativa": true,
+    "respondida": false,
+    "status": "ATIVA",
+    "fonte": "Código Penal Militar (Decreto-Lei nº 1.001/1969, texto compilado); Lei nº 13.491/2017; Lei nº 14.688/2023; material_direito_militar.pdf; memorex_direito_penal_militar.pdf",
+    "coluna_a": [
+      "Militar da ativa contra militar na mesma situação",
+      "Militar da ativa em lugar sujeito à administração militar contra civil, reserva ou reformado",
+      "Militar em serviço ou em razão da função",
+      "Militar da ativa contra patrimônio ou ordem administrativa militar"
+    ],
+    "coluna_b": [
+      "Agressão entre dois militares da ativa em ambiente particular",
+      "Delito cometido contra civil dentro de instalação militar",
+      "Abuso praticado durante atendimento funcional fora do quartel",
+      "Fraude em controle patrimonial da unidade"
+    ],
+    "correta": "1, 2, 3, 4"
+  },
+  {
+    "id": "dppm-020",
+    "numero_original": 20,
+    "topico_numero": 2,
+    "topico": "Hipóteses do art. 9º e crimes militares por extensão",
+    "tipo": "relacionar",
+    "artigo": "Crimes militares por extensão",
+    "pergunta": "Relacione o delito previsto na legislação comum ao contexto capaz de atrair a análise militar. Para cada item da Coluna B, informe o número do item correspondente da Coluna A.",
+    "comentario": "Gabarito da Coluna B: 1, 2, 3, 4. O enquadramento como crime militar por extensão não decorre apenas do nome do delito: exige uma circunstância do art. 9º.",
+    "palavras_chave": [
+      "abuso",
+      "tortura",
+      "drogas",
+      "licitação"
+    ],
+    "nivel": "difícil",
+    "anulada": false,
+    "ativa": true,
+    "respondida": false,
+    "status": "ATIVA",
+    "fonte": "Código Penal Militar (Decreto-Lei nº 1.001/1969, texto compilado); Lei nº 13.491/2017; Lei nº 14.688/2023; material_direito_militar.pdf; memorex_direito_penal_militar.pdf",
+    "coluna_a": [
+      "Abuso de autoridade",
+      "Tortura",
+      "Crime da Lei de Drogas",
+      "Crime em licitação"
+    ],
+    "coluna_b": [
+      "Violação funcional praticada por militar em serviço",
+      "Constrangimento ilícito durante ato investigativo militar",
+      "Posse ou tráfico em área sujeita à administração militar",
+      "Fraude em procedimento de contratação de instituição militar"
+    ],
+    "correta": "1, 2, 3, 4"
+  },
+  {
+    "id": "dppm-021",
+    "numero_original": 21,
+    "topico_numero": 3,
+    "topico": "Competência: JME, JMU e Tribunal do Júri",
+    "tipo": "verdadeiro_falso",
+    "artigo": "Constituição Federal - art. 125, § 4º",
+    "pergunta": "A Justiça Militar estadual possui competência constitucional para processar e julgar civis que pratiquem crime contra o patrimônio de uma Polícia Militar estadual.",
+    "comentario": "Resposta correta: Falso. A afirmação está incorreta. A Justiça Militar estadual processa e julga os militares dos Estados nos crimes militares definidos em lei. Civis não são julgados pela JME.",
+    "palavras_chave": [
+      "JME",
+      "não julga civil",
+      "art. 125 §4º"
+    ],
+    "nivel": "médio",
+    "anulada": false,
+    "ativa": true,
+    "respondida": false,
+    "status": "ATIVA",
+    "fonte": "Constituição Federal, art. 125, §§ 3º a 5º; CPM, art. 9º; Lei nº 8.457/1992; material_direito_militar.pdf",
+    "opcoes": [
+      "Verdadeiro",
+      "Falso"
+    ],
+    "correta": "Falso"
+  },
+  {
+    "id": "dppm-022",
+    "numero_original": 22,
+    "topico_numero": 3,
+    "topico": "Competência: JME, JMU e Tribunal do Júri",
+    "tipo": "verdadeiro_falso",
+    "artigo": "CPM - art. 9º, § 1º; Constituição Federal",
+    "pergunta": "O homicídio doloso contra a vida de civil praticado por policial ou bombeiro militar estadual submete-se, como regra, à competência do Tribunal do Júri.",
+    "comentario": "Resposta correta: Verdadeiro. A afirmação está correta. A Constituição preserva a competência do Júri quando a vítima for civil, e o CPM estabelece a remessa dos crimes dolosos contra a vida de civil praticados por militares ao Tribunal do Júri, ressalvadas as hipóteses legais específicas das Forças Armadas.",
+    "palavras_chave": [
+      "homicídio doloso",
+      "civil",
+      "Tribunal do Júri"
+    ],
+    "nivel": "médio",
+    "anulada": false,
+    "ativa": true,
+    "respondida": false,
+    "status": "ATIVA",
+    "fonte": "Constituição Federal, art. 125, §§ 3º a 5º; CPM, art. 9º; Lei nº 8.457/1992; material_direito_militar.pdf",
+    "opcoes": [
+      "Verdadeiro",
+      "Falso"
+    ],
+    "correta": "Verdadeiro"
+  },
+  {
+    "id": "dppm-023",
+    "numero_original": 23,
+    "topico_numero": 3,
+    "topico": "Competência: JME, JMU e Tribunal do Júri",
+    "tipo": "verdadeiro_falso",
+    "artigo": "CPM - art. 9º, § 2º",
+    "pergunta": "Todo homicídio doloso contra civil praticado por integrante das Forças Armadas será necessariamente julgado pelo Tribunal do Júri, ainda que cometido em operação de Garantia da Lei e da Ordem legalmente autorizada.",
+    "comentario": "Resposta correta: Falso. A afirmação está incorreta. O § 2º do art. 9º prevê situações em que o crime doloso contra a vida de civil praticado por militar das Forças Armadas permanece na JMU, como em atividade de natureza militar, GLO, operação de paz ou atribuição legal específica.",
+    "palavras_chave": [
+      "Forças Armadas",
+      "GLO",
+      "exceção ao Júri"
+    ],
+    "nivel": "difícil",
+    "anulada": false,
+    "ativa": true,
+    "respondida": false,
+    "status": "ATIVA",
+    "fonte": "Constituição Federal, art. 125, §§ 3º a 5º; CPM, art. 9º; Lei nº 8.457/1992; material_direito_militar.pdf",
+    "opcoes": [
+      "Verdadeiro",
+      "Falso"
+    ],
+    "correta": "Falso"
+  },
+  {
+    "id": "dppm-024",
+    "numero_original": 24,
+    "topico_numero": 3,
+    "topico": "Competência: JME, JMU e Tribunal do Júri",
+    "tipo": "verdadeiro_falso",
+    "artigo": "Constituição Federal - art. 125, § 5º",
+    "pergunta": "Na Justiça Militar estadual, o juiz de direito do juízo militar julga singularmente os crimes militares cometidos contra civis e as ações judiciais contra atos disciplinares militares, ressalvada a competência constitucional do Júri.",
+    "comentario": "Resposta correta: Verdadeiro. A afirmação está correta. A Constituição separa a atuação singular do juiz de direito e a competência colegiada do Conselho de Justiça para os demais crimes militares.",
+    "palavras_chave": [
+      "juiz singular",
+      "crime contra civil",
+      "ato disciplinar"
+    ],
+    "nivel": "difícil",
+    "anulada": false,
+    "ativa": true,
+    "respondida": false,
+    "status": "ATIVA",
+    "fonte": "Constituição Federal, art. 125, §§ 3º a 5º; CPM, art. 9º; Lei nº 8.457/1992; material_direito_militar.pdf",
+    "opcoes": [
+      "Verdadeiro",
+      "Falso"
+    ],
+    "correta": "Verdadeiro"
+  },
+  {
+    "id": "dppm-025",
+    "numero_original": 25,
+    "topico_numero": 3,
+    "topico": "Competência: JME, JMU e Tribunal do Júri",
+    "tipo": "multipla_escolha",
+    "artigo": "Lei nº 8.457/1992 - art. 30",
+    "pergunta": "Na Justiça Militar da União, quem processa e julga monocraticamente os civis nas hipóteses legais do art. 9º do CPM?",
+    "comentario": "Resposta correta: O juiz federal da Justiça Militar. Após a Lei nº 13.774/2018, a Lei nº 8.457/1992 atribui ao juiz federal da Justiça Militar o julgamento monocrático de civis nas hipóteses legais.",
+    "palavras_chave": [
+      "civil na JMU",
+      "juiz federal",
+      "monocrático"
+    ],
+    "nivel": "difícil",
+    "anulada": false,
+    "ativa": true,
+    "respondida": false,
+    "status": "ATIVA",
+    "fonte": "Constituição Federal, art. 125, §§ 3º a 5º; CPM, art. 9º; Lei nº 8.457/1992; material_direito_militar.pdf",
+    "opcoes": [
+      "O Conselho Permanente de Justiça.",
+      "O Conselho Especial de Justiça.",
+      "O juiz federal da Justiça Militar.",
+      "O Tribunal do Júri militar."
+    ],
+    "correta": "O juiz federal da Justiça Militar."
+  },
+  {
+    "id": "dppm-026",
+    "numero_original": 26,
+    "topico_numero": 3,
+    "topico": "Competência: JME, JMU e Tribunal do Júri",
+    "tipo": "multipla_escolha",
+    "artigo": "Lei nº 8.457/1992 - art. 27",
+    "pergunta": "Na Justiça Militar da União, qual órgão processa e julga, em regra, oficiais que não sejam oficiais-generais?",
+    "comentario": "Resposta correta: Conselho Especial de Justiça. O Conselho Especial julga oficiais, excetuados os oficiais-generais, cuja competência segue disciplina própria.",
+    "palavras_chave": [
+      "Conselho Especial",
+      "oficiais",
+      "JMU"
+    ],
+    "nivel": "médio",
+    "anulada": false,
+    "ativa": true,
+    "respondida": false,
+    "status": "ATIVA",
+    "fonte": "Constituição Federal, art. 125, §§ 3º a 5º; CPM, art. 9º; Lei nº 8.457/1992; material_direito_militar.pdf",
+    "opcoes": [
+      "Conselho Especial de Justiça.",
+      "Conselho Permanente de Justiça.",
+      "Tribunal do Júri.",
+      "Juizado Especial Criminal Militar."
+    ],
+    "correta": "Conselho Especial de Justiça."
+  },
+  {
+    "id": "dppm-027",
+    "numero_original": 27,
+    "topico_numero": 3,
+    "topico": "Competência: JME, JMU e Tribunal do Júri",
+    "tipo": "multipla_escolha",
+    "artigo": "Lei nº 8.457/1992 - art. 27",
+    "pergunta": "Na Justiça Militar da União, qual órgão processa e julga militares que não sejam oficiais?",
+    "comentario": "Resposta correta: Conselho Permanente de Justiça. O Conselho Permanente é competente para militares não oficiais, enquanto o Especial julga oficiais, salvo as exceções legais.",
+    "palavras_chave": [
+      "Conselho Permanente",
+      "praças",
+      "não oficiais"
+    ],
+    "nivel": "médio",
+    "anulada": false,
+    "ativa": true,
+    "respondida": false,
+    "status": "ATIVA",
+    "fonte": "Constituição Federal, art. 125, §§ 3º a 5º; CPM, art. 9º; Lei nº 8.457/1992; material_direito_militar.pdf",
+    "opcoes": [
+      "Conselho Especial de Justiça.",
+      "Conselho Permanente de Justiça.",
+      "Superior Tribunal de Justiça.",
+      "Tribunal do Júri estadual."
+    ],
+    "correta": "Conselho Permanente de Justiça."
+  },
+  {
+    "id": "dppm-028",
+    "numero_original": 28,
+    "topico_numero": 3,
+    "topico": "Competência: JME, JMU e Tribunal do Júri",
+    "tipo": "multipla_escolha",
+    "artigo": "Constituição Federal - art. 5º, XLVII",
+    "pergunta": "Sobre a pena de morte no sistema militar brasileiro, assinale a alternativa correta:",
+    "comentario": "Resposta correta: É admitida constitucionalmente apenas em caso de guerra declarada, nos termos da Constituição. A Constituição proíbe a pena de morte, salvo em caso de guerra declarada. Essa exceção não autoriza sua aplicação ordinária pela Justiça Militar estadual.",
+    "palavras_chave": [
+      "pena de morte",
+      "guerra declarada",
+      "exceção constitucional"
+    ],
+    "nivel": "médio",
+    "anulada": false,
+    "ativa": true,
+    "respondida": false,
+    "status": "ATIVA",
+    "fonte": "Constituição Federal, art. 125, §§ 3º a 5º; CPM, art. 9º; Lei nº 8.457/1992; material_direito_militar.pdf",
+    "opcoes": [
+      "Pode ser aplicada pela Justiça Militar estadual em crimes disciplinares graves.",
+      "É vedada em qualquer circunstância.",
+      "É admitida constitucionalmente apenas em caso de guerra declarada, nos termos da Constituição.",
+      "Pode ser criada por regulamento interno de cada corporação."
+    ],
+    "correta": "É admitida constitucionalmente apenas em caso de guerra declarada, nos termos da Constituição."
+  },
+  {
+    "id": "dppm-029",
+    "numero_original": 29,
+    "topico_numero": 3,
+    "topico": "Competência: JME, JMU e Tribunal do Júri",
+    "tipo": "relacionar",
+    "artigo": "Competência jurisdicional",
+    "pergunta": "Relacione a situação ao órgão jurisdicional competente em regra. Para cada item da Coluna B, informe o número do item correspondente da Coluna A.",
+    "comentario": "Gabarito da Coluna B: 1, 2, 3, 4. Júri = doloso contra vida de civil por militar estadual; JME = militares estaduais; JMU = Forças Armadas; civil na JMU = juiz federal militar monocrático.",
+    "palavras_chave": [
+      "Júri",
+      "JME",
+      "JMU",
+      "civil"
+    ],
+    "nivel": "difícil",
+    "anulada": false,
+    "ativa": true,
+    "respondida": false,
+    "status": "ATIVA",
+    "fonte": "Constituição Federal, art. 125, §§ 3º a 5º; CPM, art. 9º; Lei nº 8.457/1992; material_direito_militar.pdf",
+    "coluna_a": [
+      "Tribunal do Júri",
+      "Justiça Militar Estadual",
+      "Justiça Militar da União",
+      "Juiz federal da Justiça Militar, monocraticamente"
+    ],
+    "coluna_b": [
+      "Homicídio doloso contra civil praticado por militar estadual",
+      "Crime militar estadual cometido por policial militar contra outro militar, sem vítima civil",
+      "Crime militar envolvendo integrante das Forças Armadas",
+      "Processo contra civil nas hipóteses legais da Justiça Militar da União"
+    ],
+    "correta": "1, 2, 3, 4"
+  },
+  {
+    "id": "dppm-030",
+    "numero_original": 30,
+    "topico_numero": 3,
+    "topico": "Competência: JME, JMU e Tribunal do Júri",
+    "tipo": "relacionar",
+    "artigo": "Órgãos julgadores",
+    "pergunta": "Relacione o órgão julgador à sua competência característica. Para cada item da Coluna B, informe o número do item correspondente da Coluna A.",
+    "comentario": "Gabarito da Coluna B: 1, 2, 3, 4. A competência depende da esfera da Justiça Militar, da condição do acusado e da qualidade da vítima.",
+    "palavras_chave": [
+      "Especial",
+      "Permanente",
+      "juiz de direito",
+      "Júri"
+    ],
+    "nivel": "difícil",
+    "anulada": false,
+    "ativa": true,
+    "respondida": false,
+    "status": "ATIVA",
+    "fonte": "Constituição Federal, art. 125, §§ 3º a 5º; CPM, art. 9º; Lei nº 8.457/1992; material_direito_militar.pdf",
+    "coluna_a": [
+      "Conselho Especial de Justiça",
+      "Conselho Permanente de Justiça",
+      "Juiz de direito do juízo militar estadual",
+      "Tribunal do Júri"
+    ],
+    "coluna_b": [
+      "Julga oficiais na JMU, exceto oficiais-generais",
+      "Julga militares não oficiais na JMU",
+      "Julga singularmente crimes militares estaduais contra civis, ressalvado o Júri",
+      "Julga crimes dolosos contra a vida de civil na hipótese constitucional"
+    ],
+    "correta": "1, 2, 3, 4"
+  },
+  {
+    "id": "dppm-031",
+    "numero_original": 31,
+    "topico_numero": 4,
+    "topico": "Inquérito Policial Militar: natureza, finalidade e instauração",
+    "tipo": "verdadeiro_falso",
+    "artigo": "CPPM - art. 9º",
+    "pergunta": "O IPM é uma apuração sumária de fato que, nos termos legais, configure crime militar e de sua autoria, possuindo caráter de instrução provisória.",
+    "comentario": "Resposta correta: Verdadeiro. A afirmação está correta. Sua finalidade precípua é fornecer elementos necessários à propositura da ação penal, sem se confundir com o processo judicial.",
+    "palavras_chave": [
+      "IPM",
+      "apuração sumária",
+      "instrução provisória"
+    ],
+    "nivel": "fácil",
+    "anulada": false,
+    "ativa": true,
+    "respondida": false,
+    "status": "ATIVA",
+    "fonte": "Código de Processo Penal Militar (Decreto-Lei nº 1.002/1969, texto vigente); material_direito_militar.pdf; memorex_direito_penal_militar.pdf",
+    "opcoes": [
+      "Verdadeiro",
+      "Falso"
+    ],
+    "correta": "Verdadeiro"
+  },
+  {
+    "id": "dppm-032",
+    "numero_original": 32,
+    "topico_numero": 4,
+    "topico": "Inquérito Policial Militar: natureza, finalidade e instauração",
+    "tipo": "verdadeiro_falso",
+    "artigo": "CPPM - art. 9º",
+    "pergunta": "Por possuir natureza inquisitorial, o IPM é uma sentença administrativa definitiva sobre a culpa do indiciado.",
+    "comentario": "Resposta correta: Falso. A afirmação está incorreta. O IPM é procedimento informativo e pré-processual. Não condena, não absolve e não substitui o julgamento judicial.",
+    "palavras_chave": [
+      "inquisitorial",
+      "não julga",
+      "pré-processual"
+    ],
+    "nivel": "médio",
+    "anulada": false,
+    "ativa": true,
+    "respondida": false,
+    "status": "ATIVA",
+    "fonte": "Código de Processo Penal Militar (Decreto-Lei nº 1.002/1969, texto vigente); material_direito_militar.pdf; memorex_direito_penal_militar.pdf",
+    "opcoes": [
+      "Verdadeiro",
+      "Falso"
+    ],
+    "correta": "Falso"
+  },
+  {
+    "id": "dppm-033",
+    "numero_original": 33,
+    "topico_numero": 4,
+    "topico": "Inquérito Policial Militar: natureza, finalidade e instauração",
+    "tipo": "verdadeiro_falso",
+    "artigo": "CPPM - art. 9º, parágrafo único",
+    "pergunta": "Exames, perícias e avaliações regularmente realizados no IPM podem possuir valor efetivamente instrutório para a ação penal quando observadas as formalidades legais.",
+    "comentario": "Resposta correta: Verdadeiro. A afirmação está correta. Embora o inquérito tenha caráter provisório, as provas técnicas não repetíveis ou regularmente produzidas possuem relevância instrutória.",
+    "palavras_chave": [
+      "perícia",
+      "exame",
+      "valor instrutório"
+    ],
+    "nivel": "difícil",
+    "anulada": false,
+    "ativa": true,
+    "respondida": false,
+    "status": "ATIVA",
+    "fonte": "Código de Processo Penal Militar (Decreto-Lei nº 1.002/1969, texto vigente); material_direito_militar.pdf; memorex_direito_penal_militar.pdf",
+    "opcoes": [
+      "Verdadeiro",
+      "Falso"
+    ],
+    "correta": "Verdadeiro"
+  },
+  {
+    "id": "dppm-034",
+    "numero_original": 34,
+    "topico_numero": 4,
+    "topico": "Inquérito Policial Militar: natureza, finalidade e instauração",
+    "tipo": "verdadeiro_falso",
+    "artigo": "CPPM - art. 10",
+    "pergunta": "O IPM somente pode ser iniciado de ofício pela autoridade militar, sendo juridicamente impossível sua instauração por requisição do Ministério Público.",
+    "comentario": "Resposta correta: Falso. A afirmação está incorreta. O art. 10 prevê diversos modos de início, incluindo instauração de ofício, determinação ou delegação superior, requisição do Ministério Público, requerimento do ofendido e indícios oriundos de sindicância.",
+    "palavras_chave": [
+      "instauração",
+      "requisição do MP",
+      "art. 10"
+    ],
+    "nivel": "médio",
+    "anulada": false,
+    "ativa": true,
+    "respondida": false,
+    "status": "ATIVA",
+    "fonte": "Código de Processo Penal Militar (Decreto-Lei nº 1.002/1969, texto vigente); material_direito_militar.pdf; memorex_direito_penal_militar.pdf",
+    "opcoes": [
+      "Verdadeiro",
+      "Falso"
+    ],
+    "correta": "Falso"
+  },
+  {
+    "id": "dppm-035",
+    "numero_original": 35,
+    "topico_numero": 4,
+    "topico": "Inquérito Policial Militar: natureza, finalidade e instauração",
+    "tipo": "multipla_escolha",
+    "artigo": "CPPM - art. 10",
+    "pergunta": "Qual alternativa apresenta somente formas legalmente previstas de início do IPM?",
+    "comentario": "Resposta correta: Portaria de ofício, determinação ou delegação superior, requisição do Ministério Público e requerimento do ofendido. O art. 10 apresenta um rol de formas de instauração, sempre formalizadas e submetidas à autoridade competente.",
+    "palavras_chave": [
+      "portaria",
+      "requisição",
+      "requerimento"
+    ],
+    "nivel": "médio",
+    "anulada": false,
+    "ativa": true,
+    "respondida": false,
+    "status": "ATIVA",
+    "fonte": "Código de Processo Penal Militar (Decreto-Lei nº 1.002/1969, texto vigente); material_direito_militar.pdf; memorex_direito_penal_militar.pdf",
+    "opcoes": [
+      "Portaria de ofício, determinação ou delegação superior, requisição do Ministério Público e requerimento do ofendido.",
+      "Sentença condenatória, acordo civil e despacho de autoridade sem competência.",
+      "Exclusivamente denúncia anônima e notícia jornalística.",
+      "Somente auto de prisão em flagrante já sentenciado."
+    ],
+    "correta": "Portaria de ofício, determinação ou delegação superior, requisição do Ministério Público e requerimento do ofendido."
+  },
+  {
+    "id": "dppm-036",
+    "numero_original": 36,
+    "topico_numero": 4,
+    "topico": "Inquérito Policial Militar: natureza, finalidade e instauração",
+    "tipo": "multipla_escolha",
+    "artigo": "CPPM - art. 10, § 3º",
+    "pergunta": "Ao verificar que o fato é evidentemente de natureza não militar, qual providência deve ser adotada pela autoridade militar?",
+    "comentario": "Resposta correta: Comunicar o fato à autoridade policial competente e apresentar o infrator, conforme o caso. A autoridade militar não deve prosseguir como se o fato fosse militar quando a natureza comum for evidente; deve encaminhar à autoridade competente.",
+    "palavras_chave": [
+      "natureza não militar",
+      "autoridade policial",
+      "encaminhamento"
+    ],
+    "nivel": "difícil",
+    "anulada": false,
+    "ativa": true,
+    "respondida": false,
+    "status": "ATIVA",
+    "fonte": "Código de Processo Penal Militar (Decreto-Lei nº 1.002/1969, texto vigente); material_direito_militar.pdf; memorex_direito_penal_militar.pdf",
+    "opcoes": [
+      "Arquivar definitivamente o fato sem comunicação.",
+      "Comunicar o fato à autoridade policial competente e apresentar o infrator, conforme o caso.",
+      "Condenar administrativamente o suspeito.",
+      "Remeter obrigatoriamente ao Superior Tribunal Militar."
+    ],
+    "correta": "Comunicar o fato à autoridade policial competente e apresentar o infrator, conforme o caso."
+  },
+  {
+    "id": "dppm-037",
+    "numero_original": 37,
+    "topico_numero": 4,
+    "topico": "Inquérito Policial Militar: natureza, finalidade e instauração",
+    "tipo": "multipla_escolha",
+    "artigo": "CPPM - art. 10, § 2º",
+    "pergunta": "O oficial responsável toma conhecimento de infração penal que precisa ser imediatamente reprimida, mas aguarda delegação formal para instaurar o IPM. O que o CPPM permite?",
+    "comentario": "Resposta correta: A adoção imediata das providências urgentes de preservação e esclarecimento previstas em lei. O aguardamento da delegação não impede as providências imediatas cabíveis para preservar local, provas, objetos e pessoas.",
+    "palavras_chave": [
+      "providências imediatas",
+      "antes da portaria",
+      "preservação"
+    ],
+    "nivel": "difícil",
+    "anulada": false,
+    "ativa": true,
+    "respondida": false,
+    "status": "ATIVA",
+    "fonte": "Código de Processo Penal Militar (Decreto-Lei nº 1.002/1969, texto vigente); material_direito_militar.pdf; memorex_direito_penal_militar.pdf",
+    "opcoes": [
+      "A omissão completa até a chegada da portaria.",
+      "A adoção imediata das providências urgentes de preservação e esclarecimento previstas em lei.",
+      "A destruição de objetos para evitar exposição institucional.",
+      "A divulgação pública integral das declarações."
+    ],
+    "correta": "A adoção imediata das providências urgentes de preservação e esclarecimento previstas em lei."
+  },
+  {
+    "id": "dppm-038",
+    "numero_original": 38,
+    "topico_numero": 4,
+    "topico": "Inquérito Policial Militar: natureza, finalidade e instauração",
+    "tipo": "multipla_escolha",
+    "artigo": "CPPM - art. 28",
+    "pergunta": "Em qual hipótese o IPM pode ser dispensado, sem prejuízo de diligência requisitada pelo Ministério Público?",
+    "comentario": "Resposta correta: Quando o fato e a autoria já estiverem esclarecidos por documentos ou outras provas materiais, nas hipóteses legais. A dispensa do inquérito é excepcional e depende das situações previstas no CPPM; não decorre da conveniência pessoal da autoridade.",
+    "palavras_chave": [
+      "dispensa do IPM",
+      "documentos",
+      "autoria esclarecida"
+    ],
+    "nivel": "difícil",
+    "anulada": false,
+    "ativa": true,
+    "respondida": false,
+    "status": "ATIVA",
+    "fonte": "Código de Processo Penal Militar (Decreto-Lei nº 1.002/1969, texto vigente); material_direito_militar.pdf; memorex_direito_penal_militar.pdf",
+    "opcoes": [
+      "Sempre que o comandante preferir procedimento mais rápido.",
+      "Quando o fato e a autoria já estiverem esclarecidos por documentos ou outras provas materiais, nas hipóteses legais.",
+      "Quando houver indiciado preso.",
+      "Quando existir crime que deixe vestígios e não tenha sido realizada perícia."
+    ],
+    "correta": "Quando o fato e a autoria já estiverem esclarecidos por documentos ou outras provas materiais, nas hipóteses legais."
+  },
+  {
+    "id": "dppm-039",
+    "numero_original": 39,
+    "topico_numero": 4,
+    "topico": "Inquérito Policial Militar: natureza, finalidade e instauração",
+    "tipo": "relacionar",
+    "artigo": "Características do IPM",
+    "pergunta": "Relacione as características do IPM às respectivas consequências. Para cada item da Coluna B, informe o número do item correspondente da Coluna A.",
+    "comentario": "Gabarito da Coluna B: 1, 2, 3, 4. Administrativo = pré-processual; escrito = documentação; inquisitorial = contraditório não pleno; indisponível = vedação de arquivamento pela autoridade militar.",
+    "palavras_chave": [
+      "administrativo",
+      "escrito",
+      "inquisitorial",
+      "indisponível"
+    ],
+    "nivel": "médio",
+    "anulada": false,
+    "ativa": true,
+    "respondida": false,
+    "status": "ATIVA",
+    "fonte": "Código de Processo Penal Militar (Decreto-Lei nº 1.002/1969, texto vigente); material_direito_militar.pdf; memorex_direito_penal_militar.pdf",
+    "coluna_a": [
+      "Administrativo",
+      "Escrito",
+      "Inquisitorial",
+      "Indisponível"
+    ],
+    "coluna_b": [
+      "Integra a fase pré-processual e não constitui julgamento",
+      "Seus atos e declarações são reduzidos a termos e peças",
+      "Não há contraditório pleno igual ao da fase judicial",
+      "A autoridade militar não pode arquivar os autos por iniciativa própria"
+    ],
+    "correta": "1, 2, 3, 4"
+  },
+  {
+    "id": "dppm-040",
+    "numero_original": 40,
+    "topico_numero": 4,
+    "topico": "Inquérito Policial Militar: natureza, finalidade e instauração",
+    "tipo": "relacionar",
+    "artigo": "CPPM - art. 10",
+    "pergunta": "Relacione o modo de instauração do IPM ao respectivo exemplo. Para cada item da Coluna B, informe o número do item correspondente da Coluna A.",
+    "comentario": "Gabarito da Coluna B: 1, 2, 3, 4. Cada forma de início exige formalização e respeito à competência e à hierarquia.",
+    "palavras_chave": [
+      "de ofício",
+      "delegação",
+      "MP",
+      "ofendido"
+    ],
+    "nivel": "médio",
+    "anulada": false,
+    "ativa": true,
+    "respondida": false,
+    "status": "ATIVA",
+    "fonte": "Código de Processo Penal Militar (Decreto-Lei nº 1.002/1969, texto vigente); material_direito_militar.pdf; memorex_direito_penal_militar.pdf",
+    "coluna_a": [
+      "De ofício",
+      "Delegação superior",
+      "Requisição do Ministério Público",
+      "Requerimento do ofendido"
+    ],
+    "coluna_b": [
+      "A própria autoridade competente instaura diante do conhecimento do fato",
+      "Autoridade superior atribui formalmente a apuração a outro oficial",
+      "Órgão ministerial determina a adoção do procedimento investigativo",
+      "Vítima ou representante legal solicita a apuração"
+    ],
+    "correta": "1, 2, 3, 4"
+  },
+  {
+    "id": "dppm-041",
+    "numero_original": 41,
+    "topico_numero": 5,
+    "topico": "Atores, hierarquia, sigilo e prazos do IPM",
+    "tipo": "verdadeiro_falso",
+    "artigo": "CPPM - art. 15",
+    "pergunta": "A regra do CPPM estabelece, de forma absoluta e sem qualquer exceção, que todo encarregado de IPM deve possuir posto de Capitão ou superior.",
+    "comentario": "Resposta correta: Falso. A afirmação está incorreta. O art. 15 utiliza a expressão 'sempre que possível'. Além disso, devem ser observadas as regras de superioridade ou antiguidade quando o indiciado for oficial.",
+    "palavras_chave": [
+      "encarregado",
+      "sempre que possível",
+      "Capitão"
+    ],
+    "nivel": "difícil",
+    "anulada": false,
+    "ativa": true,
+    "respondida": false,
+    "status": "ATIVA",
+    "fonte": "Código de Processo Penal Militar (Decreto-Lei nº 1.002/1969, texto vigente); material_direito_militar.pdf; memorex_direito_penal_militar.pdf",
+    "opcoes": [
+      "Verdadeiro",
+      "Falso"
+    ],
+    "correta": "Falso"
+  },
+  {
+    "id": "dppm-042",
+    "numero_original": 42,
+    "topico_numero": 5,
+    "topico": "Atores, hierarquia, sigilo e prazos do IPM",
+    "tipo": "verdadeiro_falso",
+    "artigo": "CPPM - art. 11",
+    "pergunta": "Se o indiciado for oficial, a função de escrivão do IPM deverá recair em segundo-tenente ou primeiro-tenente, salvo disciplina legal específica aplicável.",
+    "comentario": "Resposta correta: Verdadeiro. A afirmação está correta. O art. 11 preserva compatibilidade hierárquica: oficial indiciado corresponde a escrivão oficial; nos demais casos, sargento, subtenente ou suboficial.",
+    "palavras_chave": [
+      "escrivão",
+      "indiciado oficial",
+      "tenente"
+    ],
+    "nivel": "médio",
+    "anulada": false,
+    "ativa": true,
+    "respondida": false,
+    "status": "ATIVA",
+    "fonte": "Código de Processo Penal Militar (Decreto-Lei nº 1.002/1969, texto vigente); material_direito_militar.pdf; memorex_direito_penal_militar.pdf",
+    "opcoes": [
+      "Verdadeiro",
+      "Falso"
+    ],
+    "correta": "Verdadeiro"
+  },
+  {
+    "id": "dppm-043",
+    "numero_original": 43,
+    "topico_numero": 5,
+    "topico": "Atores, hierarquia, sigilo e prazos do IPM",
+    "tipo": "verdadeiro_falso",
+    "artigo": "CPPM - art. 20",
+    "pergunta": "O IPM deve terminar em vinte dias quando o indiciado estiver preso e em quarenta dias quando estiver solto, admitindo-se, no segundo caso, prorrogação legal por mais vinte dias.",
+    "comentario": "Resposta correta: Verdadeiro. A afirmação está correta. O prazo do preso conta da execução da prisão; o prazo do solto conta da instauração. A prorrogação do prazo do solto depende dos fundamentos e da autoridade previstos em lei.",
+    "palavras_chave": [
+      "20 dias",
+      "40 dias",
+      "prorrogação de 20"
+    ],
+    "nivel": "médio",
+    "anulada": false,
+    "ativa": true,
+    "respondida": false,
+    "status": "ATIVA",
+    "fonte": "Código de Processo Penal Militar (Decreto-Lei nº 1.002/1969, texto vigente); material_direito_militar.pdf; memorex_direito_penal_militar.pdf",
+    "opcoes": [
+      "Verdadeiro",
+      "Falso"
+    ],
+    "correta": "Verdadeiro"
+  },
+  {
+    "id": "dppm-044",
+    "numero_original": 44,
+    "topico_numero": 5,
+    "topico": "Atores, hierarquia, sigilo e prazos do IPM",
+    "tipo": "verdadeiro_falso",
+    "artigo": "CPPM - art. 24",
+    "pergunta": "Se o encarregado concluir pela inexistência de crime, poderá arquivar diretamente o IPM para evitar remessa desnecessária ao Poder Judiciário.",
+    "comentario": "Resposta correta: Falso. A afirmação está incorreta. A autoridade militar não pode mandar arquivar o IPM, ainda que conclua pela inexistência de crime ou inimputabilidade.",
+    "palavras_chave": [
+      "proibição de arquivar",
+      "art. 24",
+      "remessa"
+    ],
+    "nivel": "fácil",
+    "anulada": false,
+    "ativa": true,
+    "respondida": false,
+    "status": "ATIVA",
+    "fonte": "Código de Processo Penal Militar (Decreto-Lei nº 1.002/1969, texto vigente); material_direito_militar.pdf; memorex_direito_penal_militar.pdf",
+    "opcoes": [
+      "Verdadeiro",
+      "Falso"
+    ],
+    "correta": "Falso"
+  },
+  {
+    "id": "dppm-045",
+    "numero_original": 45,
+    "topico_numero": 5,
+    "topico": "Atores, hierarquia, sigilo e prazos do IPM",
+    "tipo": "multipla_escolha",
+    "artigo": "CPPM - art. 7º, §§ 2º e 3º",
+    "pergunta": "Quando o indiciado for oficial, a delegação para instaurar o IPM deverá recair, em regra, sobre:",
+    "comentario": "Resposta correta: Oficial de posto superior ao do indiciado ou, se impossível, oficial do mesmo posto mais antigo. A hierarquia é requisito do ato de delegação. A solução subsidiária é o oficial do mesmo posto, desde que mais antigo.",
+    "palavras_chave": [
+      "posto superior",
+      "mesmo posto mais antigo",
+      "delegação"
+    ],
+    "nivel": "difícil",
+    "anulada": false,
+    "ativa": true,
+    "respondida": false,
+    "status": "ATIVA",
+    "fonte": "Código de Processo Penal Militar (Decreto-Lei nº 1.002/1969, texto vigente); material_direito_militar.pdf; memorex_direito_penal_militar.pdf",
+    "opcoes": [
+      "Praça mais antiga da unidade.",
+      "Oficial de posto superior ao do indiciado ou, se impossível, oficial do mesmo posto mais antigo.",
+      "Qualquer servidor civil indicado pelo comandante.",
+      "Oficial de posto inferior, desde que possua formação jurídica."
+    ],
+    "correta": "Oficial de posto superior ao do indiciado ou, se impossível, oficial do mesmo posto mais antigo."
+  },
+  {
+    "id": "dppm-046",
+    "numero_original": 46,
+    "topico_numero": 5,
+    "topico": "Atores, hierarquia, sigilo e prazos do IPM",
+    "tipo": "multipla_escolha",
+    "artigo": "CPPM - art. 10, § 5º",
+    "pergunta": "No curso do IPM, o encarregado encontra indícios contra oficial de posto superior ao seu ou mais antigo. Qual conduta é adequada?",
+    "comentario": "Resposta correta: Adotar providências para que as funções sejam delegadas a outro oficial em condições hierárquicas adequadas. A descoberta superveniente exige adequação da delegação, preservando a hierarquia e a validade dos atos subsequentes.",
+    "palavras_chave": [
+      "indício superveniente",
+      "oficial superior",
+      "nova delegação"
+    ],
+    "nivel": "difícil",
+    "anulada": false,
+    "ativa": true,
+    "respondida": false,
+    "status": "ATIVA",
+    "fonte": "Código de Processo Penal Militar (Decreto-Lei nº 1.002/1969, texto vigente); material_direito_militar.pdf; memorex_direito_penal_militar.pdf",
+    "opcoes": [
+      "Prosseguir normalmente e indiciar o superior sem comunicação.",
+      "Destruir a parte que menciona o superior.",
+      "Adotar providências para que as funções sejam delegadas a outro oficial em condições hierárquicas adequadas.",
+      "Arquivar o IPM por impedimento automático."
+    ],
+    "correta": "Adotar providências para que as funções sejam delegadas a outro oficial em condições hierárquicas adequadas."
+  },
+  {
+    "id": "dppm-047",
+    "numero_original": 47,
+    "topico_numero": 5,
+    "topico": "Atores, hierarquia, sigilo e prazos do IPM",
+    "tipo": "multipla_escolha",
+    "artigo": "CPPM - art. 16 e garantias de defesa",
+    "pergunta": "Sobre o sigilo do IPM, assinale a alternativa correta:",
+    "comentario": "Resposta correta: O sigilo protege a investigação, mas deve conviver com o acesso defensivo aos elementos já documentados e necessários ao exercício da defesa. O sigilo não pode ser utilizado para eliminar garantias defensivas. A defesa tem acesso aos elementos já formalizados, preservadas diligências em andamento cuja divulgação comprometa a investigação.",
+    "palavras_chave": [
+      "sigilo",
+      "defesa",
+      "elementos documentados"
+    ],
+    "nivel": "difícil",
+    "anulada": false,
+    "ativa": true,
+    "respondida": false,
+    "status": "ATIVA",
+    "fonte": "Código de Processo Penal Militar (Decreto-Lei nº 1.002/1969, texto vigente); material_direito_militar.pdf; memorex_direito_penal_militar.pdf",
+    "opcoes": [
+      "O sigilo é absoluto e impede o advogado de conhecer qualquer elemento já documentado.",
+      "O IPM é público desde a primeira diligência, inclusive para terceiros sem interesse.",
+      "O sigilo protege a investigação, mas deve conviver com o acesso defensivo aos elementos já documentados e necessários ao exercício da defesa.",
+      "O sigilo autoriza a omissão da existência do procedimento ao Poder Judiciário."
+    ],
+    "correta": "O sigilo protege a investigação, mas deve conviver com o acesso defensivo aos elementos já documentados e necessários ao exercício da defesa."
+  },
+  {
+    "id": "dppm-048",
+    "numero_original": 48,
+    "topico_numero": 5,
+    "topico": "Atores, hierarquia, sigilo e prazos do IPM",
+    "tipo": "multipla_escolha",
+    "artigo": "CPPM - art. 19",
+    "pergunta": "Salvo urgência inadiável registrada na assentada, testemunhas e indiciado devem ser ouvidos:",
+    "comentario": "Resposta correta: Entre 7h e 18h. O CPPM estabelece período diurno para inquirições, admitindo exceção urgente devidamente formalizada.",
+    "palavras_chave": [
+      "inquirição",
+      "7h às 18h",
+      "urgência"
+    ],
+    "nivel": "médio",
+    "anulada": false,
+    "ativa": true,
+    "respondida": false,
+    "status": "ATIVA",
+    "fonte": "Código de Processo Penal Militar (Decreto-Lei nº 1.002/1969, texto vigente); material_direito_militar.pdf; memorex_direito_penal_militar.pdf",
+    "opcoes": [
+      "Entre 0h e 6h.",
+      "Entre 7h e 18h.",
+      "Somente após as 20h.",
+      "Exclusivamente aos domingos."
+    ],
+    "correta": "Entre 7h e 18h."
+  },
+  {
+    "id": "dppm-049",
+    "numero_original": 49,
+    "topico_numero": 5,
+    "topico": "Atores, hierarquia, sigilo e prazos do IPM",
+    "tipo": "relacionar",
+    "artigo": "Atores do IPM",
+    "pergunta": "Relacione cada participante à sua função predominante. Para cada item da Coluna B, informe o número do item correspondente da Coluna A.",
+    "comentario": "Gabarito da Coluna B: 1, 2, 3, 4, 5. O encarregado dirige; o escrivão formaliza; o condutor apresenta; a testemunha relata; o indiciado exerce garantias e pode permanecer em silêncio.",
+    "palavras_chave": [
+      "encarregado",
+      "escrivão",
+      "condutor",
+      "testemunha",
+      "indiciado"
+    ],
+    "nivel": "médio",
+    "anulada": false,
+    "ativa": true,
+    "respondida": false,
+    "status": "ATIVA",
+    "fonte": "Código de Processo Penal Militar (Decreto-Lei nº 1.002/1969, texto vigente); material_direito_militar.pdf; memorex_direito_penal_militar.pdf",
+    "coluna_a": [
+      "Encarregado",
+      "Escrivão",
+      "Condutor",
+      "Testemunha",
+      "Indiciado"
+    ],
+    "coluna_b": [
+      "Dirige a investigação e determina diligências",
+      "Reduz atos a termo, organiza peças e certifica movimentações",
+      "Apresenta o preso e relata as circunstâncias iniciais do flagrante",
+      "Relata fatos percebidos direta ou indiretamente, com dever de veracidade",
+      "Pessoa sobre a qual recaem indícios, preservado o direito de não se autoincriminar"
+    ],
+    "correta": "1, 2, 3, 4, 5"
+  },
+  {
+    "id": "dppm-050",
+    "numero_original": 50,
+    "topico_numero": 5,
+    "topico": "Atores, hierarquia, sigilo e prazos do IPM",
+    "tipo": "relacionar",
+    "artigo": "Prazos e hierarquia do IPM",
+    "pergunta": "Relacione a situação à regra correspondente. Para cada item da Coluna B, informe o número do item correspondente da Coluna A.",
+    "comentario": "Gabarito da Coluna B: 1, 2, 3, 4. Os prazos variam conforme a liberdade do indiciado, e a composição da equipe investigativa deve respeitar a hierarquia.",
+    "palavras_chave": [
+      "preso",
+      "solto",
+      "oficial",
+      "delegação"
+    ],
+    "nivel": "difícil",
+    "anulada": false,
+    "ativa": true,
+    "respondida": false,
+    "status": "ATIVA",
+    "fonte": "Código de Processo Penal Militar (Decreto-Lei nº 1.002/1969, texto vigente); material_direito_militar.pdf; memorex_direito_penal_militar.pdf",
+    "coluna_a": [
+      "Indiciado preso",
+      "Indiciado solto",
+      "Indiciado oficial",
+      "Indícios supervenientes contra oficial superior"
+    ],
+    "coluna_b": [
+      "Prazo ordinário de vinte dias para conclusão",
+      "Prazo ordinário de quarenta dias, com possível prorrogação legal",
+      "Escrivão oficial e encarregado em posição hierárquica adequada",
+      "Necessidade de nova delegação a oficial habilitado"
+    ],
+    "correta": "1, 2, 3, 4"
+  },
+  {
+    "id": "dppm-051",
+    "numero_original": 51,
+    "topico_numero": 6,
+    "topico": "Auto de Prisão em Flagrante, garantias e nota de culpa",
+    "tipo": "verdadeiro_falso",
+    "artigo": "CPPM - art. 243",
+    "pergunta": "Qualquer pessoa pode prender quem seja encontrado em flagrante delito, enquanto os militares possuem dever legal de prender nas hipóteses descritas no CPPM.",
+    "comentario": "Resposta correta: Verdadeiro. A afirmação está correta. O CPPM diferencia a faculdade conferida a qualquer pessoa do dever funcional imposto aos militares.",
+    "palavras_chave": [
+      "qualquer pessoa pode",
+      "militar deve",
+      "flagrante"
+    ],
+    "nivel": "médio",
+    "anulada": false,
+    "ativa": true,
+    "respondida": false,
+    "status": "ATIVA",
+    "fonte": "Código de Processo Penal Militar (Decreto-Lei nº 1.002/1969, texto vigente); material_direito_militar.pdf; memorex_direito_penal_militar.pdf",
+    "opcoes": [
+      "Verdadeiro",
+      "Falso"
+    ],
+    "correta": "Verdadeiro"
+  },
+  {
+    "id": "dppm-052",
+    "numero_original": 52,
+    "topico_numero": 6,
+    "topico": "Auto de Prisão em Flagrante, garantias e nota de culpa",
+    "tipo": "verdadeiro_falso",
+    "artigo": "CPPM - art. 245, § 2º",
+    "pergunta": "A ausência de testemunhas presenciais do crime impede necessariamente a lavratura do auto de prisão em flagrante militar.",
+    "comentario": "Resposta correta: Falso. A afirmação está incorreta. A falta de testemunhas do fato não impede o APFD. Nesse caso, o auto será assinado por pessoas que tenham testemunhado a apresentação do preso, observadas as formalidades legais.",
+    "palavras_chave": [
+      "sem testemunha do fato",
+      "não impede APFD",
+      "apresentação"
+    ],
+    "nivel": "médio",
+    "anulada": false,
+    "ativa": true,
+    "respondida": false,
+    "status": "ATIVA",
+    "fonte": "Código de Processo Penal Militar (Decreto-Lei nº 1.002/1969, texto vigente); material_direito_militar.pdf; memorex_direito_penal_militar.pdf",
+    "opcoes": [
+      "Verdadeiro",
+      "Falso"
+    ],
+    "correta": "Falso"
+  },
+  {
+    "id": "dppm-053",
+    "numero_original": 53,
+    "topico_numero": 6,
+    "topico": "Auto de Prisão em Flagrante, garantias e nota de culpa",
+    "tipo": "verdadeiro_falso",
+    "artigo": "CPPM - art. 247",
+    "pergunta": "A nota de culpa deve ser entregue ao preso em até vinte e quatro horas e conter o motivo da prisão, o nome do condutor e o das testemunhas.",
+    "comentario": "Resposta correta: Verdadeiro. A afirmação está correta. A nota formaliza a ciência dos fundamentos da prisão e permite o controle de sua legalidade.",
+    "palavras_chave": [
+      "nota de culpa",
+      "24 horas",
+      "motivo e nomes"
+    ],
+    "nivel": "fácil",
+    "anulada": false,
+    "ativa": true,
+    "respondida": false,
+    "status": "ATIVA",
+    "fonte": "Código de Processo Penal Militar (Decreto-Lei nº 1.002/1969, texto vigente); material_direito_militar.pdf; memorex_direito_penal_militar.pdf",
+    "opcoes": [
+      "Verdadeiro",
+      "Falso"
+    ],
+    "correta": "Verdadeiro"
+  },
+  {
+    "id": "dppm-054",
+    "numero_original": 54,
+    "topico_numero": 6,
+    "topico": "Auto de Prisão em Flagrante, garantias e nota de culpa",
+    "tipo": "verdadeiro_falso",
+    "artigo": "CPPM - art. 247, § 1º",
+    "pergunta": "Se o preso não souber, não puder ou não quiser assinar o recibo da nota de culpa, a autoridade deve cancelar o flagrante por ausência de assinatura.",
+    "comentario": "Resposta correta: Falso. A afirmação está incorreta. A recusa ou impossibilidade não impede o ato. O recibo será assinado por duas testemunhas.",
+    "palavras_chave": [
+      "recusa de assinatura",
+      "duas testemunhas",
+      "validade"
+    ],
+    "nivel": "médio",
+    "anulada": false,
+    "ativa": true,
+    "respondida": false,
+    "status": "ATIVA",
+    "fonte": "Código de Processo Penal Militar (Decreto-Lei nº 1.002/1969, texto vigente); material_direito_militar.pdf; memorex_direito_penal_militar.pdf",
+    "opcoes": [
+      "Verdadeiro",
+      "Falso"
+    ],
+    "correta": "Falso"
+  },
+  {
+    "id": "dppm-055",
+    "numero_original": 55,
+    "topico_numero": 6,
+    "topico": "Auto de Prisão em Flagrante, garantias e nota de culpa",
+    "tipo": "multipla_escolha",
+    "artigo": "CPPM - art. 245",
+    "pergunta": "Apresentado o preso à autoridade militar competente, qual sequência traduz a lógica básica da lavratura do APFD?",
+    "comentario": "Resposta correta: Ouvir o condutor, as testemunhas e o conduzido sobre a imputação, reduzindo tudo a auto. O APFD documenta as versões iniciais e as circunstâncias do fato; não constitui julgamento definitivo.",
+    "palavras_chave": [
+      "condutor",
+      "testemunhas",
+      "conduzido"
+    ],
+    "nivel": "médio",
+    "anulada": false,
+    "ativa": true,
+    "respondida": false,
+    "status": "ATIVA",
+    "fonte": "Código de Processo Penal Militar (Decreto-Lei nº 1.002/1969, texto vigente); material_direito_militar.pdf; memorex_direito_penal_militar.pdf",
+    "opcoes": [
+      "Ouvir somente o preso e liberar todas as testemunhas.",
+      "Ouvir o condutor, as testemunhas e o conduzido sobre a imputação, reduzindo tudo a auto.",
+      "Julgar imediatamente o mérito e aplicar pena.",
+      "Encaminhar o preso diretamente à imprensa para identificação."
+    ],
+    "correta": "Ouvir o condutor, as testemunhas e o conduzido sobre a imputação, reduzindo tudo a auto."
+  },
+  {
+    "id": "dppm-056",
+    "numero_original": 56,
+    "topico_numero": 6,
+    "topico": "Auto de Prisão em Flagrante, garantias e nota de culpa",
+    "tipo": "multipla_escolha",
+    "artigo": "CPPM - art. 245, § 5º",
+    "pergunta": "Na falta ou impedimento de escrivão habilitado para lavrar o APFD, a autoridade poderá:",
+    "comentario": "Resposta correta: Designar qualquer pessoa idônea, que prestará o compromisso legal. O CPPM prevê solução ad hoc para evitar paralisação do ato urgente, exigindo idoneidade e compromisso legal.",
+    "palavras_chave": [
+      "escrivão ad hoc",
+      "pessoa idônea",
+      "compromisso"
+    ],
+    "nivel": "difícil",
+    "anulada": false,
+    "ativa": true,
+    "respondida": false,
+    "status": "ATIVA",
+    "fonte": "Código de Processo Penal Militar (Decreto-Lei nº 1.002/1969, texto vigente); material_direito_militar.pdf; memorex_direito_penal_militar.pdf",
+    "opcoes": [
+      "Deixar o fato sem documentação.",
+      "Designar qualquer pessoa idônea, que prestará o compromisso legal.",
+      "Obrigar o preso a redigir o próprio auto.",
+      "Transferir automaticamente a competência ao Tribunal do Júri."
+    ],
+    "correta": "Designar qualquer pessoa idônea, que prestará o compromisso legal."
+  },
+  {
+    "id": "dppm-057",
+    "numero_original": 57,
+    "topico_numero": 6,
+    "topico": "Auto de Prisão em Flagrante, garantias e nota de culpa",
+    "tipo": "multipla_escolha",
+    "artigo": "CPPM - art. 244, parágrafo único",
+    "pergunta": "Nos crimes permanentes, o estado de flagrância:",
+    "comentario": "Resposta correta: Perdura enquanto não cessar a permanência. Enquanto a situação permanente continua, o agente pode ser considerado em flagrante delito.",
+    "palavras_chave": [
+      "crime permanente",
+      "flagrante",
+      "permanência"
+    ],
+    "nivel": "médio",
+    "anulada": false,
+    "ativa": true,
+    "respondida": false,
+    "status": "ATIVA",
+    "fonte": "Código de Processo Penal Militar (Decreto-Lei nº 1.002/1969, texto vigente); material_direito_militar.pdf; memorex_direito_penal_militar.pdf",
+    "opcoes": [
+      "Existe somente nos primeiros cinco minutos.",
+      "Perdura enquanto não cessar a permanência.",
+      "Depende de autorização do comandante da unidade.",
+      "É incompatível com o processo penal militar."
+    ],
+    "correta": "Perdura enquanto não cessar a permanência."
+  },
+  {
+    "id": "dppm-058",
+    "numero_original": 58,
+    "topico_numero": 6,
+    "topico": "Auto de Prisão em Flagrante, garantias e nota de culpa",
+    "tipo": "multipla_escolha",
+    "artigo": "CPPM - art. 246",
+    "pergunta": "Se das respostas colhidas no APFD resultarem fundadas suspeitas contra o conduzido, a autoridade deverá:",
+    "comentario": "Resposta correta: Mandar recolhê-lo e adotar as diligências necessárias, como exame de corpo de delito e apreensão de instrumentos, quando cabíveis. A autoridade deve formalizar a custódia e preservar as provas, sempre submetida ao controle judicial da prisão.",
+    "palavras_chave": [
+      "fundadas suspeitas",
+      "recolhimento",
+      "diligências"
+    ],
+    "nivel": "difícil",
+    "anulada": false,
+    "ativa": true,
+    "respondida": false,
+    "status": "ATIVA",
+    "fonte": "Código de Processo Penal Militar (Decreto-Lei nº 1.002/1969, texto vigente); material_direito_militar.pdf; memorex_direito_penal_militar.pdf",
+    "opcoes": [
+      "Mandar recolhê-lo e adotar as diligências necessárias, como exame de corpo de delito e apreensão de instrumentos, quando cabíveis.",
+      "Arquivar o caso imediatamente.",
+      "Aplicar sentença condenatória administrativa.",
+      "Destruir os objetos apreendidos após fotografá-los."
+    ],
+    "correta": "Mandar recolhê-lo e adotar as diligências necessárias, como exame de corpo de delito e apreensão de instrumentos, quando cabíveis."
+  },
+  {
+    "id": "dppm-059",
+    "numero_original": 59,
+    "topico_numero": 6,
+    "topico": "Auto de Prisão em Flagrante, garantias e nota de culpa",
+    "tipo": "relacionar",
+    "artigo": "CPPM - art. 244",
+    "pergunta": "Relacione as hipóteses de flagrante às respectivas descrições. Para cada item da Coluna B, informe o número do item correspondente da Coluna A.",
+    "comentario": "Gabarito da Coluna B: 1, 2, 3, 4. O CPPM enumera as situações clássicas de flagrante: durante, logo após, perseguição e encontro com objetos relacionados.",
+    "palavras_chave": [
+      "próprio",
+      "impróprio",
+      "presumido",
+      "perseguição"
+    ],
+    "nivel": "difícil",
+    "anulada": false,
+    "ativa": true,
+    "respondida": false,
+    "status": "ATIVA",
+    "fonte": "Código de Processo Penal Militar (Decreto-Lei nº 1.002/1969, texto vigente); material_direito_militar.pdf; memorex_direito_penal_militar.pdf",
+    "coluna_a": [
+      "Flagrante próprio durante o crime",
+      "Flagrante próprio logo após",
+      "Flagrante impróprio",
+      "Flagrante presumido"
+    ],
+    "coluna_b": [
+      "Agente está cometendo a infração",
+      "Agente acaba de cometer a infração",
+      "Agente é perseguido logo após em situação indicativa de autoria",
+      "Agente é encontrado logo depois com objetos ou instrumentos indicativos de participação"
+    ],
+    "correta": "1, 2, 3, 4"
+  },
+  {
+    "id": "dppm-060",
+    "numero_original": 60,
+    "topico_numero": 6,
+    "topico": "Auto de Prisão em Flagrante, garantias e nota de culpa",
+    "tipo": "relacionar",
+    "artigo": "APFD e garantias",
+    "pergunta": "Relacione o ato ou documento à sua finalidade. Para cada item da Coluna B, informe o número do item correspondente da Coluna A.",
+    "comentario": "Gabarito da Coluna B: 1, 2, 3, 4. Cada documento protege a regularidade formal e permite o controle posterior da legalidade do flagrante.",
+    "palavras_chave": [
+      "APFD",
+      "nota de culpa",
+      "compromisso",
+      "recibo"
+    ],
+    "nivel": "médio",
+    "anulada": false,
+    "ativa": true,
+    "respondida": false,
+    "status": "ATIVA",
+    "fonte": "Código de Processo Penal Militar (Decreto-Lei nº 1.002/1969, texto vigente); material_direito_militar.pdf; memorex_direito_penal_militar.pdf",
+    "coluna_a": [
+      "APFD",
+      "Nota de culpa",
+      "Termo de compromisso do escrivão",
+      "Recibo da nota de culpa"
+    ],
+    "coluna_b": [
+      "Documentar a apresentação, as oitivas e as circunstâncias do flagrante",
+      "Informar formalmente os motivos da prisão e os nomes previstos em lei",
+      "Vincular o escrivão ao sigilo e ao fiel cumprimento das normas",
+      "Comprovar a entrega da nota, com assinatura do preso ou de duas testemunhas"
+    ],
+    "correta": "1, 2, 3, 4"
+  },
+  {
+    "id": "dppm-061",
+    "numero_original": 61,
+    "topico_numero": 7,
+    "topico": "Ação penal militar, denúncia e arquivamento",
+    "tipo": "verdadeiro_falso",
+    "artigo": "CPPM - art. 29",
+    "pergunta": "A ação penal militar é pública e somente pode ser promovida por denúncia do Ministério Público Militar, sem prejuízo das garantias constitucionais aplicáveis.",
+    "comentario": "Resposta correta: Verdadeiro. A afirmação está correta. A autoridade de polícia judiciária militar investiga e relata, mas não oferece denúncia nem exerce função jurisdicional.",
+    "palavras_chave": [
+      "ação pública",
+      "denúncia",
+      "MPM"
+    ],
+    "nivel": "médio",
+    "anulada": false,
+    "ativa": true,
+    "respondida": false,
+    "status": "ATIVA",
+    "fonte": "Código de Processo Penal Militar (Decreto-Lei nº 1.002/1969, texto vigente); material_direito_militar.pdf; memorex_direito_penal_militar.pdf",
+    "opcoes": [
+      "Verdadeiro",
+      "Falso"
+    ],
+    "correta": "Verdadeiro"
+  },
+  {
+    "id": "dppm-062",
+    "numero_original": 62,
+    "topico_numero": 7,
+    "topico": "Ação penal militar, denúncia e arquivamento",
+    "tipo": "verdadeiro_falso",
+    "artigo": "CPPM - art. 24",
+    "pergunta": "O comandante pode arquivar o IPM quando considerar insuficientes os indícios, desde que fundamente a decisão em boletim interno.",
+    "comentario": "Resposta correta: Falso. A afirmação está incorreta. A conclusão do encarregado ou do comandante não substitui o controle ministerial e judicial. A autoridade militar não pode mandar arquivar os autos.",
+    "palavras_chave": [
+      "comandante não arquiva",
+      "controle judicial",
+      "art. 24"
+    ],
+    "nivel": "fácil",
+    "anulada": false,
+    "ativa": true,
+    "respondida": false,
+    "status": "ATIVA",
+    "fonte": "Código de Processo Penal Militar (Decreto-Lei nº 1.002/1969, texto vigente); material_direito_militar.pdf; memorex_direito_penal_militar.pdf",
+    "opcoes": [
+      "Verdadeiro",
+      "Falso"
+    ],
+    "correta": "Falso"
+  },
+  {
+    "id": "dppm-063",
+    "numero_original": 63,
+    "topico_numero": 7,
+    "topico": "Ação penal militar, denúncia e arquivamento",
+    "tipo": "verdadeiro_falso",
+    "artigo": "CPPM - art. 30",
+    "pergunta": "A denúncia deve ser apresentada quando houver prova de fato que, em tese, constitua crime e indícios de autoria.",
+    "comentario": "Resposta correta: Verdadeiro. A afirmação está correta. O oferecimento da denúncia exige justa causa mínima: suporte sobre a existência do fato e elementos indicativos da autoria.",
+    "palavras_chave": [
+      "prova do fato",
+      "indícios de autoria",
+      "denúncia"
+    ],
+    "nivel": "médio",
+    "anulada": false,
+    "ativa": true,
+    "respondida": false,
+    "status": "ATIVA",
+    "fonte": "Código de Processo Penal Militar (Decreto-Lei nº 1.002/1969, texto vigente); material_direito_militar.pdf; memorex_direito_penal_militar.pdf",
+    "opcoes": [
+      "Verdadeiro",
+      "Falso"
+    ],
+    "correta": "Verdadeiro"
+  },
+  {
+    "id": "dppm-064",
+    "numero_original": 64,
+    "topico_numero": 7,
+    "topico": "Ação penal militar, denúncia e arquivamento",
+    "tipo": "verdadeiro_falso",
+    "artigo": "CPPM - art. 31",
+    "pergunta": "Nenhuma ação penal militar depende de requisição governamental, pois todas são absolutamente incondicionadas.",
+    "comentario": "Resposta correta: Falso. A afirmação está incorreta. Embora a ação penal seja pública, o CPPM prevê hipóteses específicas em que seu exercício depende de requisição, como nos crimes indicados no art. 31.",
+    "palavras_chave": [
+      "requisição",
+      "exceção",
+      "ação pública"
+    ],
+    "nivel": "difícil",
+    "anulada": false,
+    "ativa": true,
+    "respondida": false,
+    "status": "ATIVA",
+    "fonte": "Código de Processo Penal Militar (Decreto-Lei nº 1.002/1969, texto vigente); material_direito_militar.pdf; memorex_direito_penal_militar.pdf",
+    "opcoes": [
+      "Verdadeiro",
+      "Falso"
+    ],
+    "correta": "Falso"
+  },
+  {
+    "id": "dppm-065",
+    "numero_original": 65,
+    "topico_numero": 7,
+    "topico": "Ação penal militar, denúncia e arquivamento",
+    "tipo": "multipla_escolha",
+    "artigo": "CPPM - prazos para denúncia",
+    "pergunta": "Quais são os prazos ordinários indicados no material e no CPPM para oferecimento da denúncia, conforme o acusado esteja preso ou solto?",
+    "comentario": "Resposta correta: 5 dias preso e 15 dias solto. Não confunda os prazos da denúncia com os prazos de conclusão do IPM, que são de vinte e quarenta dias.",
+    "palavras_chave": [
+      "5 dias",
+      "15 dias",
+      "denúncia"
+    ],
+    "nivel": "médio",
+    "anulada": false,
+    "ativa": true,
+    "respondida": false,
+    "status": "ATIVA",
+    "fonte": "Código de Processo Penal Militar (Decreto-Lei nº 1.002/1969, texto vigente); material_direito_militar.pdf; memorex_direito_penal_militar.pdf",
+    "opcoes": [
+      "2 dias preso e 5 dias solto.",
+      "5 dias preso e 15 dias solto.",
+      "10 dias preso e 30 dias solto.",
+      "20 dias preso e 40 dias solto."
+    ],
+    "correta": "5 dias preso e 15 dias solto."
+  },
+  {
+    "id": "dppm-066",
+    "numero_original": 66,
+    "topico_numero": 7,
+    "topico": "Ação penal militar, denúncia e arquivamento",
+    "tipo": "multipla_escolha",
+    "artigo": "Arquivamento do IPM",
+    "pergunta": "Ausentes elementos suficientes para a denúncia, qual providência corresponde ao sistema processual militar?",
+    "comentario": "Resposta correta: O Ministério Público requer o arquivamento à autoridade judicial competente. O pedido de arquivamento parte do Ministério Público e é submetido ao controle judicial, conforme o regime aplicável.",
+    "palavras_chave": [
+      "MP requer",
+      "juiz decide",
+      "arquivamento"
+    ],
+    "nivel": "médio",
+    "anulada": false,
+    "ativa": true,
+    "respondida": false,
+    "status": "ATIVA",
+    "fonte": "Código de Processo Penal Militar (Decreto-Lei nº 1.002/1969, texto vigente); material_direito_militar.pdf; memorex_direito_penal_militar.pdf",
+    "opcoes": [
+      "O encarregado profere sentença absolutória.",
+      "O Ministério Público requer o arquivamento à autoridade judicial competente.",
+      "O escrivão elimina as peças sigilosas.",
+      "O comandante aplica pena criminal administrativa."
+    ],
+    "correta": "O Ministério Público requer o arquivamento à autoridade judicial competente."
+  },
+  {
+    "id": "dppm-067",
+    "numero_original": 67,
+    "topico_numero": 7,
+    "topico": "Ação penal militar, denúncia e arquivamento",
+    "tipo": "multipla_escolha",
+    "artigo": "CPPM - art. 28",
+    "pergunta": "Qual afirmação diferencia corretamente dispensa de IPM e arquivamento?",
+    "comentario": "Resposta correta: A dispensa ocorre nas hipóteses legais em que a investigação formal é desnecessária; o arquivamento encerra a persecução naquele momento sob controle ministerial e judicial. Dispensar o inquérito não significa reconhecer inexistência de crime; significa que os elementos já disponíveis permitem prosseguir sem a investigação formal completa.",
+    "palavras_chave": [
+      "dispensa",
+      "arquivamento",
+      "diferença"
+    ],
+    "nivel": "difícil",
+    "anulada": false,
+    "ativa": true,
+    "respondida": false,
+    "status": "ATIVA",
+    "fonte": "Código de Processo Penal Militar (Decreto-Lei nº 1.002/1969, texto vigente); material_direito_militar.pdf; memorex_direito_penal_militar.pdf",
+    "opcoes": [
+      "São sinônimos e podem ser determinados pelo escrivão.",
+      "A dispensa ocorre nas hipóteses legais em que a investigação formal é desnecessária; o arquivamento encerra a persecução naquele momento sob controle ministerial e judicial.",
+      "O arquivamento antecede sempre a notícia do fato.",
+      "A dispensa de IPM corresponde a condenação antecipada."
+    ],
+    "correta": "A dispensa ocorre nas hipóteses legais em que a investigação formal é desnecessária; o arquivamento encerra a persecução naquele momento sob controle ministerial e judicial."
+  },
+  {
+    "id": "dppm-068",
+    "numero_original": 68,
+    "topico_numero": 7,
+    "topico": "Ação penal militar, denúncia e arquivamento",
+    "tipo": "multipla_escolha",
+    "artigo": "CPPM - art. 78",
+    "pergunta": "A denúncia deve ser rejeitada quando:",
+    "comentario": "Resposta correta: O fato narrado não constitui evidentemente crime da competência da Justiça Militar ou há manifesta incompetência. O CPPM prevê causas de rejeição relacionadas a requisitos formais, atipicidade evidente, extinção da punibilidade, incompetência e ilegitimidade.",
+    "palavras_chave": [
+      "rejeição da denúncia",
+      "incompetência",
+      "atipicidade"
+    ],
+    "nivel": "difícil",
+    "anulada": false,
+    "ativa": true,
+    "respondida": false,
+    "status": "ATIVA",
+    "fonte": "Código de Processo Penal Militar (Decreto-Lei nº 1.002/1969, texto vigente); material_direito_militar.pdf; memorex_direito_penal_militar.pdf",
+    "opcoes": [
+      "Contém todos os requisitos e descreve fato evidentemente criminoso da competência militar.",
+      "O fato narrado não constitui evidentemente crime da competência da Justiça Militar ou há manifesta incompetência.",
+      "O Ministério Público apresenta rol de testemunhas.",
+      "O acusado está solto."
+    ],
+    "correta": "O fato narrado não constitui evidentemente crime da competência da Justiça Militar ou há manifesta incompetência."
+  },
+  {
+    "id": "dppm-069",
+    "numero_original": 69,
+    "topico_numero": 7,
+    "topico": "Ação penal militar, denúncia e arquivamento",
+    "tipo": "relacionar",
+    "artigo": "Ação penal militar",
+    "pergunta": "Relacione o instituto à autoridade ou consequência correspondente. Para cada item da Coluna B, informe o número do item correspondente da Coluna A.",
+    "comentario": "Gabarito da Coluna B: 1, 2, 3, 4. Investigar, acusar e julgar são funções distintas, distribuídas entre polícia judiciária, Ministério Público e Judiciário.",
+    "palavras_chave": [
+      "investigar",
+      "denunciar",
+      "arquivar",
+      "julgar"
+    ],
+    "nivel": "médio",
+    "anulada": false,
+    "ativa": true,
+    "respondida": false,
+    "status": "ATIVA",
+    "fonte": "Código de Processo Penal Militar (Decreto-Lei nº 1.002/1969, texto vigente); material_direito_militar.pdf; memorex_direito_penal_militar.pdf",
+    "coluna_a": [
+      "Investigação",
+      "Denúncia",
+      "Pedido de arquivamento",
+      "Julgamento"
+    ],
+    "coluna_b": [
+      "Conduzida pela polícia judiciária militar por meio do IPM",
+      "Ato de iniciativa do Ministério Público",
+      "Formulado pelo Ministério Público e submetido ao controle judicial",
+      "Função exercida pelo órgão jurisdicional competente"
+    ],
+    "correta": "1, 2, 3, 4"
+  },
+  {
+    "id": "dppm-070",
+    "numero_original": 70,
+    "topico_numero": 7,
+    "topico": "Ação penal militar, denúncia e arquivamento",
+    "tipo": "relacionar",
+    "artigo": "Prazos e requisitos",
+    "pergunta": "Relacione cada situação à respectiva regra. Para cada item da Coluna B, informe o número do item correspondente da Coluna A.",
+    "comentario": "Gabarito da Coluna B: 1, 2, 3, 4. Os prazos de denúncia são 5/15; os prazos do IPM são 20/40.",
+    "palavras_chave": [
+      "5/15",
+      "20/40",
+      "prazos"
+    ],
+    "nivel": "difícil",
+    "anulada": false,
+    "ativa": true,
+    "respondida": false,
+    "status": "ATIVA",
+    "fonte": "Código de Processo Penal Militar (Decreto-Lei nº 1.002/1969, texto vigente); material_direito_militar.pdf; memorex_direito_penal_militar.pdf",
+    "coluna_a": [
+      "Denúncia com acusado preso",
+      "Denúncia com acusado solto",
+      "IPM com indiciado preso",
+      "IPM com indiciado solto"
+    ],
+    "coluna_b": [
+      "Prazo ordinário de cinco dias",
+      "Prazo ordinário de quinze dias",
+      "Conclusão ordinária em vinte dias",
+      "Conclusão ordinária em quarenta dias, com possibilidade legal de prorrogação"
+    ],
+    "correta": "1, 2, 3, 4"
+  },
+  {
+    "id": "dppm-071",
+    "numero_original": 71,
+    "topico_numero": 8,
+    "topico": "Deserção, prazo de graça e procedimentos",
+    "tipo": "verdadeiro_falso",
+    "artigo": "CPM - art. 187",
+    "pergunta": "A deserção comum se configura quando o militar se ausenta, sem licença, da unidade em que serve ou do lugar em que deve permanecer por mais de oito dias.",
+    "comentario": "Resposta correta: Verdadeiro. A afirmação está correta. Durante o prazo de graça há ausência injustificada; a consumação penal ocorre após o transcurso do período legal.",
+    "palavras_chave": [
+      "deserção",
+      "mais de 8 dias",
+      "art. 187"
+    ],
+    "nivel": "fácil",
+    "anulada": false,
+    "ativa": true,
+    "respondida": false,
+    "status": "ATIVA",
+    "fonte": "CPM, arts. 187 a 193; CPPM, arts. 451 e seguintes; material_direito_militar.pdf; memorex_direito_penal_militar.pdf",
+    "opcoes": [
+      "Verdadeiro",
+      "Falso"
+    ],
+    "correta": "Verdadeiro"
+  },
+  {
+    "id": "dppm-072",
+    "numero_original": 72,
+    "topico_numero": 8,
+    "topico": "Deserção, prazo de graça e procedimentos",
+    "tipo": "verdadeiro_falso",
+    "artigo": "CPPM - art. 451, § 1º",
+    "pergunta": "A contagem dos dias de ausência para o termo de deserção começa exatamente no minuto em que o militar deixa de se apresentar.",
+    "comentario": "Resposta correta: Falso. A afirmação está incorreta. A contagem inicia-se à zero hora do dia seguinte àquele em que for verificada a falta injustificada.",
+    "palavras_chave": [
+      "zero hora do dia seguinte",
+      "contagem",
+      "regra da meia-noite"
+    ],
+    "nivel": "médio",
+    "anulada": false,
+    "ativa": true,
+    "respondida": false,
+    "status": "ATIVA",
+    "fonte": "CPM, arts. 187 a 193; CPPM, arts. 451 e seguintes; material_direito_militar.pdf; memorex_direito_penal_militar.pdf",
+    "opcoes": [
+      "Verdadeiro",
+      "Falso"
+    ],
+    "correta": "Falso"
+  },
+  {
+    "id": "dppm-073",
+    "numero_original": 73,
+    "topico_numero": 8,
+    "topico": "Deserção, prazo de graça e procedimentos",
+    "tipo": "verdadeiro_falso",
+    "artigo": "CPM - art. 190; CPPM - art. 451, § 2º",
+    "pergunta": "Na deserção especial, a lei exige o mesmo prazo de graça de oito dias aplicável à deserção comum.",
+    "comentario": "Resposta correta: Falso. A afirmação está incorreta. A deserção especial relacionada à partida ou deslocamento previsto no art. 190 possui disciplina imediata, sem o prazo de graça da deserção comum.",
+    "palavras_chave": [
+      "deserção especial",
+      "sem prazo de graça",
+      "imediata"
+    ],
+    "nivel": "médio",
+    "anulada": false,
+    "ativa": true,
+    "respondida": false,
+    "status": "ATIVA",
+    "fonte": "CPM, arts. 187 a 193; CPPM, arts. 451 e seguintes; material_direito_militar.pdf; memorex_direito_penal_militar.pdf",
+    "opcoes": [
+      "Verdadeiro",
+      "Falso"
+    ],
+    "correta": "Falso"
+  },
+  {
+    "id": "dppm-074",
+    "numero_original": 74,
+    "topico_numero": 8,
+    "topico": "Deserção, prazo de graça e procedimentos",
+    "tipo": "verdadeiro_falso",
+    "artigo": "CPPM - art. 244, parágrafo único; deserção",
+    "pergunta": "Enquanto o estado de ausência caracterizador da deserção permanente não cessar, pode subsistir situação de flagrância.",
+    "comentario": "Resposta correta: Verdadeiro. A afirmação está correta. Nas infrações permanentes, o flagrante perdura enquanto não cessar a permanência.",
+    "palavras_chave": [
+      "crime permanente",
+      "flagrante",
+      "deserção"
+    ],
+    "nivel": "difícil",
+    "anulada": false,
+    "ativa": true,
+    "respondida": false,
+    "status": "ATIVA",
+    "fonte": "CPM, arts. 187 a 193; CPPM, arts. 451 e seguintes; material_direito_militar.pdf; memorex_direito_penal_militar.pdf",
+    "opcoes": [
+      "Verdadeiro",
+      "Falso"
+    ],
+    "correta": "Verdadeiro"
+  },
+  {
+    "id": "dppm-075",
+    "numero_original": 75,
+    "topico_numero": 8,
+    "topico": "Deserção, prazo de graça e procedimentos",
+    "tipo": "multipla_escolha",
+    "artigo": "CPPM - art. 451",
+    "pergunta": "Um militar deveria apresentar-se no dia 15 às 7h e não compareceu. Considerando a regra da contagem a partir de 0h do dia seguinte e a consumação após oito dias completos, quando ocorre a consumação indicada no material?",
+    "comentario": "Resposta correta: À 0h do dia 24. A contagem começa à 0h do dia 16; completados oito dias, o crime se consuma à 0h do nono dia, no exemplo, dia 24.",
+    "palavras_chave": [
+      "dia 15",
+      "dia 16",
+      "dia 24"
+    ],
+    "nivel": "difícil",
+    "anulada": false,
+    "ativa": true,
+    "respondida": false,
+    "status": "ATIVA",
+    "fonte": "CPM, arts. 187 a 193; CPPM, arts. 451 e seguintes; material_direito_militar.pdf; memorex_direito_penal_militar.pdf",
+    "opcoes": [
+      "Às 7h do próprio dia 15.",
+      "À 0h do dia 16.",
+      "À 0h do dia 24.",
+      "Às 23h59 do dia 30."
+    ],
+    "correta": "À 0h do dia 24."
+  },
+  {
+    "id": "dppm-076",
+    "numero_original": 76,
+    "topico_numero": 8,
+    "topico": "Deserção, prazo de graça e procedimentos",
+    "tipo": "multipla_escolha",
+    "artigo": "CPM - art. 189",
+    "pergunta": "Qual consequência pode decorrer da apresentação voluntária do desertor em período próximo à consumação, conforme as faixas legais?",
+    "comentario": "Resposta correta: A lei prevê redução de pena em proporções diferentes conforme o momento da apresentação voluntária. O retorno voluntário não elimina automaticamente o crime, mas pode gerar atenuação conforme o período previsto no CPM.",
+    "palavras_chave": [
+      "apresentação voluntária",
+      "redução",
+      "art. 189"
+    ],
+    "nivel": "difícil",
+    "anulada": false,
+    "ativa": true,
+    "respondida": false,
+    "status": "ATIVA",
+    "fonte": "CPM, arts. 187 a 193; CPPM, arts. 451 e seguintes; material_direito_militar.pdf; memorex_direito_penal_militar.pdf",
+    "opcoes": [
+      "A pena sempre é integralmente extinta.",
+      "A lei prevê redução de pena em proporções diferentes conforme o momento da apresentação voluntária.",
+      "A apresentação voluntária transforma o crime em infração civil.",
+      "O retorno impede qualquer prisão ou processo."
+    ],
+    "correta": "A lei prevê redução de pena em proporções diferentes conforme o momento da apresentação voluntária."
+  },
+  {
+    "id": "dppm-077",
+    "numero_original": 77,
+    "topico_numero": 8,
+    "topico": "Deserção, prazo de graça e procedimentos",
+    "tipo": "multipla_escolha",
+    "artigo": "CPM - art. 193",
+    "pergunta": "No favorecimento a desertor, qual circunstância pode gerar isenção de pena nos termos legais?",
+    "comentario": "Resposta correta: O favorecedor ser ascendente, descendente, cônjuge ou irmão do desertor. A lei prevê hipótese pessoal de isenção para determinados familiares próximos, sem transformar a conduta em juridicamente recomendável.",
+    "palavras_chave": [
+      "favorecimento",
+      "família",
+      "isenção"
+    ],
+    "nivel": "difícil",
+    "anulada": false,
+    "ativa": true,
+    "respondida": false,
+    "status": "ATIVA",
+    "fonte": "CPM, arts. 187 a 193; CPPM, arts. 451 e seguintes; material_direito_militar.pdf; memorex_direito_penal_militar.pdf",
+    "opcoes": [
+      "O favorecedor ser superior hierárquico do desertor.",
+      "O favorecedor ser ascendente, descendente, cônjuge ou irmão do desertor.",
+      "O favorecimento ocorrer dentro de quartel.",
+      "O desertor permanecer ausente por mais de sessenta dias."
+    ],
+    "correta": "O favorecedor ser ascendente, descendente, cônjuge ou irmão do desertor."
+  },
+  {
+    "id": "dppm-078",
+    "numero_original": 78,
+    "topico_numero": 8,
+    "topico": "Deserção, prazo de graça e procedimentos",
+    "tipo": "multipla_escolha",
+    "artigo": "CPM - art. 191",
+    "pergunta": "O concerto para deserção caracteriza-se por:",
+    "comentario": "Resposta correta: União de dois ou mais militares para desertar. O tipo pune o ajuste entre militares voltado à prática da deserção.",
+    "palavras_chave": [
+      "concerto",
+      "dois ou mais",
+      "desertar"
+    ],
+    "nivel": "médio",
+    "anulada": false,
+    "ativa": true,
+    "respondida": false,
+    "status": "ATIVA",
+    "fonte": "CPM, arts. 187 a 193; CPPM, arts. 451 e seguintes; material_direito_militar.pdf; memorex_direito_penal_militar.pdf",
+    "opcoes": [
+      "Erro administrativo na escala de serviço.",
+      "União de dois ou mais militares para desertar.",
+      "Ajuda posterior prestada por civil sem vínculo familiar.",
+      "Retorno voluntário do desertor."
+    ],
+    "correta": "União de dois ou mais militares para desertar."
+  },
+  {
+    "id": "dppm-079",
+    "numero_original": 79,
+    "topico_numero": 8,
+    "topico": "Deserção, prazo de graça e procedimentos",
+    "tipo": "relacionar",
+    "artigo": "Modalidades de deserção",
+    "pergunta": "Relacione a modalidade à sua característica. Para cada item da Coluna B, informe o número do item correspondente da Coluna A.",
+    "comentario": "Gabarito da Coluna B: 1, 2, 3, 4. A modalidade comum utiliza o prazo de graça; a especial é imediata; os assimilados e a evasão possuem previsões próprias.",
+    "palavras_chave": [
+      "comum",
+      "especial",
+      "assimilado",
+      "evasão"
+    ],
+    "nivel": "difícil",
+    "anulada": false,
+    "ativa": true,
+    "respondida": false,
+    "status": "ATIVA",
+    "fonte": "CPM, arts. 187 a 193; CPPM, arts. 451 e seguintes; material_direito_militar.pdf; memorex_direito_penal_militar.pdf",
+    "coluna_a": [
+      "Deserção comum",
+      "Deserção especial",
+      "Caso assimilado",
+      "Deserção por evasão"
+    ],
+    "coluna_b": [
+      "Ausência sem licença por mais de oito dias",
+      "Não apresentação no momento da partida ou deslocamento legalmente previsto, sem prazo de graça",
+      "Não apresentação após férias ou licença, ou outra hipótese legal equiparada",
+      "Fuga de prisão ou escolta mantida pelo período legal"
+    ],
+    "correta": "1, 2, 3, 4"
+  },
+  {
+    "id": "dppm-080",
+    "numero_original": 80,
+    "topico_numero": 8,
+    "topico": "Deserção, prazo de graça e procedimentos",
+    "tipo": "relacionar",
+    "artigo": "Cronologia da deserção",
+    "pergunta": "Relacione cada etapa à sua descrição. Para cada item da Coluna B, informe o número do item correspondente da Coluna A.",
+    "comentario": "Gabarito da Coluna B: 1, 2, 3, 4, 5. A sequência temporal evita o erro de contar o prazo a partir da hora exata da falta.",
+    "palavras_chave": [
+      "falta",
+      "zero hora",
+      "oito dias",
+      "termo"
+    ],
+    "nivel": "difícil",
+    "anulada": false,
+    "ativa": true,
+    "respondida": false,
+    "status": "ATIVA",
+    "fonte": "CPM, arts. 187 a 193; CPPM, arts. 451 e seguintes; material_direito_militar.pdf; memorex_direito_penal_militar.pdf",
+    "coluna_a": [
+      "Falta injustificada",
+      "Início da contagem",
+      "Prazo de graça",
+      "Consumação",
+      "Termo de deserção"
+    ],
+    "coluna_b": [
+      "Não comparecimento no momento devido",
+      "Zero hora do dia seguinte à falta",
+      "Oito dias completos de ausência antes da consumação",
+      "Zero hora do nono dia, após o prazo legal",
+      "Documento lavrado imediatamente após a consumação para instrução provisória"
+    ],
+    "correta": "1, 2, 3, 4, 5"
+  },
+  {
+    "id": "dppm-081",
+    "numero_original": 81,
+    "topico_numero": 9,
+    "topico": "Conselhos de Justiça, provas e legalidade processual",
+    "tipo": "verdadeiro_falso",
+    "artigo": "Lei nº 8.457/1992 - art. 27",
+    "pergunta": "Na Justiça Militar da União, o Conselho Especial processa e julga oficiais, exceto oficiais-generais, e o Conselho Permanente processa e julga militares que não sejam oficiais.",
+    "comentario": "Resposta correta: Verdadeiro. A afirmação está correta. A divisão utiliza a condição hierárquica do acusado e está expressamente prevista na lei de organização da JMU.",
+    "palavras_chave": [
+      "Conselho Especial",
+      "Conselho Permanente",
+      "oficial"
+    ],
+    "nivel": "médio",
+    "anulada": false,
+    "ativa": true,
+    "respondida": false,
+    "status": "ATIVA",
+    "fonte": "Constituição Federal, art. 125, §§ 3º a 5º; CPM, art. 9º; Lei nº 8.457/1992; material_direito_militar.pdf",
+    "opcoes": [
+      "Verdadeiro",
+      "Falso"
+    ],
+    "correta": "Verdadeiro"
+  },
+  {
+    "id": "dppm-082",
+    "numero_original": 82,
+    "topico_numero": 9,
+    "topico": "Conselhos de Justiça, provas e legalidade processual",
+    "tipo": "verdadeiro_falso",
+    "artigo": "Lei nº 8.457/1992 - art. 16",
+    "pergunta": "Após a Lei nº 13.774/2018, os Conselhos de Justiça da União são presididos necessariamente pelo oficial militar de maior posto que os integra.",
+    "comentario": "Resposta correta: Falso. A afirmação está incorreta. Os Conselhos são presididos pelo juiz federal da Justiça Militar ou pelo juiz federal substituto, acompanhados de quatro juízes militares.",
+    "palavras_chave": [
+      "presidência",
+      "juiz federal",
+      "Lei 13.774"
+    ],
+    "nivel": "difícil",
+    "anulada": false,
+    "ativa": true,
+    "respondida": false,
+    "status": "ATIVA",
+    "fonte": "Constituição Federal, art. 125, §§ 3º a 5º; CPM, art. 9º; Lei nº 8.457/1992; material_direito_militar.pdf",
+    "opcoes": [
+      "Verdadeiro",
+      "Falso"
+    ],
+    "correta": "Falso"
+  },
+  {
+    "id": "dppm-083",
+    "numero_original": 83,
+    "topico_numero": 9,
+    "topico": "Conselhos de Justiça, provas e legalidade processual",
+    "tipo": "verdadeiro_falso",
+    "artigo": "Constituição Federal - art. 125, § 5º",
+    "pergunta": "Na Justiça Militar estadual, os demais crimes militares que não sejam julgados singularmente pelo juiz de direito são processados e julgados pelo Conselho de Justiça, sob a presidência de juiz de direito.",
+    "comentario": "Resposta correta: Verdadeiro. A afirmação está correta. A Constituição define o modelo colegiado e a presidência judicial civil do Conselho na esfera estadual.",
+    "palavras_chave": [
+      "JME",
+      "Conselho",
+      "presidência do juiz"
+    ],
+    "nivel": "difícil",
+    "anulada": false,
+    "ativa": true,
+    "respondida": false,
+    "status": "ATIVA",
+    "fonte": "Constituição Federal, art. 125, §§ 3º a 5º; CPM, art. 9º; Lei nº 8.457/1992; material_direito_militar.pdf",
+    "opcoes": [
+      "Verdadeiro",
+      "Falso"
+    ],
+    "correta": "Verdadeiro"
+  },
+  {
+    "id": "dppm-084",
+    "numero_original": 84,
+    "topico_numero": 9,
+    "topico": "Conselhos de Justiça, provas e legalidade processual",
+    "tipo": "verdadeiro_falso",
+    "artigo": "Legalidade e nulidades",
+    "pergunta": "Toda irregularidade formal, por menor que seja e ainda que não cause prejuízo, produz automaticamente nulidade absoluta de todos os atos do processo penal militar.",
+    "comentario": "Resposta correta: Falso. A afirmação está incorreta. A nulidade depende da natureza da formalidade, da disciplina legal e da repercussão sobre garantias e finalidade do ato. Não se deve confundir zelo formal com automatismo anulatório.",
+    "palavras_chave": [
+      "nulidade",
+      "prejuízo",
+      "finalidade do ato"
+    ],
+    "nivel": "difícil",
+    "anulada": false,
+    "ativa": true,
+    "respondida": false,
+    "status": "ATIVA",
+    "fonte": "Código de Processo Penal Militar (Decreto-Lei nº 1.002/1969, texto vigente); material_direito_militar.pdf; memorex_direito_penal_militar.pdf",
+    "opcoes": [
+      "Verdadeiro",
+      "Falso"
+    ],
+    "correta": "Falso"
+  },
+  {
+    "id": "dppm-085",
+    "numero_original": 85,
+    "topico_numero": 9,
+    "topico": "Conselhos de Justiça, provas e legalidade processual",
+    "tipo": "multipla_escolha",
+    "artigo": "Lei nº 8.457/1992 - art. 16",
+    "pergunta": "Qual é a composição básica de cada Conselho de Justiça na JMU após a reforma de 2018?",
+    "comentario": "Resposta correta: Um juiz federal da Justiça Militar, que o preside, e quatro juízes militares. A composição é escabinada: magistrado togado e juízes militares, com diferenças nos requisitos dos militares conforme o Conselho.",
+    "palavras_chave": [
+      "composição",
+      "um juiz federal",
+      "quatro militares"
+    ],
+    "nivel": "médio",
+    "anulada": false,
+    "ativa": true,
+    "respondida": false,
+    "status": "ATIVA",
+    "fonte": "Constituição Federal, art. 125, §§ 3º a 5º; CPM, art. 9º; Lei nº 8.457/1992; material_direito_militar.pdf",
+    "opcoes": [
+      "Cinco oficiais militares, sem magistrado togado.",
+      "Um juiz federal da Justiça Militar, que o preside, e quatro juízes militares.",
+      "Três jurados civis e dois militares.",
+      "Um promotor e quatro oficiais."
+    ],
+    "correta": "Um juiz federal da Justiça Militar, que o preside, e quatro juízes militares."
+  },
+  {
+    "id": "dppm-086",
+    "numero_original": 86,
+    "topico_numero": 9,
+    "topico": "Conselhos de Justiça, provas e legalidade processual",
+    "tipo": "multipla_escolha",
+    "artigo": "Lei nº 8.457/1992 - art. 23",
+    "pergunta": "Os juízes militares do Conselho Especial devem possuir, em relação ao acusado:",
+    "comentario": "Resposta correta: Posto superior ou o mesmo posto com maior antiguidade. A regra protege a estrutura hierárquica do julgamento de oficiais.",
+    "palavras_chave": [
+      "posto superior",
+      "mesmo posto mais antigo",
+      "Conselho Especial"
+    ],
+    "nivel": "difícil",
+    "anulada": false,
+    "ativa": true,
+    "respondida": false,
+    "status": "ATIVA",
+    "fonte": "Constituição Federal, art. 125, §§ 3º a 5º; CPM, art. 9º; Lei nº 8.457/1992; material_direito_militar.pdf",
+    "opcoes": [
+      "Posto inferior, para evitar influência.",
+      "Posto superior ou o mesmo posto com maior antiguidade.",
+      "Qualquer posto, escolhido pelo acusado.",
+      "Obrigatoriamente a mesma graduação de praça."
+    ],
+    "correta": "Posto superior ou o mesmo posto com maior antiguidade."
+  },
+  {
+    "id": "dppm-087",
+    "numero_original": 87,
+    "topico_numero": 9,
+    "topico": "Conselhos de Justiça, provas e legalidade processual",
+    "tipo": "multipla_escolha",
+    "artigo": "Sigilo e defesa",
+    "pergunta": "Durante o IPM, o advogado solicita acesso às provas já documentadas que interessam ao exercício da defesa. Qual solução é mais compatível com as garantias processuais?",
+    "comentario": "Resposta correta: Permitir acesso aos elementos documentados, preservando diligências em andamento cuja divulgação comprometa a investigação. O sigilo é funcional, não instrumento para impedir defesa sobre elementos já incorporados ao procedimento.",
+    "palavras_chave": [
+      "acesso defensivo",
+      "documentado",
+      "diligência em andamento"
+    ],
+    "nivel": "difícil",
+    "anulada": false,
+    "ativa": true,
+    "respondida": false,
+    "status": "ATIVA",
+    "fonte": "Código de Processo Penal Militar (Decreto-Lei nº 1.002/1969, texto vigente); material_direito_militar.pdf; memorex_direito_penal_militar.pdf",
+    "opcoes": [
+      "Negar todo acesso porque o IPM é sigiloso.",
+      "Permitir acesso aos elementos documentados, preservando diligências em andamento cuja divulgação comprometa a investigação.",
+      "Entregar exclusivamente as conclusões finais, sem peças.",
+      "Autorizar acesso somente após condenação."
+    ],
+    "correta": "Permitir acesso aos elementos documentados, preservando diligências em andamento cuja divulgação comprometa a investigação."
+  },
+  {
+    "id": "dppm-088",
+    "numero_original": 88,
+    "topico_numero": 9,
+    "topico": "Conselhos de Justiça, provas e legalidade processual",
+    "tipo": "multipla_escolha",
+    "artigo": "CPPM - prova pericial",
+    "pergunta": "Em crime que deixa vestígios, qual providência possui especial relevância para a regularidade probatória?",
+    "comentario": "Resposta correta: Realizar o exame de corpo de delito ou a perícia cabível, observadas as formalidades legais. A prova técnica preserva materialidade e não pode ser dispensada apenas por conveniência quando a lei exige exame.",
+    "palavras_chave": [
+      "vestígios",
+      "corpo de delito",
+      "perícia"
+    ],
+    "nivel": "médio",
+    "anulada": false,
+    "ativa": true,
+    "respondida": false,
+    "status": "ATIVA",
+    "fonte": "Código de Processo Penal Militar (Decreto-Lei nº 1.002/1969, texto vigente); material_direito_militar.pdf; memorex_direito_penal_militar.pdf",
+    "opcoes": [
+      "Substituir sempre a perícia pela confissão.",
+      "Realizar o exame de corpo de delito ou a perícia cabível, observadas as formalidades legais.",
+      "Destruir os vestígios depois do relato do condutor.",
+      "Ouvir somente testemunhas indiretas."
+    ],
+    "correta": "Realizar o exame de corpo de delito ou a perícia cabível, observadas as formalidades legais."
+  },
+  {
+    "id": "dppm-089",
+    "numero_original": 89,
+    "topico_numero": 9,
+    "topico": "Conselhos de Justiça, provas e legalidade processual",
+    "tipo": "relacionar",
+    "artigo": "Órgãos e competências",
+    "pergunta": "Relacione o órgão ou autoridade à competência predominante. Para cada item da Coluna B, informe o número do item correspondente da Coluna A.",
+    "comentario": "Gabarito da Coluna B: 1, 2, 3, 4. A organização diferencia JMU e JME e distribui competência conforme acusado, vítima e natureza do processo.",
+    "palavras_chave": [
+      "órgão julgador",
+      "oficial",
+      "praça",
+      "civil"
+    ],
+    "nivel": "difícil",
+    "anulada": false,
+    "ativa": true,
+    "respondida": false,
+    "status": "ATIVA",
+    "fonte": "Constituição Federal, art. 125, §§ 3º a 5º; CPM, art. 9º; Lei nº 8.457/1992; material_direito_militar.pdf",
+    "coluna_a": [
+      "Conselho Especial da JMU",
+      "Conselho Permanente da JMU",
+      "Juiz federal da Justiça Militar",
+      "Juiz de direito do juízo militar estadual"
+    ],
+    "coluna_b": [
+      "Julgar oficiais, salvo oficiais-generais",
+      "Julgar militares que não sejam oficiais",
+      "Presidir Conselhos e julgar civis monocraticamente nas hipóteses legais",
+      "Julgar singularmente crimes militares estaduais contra civis e ações disciplinares, ressalvado o Júri"
+    ],
+    "correta": "1, 2, 3, 4"
+  },
+  {
+    "id": "dppm-090",
+    "numero_original": 90,
+    "topico_numero": 9,
+    "topico": "Conselhos de Justiça, provas e legalidade processual",
+    "tipo": "relacionar",
+    "artigo": "Atos probatórios e formais",
+    "pergunta": "Relacione o ato à cautela procedimental correspondente. Para cada item da Coluna B, informe o número do item correspondente da Coluna A.",
+    "comentario": "Gabarito da Coluna B: 1, 2, 3, 4, 5. A higidez do procedimento depende tanto do conteúdo quanto da documentação regular de cada ato.",
+    "palavras_chave": [
+      "oitiva",
+      "silêncio",
+      "perícia",
+      "juntada",
+      "substituição"
+    ],
+    "nivel": "difícil",
+    "anulada": false,
+    "ativa": true,
+    "respondida": false,
+    "status": "ATIVA",
+    "fonte": "Código de Processo Penal Militar (Decreto-Lei nº 1.002/1969, texto vigente); material_direito_militar.pdf; memorex_direito_penal_militar.pdf",
+    "coluna_a": [
+      "Oitiva de testemunha",
+      "Interrogatório do indiciado",
+      "Perícia",
+      "Juntada documental",
+      "Substituição de encarregado"
+    ],
+    "coluna_b": [
+      "Registrar perguntas, respostas, horários e preservar a fidelidade do relato",
+      "Respeitar o direito ao silêncio e a não autoincriminação",
+      "Utilizar peritos idôneos e observar as formalidades técnicas",
+      "Certificar a entrada e manter a ordem cronológica dos autos",
+      "Formalizar nova designação antes da continuidade dos atos"
+    ],
+    "correta": "1, 2, 3, 4, 5"
+  },
+  {
+    "id": "dppm-091",
+    "numero_original": 91,
+    "topico_numero": 10,
+    "topico": "Tipos penais militares, reformas legislativas e cadeia documental",
+    "tipo": "verdadeiro_falso",
+    "artigo": "CPM - art. 149",
+    "pergunta": "A diferença característica entre motim e revolta reside no fato de que, na revolta, os militares praticam a conduta armados.",
+    "comentario": "Resposta correta: Verdadeiro. A afirmação está correta. O motim envolve a reunião nas condições do tipo sem armas; a presença de armamento qualifica a conduta como revolta.",
+    "palavras_chave": [
+      "motim",
+      "revolta",
+      "armados"
+    ],
+    "nivel": "médio",
+    "anulada": false,
+    "ativa": true,
+    "respondida": false,
+    "status": "ATIVA",
+    "fonte": "Código Penal Militar (Decreto-Lei nº 1.001/1969, texto compilado); Lei nº 13.491/2017; Lei nº 14.688/2023; material_direito_militar.pdf; memorex_direito_penal_militar.pdf",
+    "opcoes": [
+      "Verdadeiro",
+      "Falso"
+    ],
+    "correta": "Verdadeiro"
+  },
+  {
+    "id": "dppm-092",
+    "numero_original": 92,
+    "topico_numero": 10,
+    "topico": "Tipos penais militares, reformas legislativas e cadeia documental",
+    "tipo": "verdadeiro_falso",
+    "artigo": "CPM - art. 241",
+    "pergunta": "A subtração de bem apenas para uso temporário, com restituição imediata, é penalmente irrelevante no CPM porque o direito militar não prevê furto de uso.",
+    "comentario": "Resposta correta: Falso. A afirmação está incorreta. O CPM prevê expressamente o furto de uso, diferentemente da disciplina geral do Código Penal comum.",
+    "palavras_chave": [
+      "furto de uso",
+      "uso temporário",
+      "restituição"
+    ],
+    "nivel": "médio",
+    "anulada": false,
+    "ativa": true,
+    "respondida": false,
+    "status": "ATIVA",
+    "fonte": "Código Penal Militar (Decreto-Lei nº 1.001/1969, texto compilado); Lei nº 13.491/2017; Lei nº 14.688/2023; material_direito_militar.pdf; memorex_direito_penal_militar.pdf",
+    "opcoes": [
+      "Verdadeiro",
+      "Falso"
+    ],
+    "correta": "Falso"
+  },
+  {
+    "id": "dppm-093",
+    "numero_original": 93,
+    "topico_numero": 10,
+    "topico": "Tipos penais militares, reformas legislativas e cadeia documental",
+    "tipo": "verdadeiro_falso",
+    "artigo": "CPM - art. 209, § 6º",
+    "pergunta": "Em caso de lesão levíssima, o juiz pode, nas condições legais, considerar a conduta como infração disciplinar.",
+    "comentario": "Resposta correta: Verdadeiro. A afirmação está correta. A previsão não significa absolvição automática: depende da avaliação judicial e dos requisitos do caso.",
+    "palavras_chave": [
+      "lesão levíssima",
+      "infração disciplinar",
+      "faculdade judicial"
+    ],
+    "nivel": "difícil",
+    "anulada": false,
+    "ativa": true,
+    "respondida": false,
+    "status": "ATIVA",
+    "fonte": "Código Penal Militar (Decreto-Lei nº 1.001/1969, texto compilado); Lei nº 13.491/2017; Lei nº 14.688/2023; material_direito_militar.pdf; memorex_direito_penal_militar.pdf",
+    "opcoes": [
+      "Verdadeiro",
+      "Falso"
+    ],
+    "correta": "Verdadeiro"
+  },
+  {
+    "id": "dppm-094",
+    "numero_original": 94,
+    "topico_numero": 10,
+    "topico": "Tipos penais militares, reformas legislativas e cadeia documental",
+    "tipo": "verdadeiro_falso",
+    "artigo": "Lei nº 14.688/2023",
+    "pergunta": "A Lei nº 14.688/2023 promoveu atualização do CPM, incluindo a revogação da antiga figura do assemelhado e a modernização de diversos tipos penais.",
+    "comentario": "Resposta correta: Verdadeiro. A afirmação está correta. A reforma buscou compatibilizar o CPM com a Constituição e com a legislação penal contemporânea.",
+    "palavras_chave": [
+      "Lei 14.688",
+      "assemelhado",
+      "modernização"
+    ],
+    "nivel": "médio",
+    "anulada": false,
+    "ativa": true,
+    "respondida": false,
+    "status": "ATIVA",
+    "fonte": "Código Penal Militar (Decreto-Lei nº 1.001/1969, texto compilado); Lei nº 13.491/2017; Lei nº 14.688/2023; material_direito_militar.pdf; memorex_direito_penal_militar.pdf",
+    "opcoes": [
+      "Verdadeiro",
+      "Falso"
+    ],
+    "correta": "Verdadeiro"
+  },
+  {
+    "id": "dppm-095",
+    "numero_original": 95,
+    "topico_numero": 10,
+    "topico": "Tipos penais militares, reformas legislativas e cadeia documental",
+    "tipo": "multipla_escolha",
+    "artigo": "CPM - crimes contra autoridade e disciplina",
+    "pergunta": "Um superior ultrapassa os limites legais da punição aplicada ao subordinado. Qual tipo penal indicado no material se aproxima da conduta?",
+    "comentario": "Resposta correta: Rigor excessivo. Rigor excessivo consiste em exceder os limites legais no tratamento ou punição do subordinado.",
+    "palavras_chave": [
+      "rigor excessivo",
+      "limites da punição",
+      "subordinado"
+    ],
+    "nivel": "médio",
+    "anulada": false,
+    "ativa": true,
+    "respondida": false,
+    "status": "ATIVA",
+    "fonte": "Código Penal Militar (Decreto-Lei nº 1.001/1969, texto compilado); Lei nº 13.491/2017; Lei nº 14.688/2023; material_direito_militar.pdf; memorex_direito_penal_militar.pdf",
+    "opcoes": [
+      "Recusa de obediência.",
+      "Rigor excessivo.",
+      "Deserção especial.",
+      "Furto de uso."
+    ],
+    "correta": "Rigor excessivo."
+  },
+  {
+    "id": "dppm-096",
+    "numero_original": 96,
+    "topico_numero": 10,
+    "topico": "Tipos penais militares, reformas legislativas e cadeia documental",
+    "tipo": "multipla_escolha",
+    "artigo": "CPM - crimes contra autoridade e disciplina",
+    "pergunta": "O militar se recusa a cumprir ordem relacionada ao serviço ou dever militar, sem que a ordem seja manifestamente ilegal. Qual tipo penal pode ser analisado?",
+    "comentario": "Resposta correta: Recusa de obediência. A recusa de obediência tutela a autoridade e a disciplina, exigindo análise da legalidade e do conteúdo funcional da ordem.",
+    "palavras_chave": [
+      "recusa",
+      "ordem legal",
+      "serviço militar"
+    ],
+    "nivel": "médio",
+    "anulada": false,
+    "ativa": true,
+    "respondida": false,
+    "status": "ATIVA",
+    "fonte": "Código Penal Militar (Decreto-Lei nº 1.001/1969, texto compilado); Lei nº 13.491/2017; Lei nº 14.688/2023; material_direito_militar.pdf; memorex_direito_penal_militar.pdf",
+    "opcoes": [
+      "Recusa de obediência.",
+      "Favorecimento a desertor.",
+      "Furto de uso.",
+      "Omissão de lealdade exclusivamente patrimonial."
+    ],
+    "correta": "Recusa de obediência."
+  },
+  {
+    "id": "dppm-097",
+    "numero_original": 97,
+    "topico_numero": 10,
+    "topico": "Tipos penais militares, reformas legislativas e cadeia documental",
+    "tipo": "multipla_escolha",
+    "artigo": "Princípio da insignificância na Justiça Militar",
+    "pergunta": "Sobre o princípio da insignificância em ambiente militar, qual afirmação é mais adequada?",
+    "comentario": "Resposta correta: É analisado de forma restritiva, considerando não apenas o valor econômico, mas também a hierarquia, a disciplina, a segurança e a confiança institucional. A jurisprudência militar e constitucional costuma considerar os bens jurídicos institucionais, evitando que o reduzido valor econômico seja o único critério.",
+    "palavras_chave": [
+      "insignificância",
+      "restritiva",
+      "bens institucionais"
+    ],
+    "nivel": "difícil",
+    "anulada": false,
+    "ativa": true,
+    "respondida": false,
+    "status": "ATIVA",
+    "fonte": "Código Penal Militar (Decreto-Lei nº 1.001/1969, texto compilado); Lei nº 13.491/2017; Lei nº 14.688/2023; material_direito_militar.pdf; memorex_direito_penal_militar.pdf",
+    "opcoes": [
+      "Aplica-se automaticamente sempre que o valor econômico for inferior a um salário mínimo.",
+      "É analisado de forma restritiva, considerando não apenas o valor econômico, mas também a hierarquia, a disciplina, a segurança e a confiança institucional.",
+      "É absolutamente proibido em qualquer delito, sem análise concreta.",
+      "Depende exclusivamente da autorização do comandante."
+    ],
+    "correta": "É analisado de forma restritiva, considerando não apenas o valor econômico, mas também a hierarquia, a disciplina, a segurança e a confiança institucional."
+  },
+  {
+    "id": "dppm-098",
+    "numero_original": 98,
+    "topico_numero": 10,
+    "topico": "Tipos penais militares, reformas legislativas e cadeia documental",
+    "tipo": "multipla_escolha",
+    "artigo": "Organização documental do IPM",
+    "pergunta": "Qual conjunto de medidas melhor protege a integridade e a rastreabilidade dos autos?",
+    "comentario": "Resposta correta: Organização cronológica, numeração e rubrica das folhas, certificação de juntadas e formalização das substituições. A cadeia documental permite reconstruir a sequência dos atos, identificar responsáveis e reduzir riscos de perda, adulteração ou nulidade.",
+    "palavras_chave": [
+      "cronologia",
+      "numeração",
+      "rubrica",
+      "certidão"
+    ],
+    "nivel": "médio",
+    "anulada": false,
+    "ativa": true,
+    "respondida": false,
+    "status": "ATIVA",
+    "fonte": "Código de Processo Penal Militar (Decreto-Lei nº 1.002/1969, texto vigente); material_direito_militar.pdf; memorex_direito_penal_militar.pdf",
+    "opcoes": [
+      "Peças sem data, folhas soltas e substituições verbais.",
+      "Organização cronológica, numeração e rubrica das folhas, certificação de juntadas e formalização das substituições.",
+      "Eliminação de documentos considerados repetitivos sem certidão.",
+      "Alteração de termos após assinatura, sem ressalva."
+    ],
+    "correta": "Organização cronológica, numeração e rubrica das folhas, certificação de juntadas e formalização das substituições."
+  },
+  {
+    "id": "dppm-099",
+    "numero_original": 99,
+    "topico_numero": 10,
+    "topico": "Tipos penais militares, reformas legislativas e cadeia documental",
+    "tipo": "relacionar",
+    "artigo": "Principais tipos penais",
+    "pergunta": "Associe cada descrição concreta da Coluna B ao respectivo delito da Coluna A, observando o elemento que distingue uma figura penal da outra. Para cada item da Coluna B, informe o número do item correspondente da Coluna A.",
+    "comentario": "Gabarito da Coluna B: 1, 2, 3, 4, 5. As palavras-chave são: desarmados = motim; armados = revolta; ordem = recusa; excesso = rigor; uso temporário = furto de uso.",
+    "palavras_chave": [
+      "motim",
+      "revolta",
+      "recusa",
+      "rigor",
+      "furto de uso"
+    ],
+    "nivel": "difícil",
+    "anulada": false,
+    "ativa": true,
+    "respondida": false,
+    "status": "ATIVA",
+    "fonte": "Código Penal Militar (Decreto-Lei nº 1.001/1969, texto compilado); Lei nº 13.491/2017; Lei nº 14.688/2023; material_direito_militar.pdf; memorex_direito_penal_militar.pdf",
+    "coluna_a": [
+      "Motim",
+      "Revolta",
+      "Recusa de obediência",
+      "Rigor excessivo",
+      "Furto de uso"
+    ],
+    "coluna_b": [
+      "Reunião de militares desarmados nas condições previstas no tipo",
+      "Conduta semelhante ao motim, praticada por militares armados",
+      "Descumprimento de ordem legal relativa ao serviço ou dever militar",
+      "Excesso nos limites legais da punição ou tratamento do subordinado",
+      "Subtração para uso temporário com restituição imediata"
+    ],
+    "correta": "1, 2, 3, 4, 5"
+  },
+  {
+    "id": "dppm-100",
+    "numero_original": 100,
+    "topico_numero": 10,
+    "topico": "Tipos penais militares, reformas legislativas e cadeia documental",
+    "tipo": "relacionar",
+    "artigo": "Garantias e integridade procedimental",
+    "pergunta": "Relacione a cautela ao risco que ela procura evitar. Para cada item da Coluna B, informe o número do item correspondente da Coluna A.",
+    "comentario": "Gabarito da Coluna B: 1, 2, 3, 4, 5. A legalidade formal protege a investigação e também as garantias do investigado.",
+    "palavras_chave": [
+      "integridade",
+      "cronologia",
+      "substituição",
+      "sigilo",
+      "silêncio"
+    ],
+    "nivel": "difícil",
+    "anulada": false,
+    "ativa": true,
+    "respondida": false,
+    "status": "ATIVA",
+    "fonte": "Código de Processo Penal Militar (Decreto-Lei nº 1.002/1969, texto vigente); material_direito_militar.pdf; memorex_direito_penal_militar.pdf",
+    "coluna_a": [
+      "Numeração e rubrica",
+      "Ordem cronológica",
+      "Portaria de substituição",
+      "Termo de compromisso",
+      "Direito ao silêncio"
+    ],
+    "coluna_b": [
+      "Perda, inserção ou troca não identificada de folhas",
+      "Dificuldade de reconstruir a sequência lógica dos atos",
+      "Prática de diligências por autoridade sem designação formal",
+      "Atuação do escrivão sem vinculação expressa ao sigilo e às regras legais",
+      "Produção compulsória de declaração autoincriminadora"
+    ],
+    "correta": "1, 2, 3, 4, 5"
+  }
+]
