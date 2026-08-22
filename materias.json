@@ -1,6 +1,3 @@
 [
-  { "id": "dppm", "materia": "DPPM" },
-  { "id": "dppm_prova", "materia": "DPPMPrv" },
-  { "id": "pog", "materia": "POG" },
-  { "id": "dc", "materia": "DC" }
+  { "id": "dppm", "materia": "DPPM" }
 ]
