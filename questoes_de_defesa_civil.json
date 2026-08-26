@@ -3,1153 +3,560 @@
     "id": "defcivil-001",
     "numero_original": 1,
     "topico_numero": 1,
-    "topico": "Cadeia de Custódia e Atuação Policial",
-    "tipo": "verdadeiro_falso",
-    "artigo": "Material PMPR - Cadeia de Custódia",
-    "pergunta": "A cadeia de custódia acompanha a história cronológica do vestígio desde o reconhecimento até o descarte.",
-    "comentario": "Resposta correta: Verdadeiro.",
+    "topico": "Conceitos e fundamentos da Defesa Civil",
+    "tipo": "multipla_escolha",
+    "artigo": "QUESTÕES DE FIXAÇÃO - Defesa Civil / PMPR",
+    "pergunta": "O conjunto de ações preventivas, de socorro, assistenciais e reconstrutivas destinadas a evitar ou minimizar os desastres, preservando a incolumidade da população, define o conceito de:",
+    "comentario": "Resposta correta conforme o gabarito do PDF: B) Defesa Civil.",
     "palavras_chave": [
-      "cadeia de custódia",
-      "atuação policial"
+      "conceitos e fundamentos da defesa civil",
+      "defesa civil",
+      "PMPR"
     ],
     "nivel": "média",
     "anulada": false,
     "ativa": true,
     "respondida": false,
     "status": "ATIVA",
-    "fonte": "Pv01.pdf - Prova Cadeia de Custódia e Atuação Policial / PMPR",
+    "fonte": "QUESTOES DE FIXAÇÃO_260824_093058.pdf",
     "opcoes": [
-      "Verdadeiro",
-      "Falso"
+      "A) Segurança Pública Repressiva.",
+      "B) Defesa Civil.",
+      "C) Policiamento Comunitário.",
+      "D) Intervenção Humanitária Federal."
     ],
-    "correta": "Verdadeiro"
+    "correta": "B) Defesa Civil."
   },
   {
     "id": "defcivil-002",
     "numero_original": 2,
-    "topico_numero": 1,
-    "topico": "Cadeia de Custódia e Atuação Policial",
-    "tipo": "verdadeiro_falso",
-    "artigo": "Material PMPR - Cadeia de Custódia",
-    "pergunta": "Vestígio é somente o objeto visível que já foi recolhido do local de crime.",
-    "comentario": "Resposta correta: Falso.",
+    "topico_numero": 2,
+    "topico": "Princípios fundamentais da Defesa Civil",
+    "tipo": "multipla_escolha",
+    "artigo": "QUESTÕES DE FIXAÇÃO - Defesa Civil / PMPR",
+    "pergunta": "Em uma situação de desastre em que há iminente risco de morte para os moradores de uma área colapsada, a equipe da PMPR pode realizar a evacuação compulsória dessas pessoas mesmo contra a vontade delas. Esse procedimento encontra amparo jurídico em qual princípio fundamental da Defesa Civil?",
+    "comentario": "Resposta correta conforme o gabarito do PDF: C) Princípio da Primazia do Interesse Público.",
     "palavras_chave": [
-      "cadeia de custódia",
-      "atuação policial"
+      "princípios fundamentais da defesa civil",
+      "defesa civil",
+      "PMPR"
     ],
     "nivel": "média",
     "anulada": false,
     "ativa": true,
     "respondida": false,
     "status": "ATIVA",
-    "fonte": "Pv01.pdf - Prova Cadeia de Custódia e Atuação Policial / PMPR",
+    "fonte": "QUESTOES DE FIXAÇÃO_260824_093058.pdf",
     "opcoes": [
-      "Verdadeiro",
-      "Falso"
+      "A) Princípio da Universalidade.",
+      "B) Princípio da Participação Comunitária.",
+      "C) Princípio da Primazia do Interesse Público.",
+      "D) Princípio da Solidariedade Cooperativa."
     ],
-    "correta": "Falso"
+    "correta": "C) Princípio da Primazia do Interesse Público."
   },
   {
     "id": "defcivil-003",
     "numero_original": 3,
-    "topico_numero": 1,
-    "topico": "Cadeia de Custódia e Atuação Policial",
-    "tipo": "verdadeiro_falso",
-    "artigo": "Material PMPR - Cadeia de Custódia",
-    "pergunta": "Evidência é o vestígio cuja relação com o evento periciado foi confirmada após análise.",
-    "comentario": "Resposta correta: Verdadeiro.",
+    "topico_numero": 3,
+    "topico": "Sistema Estadual de Proteção e Defesa Civil",
+    "tipo": "multipla_escolha",
+    "artigo": "QUESTÕES DE FIXAÇÃO - Defesa Civil / PMPR",
+    "pergunta": "A Lei Estadual nº 18.519/2015 é um marco jurídico fundamental para a segurança pública e proteção comunitária no Paraná. Esta legislação específica foi responsável por instituir o:",
+    "comentario": "Resposta correta conforme o gabarito do PDF: C) Sistema Estadual de Proteção e Defesa Civil (SIEDEC).",
     "palavras_chave": [
-      "cadeia de custódia",
-      "atuação policial"
+      "sistema estadual de proteção e defesa civil",
+      "defesa civil",
+      "PMPR"
     ],
     "nivel": "média",
     "anulada": false,
     "ativa": true,
     "respondida": false,
     "status": "ATIVA",
-    "fonte": "Pv01.pdf - Prova Cadeia de Custódia e Atuação Policial / PMPR",
+    "fonte": "QUESTOES DE FIXAÇÃO_260824_093058.pdf",
     "opcoes": [
-      "Verdadeiro",
-      "Falso"
+      "A) Fundo de Modernização da Polícia Militar (FUNESBOM).",
+      "B) Código de Segurança contra Incêndio e Pânico do PR.",
+      "C) Sistema Estadual de Proteção e Defesa Civil (SIEDEC).",
+      "D) Plano Diretor de Desenvolvimento Tecnológico Urbano."
     ],
-    "correta": "Verdadeiro"
+    "correta": "C) Sistema Estadual de Proteção e Defesa Civil (SIEDEC)."
   },
   {
     "id": "defcivil-004",
     "numero_original": 4,
-    "topico_numero": 1,
-    "topico": "Cadeia de Custódia e Atuação Policial",
-    "tipo": "verdadeiro_falso",
-    "artigo": "Material PMPR - Cadeia de Custódia",
-    "pergunta": "Indício é uma circunstância conhecida e provada que permite, por indução, concluir a existência de outra circunstância.",
-    "comentario": "Resposta correta: Verdadeiro.",
+    "topico_numero": 4,
+    "topico": "Poder de polícia e requisição administrativa",
+    "tipo": "multipla_escolha",
+    "artigo": "QUESTÕES DE FIXAÇÃO - Defesa Civil / PMPR",
+    "pergunta": "Durante uma enxurrada grave que isolou uma comunidade no interior do Paraná, um Soldado da PMPR determina a um civil que ceda temporariamente o uso de seu trator de grande porte para puxar uma viatura com uma família ilhada. Com base no ordenamento jurídico e no poder de polícia, esse mecanismo legal é denominado:",
+    "comentario": "Resposta correta conforme o gabarito do PDF: B) Requisição Administrativa.",
     "palavras_chave": [
-      "cadeia de custódia",
-      "atuação policial"
+      "poder de polícia e requisição administrativa",
+      "defesa civil",
+      "PMPR"
     ],
     "nivel": "média",
     "anulada": false,
     "ativa": true,
     "respondida": false,
     "status": "ATIVA",
-    "fonte": "Pv01.pdf - Prova Cadeia de Custódia e Atuação Policial / PMPR",
+    "fonte": "QUESTOES DE FIXAÇÃO_260824_093058.pdf",
     "opcoes": [
-      "Verdadeiro",
-      "Falso"
+      "A) Desapropriação Sumária de Emergência.",
+      "B) Requisição Administrativa.",
+      "C) Confisco Emergencial de Bens Civis.",
+      "D) Busca e Apreensão Sumária."
     ],
-    "correta": "Verdadeiro"
+    "correta": "B) Requisição Administrativa."
   },
   {
     "id": "defcivil-005",
     "numero_original": 5,
-    "topico_numero": 1,
-    "topico": "Cadeia de Custódia e Atuação Policial",
-    "tipo": "verdadeiro_falso",
-    "artigo": "Material PMPR - Cadeia de Custódia",
-    "pergunta": "O local imediato é aquele onde se encontra a maioria dos vestígios materiais.",
-    "comentario": "Resposta correta: Verdadeiro.",
+    "topico_numero": 5,
+    "topico": "Estrutura do Sistema de Defesa Civil",
+    "tipo": "multipla_escolha",
+    "artigo": "QUESTÕES DE FIXAÇÃO - Defesa Civil / PMPR",
+    "pergunta": "A estrutura de governança e articulação do Sistema de Defesa Civil no Brasil e no Paraná opera de forma integrada e em níveis de responsabilidade ascendentes. Assinale a alternativa que apresenta a correspondência correta das siglas para as esferas Municipal, Estadual e Nacional, respectivamente:",
+    "comentario": "Resposta correta conforme o gabarito do PDF: A) COMPDEC, SIEDEC e SINPDEC.",
     "palavras_chave": [
-      "cadeia de custódia",
-      "atuação policial"
+      "estrutura do sistema de defesa civil",
+      "defesa civil",
+      "PMPR"
     ],
     "nivel": "média",
     "anulada": false,
     "ativa": true,
     "respondida": false,
     "status": "ATIVA",
-    "fonte": "Pv01.pdf - Prova Cadeia de Custódia e Atuação Policial / PMPR",
+    "fonte": "QUESTOES DE FIXAÇÃO_260824_093058.pdf",
     "opcoes": [
-      "Verdadeiro",
-      "Falso"
+      "A) COMPDEC, SIEDEC e SINPDEC.",
+      "B) NUDEC, CEPDEC e SESP.",
+      "C) CONSEG, SIEDEC e MIN.",
+      "D) COMPDEC, CEGERD e FORÇA NACIONAL."
     ],
-    "correta": "Verdadeiro"
+    "correta": "A) COMPDEC, SIEDEC e SINPDEC."
   },
   {
     "id": "defcivil-006",
     "numero_original": 6,
-    "topico_numero": 1,
-    "topico": "Cadeia de Custódia e Atuação Policial",
-    "tipo": "verdadeiro_falso",
-    "artigo": "Material PMPR - Cadeia de Custódia",
-    "pergunta": "O local mediato corresponde às adjacências ou área contígua ao local imediato, onde podem existir vestígios ligados ao crime.",
-    "comentario": "Resposta correta: Verdadeiro.",
+    "topico_numero": 6,
+    "topico": "Coordenadoria Municipal de Proteção e Defesa Civil",
+    "tipo": "multipla_escolha",
+    "artigo": "QUESTÕES DE FIXAÇÃO - Defesa Civil / PMPR",
+    "pergunta": "No âmbito municipal, o Prefeito é a autoridade máxima de Defesa Civil. Quando a rádio-patrulha da PMPR isola uma área urbana e necessita de suporte imediato para abertura de abrigos públicos e distribuição de lonas, deve articular-se diretamente com o órgão municipal denominado:",
+    "comentario": "Resposta correta conforme o gabarito do PDF: C) COMPDEC.",
     "palavras_chave": [
-      "cadeia de custódia",
-      "atuação policial"
+      "coordenadoria municipal de proteção e defesa civil",
+      "defesa civil",
+      "PMPR"
     ],
     "nivel": "média",
     "anulada": false,
     "ativa": true,
     "respondida": false,
     "status": "ATIVA",
-    "fonte": "Pv01.pdf - Prova Cadeia de Custódia e Atuação Policial / PMPR",
+    "fonte": "QUESTOES DE FIXAÇÃO_260824_093058.pdf",
     "opcoes": [
-      "Verdadeiro",
-      "Falso"
+      "A) FUNEPDEC.",
+      "B) NUDEC.",
+      "C) COMPDEC.",
+      "D) SIEDEC."
     ],
-    "correta": "Verdadeiro"
+    "correta": "C) COMPDEC."
   },
   {
     "id": "defcivil-007",
     "numero_original": 7,
-    "topico_numero": 1,
-    "topico": "Cadeia de Custódia e Atuação Policial",
-    "tipo": "verdadeiro_falso",
-    "artigo": "Material PMPR - Cadeia de Custódia",
-    "pergunta": "O local relacionado deve possuir obrigatoriamente continuidade geográfica com o local imediato.",
-    "comentario": "Resposta correta: Falso.",
+    "topico_numero": 7,
+    "topico": "Ciclo de Gestão de Desastres",
+    "tipo": "multipla_escolha",
+    "artigo": "QUESTÕES DE FIXAÇÃO - Defesa Civil / PMPR",
+    "pergunta": "Um Soldado da PMPR está atuando na coordenação e escolta de caminhões carregados de kits de assistência humanitária (colchões, água potável e cestas básicas) destinados a um ginásio de esportes repleto de famílias desabrigadas por um vendaval. Em qual fase da Defesa Civil o militar está operando?",
+    "comentario": "Resposta correta conforme o gabarito do PDF: C) Resposta.",
     "palavras_chave": [
-      "cadeia de custódia",
-      "atuação policial"
+      "ciclo de gestão de desastres",
+      "defesa civil",
+      "PMPR"
     ],
     "nivel": "média",
     "anulada": false,
     "ativa": true,
     "respondida": false,
     "status": "ATIVA",
-    "fonte": "Pv01.pdf - Prova Cadeia de Custódia e Atuação Policial / PMPR",
+    "fonte": "QUESTOES DE FIXAÇÃO_260824_093058.pdf",
     "opcoes": [
-      "Verdadeiro",
-      "Falso"
+      "A) Mitigação.",
+      "B) Preparação.",
+      "C) Resposta.",
+      "D) Recuperação."
     ],
-    "correta": "Falso"
+    "correta": "C) Resposta."
   },
   {
     "id": "defcivil-008",
     "numero_original": 8,
-    "topico_numero": 1,
-    "topico": "Cadeia de Custódia e Atuação Policial",
-    "tipo": "verdadeiro_falso",
-    "artigo": "Material PMPR - Cadeia de Custódia",
-    "pergunta": "Isolamento e preservação possuem exatamente o mesmo significado técnico.",
-    "comentario": "Resposta correta: Falso.",
+    "topico_numero": 8,
+    "topico": "Preparação para desastres",
+    "tipo": "multipla_escolha",
+    "artigo": "QUESTÕES DE FIXAÇÃO - Defesa Civil / PMPR",
+    "pergunta": "A realização de Cursos de Formação de Praças, a confecção prévia de Planos de Contingência (Placon) pelas unidades da PMPR e a execução de exercícios simulados de evacuação junto à comunidade são ações classificadas dentro de qual fase do Ciclo de Gestão de Desastres?",
+    "comentario": "Resposta correta conforme o gabarito do PDF: B) Preparação.",
     "palavras_chave": [
-      "cadeia de custódia",
-      "atuação policial"
+      "preparação para desastres",
+      "defesa civil",
+      "PMPR"
     ],
     "nivel": "média",
     "anulada": false,
     "ativa": true,
     "respondida": false,
     "status": "ATIVA",
-    "fonte": "Pv01.pdf - Prova Cadeia de Custódia e Atuação Policial / PMPR",
+    "fonte": "QUESTOES DE FIXAÇÃO_260824_093058.pdf",
     "opcoes": [
-      "Verdadeiro",
-      "Falso"
+      "A) Prevenção.",
+      "B) Preparação.",
+      "C) Mitigação.",
+      "D) Recuperação."
     ],
-    "correta": "Falso"
+    "correta": "B) Preparação."
   },
   {
     "id": "defcivil-009",
     "numero_original": 9,
-    "topico_numero": 1,
-    "topico": "Cadeia de Custódia e Atuação Policial",
-    "tipo": "verdadeiro_falso",
-    "artigo": "Material PMPR - Cadeia de Custódia",
-    "pergunta": "O isolamento visa impedir tanto a inclusão quanto a exclusão indevida de vestígios.",
-    "comentario": "Resposta correta: Verdadeiro.",
+    "topico_numero": 9,
+    "topico": "Situação de Emergência e Estado de Calamidade Pública",
+    "tipo": "multipla_escolha",
+    "artigo": "QUESTÕES DE FIXAÇÃO - Defesa Civil / PMPR",
+    "pergunta": "Um evento adverso de origem meteorológica atingiu um município paranaense, destruindo por completo o prédio da prefeitura, hospitais locais e redes de energia. A administração municipal perdeu totalmente a capacidade de gerenciar ou responder à crise com seus recursos próprios, necessitando de intervenção massiva estadual. Essa situação configura um(a):",
+    "comentario": "Resposta correta conforme o gabarito do PDF: B) Estado de Calamidade Pública (ECP).",
     "palavras_chave": [
-      "cadeia de custódia",
-      "atuação policial"
+      "situação de emergência e estado de calamidade pública",
+      "defesa civil",
+      "PMPR"
     ],
     "nivel": "média",
     "anulada": false,
     "ativa": true,
     "respondida": false,
     "status": "ATIVA",
-    "fonte": "Pv01.pdf - Prova Cadeia de Custódia e Atuação Policial / PMPR",
+    "fonte": "QUESTOES DE FIXAÇÃO_260824_093058.pdf",
     "opcoes": [
-      "Verdadeiro",
-      "Falso"
+      "A) Situação de Emergência (SE).",
+      "B) Estado de Calamidade Pública (ECP).",
+      "C) Sinistro Tecnológico Localizado.",
+      "D) Vulnerabilidade Climática Controlada."
     ],
-    "correta": "Verdadeiro"
+    "correta": "B) Estado de Calamidade Pública (ECP)."
   },
   {
     "id": "defcivil-010",
     "numero_original": 10,
-    "topico_numero": 1,
-    "topico": "Cadeia de Custódia e Atuação Policial",
-    "tipo": "verdadeiro_falso",
-    "artigo": "Material PMPR - Cadeia de Custódia",
-    "pergunta": "A fase externa termina com a chegada do vestígio ao órgão pericial responsável pelo processamento.",
-    "comentario": "Resposta correta: Verdadeiro.",
+    "topico_numero": 10,
+    "topico": "Desabrigados e desalojados",
+    "tipo": "multipla_escolha",
+    "artigo": "QUESTÕES DE FIXAÇÃO - Defesa Civil / PMPR",
+    "pergunta": "Durante o policiamento em uma área afetada por inundações severas na Região Metropolitana de Curitiba, o Soldado realiza o cadastramento de duas famílias. A Família 'A' teve sua casa destruída e necessita de alojamento público. A Família 'B' desocupou preventivamente a casa e mudou-se temporariamente para a residência de parentes. Tecnicamente, as famílias são classificadas como:",
+    "comentario": "Resposta correta conforme o gabarito do PDF: C) Família A: Desabrigada | Família B: Desalojada.",
     "palavras_chave": [
-      "cadeia de custódia",
-      "atuação policial"
+      "desabrigados e desalojados",
+      "defesa civil",
+      "PMPR"
     ],
     "nivel": "média",
     "anulada": false,
     "ativa": true,
     "respondida": false,
     "status": "ATIVA",
-    "fonte": "Pv01.pdf - Prova Cadeia de Custódia e Atuação Policial / PMPR",
+    "fonte": "QUESTOES DE FIXAÇÃO_260824_093058.pdf",
     "opcoes": [
-      "Verdadeiro",
-      "Falso"
+      "A) Família A: Desalojada | Família B: Desabrigada.",
+      "B) Família A: Refugiada | Família B: Evacuada.",
+      "C) Família A: Desabrigada | Família B: Desalojada.",
+      "D) Família A: Desalojada | Família B: Desalojada."
     ],
-    "correta": "Verdadeiro"
+    "correta": "C) Família A: Desabrigada | Família B: Desalojada."
   },
   {
     "id": "defcivil-011",
     "numero_original": 11,
-    "topico_numero": 1,
-    "topico": "Cadeia de Custódia e Atuação Policial",
-    "tipo": "verdadeiro_falso",
-    "artigo": "Material PMPR - Cadeia de Custódia",
-    "pergunta": "A fase interna compreende as etapas desde a entrada do vestígio no órgão pericial até o descarte ou devolução.",
-    "comentario": "Resposta correta: Verdadeiro.",
+    "topico_numero": 11,
+    "topico": "Produtos perigosos e identificação ONU",
+    "tipo": "multipla_escolha",
+    "artigo": "QUESTÕES DE FIXAÇÃO - Defesa Civil / PMPR",
+    "pergunta": "Ao se aproximar do local de um tombamento de caminhão-tanque em uma rodovia estadual, o Soldado da PMPR utiliza o binóculo da viatura e identifica uma placa alaranjada afixada na lateral do veículo. Na parte inferior dessa placa, constam 4 dígitos numéricos (Ex: 1203). Essa numeração específica destina-se a identificar:",
+    "comentario": "Resposta correta conforme o gabarito do PDF: C) O número da ONU que identifica o produto químico exato.",
     "palavras_chave": [
-      "cadeia de custódia",
-      "atuação policial"
+      "produtos perigosos e identificação onu",
+      "defesa civil",
+      "PMPR"
     ],
     "nivel": "média",
     "anulada": false,
     "ativa": true,
     "respondida": false,
     "status": "ATIVA",
-    "fonte": "Pv01.pdf - Prova Cadeia de Custódia e Atuação Policial / PMPR",
+    "fonte": "QUESTOES DE FIXAÇÃO_260824_093058.pdf",
     "opcoes": [
-      "Verdadeiro",
-      "Falso"
+      "A) O número de telefone de emergência da transportadora da carga.",
+      "B) O código de risco e reatividade química da substância.",
+      "C) O número da ONU que identifica o produto químico exato.",
+      "D) O peso bruto total em toneladas transportado pelo veículo."
     ],
-    "correta": "Verdadeiro"
+    "correta": "C) O número da ONU que identifica o produto químico exato."
   },
   {
     "id": "defcivil-012",
     "numero_original": 12,
-    "topico_numero": 1,
-    "topico": "Cadeia de Custódia e Atuação Policial",
-    "tipo": "verdadeiro_falso",
-    "artigo": "Material PMPR - Cadeia de Custódia",
-    "pergunta": "As etapas da cadeia de custódia podem ser registradas apenas ao final da ocorrência, desde que todos os nomes sejam lembrados.",
-    "comentario": "Resposta correta: Falso.",
+    "topico_numero": 12,
+    "topico": "Classes de risco de produtos perigosos",
+    "tipo": "multipla_escolha",
+    "artigo": "QUESTÕES DE FIXAÇÃO - Defesa Civil / PMPR",
+    "pergunta": "As substâncias químicas perigosas transportadas pelas rodovias do Paraná são divididas internacionalmente em 9 classes de risco pela ONU. Um caminhão que exibe um Rótulo de Risco (losango colorido) contendo o símbolo de uma 'chama' sobre fundo vermelho e o número 3 abaixo, está transportando material da:",
+    "comentario": "Resposta correta conforme o gabarito do PDF: C) Classe 3: Líquidos Inflamáveis.",
     "palavras_chave": [
-      "cadeia de custódia",
-      "atuação policial"
+      "classes de risco de produtos perigosos",
+      "defesa civil",
+      "PMPR"
     ],
     "nivel": "média",
     "anulada": false,
     "ativa": true,
     "respondida": false,
     "status": "ATIVA",
-    "fonte": "Pv01.pdf - Prova Cadeia de Custódia e Atuação Policial / PMPR",
+    "fonte": "QUESTOES DE FIXAÇÃO_260824_093058.pdf",
     "opcoes": [
-      "Verdadeiro",
-      "Falso"
+      "A) Classe 1: Explosivos.",
+      "B) Classe 2: Gases Tóxicos.",
+      "C) Classe 3: Líquidos Inflamáveis.",
+      "D) Classe 8: Substâncias Corrosivas."
     ],
-    "correta": "Falso"
+    "correta": "C) Classe 3: Líquidos Inflamáveis."
   },
   {
     "id": "defcivil-013",
     "numero_original": 13,
-    "topico_numero": 1,
-    "topico": "Cadeia de Custódia e Atuação Policial",
-    "tipo": "verdadeiro_falso",
-    "artigo": "Material PMPR - Cadeia de Custódia",
-    "pergunta": "O agente público que reconhece elemento de potencial interesse para a prova passa a ser responsável por sua preservação.",
-    "comentario": "Resposta correta: Verdadeiro.",
+    "topico_numero": 13,
+    "topico": "POP 100.36 e produtos perigosos",
+    "tipo": "multipla_escolha",
+    "artigo": "QUESTÕES DE FIXAÇÃO - Defesa Civil / PMPR",
+    "pergunta": "De acordo com as diretrizes de segurança institucional e o Procedimento Operacional Padrão (POP 100.36) da PMPR para ocorrências envolvendo sinistros com produtos perigosos, a viatura policial deve se aproximar da cena observando rigidamente quais critérios de posicionamento?",
+    "comentario": "Resposta correta conforme o gabarito do PDF: B) A favor do vento (de costas em relação ao vento) e em nível mais alto do terreno.",
     "palavras_chave": [
-      "cadeia de custódia",
-      "atuação policial"
+      "pop 100.36 e produtos perigosos",
+      "defesa civil",
+      "PMPR"
     ],
     "nivel": "média",
     "anulada": false,
     "ativa": true,
     "respondida": false,
     "status": "ATIVA",
-    "fonte": "Pv01.pdf - Prova Cadeia de Custódia e Atuação Policial / PMPR",
+    "fonte": "QUESTOES DE FIXAÇÃO_260824_093058.pdf",
     "opcoes": [
-      "Verdadeiro",
-      "Falso"
+      "A) Contra o vento (Downwind) e em nível mais baixo do terreno.",
+      "B) A favor do vento (de costas em relação ao vento) e em nível mais alto do terreno.",
+      "C) Contra o vento (Downwind) e em nível mais alto do terreno (Uphill).",
+      "D) A favor do vento e em nível mais baixo do terreno (Downhill)."
     ],
-    "correta": "Verdadeiro"
+    "correta": "B) A favor do vento (de costas em relação ao vento) e em nível mais alto do terreno."
   },
   {
     "id": "defcivil-014",
     "numero_original": 14,
-    "topico_numero": 1,
-    "topico": "Cadeia de Custódia e Atuação Policial",
-    "tipo": "verdadeiro_falso",
-    "artigo": "Material PMPR - Cadeia de Custódia",
-    "pergunta": "O Primeiro Interventor deve estacionar a viatura o mais próximo possível do foco central, ainda que isso comprometa vestígios.",
-    "comentario": "Resposta correta: Falso.",
+    "topico_numero": 14,
+    "topico": "Plano de Contingência",
+    "tipo": "multipla_escolha",
+    "artigo": "QUESTÕES DE FIXAÇÃO - Defesa Civil / PMPR",
+    "pergunta": "O documento formal, elaborado previamente nos municípios do Paraná, que estabelece detalhadamente as responsabilidades, os recursos disponíveis, as rotas de fuga e os procedimentos de resposta para um cenário específico de desastre projetado é o:",
+    "comentario": "Resposta correta conforme o gabarito do PDF: C) Plano de Contingência (Placon).",
     "palavras_chave": [
-      "cadeia de custódia",
-      "atuação policial"
+      "plano de contingência",
+      "defesa civil",
+      "PMPR"
     ],
     "nivel": "média",
     "anulada": false,
     "ativa": true,
     "respondida": false,
     "status": "ATIVA",
-    "fonte": "Pv01.pdf - Prova Cadeia de Custódia e Atuação Policial / PMPR",
+    "fonte": "QUESTOES DE FIXAÇÃO_260824_093058.pdf",
     "opcoes": [
-      "Verdadeiro",
-      "Falso"
+      "A) Formulário de Informação sobre Desastres (FIDE).",
+      "B) Relatório de Impacto Ambiental (RIMA).",
+      "C) Plano de Contingência (Placon).",
+      "D) Boletim de Ocorrência Unificado (BOU)."
     ],
-    "correta": "Falso"
+    "correta": "C) Plano de Contingência (Placon)."
   },
   {
     "id": "defcivil-015",
     "numero_original": 15,
-    "topico_numero": 1,
-    "topico": "Cadeia de Custódia e Atuação Policial",
-    "tipo": "verdadeiro_falso",
-    "artigo": "Material PMPR - Cadeia de Custódia",
-    "pergunta": "Antes de descer da viatura, o Primeiro Interventor deve observar a movimentação de pessoas e veículos e escolher local seguro para estacionar.",
-    "comentario": "Resposta correta: Verdadeiro.",
+    "topico_numero": 15,
+    "topico": "CEGERD",
+    "tipo": "multipla_escolha",
+    "artigo": "QUESTÕES DE FIXAÇÃO - Defesa Civil / PMPR",
+    "pergunta": "No Paraná, a estrutura que opera ininterruptamente (24 horas) na sede da Defesa Civil Estadual, realizando a integração de dados com o Simepar para o processamento de riscos ambientais e coordenação estratégica do envio de alertas à população, é o:",
+    "comentario": "Resposta correta conforme o gabarito do PDF: A) Centro Estadual de Gerenciamento de Riscos e Desastres (CEGERD).",
     "palavras_chave": [
-      "cadeia de custódia",
-      "atuação policial"
+      "cegerd",
+      "defesa civil",
+      "PMPR"
     ],
     "nivel": "média",
     "anulada": false,
     "ativa": true,
     "respondida": false,
     "status": "ATIVA",
-    "fonte": "Pv01.pdf - Prova Cadeia de Custódia e Atuação Policial / PMPR",
+    "fonte": "QUESTOES DE FIXAÇÃO_260824_093058.pdf",
     "opcoes": [
-      "Verdadeiro",
-      "Falso"
+      "A) Centro Estadual de Gerenciamento de Riscos e Desastres (CEGERD).",
+      "B) Sistema de Informações Criminais Integradas (SESP).",
+      "C) Coordenadoria Municipal de Proteção Ambiental (COMPDEC).",
+      "D) Gabinete de Gestão Integrada de Fronteiras (GGI-F)."
     ],
-    "correta": "Verdadeiro"
+    "correta": "A) Centro Estadual de Gerenciamento de Riscos e Desastres (CEGERD)."
   },
   {
     "id": "defcivil-016",
     "numero_original": 16,
-    "topico_numero": 1,
-    "topico": "Cadeia de Custódia e Atuação Policial",
-    "tipo": "verdadeiro_falso",
-    "artigo": "Material PMPR - Cadeia de Custódia",
-    "pergunta": "Havendo vítima, o Primeiro Interventor deve aguardar obrigatoriamente a perícia antes de prestar socorro.",
-    "comentario": "Resposta correta: Falso.",
+    "topico_numero": 16,
+    "topico": "Alertas da Defesa Civil",
+    "tipo": "multipla_escolha",
+    "artigo": "QUESTÕES DE FIXAÇÃO - Defesa Civil / PMPR",
+    "pergunta": "Qual é o canal oficial de envio de alertas precoces por mensagem de texto (SMS) utilizado pela Defesa Civil do Estado do Paraná para avisar a população sobre o risco iminente de eventos climáticos extremos por meio do cadastro do CEP?",
+    "comentario": "Resposta correta conforme o gabarito do PDF: C) Número 40199.",
     "palavras_chave": [
-      "cadeia de custódia",
-      "atuação policial"
+      "alertas da defesa civil",
+      "defesa civil",
+      "PMPR"
     ],
     "nivel": "média",
     "anulada": false,
     "ativa": true,
     "respondida": false,
     "status": "ATIVA",
-    "fonte": "Pv01.pdf - Prova Cadeia de Custódia e Atuação Policial / PMPR",
+    "fonte": "QUESTOES DE FIXAÇÃO_260824_093058.pdf",
     "opcoes": [
-      "Verdadeiro",
-      "Falso"
+      "A) Número 190.",
+      "B) Número 193.",
+      "C) Número 40199.",
+      "D) Número 27700."
     ],
-    "correta": "Falso"
+    "correta": "C) Número 40199."
   },
   {
     "id": "defcivil-017",
     "numero_original": 17,
-    "topico_numero": 1,
-    "topico": "Cadeia de Custódia e Atuação Policial",
-    "tipo": "verdadeiro_falso",
-    "artigo": "Material PMPR - Cadeia de Custódia",
-    "pergunta": "Para aproximar-se de uma vítima, o Primeiro Interventor deve, sempre que possível, utilizar o menor caminho para preservar os vestígios.",
-    "comentario": "Resposta correta: Verdadeiro.",
+    "topico_numero": 17,
+    "topico": "Programa Brigadas Escolares",
+    "tipo": "multipla_escolha",
+    "artigo": "QUESTÕES DE FIXAÇÃO - Defesa Civil / PMPR",
+    "pergunta": "O Programa Brigadas Escolares, instituído no Estado do Paraná em cooperação multissetorial, possui uma importante função preventiva na comunidade. Seu objetivo primordial consiste em:",
+    "comentario": "Resposta correta conforme o gabarito do PDF: B) Capacitar a comunidade escolar em planos de abandono, primeiros socorros e combate a princípios de incêndio.",
     "palavras_chave": [
-      "cadeia de custódia",
-      "atuação policial"
+      "programa brigadas escolares",
+      "defesa civil",
+      "PMPR"
     ],
     "nivel": "média",
     "anulada": false,
     "ativa": true,
     "respondida": false,
     "status": "ATIVA",
-    "fonte": "Pv01.pdf - Prova Cadeia de Custódia e Atuação Policial / PMPR",
+    "fonte": "QUESTOES DE FIXAÇÃO_260824_093058.pdf",
     "opcoes": [
-      "Verdadeiro",
-      "Falso"
+      "A) Formar alunos armados para realizar a segurança interna das escolas.",
+      "B) Capacitar a comunidade escolar em planos de abandono, primeiros socorros e combate a princípios de incêndio.",
+      "C) Realizar vistorias de engenharia civil substitutivas às do Corpo de Bombeiros.",
+      "D) Isolar de forma definitiva os colégios do contato com as forças policiais."
     ],
-    "correta": "Verdadeiro"
+    "correta": "B) Capacitar a comunidade escolar em planos de abandono, primeiros socorros e combate a princípios de incêndio."
   },
   {
     "id": "defcivil-018",
     "numero_original": 18,
-    "topico_numero": 1,
-    "topico": "Cadeia de Custódia e Atuação Policial",
-    "tipo": "verdadeiro_falso",
-    "artigo": "Material PMPR - Cadeia de Custódia",
-    "pergunta": "A preservação do local impede qualquer alteração, mesmo quando indispensável para salvar uma vida.",
-    "comentario": "Resposta correta: Falso.",
+    "topico_numero": 18,
+    "topico": "Atuação policial em desastres",
+    "tipo": "multipla_escolha",
+    "artigo": "QUESTÕES DE FIXAÇÃO - Defesa Civil / PMPR",
+    "pergunta": "Ao atender uma ocorrência real de destelhamento de um colégio estadual provocado por forte tempestade, qual deve ser a conduta prioritária e imediata do primeiro prefixo da PMPR no local para apoiar os brigadistas e socorristas?",
+    "comentario": "Resposta correta conforme o gabarito do PDF: C) Invadir as estruturas colapsadas sem Equipamento de Proteção Individual para buscar materiais didáticos.",
     "palavras_chave": [
-      "cadeia de custódia",
-      "atuação policial"
+      "atuação policial em desastres",
+      "defesa civil",
+      "PMPR"
     ],
     "nivel": "média",
     "anulada": false,
     "ativa": true,
     "respondida": false,
     "status": "ATIVA",
-    "fonte": "Pv01.pdf - Prova Cadeia de Custódia e Atuação Policial / PMPR",
+    "fonte": "QUESTOES DE FIXAÇÃO_260824_093058.pdf",
     "opcoes": [
-      "Verdadeiro",
-      "Falso"
+      "A) Iniciar o preenchimento estatístico dos dados do relatório FIDE antes do isolamento.",
+      "B) Isolar rigorosamente o perímetro externo da escola, conter o pânico e garantir o livre acesso das equipes de resgate médico.",
+      "C) Invadir as estruturas colapsadas sem Equipamento de Proteção Individual para buscar materiais didáticos.",
+      "D) Aguardar a chegada do Prefeito Municipal para dar início a qualquer intervenção de trânsito."
     ],
-    "correta": "Falso"
+    "correta": "C) Invadir as estruturas colapsadas sem Equipamento de Proteção Individual para buscar materiais didáticos."
   },
   {
     "id": "defcivil-019",
     "numero_original": 19,
-    "topico_numero": 1,
-    "topico": "Cadeia de Custódia e Atuação Policial",
-    "tipo": "verdadeiro_falso",
-    "artigo": "Material PMPR - Cadeia de Custódia",
-    "pergunta": "Em ambiente fechado, portas, janelas, móveis, eletrodomésticos e utensílios devem, como regra, permanecer como encontrados.",
-    "comentario": "Resposta correta: Verdadeiro.",
+    "topico_numero": 19,
+    "topico": "Articulação municipal em desastres",
+    "tipo": "multipla_escolha",
+    "artigo": "QUESTÕES DE FIXAÇÃO - Defesa Civil / PMPR",
+    "pergunta": "No âmbito da execução das ações de socorro e assistência humanitária na ponta de linha de um município paranaense afetado por desastre, com qual órgão local a equipe de rádio-patrulha da PMPR deve se articular diretamente para coordenar a abertura de abrigos públicos e entrega de lonas?",
+    "comentario": "Resposta correta conforme o gabarito do PDF: B) Com a Coordenadoria Municipal de Proteção e Defesa Civil (COMPDEC).",
     "palavras_chave": [
-      "cadeia de custódia",
-      "atuação policial"
+      "articulação municipal em desastres",
+      "defesa civil",
+      "PMPR"
     ],
     "nivel": "média",
     "anulada": false,
     "ativa": true,
     "respondida": false,
     "status": "ATIVA",
-    "fonte": "Pv01.pdf - Prova Cadeia de Custódia e Atuação Policial / PMPR",
+    "fonte": "QUESTOES DE FIXAÇÃO_260824_093058.pdf",
     "opcoes": [
-      "Verdadeiro",
-      "Falso"
+      "A) Com a Coordenadoria Nacional (SINPDEC) em Brasília.",
+      "B) Com a Coordenadoria Municipal de Proteção e Defesa Civil (COMPDEC).",
+      "C) Diretamente com os analistas de plantão do CEGERD em Curitiba.",
+      "D) Com o Tribunal de Justiça do Estado do Paraná."
     ],
-    "correta": "Verdadeiro"
+    "correta": "B) Com a Coordenadoria Municipal de Proteção e Defesa Civil (COMPDEC)."
   },
   {
     "id": "defcivil-020",
     "numero_original": 20,
-    "topico_numero": 1,
-    "topico": "Cadeia de Custódia e Atuação Policial",
-    "tipo": "verdadeiro_falso",
-    "artigo": "Material PMPR - Cadeia de Custódia",
-    "pergunta": "Em ambiente fechado, é permitido abrir portas e janelas apenas para facilitar o trabalho posterior da equipe pericial.",
-    "comentario": "Resposta correta: Falso.",
+    "topico_numero": 20,
+    "topico": "CEPDEC/PR",
+    "tipo": "multipla_escolha",
+    "artigo": "QUESTÕES DE FIXAÇÃO - Defesa Civil / PMPR",
+    "pergunta": "No âmbito do Sistema Estadual de Defesa Civil do Paraná, a Coordenadoria Estadual (CEPDEC/PR) exerce uma função estratégica fundamental. A sua principal atribuição em cenários de desastres de grande magnitude consiste em:",
+    "comentario": "Resposta correta conforme o gabarito do PDF: B) Centralizar o comando operacional no estado, articulando o suporte logístico emergencial e gerenciando os grandes alertas direcionados às Unidades da PMPR.",
     "palavras_chave": [
-      "cadeia de custódia",
-      "atuação policial"
+      "cepdec/pr",
+      "defesa civil",
+      "PMPR"
     ],
     "nivel": "média",
     "anulada": false,
     "ativa": true,
     "respondida": false,
     "status": "ATIVA",
-    "fonte": "Pv01.pdf - Prova Cadeia de Custódia e Atuação Policial / PMPR",
+    "fonte": "QUESTOES DE FIXAÇÃO_260824_093058.pdf",
     "opcoes": [
-      "Verdadeiro",
-      "Falso"
+      "A) Substituir legalmente o Governador do Estado na administração financeira geral de todas as secretarias civis.",
+      "B) Centralizar o comando operacional no estado, articulando o suporte logístico emergencial e gerenciando os grandes alertas direcionados às Unidades da PMPR.",
+      "C) Extinguir os planos de contingência municipais (Placons) para centralizar os gastos em Curitiba.",
+      "D) Assumir o policiamento ostensivo repressivo ordinário de trânsito em substituição às rádio-patrulhas locais."
     ],
-    "correta": "Falso"
-  },
-  {
-    "id": "defcivil-021",
-    "numero_original": 21,
-    "topico_numero": 1,
-    "topico": "Cadeia de Custódia e Atuação Policial",
-    "tipo": "verdadeiro_falso",
-    "artigo": "Material PMPR - Cadeia de Custódia",
-    "pergunta": "Em ambiente externo sujeito a chuva intensa, lonas ou outros meios de fortuna podem ser usados para proteger o local.",
-    "comentario": "Resposta correta: Verdadeiro.",
-    "palavras_chave": [
-      "cadeia de custódia",
-      "atuação policial"
-    ],
-    "nivel": "média",
-    "anulada": false,
-    "ativa": true,
-    "respondida": false,
-    "status": "ATIVA",
-    "fonte": "Pv01.pdf - Prova Cadeia de Custódia e Atuação Policial / PMPR",
-    "opcoes": [
-      "Verdadeiro",
-      "Falso"
-    ],
-    "correta": "Verdadeiro"
-  },
-  {
-    "id": "defcivil-022",
-    "numero_original": 22,
-    "topico_numero": 1,
-    "topico": "Cadeia de Custódia e Atuação Policial",
-    "tipo": "verdadeiro_falso",
-    "artigo": "Material PMPR - Cadeia de Custódia",
-    "pergunta": "Se houver risco iminente de perda definitiva de vestígio antes da chegada da perícia, o militar pode, excepcionalmente, coletá-lo ou armazená-lo, registrando o procedimento no BOU.",
-    "comentario": "Resposta correta: Verdadeiro.",
-    "palavras_chave": [
-      "cadeia de custódia",
-      "atuação policial"
-    ],
-    "nivel": "média",
-    "anulada": false,
-    "ativa": true,
-    "respondida": false,
-    "status": "ATIVA",
-    "fonte": "Pv01.pdf - Prova Cadeia de Custódia e Atuação Policial / PMPR",
-    "opcoes": [
-      "Verdadeiro",
-      "Falso"
-    ],
-    "correta": "Verdadeiro"
-  },
-  {
-    "id": "defcivil-023",
-    "numero_original": 23,
-    "topico_numero": 1,
-    "topico": "Cadeia de Custódia e Atuação Policial",
-    "tipo": "verdadeiro_falso",
-    "artigo": "Material PMPR - Cadeia de Custódia",
-    "pergunta": "A coleta dos vestígios deve ser realizada preferencialmente por perito oficial.",
-    "comentario": "Resposta correta: Verdadeiro.",
-    "palavras_chave": [
-      "cadeia de custódia",
-      "atuação policial"
-    ],
-    "nivel": "média",
-    "anulada": false,
-    "ativa": true,
-    "respondida": false,
-    "status": "ATIVA",
-    "fonte": "Pv01.pdf - Prova Cadeia de Custódia e Atuação Policial / PMPR",
-    "opcoes": [
-      "Verdadeiro",
-      "Falso"
-    ],
-    "correta": "Verdadeiro"
-  },
-  {
-    "id": "defcivil-024",
-    "numero_original": 24,
-    "topico_numero": 1,
-    "topico": "Cadeia de Custódia e Atuação Policial",
-    "tipo": "verdadeiro_falso",
-    "artigo": "Material PMPR - Cadeia de Custódia",
-    "pergunta": "Na ausência do perito oficial, outro agente de segurança pública jamais poderá realizar a coleta.",
-    "comentario": "Resposta correta: Falso.",
-    "palavras_chave": [
-      "cadeia de custódia",
-      "atuação policial"
-    ],
-    "nivel": "média",
-    "anulada": false,
-    "ativa": true,
-    "respondida": false,
-    "status": "ATIVA",
-    "fonte": "Pv01.pdf - Prova Cadeia de Custódia e Atuação Policial / PMPR",
-    "opcoes": [
-      "Verdadeiro",
-      "Falso"
-    ],
-    "correta": "Falso"
-  },
-  {
-    "id": "defcivil-025",
-    "numero_original": 25,
-    "topico_numero": 1,
-    "topico": "Cadeia de Custódia e Atuação Policial",
-    "tipo": "verdadeiro_falso",
-    "artigo": "Material PMPR - Cadeia de Custódia",
-    "pergunta": "Quando outro agente realizar excepcionalmente a coleta, o vestígio deve ser fixado antes de ser recolhido.",
-    "comentario": "Resposta correta: Verdadeiro.",
-    "palavras_chave": [
-      "cadeia de custódia",
-      "atuação policial"
-    ],
-    "nivel": "média",
-    "anulada": false,
-    "ativa": true,
-    "respondida": false,
-    "status": "ATIVA",
-    "fonte": "Pv01.pdf - Prova Cadeia de Custódia e Atuação Policial / PMPR",
-    "opcoes": [
-      "Verdadeiro",
-      "Falso"
-    ],
-    "correta": "Verdadeiro"
-  },
-  {
-    "id": "defcivil-026",
-    "numero_original": 26,
-    "topico_numero": 1,
-    "topico": "Cadeia de Custódia e Atuação Policial",
-    "tipo": "verdadeiro_falso",
-    "artigo": "Material PMPR - Cadeia de Custódia",
-    "pergunta": "Fixação é o ato de recolher fisicamente o vestígio para análise pericial.",
-    "comentario": "Resposta correta: Falso.",
-    "palavras_chave": [
-      "cadeia de custódia",
-      "atuação policial"
-    ],
-    "nivel": "média",
-    "anulada": false,
-    "ativa": true,
-    "respondida": false,
-    "status": "ATIVA",
-    "fonte": "Pv01.pdf - Prova Cadeia de Custódia e Atuação Policial / PMPR",
-    "opcoes": [
-      "Verdadeiro",
-      "Falso"
-    ],
-    "correta": "Falso"
-  },
-  {
-    "id": "defcivil-027",
-    "numero_original": 27,
-    "topico_numero": 1,
-    "topico": "Cadeia de Custódia e Atuação Policial",
-    "tipo": "verdadeiro_falso",
-    "artigo": "Material PMPR - Cadeia de Custódia",
-    "pergunta": "Coleta é o ato de recolher o vestígio que será submetido a análise pericial.",
-    "comentario": "Resposta correta: Verdadeiro.",
-    "palavras_chave": [
-      "cadeia de custódia",
-      "atuação policial"
-    ],
-    "nivel": "média",
-    "anulada": false,
-    "ativa": true,
-    "respondida": false,
-    "status": "ATIVA",
-    "fonte": "Pv01.pdf - Prova Cadeia de Custódia e Atuação Policial / PMPR",
-    "opcoes": [
-      "Verdadeiro",
-      "Falso"
-    ],
-    "correta": "Verdadeiro"
-  },
-  {
-    "id": "defcivil-028",
-    "numero_original": 28,
-    "topico_numero": 1,
-    "topico": "Cadeia de Custódia e Atuação Policial",
-    "tipo": "verdadeiro_falso",
-    "artigo": "Material PMPR - Cadeia de Custódia",
-    "pergunta": "No acondicionamento, cada vestígio deve ser embalado de forma individualizada, conforme suas características.",
-    "comentario": "Resposta correta: Verdadeiro.",
-    "palavras_chave": [
-      "cadeia de custódia",
-      "atuação policial"
-    ],
-    "nivel": "média",
-    "anulada": false,
-    "ativa": true,
-    "respondida": false,
-    "status": "ATIVA",
-    "fonte": "Pv01.pdf - Prova Cadeia de Custódia e Atuação Policial / PMPR",
-    "opcoes": [
-      "Verdadeiro",
-      "Falso"
-    ],
-    "correta": "Verdadeiro"
-  },
-  {
-    "id": "defcivil-029",
-    "numero_original": 29,
-    "topico_numero": 1,
-    "topico": "Cadeia de Custódia e Atuação Policial",
-    "tipo": "verdadeiro_falso",
-    "artigo": "Material PMPR - Cadeia de Custódia",
-    "pergunta": "No acondicionamento, é dispensável registrar data, hora e responsável se a embalagem possuir lacre.",
-    "comentario": "Resposta correta: Falso.",
-    "palavras_chave": [
-      "cadeia de custódia",
-      "atuação policial"
-    ],
-    "nivel": "média",
-    "anulada": false,
-    "ativa": true,
-    "respondida": false,
-    "status": "ATIVA",
-    "fonte": "Pv01.pdf - Prova Cadeia de Custódia e Atuação Policial / PMPR",
-    "opcoes": [
-      "Verdadeiro",
-      "Falso"
-    ],
-    "correta": "Falso"
-  },
-  {
-    "id": "defcivil-030",
-    "numero_original": 30,
-    "topico_numero": 1,
-    "topico": "Cadeia de Custódia e Atuação Policial",
-    "tipo": "verdadeiro_falso",
-    "artigo": "Material PMPR - Cadeia de Custódia",
-    "pergunta": "Transporte corresponde à transferência do vestígio de um local para outro em condições adequadas.",
-    "comentario": "Resposta correta: Verdadeiro.",
-    "palavras_chave": [
-      "cadeia de custódia",
-      "atuação policial"
-    ],
-    "nivel": "média",
-    "anulada": false,
-    "ativa": true,
-    "respondida": false,
-    "status": "ATIVA",
-    "fonte": "Pv01.pdf - Prova Cadeia de Custódia e Atuação Policial / PMPR",
-    "opcoes": [
-      "Verdadeiro",
-      "Falso"
-    ],
-    "correta": "Verdadeiro"
-  },
-  {
-    "id": "defcivil-031",
-    "numero_original": 31,
-    "topico_numero": 1,
-    "topico": "Cadeia de Custódia e Atuação Policial",
-    "tipo": "verdadeiro_falso",
-    "artigo": "Material PMPR - Cadeia de Custódia",
-    "pergunta": "Processamento corresponde ao exame pericial propriamente dito.",
-    "comentario": "Resposta correta: Verdadeiro.",
-    "palavras_chave": [
-      "cadeia de custódia",
-      "atuação policial"
-    ],
-    "nivel": "média",
-    "anulada": false,
-    "ativa": true,
-    "respondida": false,
-    "status": "ATIVA",
-    "fonte": "Pv01.pdf - Prova Cadeia de Custódia e Atuação Policial / PMPR",
-    "opcoes": [
-      "Verdadeiro",
-      "Falso"
-    ],
-    "correta": "Verdadeiro"
-  },
-  {
-    "id": "defcivil-032",
-    "numero_original": 32,
-    "topico_numero": 1,
-    "topico": "Cadeia de Custódia e Atuação Policial",
-    "tipo": "verdadeiro_falso",
-    "artigo": "Material PMPR - Cadeia de Custódia",
-    "pergunta": "Armazenamento corresponde à guarda do material em condições adequadas, inclusive para eventual contraperícia.",
-    "comentario": "Resposta correta: Verdadeiro.",
-    "palavras_chave": [
-      "cadeia de custódia",
-      "atuação policial"
-    ],
-    "nivel": "média",
-    "anulada": false,
-    "ativa": true,
-    "respondida": false,
-    "status": "ATIVA",
-    "fonte": "Pv01.pdf - Prova Cadeia de Custódia e Atuação Policial / PMPR",
-    "opcoes": [
-      "Verdadeiro",
-      "Falso"
-    ],
-    "correta": "Verdadeiro"
-  },
-  {
-    "id": "defcivil-033",
-    "numero_original": 33,
-    "topico_numero": 1,
-    "topico": "Cadeia de Custódia e Atuação Policial",
-    "tipo": "verdadeiro_falso",
-    "artigo": "Material PMPR - Cadeia de Custódia",
-    "pergunta": "Descarte é a última etapa e deve respeitar a legislação vigente e, quando pertinente, autorização judicial.",
-    "comentario": "Resposta correta: Verdadeiro.",
-    "palavras_chave": [
-      "cadeia de custódia",
-      "atuação policial"
-    ],
-    "nivel": "média",
-    "anulada": false,
-    "ativa": true,
-    "respondida": false,
-    "status": "ATIVA",
-    "fonte": "Pv01.pdf - Prova Cadeia de Custódia e Atuação Policial / PMPR",
-    "opcoes": [
-      "Verdadeiro",
-      "Falso"
-    ],
-    "correta": "Verdadeiro"
-  },
-  {
-    "id": "defcivil-034",
-    "numero_original": 34,
-    "topico_numero": 1,
-    "topico": "Cadeia de Custódia e Atuação Policial",
-    "tipo": "verdadeiro_falso",
-    "artigo": "Material PMPR - Cadeia de Custódia",
-    "pergunta": "No POP 100.31, arma relacionada a local de crime deve, como regra, permanecer intacta para recolhimento pela Polícia Científica.",
-    "comentario": "Resposta correta: Verdadeiro.",
-    "palavras_chave": [
-      "cadeia de custódia",
-      "atuação policial"
-    ],
-    "nivel": "média",
-    "anulada": false,
-    "ativa": true,
-    "respondida": false,
-    "status": "ATIVA",
-    "fonte": "Pv01.pdf - Prova Cadeia de Custódia e Atuação Policial / PMPR",
-    "opcoes": [
-      "Verdadeiro",
-      "Falso"
-    ],
-    "correta": "Verdadeiro"
-  },
-  {
-    "id": "defcivil-035",
-    "numero_original": 35,
-    "topico_numero": 1,
-    "topico": "Cadeia de Custódia e Atuação Policial",
-    "tipo": "verdadeiro_falso",
-    "artigo": "Material PMPR - Cadeia de Custódia",
-    "pergunta": "Em abordagem policial com apreensão de arma, o uso de luvas é obrigatório em qualquer circunstância e nunca pode ser excepcionalizado por segurança.",
-    "comentario": "Resposta correta: Falso.",
-    "palavras_chave": [
-      "cadeia de custódia",
-      "atuação policial"
-    ],
-    "nivel": "média",
-    "anulada": false,
-    "ativa": true,
-    "respondida": false,
-    "status": "ATIVA",
-    "fonte": "Pv01.pdf - Prova Cadeia de Custódia e Atuação Policial / PMPR",
-    "opcoes": [
-      "Verdadeiro",
-      "Falso"
-    ],
-    "correta": "Falso"
-  },
-  {
-    "id": "defcivil-036",
-    "numero_original": 36,
-    "topico_numero": 1,
-    "topico": "Cadeia de Custódia e Atuação Policial",
-    "tipo": "verdadeiro_falso",
-    "artigo": "Material PMPR - Cadeia de Custódia",
-    "pergunta": "Na apreensão em abordagem, a arma deve ser descarregada; as munições são acondicionadas em embalagem distinta conforme o POP 100.31.",
-    "comentario": "Resposta correta: Verdadeiro.",
-    "palavras_chave": [
-      "cadeia de custódia",
-      "atuação policial"
-    ],
-    "nivel": "média",
-    "anulada": false,
-    "ativa": true,
-    "respondida": false,
-    "status": "ATIVA",
-    "fonte": "Pv01.pdf - Prova Cadeia de Custódia e Atuação Policial / PMPR",
-    "opcoes": [
-      "Verdadeiro",
-      "Falso"
-    ],
-    "correta": "Verdadeiro"
-  },
-  {
-    "id": "defcivil-037",
-    "numero_original": 37,
-    "topico_numero": 1,
-    "topico": "Cadeia de Custódia e Atuação Policial",
-    "tipo": "verdadeiro_falso",
-    "artigo": "Material PMPR - Cadeia de Custódia",
-    "pergunta": "No POP 100.32, em local de crime com acionamento da Polícia Civil e Científica, o celular pode ser manuseado livremente para identificar marca e modelo.",
-    "comentario": "Resposta correta: Falso.",
-    "palavras_chave": [
-      "cadeia de custódia",
-      "atuação policial"
-    ],
-    "nivel": "média",
-    "anulada": false,
-    "ativa": true,
-    "respondida": false,
-    "status": "ATIVA",
-    "fonte": "Pv01.pdf - Prova Cadeia de Custódia e Atuação Policial / PMPR",
-    "opcoes": [
-      "Verdadeiro",
-      "Falso"
-    ],
-    "correta": "Falso"
-  },
-  {
-    "id": "defcivil-038",
-    "numero_original": 38,
-    "topico_numero": 1,
-    "topico": "Cadeia de Custódia e Atuação Policial",
-    "tipo": "verdadeiro_falso",
-    "artigo": "Material PMPR - Cadeia de Custódia",
-    "pergunta": "Se não for possível retirar o SIM Card sem risco de dano, a equipe deve deixar de fazê-lo e registrar a condição no BOU.",
-    "comentario": "Resposta correta: Verdadeiro.",
-    "palavras_chave": [
-      "cadeia de custódia",
-      "atuação policial"
-    ],
-    "nivel": "média",
-    "anulada": false,
-    "ativa": true,
-    "respondida": false,
-    "status": "ATIVA",
-    "fonte": "Pv01.pdf - Prova Cadeia de Custódia e Atuação Policial / PMPR",
-    "opcoes": [
-      "Verdadeiro",
-      "Falso"
-    ],
-    "correta": "Verdadeiro"
-  },
-  {
-    "id": "defcivil-039",
-    "numero_original": 39,
-    "topico_numero": 1,
-    "topico": "Cadeia de Custódia e Atuação Policial",
-    "tipo": "verdadeiro_falso",
-    "artigo": "Material PMPR - Cadeia de Custódia",
-    "pergunta": "No POP 100.35, drogas de tipos diferentes devem ser separadas para pesagem, quantificação, apreensão e cadastro individualizado.",
-    "comentario": "Resposta correta: Verdadeiro.",
-    "palavras_chave": [
-      "cadeia de custódia",
-      "atuação policial"
-    ],
-    "nivel": "média",
-    "anulada": false,
-    "ativa": true,
-    "respondida": false,
-    "status": "ATIVA",
-    "fonte": "Pv01.pdf - Prova Cadeia de Custódia e Atuação Policial / PMPR",
-    "opcoes": [
-      "Verdadeiro",
-      "Falso"
-    ],
-    "correta": "Verdadeiro"
-  },
-  {
-    "id": "defcivil-040",
-    "numero_original": 40,
-    "topico_numero": 1,
-    "topico": "Cadeia de Custódia e Atuação Policial",
-    "tipo": "verdadeiro_falso",
-    "artigo": "Material PMPR - Cadeia de Custódia",
-    "pergunta": "Quando houver emprego de força policial, disparo de arma de fogo ou uso de IMPO, os policiais envolvidos devem ser encaminhados para atendimento psicológico conforme o PROAAR, nos termos do material.",
-    "comentario": "Resposta correta: Verdadeiro.",
-    "palavras_chave": [
-      "cadeia de custódia",
-      "atuação policial"
-    ],
-    "nivel": "média",
-    "anulada": false,
-    "ativa": true,
-    "respondida": false,
-    "status": "ATIVA",
-    "fonte": "Pv01.pdf - Prova Cadeia de Custódia e Atuação Policial / PMPR",
-    "opcoes": [
-      "Verdadeiro",
-      "Falso"
-    ],
-    "correta": "Verdadeiro"
-  },
-  {
-    "id": "defcivil-041",
-    "numero_original": 41,
-    "topico_numero": 2,
-    "topico": "Fases da Cadeia de Custódia",
-    "tipo": "relacionar",
-    "artigo": "CPP, art. 158-B",
-    "pergunta": "Relacione as 10 fases da cadeia de custódia com suas respectivas definições.",
-    "comentario": "Gabarito: Reconhecimento-B; Isolamento-F; Fixação-G; Coleta-D; Acondicionamento-H; Transporte-I; Recebimento-J; Processamento-A; Armazenamento-E; Descarte-C.",
-    "palavras_chave": [
-      "reconhecimento",
-      "isolamento",
-      "fixação",
-      "coleta",
-      "acondicionamento",
-      "transporte",
-      "recebimento",
-      "processamento",
-      "armazenamento",
-      "descarte"
-    ],
-    "nivel": "difícil",
-    "anulada": false,
-    "ativa": true,
-    "respondida": false,
-    "status": "ATIVA",
-    "fonte": "Pv01.pdf - Prova Cadeia de Custódia e Atuação Policial / PMPR",
-    "coluna_a": [
-      "Reconhecimento",
-      "Isolamento",
-      "Fixação",
-      "Coleta",
-      "Acondicionamento",
-      "Transporte",
-      "Recebimento",
-      "Processamento",
-      "Armazenamento",
-      "Descarte"
-    ],
-    "coluna_b": [
-      "Exame pericial propriamente dito, realizado com metodologia adequada.",
-      "Ato de distinguir um elemento como de potencial interesse para a produção da prova pericial.",
-      "Procedimento de liberação do vestígio, respeitando a legislação vigente.",
-      "Ato de recolher o vestígio que será submetido a análise pericial.",
-      "Guarda do material em condições adequadas, inclusive para eventual contraperícia.",
-      "Ato de evitar alteração do estado das coisas, preservando os ambientes imediato, mediato e relacionado.",
-      "Descrição detalhada do vestígio e de sua posição, podendo incluir fotografias, filmagens ou croqui.",
-      "Embalagem individualizada do vestígio de acordo com suas características, com os registros pertinentes.",
-      "Transferência do vestígio de um local para outro em condições adequadas.",
-      "Transferência formal da posse/custódia do vestígio, com os registros de rastreabilidade."
-    ],
-    "correta": "8, 1, 10, 4, 9, 2, 3, 5, 6, 7"
-  },
-  {
-    "id": "defcivil-042",
-    "numero_original": 42,
-    "topico_numero": 3,
-    "topico": "Conceitos fundamentais de Cadeia de Custódia",
-    "tipo": "resposta_curta",
-    "artigo": "CPP, arts. 158-A e seguintes",
-    "pergunta": "Conceitue cadeia de custódia.",
-    "comentario": "Resposta-modelo: Sucessão de eventos seguros e confiáveis que mantém e documenta a história cronológica do vestígio, permitindo rastrear sua posse e manuseio desde o reconhecimento até o descarte.",
-    "palavras_chave": [
-      "cadeia de custódia",
-      "história cronológica",
-      "rastreabilidade"
-    ],
-    "nivel": "média",
-    "anulada": false,
-    "ativa": true,
-    "respondida": false,
-    "status": "ATIVA",
-    "fonte": "Pv01.pdf - Prova Cadeia de Custódia e Atuação Policial / PMPR",
-    "resposta_modelo": "Sucessão de eventos seguros e confiáveis que mantém e documenta a história cronológica do vestígio, permitindo rastrear sua posse e manuseio desde o reconhecimento até o descarte.",
-    "respostas_aceitas": [
-      "Sucessão de eventos seguros e confiáveis que mantém e documenta a história cronológica do vestígio, permitindo rastrear sua posse e manuseio desde o reconhecimento até o descarte."
-    ]
-  },
-  {
-    "id": "defcivil-043",
-    "numero_original": 43,
-    "topico_numero": 3,
-    "topico": "Conceitos fundamentais de Cadeia de Custódia",
-    "tipo": "resposta_curta",
-    "artigo": "CPP, arts. 158-A e seguintes",
-    "pergunta": "Conceitue vestígio.",
-    "comentario": "Resposta-modelo: Todo objeto ou material bruto, visível ou latente, constatado ou recolhido, relacionado à infração penal e com potencial probatório.",
-    "palavras_chave": [
-      "vestígio",
-      "material bruto",
-      "potencial probatório"
-    ],
-    "nivel": "média",
-    "anulada": false,
-    "ativa": true,
-    "respondida": false,
-    "status": "ATIVA",
-    "fonte": "Pv01.pdf - Prova Cadeia de Custódia e Atuação Policial / PMPR",
-    "resposta_modelo": "Todo objeto ou material bruto, visível ou latente, constatado ou recolhido, relacionado à infração penal e com potencial probatório.",
-    "respostas_aceitas": [
-      "Todo objeto ou material bruto, visível ou latente, constatado ou recolhido, relacionado à infração penal e com potencial probatório."
-    ]
-  },
-  {
-    "id": "defcivil-044",
-    "numero_original": 44,
-    "topico_numero": 3,
-    "topico": "Conceitos fundamentais de Cadeia de Custódia",
-    "tipo": "resposta_curta",
-    "artigo": "CPP, arts. 158-A e seguintes",
-    "pergunta": "Conceitue evidência.",
-    "comentario": "Resposta-modelo: Vestígio cuja relação com o evento periciado foi confirmada após análise.",
-    "palavras_chave": [
-      "evidência",
-      "vestígio",
-      "análise pericial"
-    ],
-    "nivel": "média",
-    "anulada": false,
-    "ativa": true,
-    "respondida": false,
-    "status": "ATIVA",
-    "fonte": "Pv01.pdf - Prova Cadeia de Custódia e Atuação Policial / PMPR",
-    "resposta_modelo": "Vestígio cuja relação com o evento periciado foi confirmada após análise.",
-    "respostas_aceitas": [
-      "Vestígio cuja relação com o evento periciado foi confirmada após análise."
-    ]
-  },
-  {
-    "id": "defcivil-045",
-    "numero_original": 45,
-    "topico_numero": 3,
-    "topico": "Conceitos fundamentais de Cadeia de Custódia",
-    "tipo": "resposta_curta",
-    "artigo": "CPP, arts. 158-A e seguintes",
-    "pergunta": "Conceitue indício.",
-    "comentario": "Resposta-modelo: Circunstância conhecida e provada que, relacionada ao fato, permite, por indução, concluir a existência de outra circunstância.",
-    "palavras_chave": [
-      "indício",
-      "circunstância provada",
-      "indução"
-    ],
-    "nivel": "média",
-    "anulada": false,
-    "ativa": true,
-    "respondida": false,
-    "status": "ATIVA",
-    "fonte": "Pv01.pdf - Prova Cadeia de Custódia e Atuação Policial / PMPR",
-    "resposta_modelo": "Circunstância conhecida e provada que, relacionada ao fato, permite, por indução, concluir a existência de outra circunstância.",
-    "respostas_aceitas": [
-      "Circunstância conhecida e provada que, relacionada ao fato, permite, por indução, concluir a existência de outra circunstância."
-    ]
+    "correta": "B) Centralizar o comando operacional no estado, articulando o suporte logístico emergencial e gerenciando os grandes alertas direcionados às Unidades da PMPR."
   }
 ]
