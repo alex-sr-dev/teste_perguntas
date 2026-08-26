@@ -1,0 +1,1155 @@
+[
+  {
+    "id": "defcivil-001",
+    "numero_original": 1,
+    "topico_numero": 1,
+    "topico": "Cadeia de Custódia e Atuação Policial",
+    "tipo": "verdadeiro_falso",
+    "artigo": "Material PMPR - Cadeia de Custódia",
+    "pergunta": "A cadeia de custódia acompanha a história cronológica do vestígio desde o reconhecimento até o descarte.",
+    "comentario": "Resposta correta: Verdadeiro.",
+    "palavras_chave": [
+      "cadeia de custódia",
+      "atuação policial"
+    ],
+    "nivel": "média",
+    "anulada": false,
+    "ativa": true,
+    "respondida": false,
+    "status": "ATIVA",
+    "fonte": "Pv01.pdf - Prova Cadeia de Custódia e Atuação Policial / PMPR",
+    "opcoes": [
+      "Verdadeiro",
+      "Falso"
+    ],
+    "correta": "Verdadeiro"
+  },
+  {
+    "id": "defcivil-002",
+    "numero_original": 2,
+    "topico_numero": 1,
+    "topico": "Cadeia de Custódia e Atuação Policial",
+    "tipo": "verdadeiro_falso",
+    "artigo": "Material PMPR - Cadeia de Custódia",
+    "pergunta": "Vestígio é somente o objeto visível que já foi recolhido do local de crime.",
+    "comentario": "Resposta correta: Falso.",
+    "palavras_chave": [
+      "cadeia de custódia",
+      "atuação policial"
+    ],
+    "nivel": "média",
+    "anulada": false,
+    "ativa": true,
+    "respondida": false,
+    "status": "ATIVA",
+    "fonte": "Pv01.pdf - Prova Cadeia de Custódia e Atuação Policial / PMPR",
+    "opcoes": [
+      "Verdadeiro",
+      "Falso"
+    ],
+    "correta": "Falso"
+  },
+  {
+    "id": "defcivil-003",
+    "numero_original": 3,
+    "topico_numero": 1,
+    "topico": "Cadeia de Custódia e Atuação Policial",
+    "tipo": "verdadeiro_falso",
+    "artigo": "Material PMPR - Cadeia de Custódia",
+    "pergunta": "Evidência é o vestígio cuja relação com o evento periciado foi confirmada após análise.",
+    "comentario": "Resposta correta: Verdadeiro.",
+    "palavras_chave": [
+      "cadeia de custódia",
+      "atuação policial"
+    ],
+    "nivel": "média",
+    "anulada": false,
+    "ativa": true,
+    "respondida": false,
+    "status": "ATIVA",
+    "fonte": "Pv01.pdf - Prova Cadeia de Custódia e Atuação Policial / PMPR",
+    "opcoes": [
+      "Verdadeiro",
+      "Falso"
+    ],
+    "correta": "Verdadeiro"
+  },
+  {
+    "id": "defcivil-004",
+    "numero_original": 4,
+    "topico_numero": 1,
+    "topico": "Cadeia de Custódia e Atuação Policial",
+    "tipo": "verdadeiro_falso",
+    "artigo": "Material PMPR - Cadeia de Custódia",
+    "pergunta": "Indício é uma circunstância conhecida e provada que permite, por indução, concluir a existência de outra circunstância.",
+    "comentario": "Resposta correta: Verdadeiro.",
+    "palavras_chave": [
+      "cadeia de custódia",
+      "atuação policial"
+    ],
+    "nivel": "média",
+    "anulada": false,
+    "ativa": true,
+    "respondida": false,
+    "status": "ATIVA",
+    "fonte": "Pv01.pdf - Prova Cadeia de Custódia e Atuação Policial / PMPR",
+    "opcoes": [
+      "Verdadeiro",
+      "Falso"
+    ],
+    "correta": "Verdadeiro"
+  },
+  {
+    "id": "defcivil-005",
+    "numero_original": 5,
+    "topico_numero": 1,
+    "topico": "Cadeia de Custódia e Atuação Policial",
+    "tipo": "verdadeiro_falso",
+    "artigo": "Material PMPR - Cadeia de Custódia",
+    "pergunta": "O local imediato é aquele onde se encontra a maioria dos vestígios materiais.",
+    "comentario": "Resposta correta: Verdadeiro.",
+    "palavras_chave": [
+      "cadeia de custódia",
+      "atuação policial"
+    ],
+    "nivel": "média",
+    "anulada": false,
+    "ativa": true,
+    "respondida": false,
+    "status": "ATIVA",
+    "fonte": "Pv01.pdf - Prova Cadeia de Custódia e Atuação Policial / PMPR",
+    "opcoes": [
+      "Verdadeiro",
+      "Falso"
+    ],
+    "correta": "Verdadeiro"
+  },
+  {
+    "id": "defcivil-006",
+    "numero_original": 6,
+    "topico_numero": 1,
+    "topico": "Cadeia de Custódia e Atuação Policial",
+    "tipo": "verdadeiro_falso",
+    "artigo": "Material PMPR - Cadeia de Custódia",
+    "pergunta": "O local mediato corresponde às adjacências ou área contígua ao local imediato, onde podem existir vestígios ligados ao crime.",
+    "comentario": "Resposta correta: Verdadeiro.",
+    "palavras_chave": [
+      "cadeia de custódia",
+      "atuação policial"
+    ],
+    "nivel": "média",
+    "anulada": false,
+    "ativa": true,
+    "respondida": false,
+    "status": "ATIVA",
+    "fonte": "Pv01.pdf - Prova Cadeia de Custódia e Atuação Policial / PMPR",
+    "opcoes": [
+      "Verdadeiro",
+      "Falso"
+    ],
+    "correta": "Verdadeiro"
+  },
+  {
+    "id": "defcivil-007",
+    "numero_original": 7,
+    "topico_numero": 1,
+    "topico": "Cadeia de Custódia e Atuação Policial",
+    "tipo": "verdadeiro_falso",
+    "artigo": "Material PMPR - Cadeia de Custódia",
+    "pergunta": "O local relacionado deve possuir obrigatoriamente continuidade geográfica com o local imediato.",
+    "comentario": "Resposta correta: Falso.",
+    "palavras_chave": [
+      "cadeia de custódia",
+      "atuação policial"
+    ],
+    "nivel": "média",
+    "anulada": false,
+    "ativa": true,
+    "respondida": false,
+    "status": "ATIVA",
+    "fonte": "Pv01.pdf - Prova Cadeia de Custódia e Atuação Policial / PMPR",
+    "opcoes": [
+      "Verdadeiro",
+      "Falso"
+    ],
+    "correta": "Falso"
+  },
+  {
+    "id": "defcivil-008",
+    "numero_original": 8,
+    "topico_numero": 1,
+    "topico": "Cadeia de Custódia e Atuação Policial",
+    "tipo": "verdadeiro_falso",
+    "artigo": "Material PMPR - Cadeia de Custódia",
+    "pergunta": "Isolamento e preservação possuem exatamente o mesmo significado técnico.",
+    "comentario": "Resposta correta: Falso.",
+    "palavras_chave": [
+      "cadeia de custódia",
+      "atuação policial"
+    ],
+    "nivel": "média",
+    "anulada": false,
+    "ativa": true,
+    "respondida": false,
+    "status": "ATIVA",
+    "fonte": "Pv01.pdf - Prova Cadeia de Custódia e Atuação Policial / PMPR",
+    "opcoes": [
+      "Verdadeiro",
+      "Falso"
+    ],
+    "correta": "Falso"
+  },
+  {
+    "id": "defcivil-009",
+    "numero_original": 9,
+    "topico_numero": 1,
+    "topico": "Cadeia de Custódia e Atuação Policial",
+    "tipo": "verdadeiro_falso",
+    "artigo": "Material PMPR - Cadeia de Custódia",
+    "pergunta": "O isolamento visa impedir tanto a inclusão quanto a exclusão indevida de vestígios.",
+    "comentario": "Resposta correta: Verdadeiro.",
+    "palavras_chave": [
+      "cadeia de custódia",
+      "atuação policial"
+    ],
+    "nivel": "média",
+    "anulada": false,
+    "ativa": true,
+    "respondida": false,
+    "status": "ATIVA",
+    "fonte": "Pv01.pdf - Prova Cadeia de Custódia e Atuação Policial / PMPR",
+    "opcoes": [
+      "Verdadeiro",
+      "Falso"
+    ],
+    "correta": "Verdadeiro"
+  },
+  {
+    "id": "defcivil-010",
+    "numero_original": 10,
+    "topico_numero": 1,
+    "topico": "Cadeia de Custódia e Atuação Policial",
+    "tipo": "verdadeiro_falso",
+    "artigo": "Material PMPR - Cadeia de Custódia",
+    "pergunta": "A fase externa termina com a chegada do vestígio ao órgão pericial responsável pelo processamento.",
+    "comentario": "Resposta correta: Verdadeiro.",
+    "palavras_chave": [
+      "cadeia de custódia",
+      "atuação policial"
+    ],
+    "nivel": "média",
+    "anulada": false,
+    "ativa": true,
+    "respondida": false,
+    "status": "ATIVA",
+    "fonte": "Pv01.pdf - Prova Cadeia de Custódia e Atuação Policial / PMPR",
+    "opcoes": [
+      "Verdadeiro",
+      "Falso"
+    ],
+    "correta": "Verdadeiro"
+  },
+  {
+    "id": "defcivil-011",
+    "numero_original": 11,
+    "topico_numero": 1,
+    "topico": "Cadeia de Custódia e Atuação Policial",
+    "tipo": "verdadeiro_falso",
+    "artigo": "Material PMPR - Cadeia de Custódia",
+    "pergunta": "A fase interna compreende as etapas desde a entrada do vestígio no órgão pericial até o descarte ou devolução.",
+    "comentario": "Resposta correta: Verdadeiro.",
+    "palavras_chave": [
+      "cadeia de custódia",
+      "atuação policial"
+    ],
+    "nivel": "média",
+    "anulada": false,
+    "ativa": true,
+    "respondida": false,
+    "status": "ATIVA",
+    "fonte": "Pv01.pdf - Prova Cadeia de Custódia e Atuação Policial / PMPR",
+    "opcoes": [
+      "Verdadeiro",
+      "Falso"
+    ],
+    "correta": "Verdadeiro"
+  },
+  {
+    "id": "defcivil-012",
+    "numero_original": 12,
+    "topico_numero": 1,
+    "topico": "Cadeia de Custódia e Atuação Policial",
+    "tipo": "verdadeiro_falso",
+    "artigo": "Material PMPR - Cadeia de Custódia",
+    "pergunta": "As etapas da cadeia de custódia podem ser registradas apenas ao final da ocorrência, desde que todos os nomes sejam lembrados.",
+    "comentario": "Resposta correta: Falso.",
+    "palavras_chave": [
+      "cadeia de custódia",
+      "atuação policial"
+    ],
+    "nivel": "média",
+    "anulada": false,
+    "ativa": true,
+    "respondida": false,
+    "status": "ATIVA",
+    "fonte": "Pv01.pdf - Prova Cadeia de Custódia e Atuação Policial / PMPR",
+    "opcoes": [
+      "Verdadeiro",
+      "Falso"
+    ],
+    "correta": "Falso"
+  },
+  {
+    "id": "defcivil-013",
+    "numero_original": 13,
+    "topico_numero": 1,
+    "topico": "Cadeia de Custódia e Atuação Policial",
+    "tipo": "verdadeiro_falso",
+    "artigo": "Material PMPR - Cadeia de Custódia",
+    "pergunta": "O agente público que reconhece elemento de potencial interesse para a prova passa a ser responsável por sua preservação.",
+    "comentario": "Resposta correta: Verdadeiro.",
+    "palavras_chave": [
+      "cadeia de custódia",
+      "atuação policial"
+    ],
+    "nivel": "média",
+    "anulada": false,
+    "ativa": true,
+    "respondida": false,
+    "status": "ATIVA",
+    "fonte": "Pv01.pdf - Prova Cadeia de Custódia e Atuação Policial / PMPR",
+    "opcoes": [
+      "Verdadeiro",
+      "Falso"
+    ],
+    "correta": "Verdadeiro"
+  },
+  {
+    "id": "defcivil-014",
+    "numero_original": 14,
+    "topico_numero": 1,
+    "topico": "Cadeia de Custódia e Atuação Policial",
+    "tipo": "verdadeiro_falso",
+    "artigo": "Material PMPR - Cadeia de Custódia",
+    "pergunta": "O Primeiro Interventor deve estacionar a viatura o mais próximo possível do foco central, ainda que isso comprometa vestígios.",
+    "comentario": "Resposta correta: Falso.",
+    "palavras_chave": [
+      "cadeia de custódia",
+      "atuação policial"
+    ],
+    "nivel": "média",
+    "anulada": false,
+    "ativa": true,
+    "respondida": false,
+    "status": "ATIVA",
+    "fonte": "Pv01.pdf - Prova Cadeia de Custódia e Atuação Policial / PMPR",
+    "opcoes": [
+      "Verdadeiro",
+      "Falso"
+    ],
+    "correta": "Falso"
+  },
+  {
+    "id": "defcivil-015",
+    "numero_original": 15,
+    "topico_numero": 1,
+    "topico": "Cadeia de Custódia e Atuação Policial",
+    "tipo": "verdadeiro_falso",
+    "artigo": "Material PMPR - Cadeia de Custódia",
+    "pergunta": "Antes de descer da viatura, o Primeiro Interventor deve observar a movimentação de pessoas e veículos e escolher local seguro para estacionar.",
+    "comentario": "Resposta correta: Verdadeiro.",
+    "palavras_chave": [
+      "cadeia de custódia",
+      "atuação policial"
+    ],
+    "nivel": "média",
+    "anulada": false,
+    "ativa": true,
+    "respondida": false,
+    "status": "ATIVA",
+    "fonte": "Pv01.pdf - Prova Cadeia de Custódia e Atuação Policial / PMPR",
+    "opcoes": [
+      "Verdadeiro",
+      "Falso"
+    ],
+    "correta": "Verdadeiro"
+  },
+  {
+    "id": "defcivil-016",
+    "numero_original": 16,
+    "topico_numero": 1,
+    "topico": "Cadeia de Custódia e Atuação Policial",
+    "tipo": "verdadeiro_falso",
+    "artigo": "Material PMPR - Cadeia de Custódia",
+    "pergunta": "Havendo vítima, o Primeiro Interventor deve aguardar obrigatoriamente a perícia antes de prestar socorro.",
+    "comentario": "Resposta correta: Falso.",
+    "palavras_chave": [
+      "cadeia de custódia",
+      "atuação policial"
+    ],
+    "nivel": "média",
+    "anulada": false,
+    "ativa": true,
+    "respondida": false,
+    "status": "ATIVA",
+    "fonte": "Pv01.pdf - Prova Cadeia de Custódia e Atuação Policial / PMPR",
+    "opcoes": [
+      "Verdadeiro",
+      "Falso"
+    ],
+    "correta": "Falso"
+  },
+  {
+    "id": "defcivil-017",
+    "numero_original": 17,
+    "topico_numero": 1,
+    "topico": "Cadeia de Custódia e Atuação Policial",
+    "tipo": "verdadeiro_falso",
+    "artigo": "Material PMPR - Cadeia de Custódia",
+    "pergunta": "Para aproximar-se de uma vítima, o Primeiro Interventor deve, sempre que possível, utilizar o menor caminho para preservar os vestígios.",
+    "comentario": "Resposta correta: Verdadeiro.",
+    "palavras_chave": [
+      "cadeia de custódia",
+      "atuação policial"
+    ],
+    "nivel": "média",
+    "anulada": false,
+    "ativa": true,
+    "respondida": false,
+    "status": "ATIVA",
+    "fonte": "Pv01.pdf - Prova Cadeia de Custódia e Atuação Policial / PMPR",
+    "opcoes": [
+      "Verdadeiro",
+      "Falso"
+    ],
+    "correta": "Verdadeiro"
+  },
+  {
+    "id": "defcivil-018",
+    "numero_original": 18,
+    "topico_numero": 1,
+    "topico": "Cadeia de Custódia e Atuação Policial",
+    "tipo": "verdadeiro_falso",
+    "artigo": "Material PMPR - Cadeia de Custódia",
+    "pergunta": "A preservação do local impede qualquer alteração, mesmo quando indispensável para salvar uma vida.",
+    "comentario": "Resposta correta: Falso.",
+    "palavras_chave": [
+      "cadeia de custódia",
+      "atuação policial"
+    ],
+    "nivel": "média",
+    "anulada": false,
+    "ativa": true,
+    "respondida": false,
+    "status": "ATIVA",
+    "fonte": "Pv01.pdf - Prova Cadeia de Custódia e Atuação Policial / PMPR",
+    "opcoes": [
+      "Verdadeiro",
+      "Falso"
+    ],
+    "correta": "Falso"
+  },
+  {
+    "id": "defcivil-019",
+    "numero_original": 19,
+    "topico_numero": 1,
+    "topico": "Cadeia de Custódia e Atuação Policial",
+    "tipo": "verdadeiro_falso",
+    "artigo": "Material PMPR - Cadeia de Custódia",
+    "pergunta": "Em ambiente fechado, portas, janelas, móveis, eletrodomésticos e utensílios devem, como regra, permanecer como encontrados.",
+    "comentario": "Resposta correta: Verdadeiro.",
+    "palavras_chave": [
+      "cadeia de custódia",
+      "atuação policial"
+    ],
+    "nivel": "média",
+    "anulada": false,
+    "ativa": true,
+    "respondida": false,
+    "status": "ATIVA",
+    "fonte": "Pv01.pdf - Prova Cadeia de Custódia e Atuação Policial / PMPR",
+    "opcoes": [
+      "Verdadeiro",
+      "Falso"
+    ],
+    "correta": "Verdadeiro"
+  },
+  {
+    "id": "defcivil-020",
+    "numero_original": 20,
+    "topico_numero": 1,
+    "topico": "Cadeia de Custódia e Atuação Policial",
+    "tipo": "verdadeiro_falso",
+    "artigo": "Material PMPR - Cadeia de Custódia",
+    "pergunta": "Em ambiente fechado, é permitido abrir portas e janelas apenas para facilitar o trabalho posterior da equipe pericial.",
+    "comentario": "Resposta correta: Falso.",
+    "palavras_chave": [
+      "cadeia de custódia",
+      "atuação policial"
+    ],
+    "nivel": "média",
+    "anulada": false,
+    "ativa": true,
+    "respondida": false,
+    "status": "ATIVA",
+    "fonte": "Pv01.pdf - Prova Cadeia de Custódia e Atuação Policial / PMPR",
+    "opcoes": [
+      "Verdadeiro",
+      "Falso"
+    ],
+    "correta": "Falso"
+  },
+  {
+    "id": "defcivil-021",
+    "numero_original": 21,
+    "topico_numero": 1,
+    "topico": "Cadeia de Custódia e Atuação Policial",
+    "tipo": "verdadeiro_falso",
+    "artigo": "Material PMPR - Cadeia de Custódia",
+    "pergunta": "Em ambiente externo sujeito a chuva intensa, lonas ou outros meios de fortuna podem ser usados para proteger o local.",
+    "comentario": "Resposta correta: Verdadeiro.",
+    "palavras_chave": [
+      "cadeia de custódia",
+      "atuação policial"
+    ],
+    "nivel": "média",
+    "anulada": false,
+    "ativa": true,
+    "respondida": false,
+    "status": "ATIVA",
+    "fonte": "Pv01.pdf - Prova Cadeia de Custódia e Atuação Policial / PMPR",
+    "opcoes": [
+      "Verdadeiro",
+      "Falso"
+    ],
+    "correta": "Verdadeiro"
+  },
+  {
+    "id": "defcivil-022",
+    "numero_original": 22,
+    "topico_numero": 1,
+    "topico": "Cadeia de Custódia e Atuação Policial",
+    "tipo": "verdadeiro_falso",
+    "artigo": "Material PMPR - Cadeia de Custódia",
+    "pergunta": "Se houver risco iminente de perda definitiva de vestígio antes da chegada da perícia, o militar pode, excepcionalmente, coletá-lo ou armazená-lo, registrando o procedimento no BOU.",
+    "comentario": "Resposta correta: Verdadeiro.",
+    "palavras_chave": [
+      "cadeia de custódia",
+      "atuação policial"
+    ],
+    "nivel": "média",
+    "anulada": false,
+    "ativa": true,
+    "respondida": false,
+    "status": "ATIVA",
+    "fonte": "Pv01.pdf - Prova Cadeia de Custódia e Atuação Policial / PMPR",
+    "opcoes": [
+      "Verdadeiro",
+      "Falso"
+    ],
+    "correta": "Verdadeiro"
+  },
+  {
+    "id": "defcivil-023",
+    "numero_original": 23,
+    "topico_numero": 1,
+    "topico": "Cadeia de Custódia e Atuação Policial",
+    "tipo": "verdadeiro_falso",
+    "artigo": "Material PMPR - Cadeia de Custódia",
+    "pergunta": "A coleta dos vestígios deve ser realizada preferencialmente por perito oficial.",
+    "comentario": "Resposta correta: Verdadeiro.",
+    "palavras_chave": [
+      "cadeia de custódia",
+      "atuação policial"
+    ],
+    "nivel": "média",
+    "anulada": false,
+    "ativa": true,
+    "respondida": false,
+    "status": "ATIVA",
+    "fonte": "Pv01.pdf - Prova Cadeia de Custódia e Atuação Policial / PMPR",
+    "opcoes": [
+      "Verdadeiro",
+      "Falso"
+    ],
+    "correta": "Verdadeiro"
+  },
+  {
+    "id": "defcivil-024",
+    "numero_original": 24,
+    "topico_numero": 1,
+    "topico": "Cadeia de Custódia e Atuação Policial",
+    "tipo": "verdadeiro_falso",
+    "artigo": "Material PMPR - Cadeia de Custódia",
+    "pergunta": "Na ausência do perito oficial, outro agente de segurança pública jamais poderá realizar a coleta.",
+    "comentario": "Resposta correta: Falso.",
+    "palavras_chave": [
+      "cadeia de custódia",
+      "atuação policial"
+    ],
+    "nivel": "média",
+    "anulada": false,
+    "ativa": true,
+    "respondida": false,
+    "status": "ATIVA",
+    "fonte": "Pv01.pdf - Prova Cadeia de Custódia e Atuação Policial / PMPR",
+    "opcoes": [
+      "Verdadeiro",
+      "Falso"
+    ],
+    "correta": "Falso"
+  },
+  {
+    "id": "defcivil-025",
+    "numero_original": 25,
+    "topico_numero": 1,
+    "topico": "Cadeia de Custódia e Atuação Policial",
+    "tipo": "verdadeiro_falso",
+    "artigo": "Material PMPR - Cadeia de Custódia",
+    "pergunta": "Quando outro agente realizar excepcionalmente a coleta, o vestígio deve ser fixado antes de ser recolhido.",
+    "comentario": "Resposta correta: Verdadeiro.",
+    "palavras_chave": [
+      "cadeia de custódia",
+      "atuação policial"
+    ],
+    "nivel": "média",
+    "anulada": false,
+    "ativa": true,
+    "respondida": false,
+    "status": "ATIVA",
+    "fonte": "Pv01.pdf - Prova Cadeia de Custódia e Atuação Policial / PMPR",
+    "opcoes": [
+      "Verdadeiro",
+      "Falso"
+    ],
+    "correta": "Verdadeiro"
+  },
+  {
+    "id": "defcivil-026",
+    "numero_original": 26,
+    "topico_numero": 1,
+    "topico": "Cadeia de Custódia e Atuação Policial",
+    "tipo": "verdadeiro_falso",
+    "artigo": "Material PMPR - Cadeia de Custódia",
+    "pergunta": "Fixação é o ato de recolher fisicamente o vestígio para análise pericial.",
+    "comentario": "Resposta correta: Falso.",
+    "palavras_chave": [
+      "cadeia de custódia",
+      "atuação policial"
+    ],
+    "nivel": "média",
+    "anulada": false,
+    "ativa": true,
+    "respondida": false,
+    "status": "ATIVA",
+    "fonte": "Pv01.pdf - Prova Cadeia de Custódia e Atuação Policial / PMPR",
+    "opcoes": [
+      "Verdadeiro",
+      "Falso"
+    ],
+    "correta": "Falso"
+  },
+  {
+    "id": "defcivil-027",
+    "numero_original": 27,
+    "topico_numero": 1,
+    "topico": "Cadeia de Custódia e Atuação Policial",
+    "tipo": "verdadeiro_falso",
+    "artigo": "Material PMPR - Cadeia de Custódia",
+    "pergunta": "Coleta é o ato de recolher o vestígio que será submetido a análise pericial.",
+    "comentario": "Resposta correta: Verdadeiro.",
+    "palavras_chave": [
+      "cadeia de custódia",
+      "atuação policial"
+    ],
+    "nivel": "média",
+    "anulada": false,
+    "ativa": true,
+    "respondida": false,
+    "status": "ATIVA",
+    "fonte": "Pv01.pdf - Prova Cadeia de Custódia e Atuação Policial / PMPR",
+    "opcoes": [
+      "Verdadeiro",
+      "Falso"
+    ],
+    "correta": "Verdadeiro"
+  },
+  {
+    "id": "defcivil-028",
+    "numero_original": 28,
+    "topico_numero": 1,
+    "topico": "Cadeia de Custódia e Atuação Policial",
+    "tipo": "verdadeiro_falso",
+    "artigo": "Material PMPR - Cadeia de Custódia",
+    "pergunta": "No acondicionamento, cada vestígio deve ser embalado de forma individualizada, conforme suas características.",
+    "comentario": "Resposta correta: Verdadeiro.",
+    "palavras_chave": [
+      "cadeia de custódia",
+      "atuação policial"
+    ],
+    "nivel": "média",
+    "anulada": false,
+    "ativa": true,
+    "respondida": false,
+    "status": "ATIVA",
+    "fonte": "Pv01.pdf - Prova Cadeia de Custódia e Atuação Policial / PMPR",
+    "opcoes": [
+      "Verdadeiro",
+      "Falso"
+    ],
+    "correta": "Verdadeiro"
+  },
+  {
+    "id": "defcivil-029",
+    "numero_original": 29,
+    "topico_numero": 1,
+    "topico": "Cadeia de Custódia e Atuação Policial",
+    "tipo": "verdadeiro_falso",
+    "artigo": "Material PMPR - Cadeia de Custódia",
+    "pergunta": "No acondicionamento, é dispensável registrar data, hora e responsável se a embalagem possuir lacre.",
+    "comentario": "Resposta correta: Falso.",
+    "palavras_chave": [
+      "cadeia de custódia",
+      "atuação policial"
+    ],
+    "nivel": "média",
+    "anulada": false,
+    "ativa": true,
+    "respondida": false,
+    "status": "ATIVA",
+    "fonte": "Pv01.pdf - Prova Cadeia de Custódia e Atuação Policial / PMPR",
+    "opcoes": [
+      "Verdadeiro",
+      "Falso"
+    ],
+    "correta": "Falso"
+  },
+  {
+    "id": "defcivil-030",
+    "numero_original": 30,
+    "topico_numero": 1,
+    "topico": "Cadeia de Custódia e Atuação Policial",
+    "tipo": "verdadeiro_falso",
+    "artigo": "Material PMPR - Cadeia de Custódia",
+    "pergunta": "Transporte corresponde à transferência do vestígio de um local para outro em condições adequadas.",
+    "comentario": "Resposta correta: Verdadeiro.",
+    "palavras_chave": [
+      "cadeia de custódia",
+      "atuação policial"
+    ],
+    "nivel": "média",
+    "anulada": false,
+    "ativa": true,
+    "respondida": false,
+    "status": "ATIVA",
+    "fonte": "Pv01.pdf - Prova Cadeia de Custódia e Atuação Policial / PMPR",
+    "opcoes": [
+      "Verdadeiro",
+      "Falso"
+    ],
+    "correta": "Verdadeiro"
+  },
+  {
+    "id": "defcivil-031",
+    "numero_original": 31,
+    "topico_numero": 1,
+    "topico": "Cadeia de Custódia e Atuação Policial",
+    "tipo": "verdadeiro_falso",
+    "artigo": "Material PMPR - Cadeia de Custódia",
+    "pergunta": "Processamento corresponde ao exame pericial propriamente dito.",
+    "comentario": "Resposta correta: Verdadeiro.",
+    "palavras_chave": [
+      "cadeia de custódia",
+      "atuação policial"
+    ],
+    "nivel": "média",
+    "anulada": false,
+    "ativa": true,
+    "respondida": false,
+    "status": "ATIVA",
+    "fonte": "Pv01.pdf - Prova Cadeia de Custódia e Atuação Policial / PMPR",
+    "opcoes": [
+      "Verdadeiro",
+      "Falso"
+    ],
+    "correta": "Verdadeiro"
+  },
+  {
+    "id": "defcivil-032",
+    "numero_original": 32,
+    "topico_numero": 1,
+    "topico": "Cadeia de Custódia e Atuação Policial",
+    "tipo": "verdadeiro_falso",
+    "artigo": "Material PMPR - Cadeia de Custódia",
+    "pergunta": "Armazenamento corresponde à guarda do material em condições adequadas, inclusive para eventual contraperícia.",
+    "comentario": "Resposta correta: Verdadeiro.",
+    "palavras_chave": [
+      "cadeia de custódia",
+      "atuação policial"
+    ],
+    "nivel": "média",
+    "anulada": false,
+    "ativa": true,
+    "respondida": false,
+    "status": "ATIVA",
+    "fonte": "Pv01.pdf - Prova Cadeia de Custódia e Atuação Policial / PMPR",
+    "opcoes": [
+      "Verdadeiro",
+      "Falso"
+    ],
+    "correta": "Verdadeiro"
+  },
+  {
+    "id": "defcivil-033",
+    "numero_original": 33,
+    "topico_numero": 1,
+    "topico": "Cadeia de Custódia e Atuação Policial",
+    "tipo": "verdadeiro_falso",
+    "artigo": "Material PMPR - Cadeia de Custódia",
+    "pergunta": "Descarte é a última etapa e deve respeitar a legislação vigente e, quando pertinente, autorização judicial.",
+    "comentario": "Resposta correta: Verdadeiro.",
+    "palavras_chave": [
+      "cadeia de custódia",
+      "atuação policial"
+    ],
+    "nivel": "média",
+    "anulada": false,
+    "ativa": true,
+    "respondida": false,
+    "status": "ATIVA",
+    "fonte": "Pv01.pdf - Prova Cadeia de Custódia e Atuação Policial / PMPR",
+    "opcoes": [
+      "Verdadeiro",
+      "Falso"
+    ],
+    "correta": "Verdadeiro"
+  },
+  {
+    "id": "defcivil-034",
+    "numero_original": 34,
+    "topico_numero": 1,
+    "topico": "Cadeia de Custódia e Atuação Policial",
+    "tipo": "verdadeiro_falso",
+    "artigo": "Material PMPR - Cadeia de Custódia",
+    "pergunta": "No POP 100.31, arma relacionada a local de crime deve, como regra, permanecer intacta para recolhimento pela Polícia Científica.",
+    "comentario": "Resposta correta: Verdadeiro.",
+    "palavras_chave": [
+      "cadeia de custódia",
+      "atuação policial"
+    ],
+    "nivel": "média",
+    "anulada": false,
+    "ativa": true,
+    "respondida": false,
+    "status": "ATIVA",
+    "fonte": "Pv01.pdf - Prova Cadeia de Custódia e Atuação Policial / PMPR",
+    "opcoes": [
+      "Verdadeiro",
+      "Falso"
+    ],
+    "correta": "Verdadeiro"
+  },
+  {
+    "id": "defcivil-035",
+    "numero_original": 35,
+    "topico_numero": 1,
+    "topico": "Cadeia de Custódia e Atuação Policial",
+    "tipo": "verdadeiro_falso",
+    "artigo": "Material PMPR - Cadeia de Custódia",
+    "pergunta": "Em abordagem policial com apreensão de arma, o uso de luvas é obrigatório em qualquer circunstância e nunca pode ser excepcionalizado por segurança.",
+    "comentario": "Resposta correta: Falso.",
+    "palavras_chave": [
+      "cadeia de custódia",
+      "atuação policial"
+    ],
+    "nivel": "média",
+    "anulada": false,
+    "ativa": true,
+    "respondida": false,
+    "status": "ATIVA",
+    "fonte": "Pv01.pdf - Prova Cadeia de Custódia e Atuação Policial / PMPR",
+    "opcoes": [
+      "Verdadeiro",
+      "Falso"
+    ],
+    "correta": "Falso"
+  },
+  {
+    "id": "defcivil-036",
+    "numero_original": 36,
+    "topico_numero": 1,
+    "topico": "Cadeia de Custódia e Atuação Policial",
+    "tipo": "verdadeiro_falso",
+    "artigo": "Material PMPR - Cadeia de Custódia",
+    "pergunta": "Na apreensão em abordagem, a arma deve ser descarregada; as munições são acondicionadas em embalagem distinta conforme o POP 100.31.",
+    "comentario": "Resposta correta: Verdadeiro.",
+    "palavras_chave": [
+      "cadeia de custódia",
+      "atuação policial"
+    ],
+    "nivel": "média",
+    "anulada": false,
+    "ativa": true,
+    "respondida": false,
+    "status": "ATIVA",
+    "fonte": "Pv01.pdf - Prova Cadeia de Custódia e Atuação Policial / PMPR",
+    "opcoes": [
+      "Verdadeiro",
+      "Falso"
+    ],
+    "correta": "Verdadeiro"
+  },
+  {
+    "id": "defcivil-037",
+    "numero_original": 37,
+    "topico_numero": 1,
+    "topico": "Cadeia de Custódia e Atuação Policial",
+    "tipo": "verdadeiro_falso",
+    "artigo": "Material PMPR - Cadeia de Custódia",
+    "pergunta": "No POP 100.32, em local de crime com acionamento da Polícia Civil e Científica, o celular pode ser manuseado livremente para identificar marca e modelo.",
+    "comentario": "Resposta correta: Falso.",
+    "palavras_chave": [
+      "cadeia de custódia",
+      "atuação policial"
+    ],
+    "nivel": "média",
+    "anulada": false,
+    "ativa": true,
+    "respondida": false,
+    "status": "ATIVA",
+    "fonte": "Pv01.pdf - Prova Cadeia de Custódia e Atuação Policial / PMPR",
+    "opcoes": [
+      "Verdadeiro",
+      "Falso"
+    ],
+    "correta": "Falso"
+  },
+  {
+    "id": "defcivil-038",
+    "numero_original": 38,
+    "topico_numero": 1,
+    "topico": "Cadeia de Custódia e Atuação Policial",
+    "tipo": "verdadeiro_falso",
+    "artigo": "Material PMPR - Cadeia de Custódia",
+    "pergunta": "Se não for possível retirar o SIM Card sem risco de dano, a equipe deve deixar de fazê-lo e registrar a condição no BOU.",
+    "comentario": "Resposta correta: Verdadeiro.",
+    "palavras_chave": [
+      "cadeia de custódia",
+      "atuação policial"
+    ],
+    "nivel": "média",
+    "anulada": false,
+    "ativa": true,
+    "respondida": false,
+    "status": "ATIVA",
+    "fonte": "Pv01.pdf - Prova Cadeia de Custódia e Atuação Policial / PMPR",
+    "opcoes": [
+      "Verdadeiro",
+      "Falso"
+    ],
+    "correta": "Verdadeiro"
+  },
+  {
+    "id": "defcivil-039",
+    "numero_original": 39,
+    "topico_numero": 1,
+    "topico": "Cadeia de Custódia e Atuação Policial",
+    "tipo": "verdadeiro_falso",
+    "artigo": "Material PMPR - Cadeia de Custódia",
+    "pergunta": "No POP 100.35, drogas de tipos diferentes devem ser separadas para pesagem, quantificação, apreensão e cadastro individualizado.",
+    "comentario": "Resposta correta: Verdadeiro.",
+    "palavras_chave": [
+      "cadeia de custódia",
+      "atuação policial"
+    ],
+    "nivel": "média",
+    "anulada": false,
+    "ativa": true,
+    "respondida": false,
+    "status": "ATIVA",
+    "fonte": "Pv01.pdf - Prova Cadeia de Custódia e Atuação Policial / PMPR",
+    "opcoes": [
+      "Verdadeiro",
+      "Falso"
+    ],
+    "correta": "Verdadeiro"
+  },
+  {
+    "id": "defcivil-040",
+    "numero_original": 40,
+    "topico_numero": 1,
+    "topico": "Cadeia de Custódia e Atuação Policial",
+    "tipo": "verdadeiro_falso",
+    "artigo": "Material PMPR - Cadeia de Custódia",
+    "pergunta": "Quando houver emprego de força policial, disparo de arma de fogo ou uso de IMPO, os policiais envolvidos devem ser encaminhados para atendimento psicológico conforme o PROAAR, nos termos do material.",
+    "comentario": "Resposta correta: Verdadeiro.",
+    "palavras_chave": [
+      "cadeia de custódia",
+      "atuação policial"
+    ],
+    "nivel": "média",
+    "anulada": false,
+    "ativa": true,
+    "respondida": false,
+    "status": "ATIVA",
+    "fonte": "Pv01.pdf - Prova Cadeia de Custódia e Atuação Policial / PMPR",
+    "opcoes": [
+      "Verdadeiro",
+      "Falso"
+    ],
+    "correta": "Verdadeiro"
+  },
+  {
+    "id": "defcivil-041",
+    "numero_original": 41,
+    "topico_numero": 2,
+    "topico": "Fases da Cadeia de Custódia",
+    "tipo": "relacionar",
+    "artigo": "CPP, art. 158-B",
+    "pergunta": "Relacione as 10 fases da cadeia de custódia com suas respectivas definições.",
+    "comentario": "Gabarito: Reconhecimento-B; Isolamento-F; Fixação-G; Coleta-D; Acondicionamento-H; Transporte-I; Recebimento-J; Processamento-A; Armazenamento-E; Descarte-C.",
+    "palavras_chave": [
+      "reconhecimento",
+      "isolamento",
+      "fixação",
+      "coleta",
+      "acondicionamento",
+      "transporte",
+      "recebimento",
+      "processamento",
+      "armazenamento",
+      "descarte"
+    ],
+    "nivel": "difícil",
+    "anulada": false,
+    "ativa": true,
+    "respondida": false,
+    "status": "ATIVA",
+    "fonte": "Pv01.pdf - Prova Cadeia de Custódia e Atuação Policial / PMPR",
+    "coluna_a": [
+      "Reconhecimento",
+      "Isolamento",
+      "Fixação",
+      "Coleta",
+      "Acondicionamento",
+      "Transporte",
+      "Recebimento",
+      "Processamento",
+      "Armazenamento",
+      "Descarte"
+    ],
+    "coluna_b": [
+      "Exame pericial propriamente dito, realizado com metodologia adequada.",
+      "Ato de distinguir um elemento como de potencial interesse para a produção da prova pericial.",
+      "Procedimento de liberação do vestígio, respeitando a legislação vigente.",
+      "Ato de recolher o vestígio que será submetido a análise pericial.",
+      "Guarda do material em condições adequadas, inclusive para eventual contraperícia.",
+      "Ato de evitar alteração do estado das coisas, preservando os ambientes imediato, mediato e relacionado.",
+      "Descrição detalhada do vestígio e de sua posição, podendo incluir fotografias, filmagens ou croqui.",
+      "Embalagem individualizada do vestígio de acordo com suas características, com os registros pertinentes.",
+      "Transferência do vestígio de um local para outro em condições adequadas.",
+      "Transferência formal da posse/custódia do vestígio, com os registros de rastreabilidade."
+    ],
+    "correta": "8, 1, 10, 4, 9, 2, 3, 5, 6, 7"
+  },
+  {
+    "id": "defcivil-042",
+    "numero_original": 42,
+    "topico_numero": 3,
+    "topico": "Conceitos fundamentais de Cadeia de Custódia",
+    "tipo": "resposta_curta",
+    "artigo": "CPP, arts. 158-A e seguintes",
+    "pergunta": "Conceitue cadeia de custódia.",
+    "comentario": "Resposta-modelo: Sucessão de eventos seguros e confiáveis que mantém e documenta a história cronológica do vestígio, permitindo rastrear sua posse e manuseio desde o reconhecimento até o descarte.",
+    "palavras_chave": [
+      "cadeia de custódia",
+      "história cronológica",
+      "rastreabilidade"
+    ],
+    "nivel": "média",
+    "anulada": false,
+    "ativa": true,
+    "respondida": false,
+    "status": "ATIVA",
+    "fonte": "Pv01.pdf - Prova Cadeia de Custódia e Atuação Policial / PMPR",
+    "resposta_modelo": "Sucessão de eventos seguros e confiáveis que mantém e documenta a história cronológica do vestígio, permitindo rastrear sua posse e manuseio desde o reconhecimento até o descarte.",
+    "respostas_aceitas": [
+      "Sucessão de eventos seguros e confiáveis que mantém e documenta a história cronológica do vestígio, permitindo rastrear sua posse e manuseio desde o reconhecimento até o descarte."
+    ]
+  },
+  {
+    "id": "defcivil-043",
+    "numero_original": 43,
+    "topico_numero": 3,
+    "topico": "Conceitos fundamentais de Cadeia de Custódia",
+    "tipo": "resposta_curta",
+    "artigo": "CPP, arts. 158-A e seguintes",
+    "pergunta": "Conceitue vestígio.",
+    "comentario": "Resposta-modelo: Todo objeto ou material bruto, visível ou latente, constatado ou recolhido, relacionado à infração penal e com potencial probatório.",
+    "palavras_chave": [
+      "vestígio",
+      "material bruto",
+      "potencial probatório"
+    ],
+    "nivel": "média",
+    "anulada": false,
+    "ativa": true,
+    "respondida": false,
+    "status": "ATIVA",
+    "fonte": "Pv01.pdf - Prova Cadeia de Custódia e Atuação Policial / PMPR",
+    "resposta_modelo": "Todo objeto ou material bruto, visível ou latente, constatado ou recolhido, relacionado à infração penal e com potencial probatório.",
+    "respostas_aceitas": [
+      "Todo objeto ou material bruto, visível ou latente, constatado ou recolhido, relacionado à infração penal e com potencial probatório."
+    ]
+  },
+  {
+    "id": "defcivil-044",
+    "numero_original": 44,
+    "topico_numero": 3,
+    "topico": "Conceitos fundamentais de Cadeia de Custódia",
+    "tipo": "resposta_curta",
+    "artigo": "CPP, arts. 158-A e seguintes",
+    "pergunta": "Conceitue evidência.",
+    "comentario": "Resposta-modelo: Vestígio cuja relação com o evento periciado foi confirmada após análise.",
+    "palavras_chave": [
+      "evidência",
+      "vestígio",
+      "análise pericial"
+    ],
+    "nivel": "média",
+    "anulada": false,
+    "ativa": true,
+    "respondida": false,
+    "status": "ATIVA",
+    "fonte": "Pv01.pdf - Prova Cadeia de Custódia e Atuação Policial / PMPR",
+    "resposta_modelo": "Vestígio cuja relação com o evento periciado foi confirmada após análise.",
+    "respostas_aceitas": [
+      "Vestígio cuja relação com o evento periciado foi confirmada após análise."
+    ]
+  },
+  {
+    "id": "defcivil-045",
+    "numero_original": 45,
+    "topico_numero": 3,
+    "topico": "Conceitos fundamentais de Cadeia de Custódia",
+    "tipo": "resposta_curta",
+    "artigo": "CPP, arts. 158-A e seguintes",
+    "pergunta": "Conceitue indício.",
+    "comentario": "Resposta-modelo: Circunstância conhecida e provada que, relacionada ao fato, permite, por indução, concluir a existência de outra circunstância.",
+    "palavras_chave": [
+      "indício",
+      "circunstância provada",
+      "indução"
+    ],
+    "nivel": "média",
+    "anulada": false,
+    "ativa": true,
+    "respondida": false,
+    "status": "ATIVA",
+    "fonte": "Pv01.pdf - Prova Cadeia de Custódia e Atuação Policial / PMPR",
+    "resposta_modelo": "Circunstância conhecida e provada que, relacionada ao fato, permite, por indução, concluir a existência de outra circunstância.",
+    "respostas_aceitas": [
+      "Circunstância conhecida e provada que, relacionada ao fato, permite, por indução, concluir a existência de outra circunstância."
+    ]
+  }
+]
