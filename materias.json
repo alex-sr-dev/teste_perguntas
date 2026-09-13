@@ -1,3 +1,4 @@
 [
-  { "id": "dptd", "materia": "DPTD" }
+  { "id": "dptd", "materia": "DPTD" },
+  { "id": "direito_civil", "materia": "DC" }
 ]
