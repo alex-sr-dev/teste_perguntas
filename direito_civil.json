@@ -1,0 +1,1162 @@
+[
+  {
+    "id": "civil-001",
+    "numero_original": 1,
+    "topico_numero": 1,
+    "topico": "Pessoa natural, capacidade, maioridade e morte",
+    "tipo": "verdadeiro_falso",
+    "artigo": "Código Civil - conforme material anexado",
+    "pergunta": "A personalidade civil da pessoa humana começa com o nascimento com vida, mas a lei põe a salvo, desde a concepção, os direitos do nascituro.",
+    "opcoes": [
+      "Verdadeiro",
+      "Falso"
+    ],
+    "correta": "Verdadeiro",
+    "gabarito_oficial": "V",
+    "comentario": "✅ RESPOSTA CORRETA: Verdadeiro.\n📌 EXPLICAÇÃO: Conforme a regra da capacidade e personalidade, a personalidade começa com o nascimento com vida, resguardando-se os direitos do nascituro desde a concepção.",
+    "porque_resposta_correta": "Conforme a regra da capacidade e personalidade, a personalidade começa com o nascimento com vida, resguardando-se os direitos do nascituro desde a concepção.",
+    "feedback_correta": "✅ Resposta correta! Conforme a regra da capacidade e personalidade, a personalidade começa com o nascimento com vida, resguardando-se os direitos do nascituro desde a concepção.",
+    "feedback_errada": "❌ Resposta incorreta. O gabarito é Verdadeiro. Conforme a regra da capacidade e personalidade, a personalidade começa com o nascimento com vida, resguardando-se os direitos do nascituro desde a concepção.",
+    "palavras_chave": [
+      "pessoa natural, capacidade, maioridade e morte",
+      "direito civil"
+    ],
+    "nivel": "média",
+    "anulada": false,
+    "ativa": true,
+    "respondida": false,
+    "status": "ATIVA",
+    "fonte": "Questões de Dto Civil com gabarito comentado.pdf"
+  },
+  {
+    "id": "civil-002",
+    "numero_original": 2,
+    "topico_numero": 2,
+    "topico": "Pessoa natural, capacidade, maioridade e morte",
+    "tipo": "verdadeiro_falso",
+    "artigo": "Código Civil - conforme material anexado",
+    "pergunta": "Os menores de 16 (dezesseis) anos são considerados relativamente incapazes, devendo exercer seus atos na ordem civil por meio de representação.",
+    "opcoes": [
+      "Verdadeiro",
+      "Falso"
+    ],
+    "correta": "Falso",
+    "gabarito_oficial": "F",
+    "comentario": "✅ RESPOSTA CORRETA: Falso.\n📌 EXPLICAÇÃO: O Art. 3º estabelece que os menores de 16 anos são absolutamente incapazes e praticam atos representados.",
+    "porque_resposta_correta": "O Art. 3º estabelece que os menores de 16 anos são absolutamente incapazes e praticam atos representados.",
+    "feedback_correta": "✅ Resposta correta! O Art. 3º estabelece que os menores de 16 anos são absolutamente incapazes e praticam atos representados.",
+    "feedback_errada": "❌ Resposta incorreta. O gabarito é Falso. O Art. 3º estabelece que os menores de 16 anos são absolutamente incapazes e praticam atos representados.",
+    "palavras_chave": [
+      "pessoa natural, capacidade, maioridade e morte",
+      "direito civil"
+    ],
+    "nivel": "média",
+    "anulada": false,
+    "ativa": true,
+    "respondida": false,
+    "status": "ATIVA",
+    "fonte": "Questões de Dto Civil com gabarito comentado.pdf"
+  },
+  {
+    "id": "civil-003",
+    "numero_original": 3,
+    "topico_numero": 3,
+    "topico": "Pessoa natural, capacidade, maioridade e morte",
+    "tipo": "verdadeiro_falso",
+    "artigo": "Código Civil - conforme material anexado",
+    "pergunta": "A maioridade civil no Brasil ocorre aos 18 (dezoito) anos completos.",
+    "opcoes": [
+      "Verdadeiro",
+      "Falso"
+    ],
+    "correta": "Verdadeiro",
+    "gabarito_oficial": "V",
+    "comentario": "✅ RESPOSTA CORRETA: Verdadeiro.\n📌 EXPLICAÇÃO: A menoridade cessa aos 18 anos completos, atingindo-se a maioridade civil.",
+    "porque_resposta_correta": "A menoridade cessa aos 18 anos completos, atingindo-se a maioridade civil.",
+    "feedback_correta": "✅ Resposta correta! A menoridade cessa aos 18 anos completos, atingindo-se a maioridade civil.",
+    "feedback_errada": "❌ Resposta incorreta. O gabarito é Verdadeiro. A menoridade cessa aos 18 anos completos, atingindo-se a maioridade civil.",
+    "palavras_chave": [
+      "pessoa natural, capacidade, maioridade e morte",
+      "direito civil"
+    ],
+    "nivel": "média",
+    "anulada": false,
+    "ativa": true,
+    "respondida": false,
+    "status": "ATIVA",
+    "fonte": "Questões de Dto Civil com gabarito comentado.pdf"
+  },
+  {
+    "id": "civil-004",
+    "numero_original": 4,
+    "topico_numero": 4,
+    "topico": "Pessoa natural, capacidade, maioridade e morte",
+    "tipo": "verdadeiro_falso",
+    "artigo": "Código Civil - conforme material anexado",
+    "pergunta": "A existência da pessoa natural termina com a morte.",
+    "opcoes": [
+      "Verdadeiro",
+      "Falso"
+    ],
+    "correta": "Verdadeiro",
+    "gabarito_oficial": "V",
+    "comentario": "✅ RESPOSTA CORRETA: Verdadeiro.\n📌 EXPLICAÇÃO: O fim da existência da pessoa natural dá-se expressamente com a morte.",
+    "porque_resposta_correta": "O fim da existência da pessoa natural dá-se expressamente com a morte.",
+    "feedback_correta": "✅ Resposta correta! O fim da existência da pessoa natural dá-se expressamente com a morte.",
+    "feedback_errada": "❌ Resposta incorreta. O gabarito é Verdadeiro. O fim da existência da pessoa natural dá-se expressamente com a morte.",
+    "palavras_chave": [
+      "pessoa natural, capacidade, maioridade e morte",
+      "direito civil"
+    ],
+    "nivel": "média",
+    "anulada": false,
+    "ativa": true,
+    "respondida": false,
+    "status": "ATIVA",
+    "fonte": "Questões de Dto Civil com gabarito comentado.pdf"
+  },
+  {
+    "id": "civil-005",
+    "numero_original": 5,
+    "topico_numero": 5,
+    "topico": "Direitos da personalidade",
+    "tipo": "verdadeiro_falso",
+    "artigo": "Código Civil - conforme material anexado",
+    "pergunta": "A vida privada da pessoa natural é considerada inviolável pelo Código Civil.",
+    "opcoes": [
+      "Verdadeiro",
+      "Falso"
+    ],
+    "correta": "Verdadeiro",
+    "gabarito_oficial": "V",
+    "comentario": "✅ RESPOSTA CORRETA: Verdadeiro.\n📌 EXPLICAÇÃO: A vida privada é expressamente declarada como inviolável pelo Art. 21 do Código Civil.",
+    "porque_resposta_correta": "A vida privada é expressamente declarada como inviolável pelo Art. 21 do Código Civil.",
+    "feedback_correta": "✅ Resposta correta! A vida privada é expressamente declarada como inviolável pelo Art. 21 do Código Civil.",
+    "feedback_errada": "❌ Resposta incorreta. O gabarito é Verdadeiro. A vida privada é expressamente declarada como inviolável pelo Art. 21 do Código Civil.",
+    "palavras_chave": [
+      "direitos da personalidade",
+      "direito civil"
+    ],
+    "nivel": "média",
+    "anulada": false,
+    "ativa": true,
+    "respondida": false,
+    "status": "ATIVA",
+    "fonte": "Questões de Dto Civil com gabarito comentado.pdf"
+  },
+  {
+    "id": "civil-006",
+    "numero_original": 6,
+    "topico_numero": 6,
+    "topico": "Pessoas jurídicas",
+    "tipo": "verdadeiro_falso",
+    "artigo": "Código Civil - conforme material anexado",
+    "pergunta": "A União, os Estados, o Distrito Federal e os Municípios são considerados pessoas jurídicas de direito público externo.",
+    "opcoes": [
+      "Verdadeiro",
+      "Falso"
+    ],
+    "correta": "Falso",
+    "gabarito_oficial": "F",
+    "comentario": "✅ RESPOSTA CORRETA: Falso.\n📌 EXPLICAÇÃO: União, Estados, DF, Municípios, Autarquias e associações públicas compõem o rol de pessoas jurídicas de direito público interno.",
+    "porque_resposta_correta": "União, Estados, DF, Municípios, Autarquias e associações públicas compõem o rol de pessoas jurídicas de direito público interno.",
+    "feedback_correta": "✅ Resposta correta! União, Estados, DF, Municípios, Autarquias e associações públicas compõem o rol de pessoas jurídicas de direito público interno.",
+    "feedback_errada": "❌ Resposta incorreta. O gabarito é Falso. União, Estados, DF, Municípios, Autarquias e associações públicas compõem o rol de pessoas jurídicas de direito público interno.",
+    "palavras_chave": [
+      "pessoas jurídicas",
+      "direito civil"
+    ],
+    "nivel": "média",
+    "anulada": false,
+    "ativa": true,
+    "respondida": false,
+    "status": "ATIVA",
+    "fonte": "Questões de Dto Civil com gabarito comentado.pdf"
+  },
+  {
+    "id": "civil-007",
+    "numero_original": 7,
+    "topico_numero": 7,
+    "topico": "Pessoas jurídicas",
+    "tipo": "verdadeiro_falso",
+    "artigo": "Código Civil - conforme material anexado",
+    "pergunta": "As pessoas jurídicas de direito privado iniciam sua existência legal com a simples assinatura do contrato, sem necessidade de inscrição em registro competente.",
+    "opcoes": [
+      "Verdadeiro",
+      "Falso"
+    ],
+    "correta": "Falso",
+    "gabarito_oficial": "F",
+    "comentario": "✅ RESPOSTA CORRETA: Falso.\n📌 EXPLICAÇÃO: A existência da pessoa jurídica de direito privado começa apenas com a inscrição do ato constitutivo no registro competente.",
+    "porque_resposta_correta": "A existência da pessoa jurídica de direito privado começa apenas com a inscrição do ato constitutivo no registro competente.",
+    "feedback_correta": "✅ Resposta correta! A existência da pessoa jurídica de direito privado começa apenas com a inscrição do ato constitutivo no registro competente.",
+    "feedback_errada": "❌ Resposta incorreta. O gabarito é Falso. A existência da pessoa jurídica de direito privado começa apenas com a inscrição do ato constitutivo no registro competente.",
+    "palavras_chave": [
+      "pessoas jurídicas",
+      "direito civil"
+    ],
+    "nivel": "média",
+    "anulada": false,
+    "ativa": true,
+    "respondida": false,
+    "status": "ATIVA",
+    "fonte": "Questões de Dto Civil com gabarito comentado.pdf"
+  },
+  {
+    "id": "civil-008",
+    "numero_original": 8,
+    "topico_numero": 8,
+    "topico": "Posse e proteção possessória",
+    "tipo": "verdadeiro_falso",
+    "artigo": "Código Civil - conforme material anexado",
+    "pergunta": "Considera-se possuidor todo aquele que tem de fato o exercício, pleno ou não, de algum dos poderes inerentes à propriedade, tais como usar, gozar, dispor ou reaver a coisa.",
+    "opcoes": [
+      "Verdadeiro",
+      "Falso"
+    ],
+    "correta": "Verdadeiro",
+    "gabarito_oficial": "V",
+    "comentario": "✅ RESPOSTA CORRETA: Verdadeiro.\n📌 EXPLICAÇÃO: Conceito direto do Art. 1196, definindo a posse como o exercício de fato de poderes inerentes à propriedade.",
+    "porque_resposta_correta": "Conceito direto do Art. 1196, definindo a posse como o exercício de fato de poderes inerentes à propriedade.",
+    "feedback_correta": "✅ Resposta correta! Conceito direto do Art. 1196, definindo a posse como o exercício de fato de poderes inerentes à propriedade.",
+    "feedback_errada": "❌ Resposta incorreta. O gabarito é Verdadeiro. Conceito direto do Art. 1196, definindo a posse como o exercício de fato de poderes inerentes à propriedade.",
+    "palavras_chave": [
+      "posse e proteção possessória",
+      "direito civil"
+    ],
+    "nivel": "média",
+    "anulada": false,
+    "ativa": true,
+    "respondida": false,
+    "status": "ATIVA",
+    "fonte": "Questões de Dto Civil com gabarito comentado.pdf"
+  },
+  {
+    "id": "civil-009",
+    "numero_original": 9,
+    "topico_numero": 9,
+    "topico": "Posse e proteção possessória",
+    "tipo": "verdadeiro_falso",
+    "artigo": "Código Civil - conforme material anexado",
+    "pergunta": "A posse justa é aquela que se caracteriza por ser violenta, clandestina ou precária.",
+    "opcoes": [
+      "Verdadeiro",
+      "Falso"
+    ],
+    "correta": "Falso",
+    "gabarito_oficial": "F",
+    "comentario": "✅ RESPOSTA CORRETA: Falso.\n📌 EXPLICAÇÃO: A posse injusta é a violenta, clandestina ou precária. A posse justa é a que não possui esses vícios.",
+    "porque_resposta_correta": "A posse injusta é a violenta, clandestina ou precária. A posse justa é a que não possui esses vícios.",
+    "feedback_correta": "✅ Resposta correta! A posse injusta é a violenta, clandestina ou precária. A posse justa é a que não possui esses vícios.",
+    "feedback_errada": "❌ Resposta incorreta. O gabarito é Falso. A posse injusta é a violenta, clandestina ou precária. A posse justa é a que não possui esses vícios.",
+    "palavras_chave": [
+      "posse e proteção possessória",
+      "direito civil"
+    ],
+    "nivel": "média",
+    "anulada": false,
+    "ativa": true,
+    "respondida": false,
+    "status": "ATIVA",
+    "fonte": "Questões de Dto Civil com gabarito comentado.pdf"
+  },
+  {
+    "id": "civil-010",
+    "numero_original": 10,
+    "topico_numero": 10,
+    "topico": "Posse e proteção possessória",
+    "tipo": "verdadeiro_falso",
+    "artigo": "Código Civil - conforme material anexado",
+    "pergunta": "É de má-fé a posse quando o possuidor ignora o vício ou o obstáculo que impede a aquisição da coisa.",
+    "opcoes": [
+      "Verdadeiro",
+      "Falso"
+    ],
+    "correta": "Falso",
+    "gabarito_oficial": "F",
+    "comentario": "✅ RESPOSTA CORRETA: Falso.\n📌 EXPLICAÇÃO: A boa-fé caracteriza-se pela ignorância do possuidor em relação aos vícios ou obstáculos que impedem a aquisição do bem.",
+    "porque_resposta_correta": "A boa-fé caracteriza-se pela ignorância do possuidor em relação aos vícios ou obstáculos que impedem a aquisição do bem.",
+    "feedback_correta": "✅ Resposta correta! A boa-fé caracteriza-se pela ignorância do possuidor em relação aos vícios ou obstáculos que impedem a aquisição do bem.",
+    "feedback_errada": "❌ Resposta incorreta. O gabarito é Falso. A boa-fé caracteriza-se pela ignorância do possuidor em relação aos vícios ou obstáculos que impedem a aquisição do bem.",
+    "palavras_chave": [
+      "posse e proteção possessória",
+      "direito civil"
+    ],
+    "nivel": "média",
+    "anulada": false,
+    "ativa": true,
+    "respondida": false,
+    "status": "ATIVA",
+    "fonte": "Questões de Dto Civil com gabarito comentado.pdf"
+  },
+  {
+    "id": "civil-011",
+    "numero_original": 11,
+    "topico_numero": 11,
+    "topico": "Posse e proteção possessória",
+    "tipo": "verdadeiro_falso",
+    "artigo": "Código Civil - conforme material anexado",
+    "pergunta": "O possuidor tem o direito de ser mantido na posse em caso de turbação e reintegrado no caso de esbulho.",
+    "opcoes": [
+      "Verdadeiro",
+      "Falso"
+    ],
+    "correta": "Verdadeiro",
+    "gabarito_oficial": "V",
+    "comentario": "✅ RESPOSTA CORRETA: Verdadeiro.\n📌 EXPLICAÇÃO: Trata-se da garantia da proteção possessória em caso de perturbação (turbação) ou perda (esbulho) da posse.",
+    "porque_resposta_correta": "Trata-se da garantia da proteção possessória em caso de perturbação (turbação) ou perda (esbulho) da posse.",
+    "feedback_correta": "✅ Resposta correta! Trata-se da garantia da proteção possessória em caso de perturbação (turbação) ou perda (esbulho) da posse.",
+    "feedback_errada": "❌ Resposta incorreta. O gabarito é Verdadeiro. Trata-se da garantia da proteção possessória em caso de perturbação (turbação) ou perda (esbulho) da posse.",
+    "palavras_chave": [
+      "posse e proteção possessória",
+      "direito civil"
+    ],
+    "nivel": "média",
+    "anulada": false,
+    "ativa": true,
+    "respondida": false,
+    "status": "ATIVA",
+    "fonte": "Questões de Dto Civil com gabarito comentado.pdf"
+  },
+  {
+    "id": "civil-012",
+    "numero_original": 12,
+    "topico_numero": 12,
+    "topico": "Posse e proteção possessória",
+    "tipo": "verdadeiro_falso",
+    "artigo": "Código Civil - conforme material anexado",
+    "pergunta": "Para defender sua posse, não é permitido ao possuidor o uso da autodefesa ou desforço imediato, desde que dentro dos limites do razoável.",
+    "opcoes": [
+      "Verdadeiro",
+      "Falso"
+    ],
+    "correta": "Falso",
+    "gabarito_oficial": "F",
+    "comentario": "✅ RESPOSTA CORRETA: Falso.\n📌 EXPLICAÇÃO: A autodefesa ou desforço imediato é permitida ao possuidor desde que praticada nos limites do razoável.",
+    "porque_resposta_correta": "A autodefesa ou desforço imediato é permitida ao possuidor desde que praticada nos limites do razoável.",
+    "feedback_correta": "✅ Resposta correta! A autodefesa ou desforço imediato é permitida ao possuidor desde que praticada nos limites do razoável.",
+    "feedback_errada": "❌ Resposta incorreta. O gabarito é Falso. A autodefesa ou desforço imediato é permitida ao possuidor desde que praticada nos limites do razoável.",
+    "palavras_chave": [
+      "posse e proteção possessória",
+      "direito civil"
+    ],
+    "nivel": "média",
+    "anulada": false,
+    "ativa": true,
+    "respondida": false,
+    "status": "ATIVA",
+    "fonte": "Questões de Dto Civil com gabarito comentado.pdf"
+  },
+  {
+    "id": "civil-013",
+    "numero_original": 13,
+    "topico_numero": 13,
+    "topico": "Propriedade, aquisição e perda",
+    "tipo": "verdadeiro_falso",
+    "artigo": "Código Civil - conforme material anexado",
+    "pergunta": "A propriedade do solo abrange as jazidas, os minérios e os recursos hídricos lá existentes, pertencendo todos diretamente ao proprietário do terreno.",
+    "opcoes": [
+      "Verdadeiro",
+      "Falso"
+    ],
+    "correta": "Falso",
+    "gabarito_oficial": "F",
+    "comentario": "✅ RESPOSTA CORRETA: Falso.\n📌 EXPLICAÇÃO: As jazidas, minérios e recursos hídricos pertencem à União e não integram a propriedade privada do solo.",
+    "porque_resposta_correta": "As jazidas, minérios e recursos hídricos pertencem à União e não integram a propriedade privada do solo.",
+    "feedback_correta": "✅ Resposta correta! As jazidas, minérios e recursos hídricos pertencem à União e não integram a propriedade privada do solo.",
+    "feedback_errada": "❌ Resposta incorreta. O gabarito é Falso. As jazidas, minérios e recursos hídricos pertencem à União e não integram a propriedade privada do solo.",
+    "palavras_chave": [
+      "propriedade, aquisição e perda",
+      "direito civil"
+    ],
+    "nivel": "média",
+    "anulada": false,
+    "ativa": true,
+    "respondida": false,
+    "status": "ATIVA",
+    "fonte": "Questões de Dto Civil com gabarito comentado.pdf"
+  },
+  {
+    "id": "civil-014",
+    "numero_original": 14,
+    "topico_numero": 14,
+    "topico": "Propriedade, aquisição e perda",
+    "tipo": "verdadeiro_falso",
+    "artigo": "Código Civil - conforme material anexado",
+    "pergunta": "A transferência da propriedade de bens imóveis entre vivos ocorre mediante o registro do título no Registro de Imóveis.",
+    "opcoes": [
+      "Verdadeiro",
+      "Falso"
+    ],
+    "correta": "Verdadeiro",
+    "gabarito_oficial": "V",
+    "comentario": "✅ RESPOSTA CORRETA: Verdadeiro.\n📌 EXPLICAÇÃO: Para bens imóveis, a transferência do domínio entre vivos só se aperfeiçoa com o registro do título no Cartório de Registro de Imóveis.",
+    "porque_resposta_correta": "Para bens imóveis, a transferência do domínio entre vivos só se aperfeiçoa com o registro do título no Cartório de Registro de Imóveis.",
+    "feedback_correta": "✅ Resposta correta! Para bens imóveis, a transferência do domínio entre vivos só se aperfeiçoa com o registro do título no Cartório de Registro de Imóveis.",
+    "feedback_errada": "❌ Resposta incorreta. O gabarito é Verdadeiro. Para bens imóveis, a transferência do domínio entre vivos só se aperfeiçoa com o registro do título no Cartório de Registro de Imóveis.",
+    "palavras_chave": [
+      "propriedade, aquisição e perda",
+      "direito civil"
+    ],
+    "nivel": "média",
+    "anulada": false,
+    "ativa": true,
+    "respondida": false,
+    "status": "ATIVA",
+    "fonte": "Questões de Dto Civil com gabarito comentado.pdf"
+  },
+  {
+    "id": "civil-015",
+    "numero_original": 15,
+    "topico_numero": 15,
+    "topico": "Propriedade, aquisição e perda",
+    "tipo": "verdadeiro_falso",
+    "artigo": "Código Civil - conforme material anexado",
+    "pergunta": "A tradição (entrega da coisa ao adquirente) é o meio pelo qual se transfere a propriedade dos bens móveis.",
+    "opcoes": [
+      "Verdadeiro",
+      "Falso"
+    ],
+    "correta": "Verdadeiro",
+    "gabarito_oficial": "V",
+    "comentario": "✅ RESPOSTA CORRETA: Verdadeiro.\n📌 EXPLICAÇÃO: A propriedade das coisas móveis se transfere pela tradição (entrega efetiva).",
+    "porque_resposta_correta": "A propriedade das coisas móveis se transfere pela tradição (entrega efetiva).",
+    "feedback_correta": "✅ Resposta correta! A propriedade das coisas móveis se transfere pela tradição (entrega efetiva).",
+    "feedback_errada": "❌ Resposta incorreta. O gabarito é Verdadeiro. A propriedade das coisas móveis se transfere pela tradição (entrega efetiva).",
+    "palavras_chave": [
+      "propriedade, aquisição e perda",
+      "direito civil"
+    ],
+    "nivel": "média",
+    "anulada": false,
+    "ativa": true,
+    "respondida": false,
+    "status": "ATIVA",
+    "fonte": "Questões de Dto Civil com gabarito comentado.pdf"
+  },
+  {
+    "id": "civil-016",
+    "numero_original": 16,
+    "topico_numero": 16,
+    "topico": "Pessoa natural, capacidade, maioridade e morte",
+    "tipo": "verdadeiro_falso",
+    "artigo": "Código Civil - conforme material anexado",
+    "pergunta": "A menoridade cessa antes dos 18 anos completos caso o menor se case.",
+    "opcoes": [
+      "Verdadeiro",
+      "Falso"
+    ],
+    "correta": "Verdadeiro",
+    "gabarito_oficial": "V",
+    "comentario": "✅ RESPOSTA CORRETA: Verdadeiro.\n📌 EXPLICAÇÃO: O casamento é uma das causas de cessação da incapacidade/emancipação legal antes dos 18 anos.",
+    "porque_resposta_correta": "O casamento é uma das causas de cessação da incapacidade/emancipação legal antes dos 18 anos.",
+    "feedback_correta": "✅ Resposta correta! O casamento é uma das causas de cessação da incapacidade/emancipação legal antes dos 18 anos.",
+    "feedback_errada": "❌ Resposta incorreta. O gabarito é Verdadeiro. O casamento é uma das causas de cessação da incapacidade/emancipação legal antes dos 18 anos.",
+    "palavras_chave": [
+      "pessoa natural, capacidade, maioridade e morte",
+      "direito civil"
+    ],
+    "nivel": "média",
+    "anulada": false,
+    "ativa": true,
+    "respondida": false,
+    "status": "ATIVA",
+    "fonte": "Questões de Dto Civil com gabarito comentado.pdf"
+  },
+  {
+    "id": "civil-017",
+    "numero_original": 17,
+    "topico_numero": 17,
+    "topico": "Direitos da personalidade",
+    "tipo": "verdadeiro_falso",
+    "artigo": "Código Civil - conforme material anexado",
+    "pergunta": "Para o exercício de atividades lícitas, a pessoa tem direito ao uso do nome, porém o mesmo não pode-se dizer de seu pseudônimo.",
+    "opcoes": [
+      "Verdadeiro",
+      "Falso"
+    ],
+    "correta": "Falso",
+    "gabarito_oficial": "F",
+    "comentario": "✅ RESPOSTA CORRETA: Falso.\n📌 EXPLICAÇÃO: O pseudônimo adotado para atividades lícitas goza da mesma proteção dada ao nome.",
+    "porque_resposta_correta": "O pseudônimo adotado para atividades lícitas goza da mesma proteção dada ao nome.",
+    "feedback_correta": "✅ Resposta correta! O pseudônimo adotado para atividades lícitas goza da mesma proteção dada ao nome.",
+    "feedback_errada": "❌ Resposta incorreta. O gabarito é Falso. O pseudônimo adotado para atividades lícitas goza da mesma proteção dada ao nome.",
+    "palavras_chave": [
+      "direitos da personalidade",
+      "direito civil"
+    ],
+    "nivel": "média",
+    "anulada": false,
+    "ativa": true,
+    "respondida": false,
+    "status": "ATIVA",
+    "fonte": "Questões de Dto Civil com gabarito comentado.pdf"
+  },
+  {
+    "id": "civil-018",
+    "numero_original": 18,
+    "topico_numero": 18,
+    "topico": "Pessoa natural, capacidade, maioridade e morte",
+    "tipo": "verdadeiro_falso",
+    "artigo": "Código Civil - conforme material anexado",
+    "pergunta": "Ninguém pode ser constrangido a submeter-se, com risco de vida, a tratamento médico ou a intervenção cirúrgica.",
+    "opcoes": [
+      "Verdadeiro",
+      "Falso"
+    ],
+    "correta": "Verdadeiro",
+    "gabarito_oficial": "V",
+    "comentario": "✅ RESPOSTA CORRETA: Verdadeiro.\n📌 EXPLICAÇÃO: É vedado o constrangimento a tratamento médico ou cirúrgico que importe em risco de vida.",
+    "porque_resposta_correta": "É vedado o constrangimento a tratamento médico ou cirúrgico que importe em risco de vida.",
+    "feedback_correta": "✅ Resposta correta! É vedado o constrangimento a tratamento médico ou cirúrgico que importe em risco de vida.",
+    "feedback_errada": "❌ Resposta incorreta. O gabarito é Verdadeiro. É vedado o constrangimento a tratamento médico ou cirúrgico que importe em risco de vida.",
+    "palavras_chave": [
+      "pessoa natural, capacidade, maioridade e morte",
+      "direito civil"
+    ],
+    "nivel": "média",
+    "anulada": false,
+    "ativa": true,
+    "respondida": false,
+    "status": "ATIVA",
+    "fonte": "Questões de Dto Civil com gabarito comentado.pdf"
+  },
+  {
+    "id": "civil-019",
+    "numero_original": 19,
+    "topico_numero": 19,
+    "topico": "Usucapião",
+    "tipo": "verdadeiro_falso",
+    "artigo": "Código Civil - conforme material anexado",
+    "pergunta": "A usucapião extraordinária de bem imóvel exige posse por 15 anos ininterruptos, sem oposição, exigindo-se sempre a comprovação de justo título e boa-fé.",
+    "opcoes": [
+      "Verdadeiro",
+      "Falso"
+    ],
+    "correta": "Falso",
+    "gabarito_oficial": "F",
+    "comentario": "✅ RESPOSTA CORRETA: Falso.\n📌 EXPLICAÇÃO: A usucapião extraordinária (15 anos) ocorre independentemente de título e boa-fé.",
+    "porque_resposta_correta": "A usucapião extraordinária (15 anos) ocorre independentemente de título e boa-fé.",
+    "feedback_correta": "✅ Resposta correta! A usucapião extraordinária (15 anos) ocorre independentemente de título e boa-fé.",
+    "feedback_errada": "❌ Resposta incorreta. O gabarito é Falso. A usucapião extraordinária (15 anos) ocorre independentemente de título e boa-fé.",
+    "palavras_chave": [
+      "usucapião",
+      "direito civil"
+    ],
+    "nivel": "média",
+    "anulada": false,
+    "ativa": true,
+    "respondida": false,
+    "status": "ATIVA",
+    "fonte": "Questões de Dto Civil com gabarito comentado.pdf"
+  },
+  {
+    "id": "civil-020",
+    "numero_original": 20,
+    "topico_numero": 20,
+    "topico": "Pessoas jurídicas",
+    "tipo": "verdadeiro_falso",
+    "artigo": "Código Civil - conforme material anexado",
+    "pergunta": "A pessoa jurídica não se confunde com os seus sócios ou administradores, possuindo autonomia patrimonial.",
+    "opcoes": [
+      "Verdadeiro",
+      "Falso"
+    ],
+    "correta": "Verdadeiro",
+    "gabarito_oficial": "V",
+    "comentario": "✅ RESPOSTA CORRETA: Verdadeiro.\n📌 EXPLICAÇÃO: A pessoa jurídica goza de autonomia patrimonial e não se confunde com a figura de seus sócios ou administradores.",
+    "porque_resposta_correta": "A pessoa jurídica goza de autonomia patrimonial e não se confunde com a figura de seus sócios ou administradores.",
+    "feedback_correta": "✅ Resposta correta! A pessoa jurídica goza de autonomia patrimonial e não se confunde com a figura de seus sócios ou administradores.",
+    "feedback_errada": "❌ Resposta incorreta. O gabarito é Verdadeiro. A pessoa jurídica goza de autonomia patrimonial e não se confunde com a figura de seus sócios ou administradores.",
+    "palavras_chave": [
+      "pessoas jurídicas",
+      "direito civil"
+    ],
+    "nivel": "média",
+    "anulada": false,
+    "ativa": true,
+    "respondida": false,
+    "status": "ATIVA",
+    "fonte": "Questões de Dto Civil com gabarito comentado.pdf"
+  },
+  {
+    "id": "civil-021",
+    "numero_original": 21,
+    "topico_numero": 21,
+    "topico": "Direitos da personalidade",
+    "tipo": "verdadeiro_falso",
+    "artigo": "Código Civil - conforme material anexado",
+    "pergunta": "A doação ou disposição gratuita do próprio corpo para fins científicos ou altruísticos após a morte é proibida pelo ordenamento civil.",
+    "opcoes": [
+      "Verdadeiro",
+      "Falso"
+    ],
+    "correta": "Falso",
+    "gabarito_oficial": "F",
+    "comentario": "✅ RESPOSTA CORRETA: Falso.\n📌 EXPLICAÇÃO: A disposição gratuita do próprio corpo pós-morte para fins científicos ou altruísticos é totalmente válida e revogável a qualquer tempo.",
+    "porque_resposta_correta": "A disposição gratuita do próprio corpo pós-morte para fins científicos ou altruísticos é totalmente válida e revogável a qualquer tempo.",
+    "feedback_correta": "✅ Resposta correta! A disposição gratuita do próprio corpo pós-morte para fins científicos ou altruísticos é totalmente válida e revogável a qualquer tempo.",
+    "feedback_errada": "❌ Resposta incorreta. O gabarito é Falso. A disposição gratuita do próprio corpo pós-morte para fins científicos ou altruísticos é totalmente válida e revogável a qualquer tempo.",
+    "palavras_chave": [
+      "direitos da personalidade",
+      "direito civil"
+    ],
+    "nivel": "média",
+    "anulada": false,
+    "ativa": true,
+    "respondida": false,
+    "status": "ATIVA",
+    "fonte": "Questões de Dto Civil com gabarito comentado.pdf"
+  },
+  {
+    "id": "civil-022",
+    "numero_original": 22,
+    "topico_numero": 22,
+    "topico": "Propriedade, aquisição e perda",
+    "tipo": "verdadeiro_falso",
+    "artigo": "Código Civil - conforme material anexado",
+    "pergunta": "A perda da propriedade pode ocorrer por alienação, renúncia, abandono, perecimento da coisa e desapropriação.",
+    "opcoes": [
+      "Verdadeiro",
+      "Falso"
+    ],
+    "correta": "Verdadeiro",
+    "gabarito_oficial": "V",
+    "comentario": "✅ RESPOSTA CORRETA: Verdadeiro.\n📌 EXPLICAÇÃO: São hipóteses legais explícitas de perda da propriedade móvel e imóvel.",
+    "porque_resposta_correta": "São hipóteses legais explícitas de perda da propriedade móvel e imóvel.",
+    "feedback_correta": "✅ Resposta correta! São hipóteses legais explícitas de perda da propriedade móvel e imóvel.",
+    "feedback_errada": "❌ Resposta incorreta. O gabarito é Verdadeiro. São hipóteses legais explícitas de perda da propriedade móvel e imóvel.",
+    "palavras_chave": [
+      "propriedade, aquisição e perda",
+      "direito civil"
+    ],
+    "nivel": "média",
+    "anulada": false,
+    "ativa": true,
+    "respondida": false,
+    "status": "ATIVA",
+    "fonte": "Questões de Dto Civil com gabarito comentado.pdf"
+  },
+  {
+    "id": "civil-023",
+    "numero_original": 23,
+    "topico_numero": 23,
+    "topico": "Propriedade, aquisição e perda",
+    "tipo": "verdadeiro_falso",
+    "artigo": "Código Civil - conforme material anexado",
+    "pergunta": "O imóvel urbano abandonado que não tiver seus ônus fiscais pagos poderá passar ao domínio do Município após o prazo de 3 (três) anos.",
+    "opcoes": [
+      "Verdadeiro",
+      "Falso"
+    ],
+    "correta": "Verdadeiro",
+    "gabarito_oficial": "V",
+    "comentario": "✅ RESPOSTA CORRETA: Verdadeiro.\n📌 EXPLICAÇÃO: O imóvel abandonado arrecadado como bem vago passa ao domínio do Município/DF ou da União após decorridos 3 anos.",
+    "porque_resposta_correta": "O imóvel abandonado arrecadado como bem vago passa ao domínio do Município/DF ou da União após decorridos 3 anos.",
+    "feedback_correta": "✅ Resposta correta! O imóvel abandonado arrecadado como bem vago passa ao domínio do Município/DF ou da União após decorridos 3 anos.",
+    "feedback_errada": "❌ Resposta incorreta. O gabarito é Verdadeiro. O imóvel abandonado arrecadado como bem vago passa ao domínio do Município/DF ou da União após decorridos 3 anos.",
+    "palavras_chave": [
+      "propriedade, aquisição e perda",
+      "direito civil"
+    ],
+    "nivel": "média",
+    "anulada": false,
+    "ativa": true,
+    "respondida": false,
+    "status": "ATIVA",
+    "fonte": "Questões de Dto Civil com gabarito comentado.pdf"
+  },
+  {
+    "id": "civil-024",
+    "numero_original": 24,
+    "topico_numero": 24,
+    "topico": "Posse e proteção possessória",
+    "tipo": "verdadeiro_falso",
+    "artigo": "Código Civil - conforme material anexado",
+    "pergunta": "Aquele que atua como fâmulo da posse (detentor) conserva a coisa em nome de outrem, cumprindo ordens e instruções em razão de relação de dependência.",
+    "opcoes": [
+      "Verdadeiro",
+      "Falso"
+    ],
+    "correta": "Verdadeiro",
+    "gabarito_oficial": "V",
+    "comentario": "✅ RESPOSTA CORRETA: Verdadeiro.\n📌 EXPLICAÇÃO: O fâmulo da posse é mero detentor por estar em relação de dependência cumprindo ordens.",
+    "porque_resposta_correta": "O fâmulo da posse é mero detentor por estar em relação de dependência cumprindo ordens.",
+    "feedback_correta": "✅ Resposta correta! O fâmulo da posse é mero detentor por estar em relação de dependência cumprindo ordens.",
+    "feedback_errada": "❌ Resposta incorreta. O gabarito é Verdadeiro. O fâmulo da posse é mero detentor por estar em relação de dependência cumprindo ordens.",
+    "palavras_chave": [
+      "posse e proteção possessória",
+      "direito civil"
+    ],
+    "nivel": "média",
+    "anulada": false,
+    "ativa": true,
+    "respondida": false,
+    "status": "ATIVA",
+    "fonte": "Questões de Dto Civil com gabarito comentado.pdf"
+  },
+  {
+    "id": "civil-025",
+    "numero_original": 25,
+    "topico_numero": 25,
+    "topico": "Pessoa natural, capacidade, maioridade e morte",
+    "tipo": "verdadeiro_falso",
+    "artigo": "Código Civil - conforme material anexado",
+    "pergunta": "Os ébrios habituais e os viciados em tóxicos são classificados juridicamente como absolutamente incapazes.",
+    "opcoes": [
+      "Verdadeiro",
+      "Falso"
+    ],
+    "correta": "Falso",
+    "gabarito_oficial": "F",
+    "comentario": "✅ RESPOSTA CORRETA: Falso.\n📌 EXPLICAÇÃO: Ébrios habituais e viciados em tóxicos são enquadrados como relativamente incapazes (Art. 4º), não absolutamente.",
+    "porque_resposta_correta": "Ébrios habituais e viciados em tóxicos são enquadrados como relativamente incapazes (Art. 4º), não absolutamente.",
+    "feedback_correta": "✅ Resposta correta! Ébrios habituais e viciados em tóxicos são enquadrados como relativamente incapazes (Art. 4º), não absolutamente.",
+    "feedback_errada": "❌ Resposta incorreta. O gabarito é Falso. Ébrios habituais e viciados em tóxicos são enquadrados como relativamente incapazes (Art. 4º), não absolutamente.",
+    "palavras_chave": [
+      "pessoa natural, capacidade, maioridade e morte",
+      "direito civil"
+    ],
+    "nivel": "média",
+    "anulada": false,
+    "ativa": true,
+    "respondida": false,
+    "status": "ATIVA",
+    "fonte": "Questões de Dto Civil com gabarito comentado.pdf"
+  },
+  {
+    "id": "civil-026",
+    "numero_original": 26,
+    "topico_numero": 26,
+    "topico": "Pessoa natural, capacidade, maioridade e morte",
+    "tipo": "verdadeiro_falso",
+    "artigo": "Código Civil - conforme material anexado",
+    "pergunta": "A emancipação de um menor de 16 anos completos pode ser concedida pelos pais ou por sentença judicial.",
+    "opcoes": [
+      "Verdadeiro",
+      "Falso"
+    ],
+    "correta": "Verdadeiro",
+    "gabarito_oficial": "V",
+    "comentario": "✅ RESPOSTA CORRETA: Verdadeiro.\n📌 EXPLICAÇÃO: A concessão pelos pais ou a sentença judicial exige que o menor tenha 16 anos completos.",
+    "porque_resposta_correta": "A concessão pelos pais ou a sentença judicial exige que o menor tenha 16 anos completos.",
+    "feedback_correta": "✅ Resposta correta! A concessão pelos pais ou a sentença judicial exige que o menor tenha 16 anos completos.",
+    "feedback_errada": "❌ Resposta incorreta. O gabarito é Verdadeiro. A concessão pelos pais ou a sentença judicial exige que o menor tenha 16 anos completos.",
+    "palavras_chave": [
+      "pessoa natural, capacidade, maioridade e morte",
+      "direito civil"
+    ],
+    "nivel": "média",
+    "anulada": false,
+    "ativa": true,
+    "respondida": false,
+    "status": "ATIVA",
+    "fonte": "Questões de Dto Civil com gabarito comentado.pdf"
+  },
+  {
+    "id": "civil-027",
+    "numero_original": 27,
+    "topico_numero": 27,
+    "topico": "Pessoa natural, capacidade, maioridade e morte",
+    "tipo": "verdadeiro_falso",
+    "artigo": "Código Civil - conforme material anexado",
+    "pergunta": "A morte presumida sem decretação de ausência pode ser declarada se a pessoa estava em perigo de vida ou se desapareceu em campanha ou foi feita prisioneira e não regressou até 2 anos após o término da guerra.",
+    "opcoes": [
+      "Verdadeiro",
+      "Falso"
+    ],
+    "correta": "Verdadeiro",
+    "gabarito_oficial": "V",
+    "comentario": "✅ RESPOSTA CORRETA: Verdadeiro.\n📌 EXPLICAÇÃO: Hipótese de morte presumida sem decretação de ausência prevista no resumo para casos de extremo perigo de vida ou guerra/prisão.",
+    "porque_resposta_correta": "Hipótese de morte presumida sem decretação de ausência prevista no resumo para casos de extremo perigo de vida ou guerra/prisão.",
+    "feedback_correta": "✅ Resposta correta! Hipótese de morte presumida sem decretação de ausência prevista no resumo para casos de extremo perigo de vida ou guerra/prisão.",
+    "feedback_errada": "❌ Resposta incorreta. O gabarito é Verdadeiro. Hipótese de morte presumida sem decretação de ausência prevista no resumo para casos de extremo perigo de vida ou guerra/prisão.",
+    "palavras_chave": [
+      "pessoa natural, capacidade, maioridade e morte",
+      "direito civil"
+    ],
+    "nivel": "média",
+    "anulada": false,
+    "ativa": true,
+    "respondida": false,
+    "status": "ATIVA",
+    "fonte": "Questões de Dto Civil com gabarito comentado.pdf"
+  },
+  {
+    "id": "civil-028",
+    "numero_original": 28,
+    "topico_numero": 28,
+    "topico": "Direitos da personalidade",
+    "tipo": "verdadeiro_falso",
+    "artigo": "Código Civil - conforme material anexado",
+    "pergunta": "A proteção dos direitos da personalidade de uma pessoa falecida não pode ser reclamada por parentes, extinguindo-se totalmente com o óbito.",
+    "opcoes": [
+      "Verdadeiro",
+      "Falso"
+    ],
+    "correta": "Falso",
+    "gabarito_oficial": "F",
+    "comentario": "✅ RESPOSTA CORRETA: Falso.\n📌 EXPLICAÇÃO: O cônjuge/companheiro e parentes até o 4º grau têm legitimidade para reclamar e exigir que cesse lesão aos direitos do falecido.",
+    "porque_resposta_correta": "O cônjuge/companheiro e parentes até o 4º grau têm legitimidade para reclamar e exigir que cesse lesão aos direitos do falecido.",
+    "feedback_correta": "✅ Resposta correta! O cônjuge/companheiro e parentes até o 4º grau têm legitimidade para reclamar e exigir que cesse lesão aos direitos do falecido.",
+    "feedback_errada": "❌ Resposta incorreta. O gabarito é Falso. O cônjuge/companheiro e parentes até o 4º grau têm legitimidade para reclamar e exigir que cesse lesão aos direitos do falecido.",
+    "palavras_chave": [
+      "direitos da personalidade",
+      "direito civil"
+    ],
+    "nivel": "média",
+    "anulada": false,
+    "ativa": true,
+    "respondida": false,
+    "status": "ATIVA",
+    "fonte": "Questões de Dto Civil com gabarito comentado.pdf"
+  },
+  {
+    "id": "civil-029",
+    "numero_original": 29,
+    "topico_numero": 29,
+    "topico": "Pessoas jurídicas",
+    "tipo": "verdadeiro_falso",
+    "artigo": "Código Civil - conforme material anexado",
+    "pergunta": "As pessoas jurídicas de direito público interno respondem objetivamente pelos danos que seus agentes causarem, garantido o direito de regresso contra o causador caso haja dolo ou culpa.",
+    "opcoes": [
+      "Verdadeiro",
+      "Falso"
+    ],
+    "correta": "Verdadeiro",
+    "gabarito_oficial": "V",
+    "comentario": "✅ RESPOSTA CORRETA: Verdadeiro.\n📌 EXPLICAÇÃO: A responsabilidade civil das pessoas jurídicas de direito público é objetiva, com direito de regresso condicionado ao dolo ou culpa do agente.",
+    "porque_resposta_correta": "A responsabilidade civil das pessoas jurídicas de direito público é objetiva, com direito de regresso condicionado ao dolo ou culpa do agente.",
+    "feedback_correta": "✅ Resposta correta! A responsabilidade civil das pessoas jurídicas de direito público é objetiva, com direito de regresso condicionado ao dolo ou culpa do agente.",
+    "feedback_errada": "❌ Resposta incorreta. O gabarito é Verdadeiro. A responsabilidade civil das pessoas jurídicas de direito público é objetiva, com direito de regresso condicionado ao dolo ou culpa do agente.",
+    "palavras_chave": [
+      "pessoas jurídicas",
+      "direito civil"
+    ],
+    "nivel": "média",
+    "anulada": false,
+    "ativa": true,
+    "respondida": false,
+    "status": "ATIVA",
+    "fonte": "Questões de Dto Civil com gabarito comentado.pdf"
+  },
+  {
+    "id": "civil-030",
+    "numero_original": 30,
+    "topico_numero": 30,
+    "topico": "Direitos da personalidade",
+    "tipo": "verdadeiro_falso",
+    "artigo": "Código Civil - conforme material anexado",
+    "pergunta": "A proteção aos direitos da personalidade aplica-se às pessoas jurídicas no que couber, a exemplo da proteção à sua honra objetiva.",
+    "opcoes": [
+      "Verdadeiro",
+      "Falso"
+    ],
+    "correta": "Verdadeiro",
+    "gabarito_oficial": "V",
+    "comentario": "✅ RESPOSTA CORRETA: Verdadeiro.\n📌 EXPLICAÇÃO: Aplica-se à pessoa jurídica a proteção dos direitos da personalidade no que for compatível (como a honra objetiva/reputação).",
+    "porque_resposta_correta": "Aplica-se à pessoa jurídica a proteção dos direitos da personalidade no que for compatível (como a honra objetiva/reputação).",
+    "feedback_correta": "✅ Resposta correta! Aplica-se à pessoa jurídica a proteção dos direitos da personalidade no que for compatível (como a honra objetiva/reputação).",
+    "feedback_errada": "❌ Resposta incorreta. O gabarito é Verdadeiro. Aplica-se à pessoa jurídica a proteção dos direitos da personalidade no que for compatível (como a honra objetiva/reputação).",
+    "palavras_chave": [
+      "direitos da personalidade",
+      "direito civil"
+    ],
+    "nivel": "média",
+    "anulada": false,
+    "ativa": true,
+    "respondida": false,
+    "status": "ATIVA",
+    "fonte": "Questões de Dto Civil com gabarito comentado.pdf"
+  },
+  {
+    "id": "civil-031",
+    "numero_original": 31,
+    "topico_numero": 31,
+    "topico": "Posse e proteção possessória",
+    "tipo": "verdadeiro_falso",
+    "artigo": "Código Civil - conforme material anexado",
+    "pergunta": "O possuidor de má-fé tem direito de retenção pelas benfeitorias úteis que tiver realizado no imóvel.",
+    "opcoes": [
+      "Verdadeiro",
+      "Falso"
+    ],
+    "correta": "Falso",
+    "gabarito_oficial": "F",
+    "comentario": "✅ RESPOSTA CORRETA: Falso.\n📌 EXPLICAÇÃO: O possuidor de má-fé não tem direito de retenção nem ressarcimento por benfeitorias úteis ou voluptuárias, ressarcindo-se apenas as necessárias.",
+    "porque_resposta_correta": "O possuidor de má-fé não tem direito de retenção nem ressarcimento por benfeitorias úteis ou voluptuárias, ressarcindo-se apenas as necessárias.",
+    "feedback_correta": "✅ Resposta correta! O possuidor de má-fé não tem direito de retenção nem ressarcimento por benfeitorias úteis ou voluptuárias, ressarcindo-se apenas as necessárias.",
+    "feedback_errada": "❌ Resposta incorreta. O gabarito é Falso. O possuidor de má-fé não tem direito de retenção nem ressarcimento por benfeitorias úteis ou voluptuárias, ressarcindo-se apenas as necessárias.",
+    "palavras_chave": [
+      "posse e proteção possessória",
+      "direito civil"
+    ],
+    "nivel": "média",
+    "anulada": false,
+    "ativa": true,
+    "respondida": false,
+    "status": "ATIVA",
+    "fonte": "Questões de Dto Civil com gabarito comentado.pdf"
+  },
+  {
+    "id": "civil-032",
+    "numero_original": 32,
+    "topico_numero": 32,
+    "topico": "Posse e proteção possessória",
+    "tipo": "verdadeiro_falso",
+    "artigo": "Código Civil - conforme material anexado",
+    "pergunta": "O possuidor de boa-fé tem direito de indenização pelas benfeitorias necessárias e úteis, podendo reter o bem até o valor destas, e levantar as voluptuárias.",
+    "opcoes": [
+      "Verdadeiro",
+      "Falso"
+    ],
+    "correta": "Verdadeiro",
+    "gabarito_oficial": "V",
+    "comentario": "✅ RESPOSTA CORRETA: Verdadeiro.\n📌 EXPLICAÇÃO: O possuidor de boa-fé tem retenção pelas benfeitorias necessárias e úteis, além do direito de levantar as voluptuárias.",
+    "porque_resposta_correta": "O possuidor de boa-fé tem retenção pelas benfeitorias necessárias e úteis, além do direito de levantar as voluptuárias.",
+    "feedback_correta": "✅ Resposta correta! O possuidor de boa-fé tem retenção pelas benfeitorias necessárias e úteis, além do direito de levantar as voluptuárias.",
+    "feedback_errada": "❌ Resposta incorreta. O gabarito é Verdadeiro. O possuidor de boa-fé tem retenção pelas benfeitorias necessárias e úteis, além do direito de levantar as voluptuárias.",
+    "palavras_chave": [
+      "posse e proteção possessória",
+      "direito civil"
+    ],
+    "nivel": "média",
+    "anulada": false,
+    "ativa": true,
+    "respondida": false,
+    "status": "ATIVA",
+    "fonte": "Questões de Dto Civil com gabarito comentado.pdf"
+  },
+  {
+    "id": "civil-033",
+    "numero_original": 33,
+    "topico_numero": 33,
+    "topico": "Usucapião",
+    "tipo": "verdadeiro_falso",
+    "artigo": "Código Civil - conforme material anexado",
+    "pergunta": "O prazo da usucapião ordinária imobiliária é de 10 anos contínuos (com justo título e boa-fé), podendo ser reduzido para 5 anos se o imóvel foi adquirido onerosamente com base em registro cancelado posteriormente, desde que estabelecida a moradia ou feitos investimentos.",
+    "opcoes": [
+      "Verdadeiro",
+      "Falso"
+    ],
+    "correta": "Verdadeiro",
+    "gabarito_oficial": "V",
+    "comentario": "✅ RESPOSTA CORRETA: Verdadeiro.\n📌 EXPLICAÇÃO: Correta aplicação dos prazos de 10 anos e da causa de redução para 5 anos na usucapião ordinária imobiliária.",
+    "porque_resposta_correta": "Correta aplicação dos prazos de 10 anos e da causa de redução para 5 anos na usucapião ordinária imobiliária.",
+    "feedback_correta": "✅ Resposta correta! Correta aplicação dos prazos de 10 anos e da causa de redução para 5 anos na usucapião ordinária imobiliária.",
+    "feedback_errada": "❌ Resposta incorreta. O gabarito é Verdadeiro. Correta aplicação dos prazos de 10 anos e da causa de redução para 5 anos na usucapião ordinária imobiliária.",
+    "palavras_chave": [
+      "usucapião",
+      "direito civil"
+    ],
+    "nivel": "média",
+    "anulada": false,
+    "ativa": true,
+    "respondida": false,
+    "status": "ATIVA",
+    "fonte": "Questões de Dto Civil com gabarito comentado.pdf"
+  },
+  {
+    "id": "civil-034",
+    "numero_original": 34,
+    "topico_numero": 34,
+    "topico": "Usucapião",
+    "tipo": "verdadeiro_falso",
+    "artigo": "Código Civil - conforme material anexado",
+    "pergunta": "A usucapião de bem móvel (mobiliária) exige o prazo de 10 anos caso o possuidor não possua justo título nem boa-fé.",
+    "opcoes": [
+      "Verdadeiro",
+      "Falso"
+    ],
+    "correta": "Falso",
+    "gabarito_oficial": "F",
+    "comentario": "✅ RESPOSTA CORRETA: Falso.\n📌 EXPLICAÇÃO: O prazo para usucapião extraordinária de bem móvel (independente de título e boa-fé) é de 5 anos (e não 10).",
+    "porque_resposta_correta": "O prazo para usucapião extraordinária de bem móvel (independente de título e boa-fé) é de 5 anos (e não 10).",
+    "feedback_correta": "✅ Resposta correta! O prazo para usucapião extraordinária de bem móvel (independente de título e boa-fé) é de 5 anos (e não 10).",
+    "feedback_errada": "❌ Resposta incorreta. O gabarito é Falso. O prazo para usucapião extraordinária de bem móvel (independente de título e boa-fé) é de 5 anos (e não 10).",
+    "palavras_chave": [
+      "usucapião",
+      "direito civil"
+    ],
+    "nivel": "média",
+    "anulada": false,
+    "ativa": true,
+    "respondida": false,
+    "status": "ATIVA",
+    "fonte": "Questões de Dto Civil com gabarito comentado.pdf"
+  },
+  {
+    "id": "civil-035",
+    "numero_original": 35,
+    "topico_numero": 35,
+    "topico": "Propriedade, aquisição e perda",
+    "tipo": "verdadeiro_falso",
+    "artigo": "Código Civil - conforme material anexado",
+    "pergunta": "Denomina-se avulsão o acréscimo lento e imperceptível de terras às margens de um rio.",
+    "opcoes": [
+      "Verdadeiro",
+      "Falso"
+    ],
+    "correta": "Falso",
+    "gabarito_oficial": "F",
+    "comentario": "✅ RESPOSTA CORRETA: Falso.\n📌 EXPLICAÇÃO: O acréscimo lento e imperceptível é a aluvião. A avulsão ocorre por força natural violenta e repentina.",
+    "porque_resposta_correta": "O acréscimo lento e imperceptível é a aluvião. A avulsão ocorre por força natural violenta e repentina.",
+    "feedback_correta": "✅ Resposta correta! O acréscimo lento e imperceptível é a aluvião. A avulsão ocorre por força natural violenta e repentina.",
+    "feedback_errada": "❌ Resposta incorreta. O gabarito é Falso. O acréscimo lento e imperceptível é a aluvião. A avulsão ocorre por força natural violenta e repentina.",
+    "palavras_chave": [
+      "propriedade, aquisição e perda",
+      "direito civil"
+    ],
+    "nivel": "média",
+    "anulada": false,
+    "ativa": true,
+    "respondida": false,
+    "status": "ATIVA",
+    "fonte": "Questões de Dto Civil com gabarito comentado.pdf"
+  },
+  {
+    "id": "civil-036",
+    "numero_original": 36,
+    "topico_numero": 36,
+    "topico": "Pessoa natural, capacidade, maioridade e morte",
+    "tipo": "verdadeiro_falso",
+    "artigo": "Código Civil - conforme material anexado",
+    "pergunta": "Comoriência é a presunção legal de morte simultânea que ocorre quando dois ou mais indivíduos falecem na mesma ocasião, sem que se possa averiguar qual deles faleceu primeiro.",
+    "opcoes": [
+      "Verdadeiro",
+      "Falso"
+    ],
+    "correta": "Verdadeiro",
+    "gabarito_oficial": "V",
+    "comentario": "✅ RESPOSTA CORRETA: Verdadeiro.\n📌 EXPLICAÇÃO: A comoriência ocorre exatamente quando há presunção de morte simultânea entre dois ou mais indivíduos na mesma ocasião por impossibilidade de determinação de quem faleceu primeiro.",
+    "porque_resposta_correta": "A comoriência ocorre exatamente quando há presunção de morte simultânea entre dois ou mais indivíduos na mesma ocasião por impossibilidade de determinação de quem faleceu primeiro.",
+    "feedback_correta": "✅ Resposta correta! A comoriência ocorre exatamente quando há presunção de morte simultânea entre dois ou mais indivíduos na mesma ocasião por impossibilidade de determinação de quem faleceu primeiro.",
+    "feedback_errada": "❌ Resposta incorreta. O gabarito é Verdadeiro. A comoriência ocorre exatamente quando há presunção de morte simultânea entre dois ou mais indivíduos na mesma ocasião por impossibilidade de determinação de quem faleceu primeiro.",
+    "palavras_chave": [
+      "pessoa natural, capacidade, maioridade e morte",
+      "direito civil"
+    ],
+    "nivel": "média",
+    "anulada": false,
+    "ativa": true,
+    "respondida": false,
+    "status": "ATIVA",
+    "fonte": "Questões de Dto Civil com gabarito comentado.pdf"
+  },
+  {
+    "id": "civil-037",
+    "numero_original": 37,
+    "topico_numero": 37,
+    "topico": "Pessoas jurídicas",
+    "tipo": "verdadeiro_falso",
+    "artigo": "Código Civil - conforme material anexado",
+    "pergunta": "O abuso da personalidade jurídica é caracterizado unicamente pelo cometimento de qualquer ilícito civil, permitindo ao juiz desconsiderar a personalidade para atingir os bens de todos os sócios indiscriminadamente.",
+    "opcoes": [
+      "Verdadeiro",
+      "Falso"
+    ],
+    "correta": "Falso",
+    "gabarito_oficial": "F",
+    "comentario": "✅ RESPOSTA CORRETA: Falso.\n📌 EXPLICAÇÃO: O abuso da personalidade exige a caracterização de desvio de finalidade ou confusão patrimonial, atingindo apenas os bens dos sócios/administradores diretamente beneficiados.",
+    "porque_resposta_correta": "O abuso da personalidade exige a caracterização de desvio de finalidade ou confusão patrimonial, atingindo apenas os bens dos sócios/administradores diretamente beneficiados.",
+    "feedback_correta": "✅ Resposta correta! O abuso da personalidade exige a caracterização de desvio de finalidade ou confusão patrimonial, atingindo apenas os bens dos sócios/administradores diretamente beneficiados.",
+    "feedback_errada": "❌ Resposta incorreta. O gabarito é Falso. O abuso da personalidade exige a caracterização de desvio de finalidade ou confusão patrimonial, atingindo apenas os bens dos sócios/administradores diretamente beneficiados.",
+    "palavras_chave": [
+      "pessoas jurídicas",
+      "direito civil"
+    ],
+    "nivel": "média",
+    "anulada": false,
+    "ativa": true,
+    "respondida": false,
+    "status": "ATIVA",
+    "fonte": "Questões de Dto Civil com gabarito comentado.pdf"
+  },
+  {
+    "id": "civil-038",
+    "numero_original": 38,
+    "topico_numero": 38,
+    "topico": "Usucapião",
+    "tipo": "verdadeiro_falso",
+    "artigo": "Código Civil - conforme material anexado",
+    "pergunta": "Na usucapião especial urbana ou rural, o possuidor precisa comprovar a posse ininterrupta pelo prazo de 5 anos e não pode ser proprietário de nenhum outro imóvel urbano ou rural.",
+    "opcoes": [
+      "Verdadeiro",
+      "Falso"
+    ],
+    "correta": "Verdadeiro",
+    "gabarito_oficial": "V",
+    "comentario": "✅ RESPOSTA CORRETA: Verdadeiro.\n📌 EXPLICAÇÃO: Exigência expressa da usucapião especial urbana/rural: 5 anos de posse contínua, uso para moradia/trabalho e vedação de ser proprietário de outro imóvel.",
+    "porque_resposta_correta": "Exigência expressa da usucapião especial urbana/rural: 5 anos de posse contínua, uso para moradia/trabalho e vedação de ser proprietário de outro imóvel.",
+    "feedback_correta": "✅ Resposta correta! Exigência expressa da usucapião especial urbana/rural: 5 anos de posse contínua, uso para moradia/trabalho e vedação de ser proprietário de outro imóvel.",
+    "feedback_errada": "❌ Resposta incorreta. O gabarito é Verdadeiro. Exigência expressa da usucapião especial urbana/rural: 5 anos de posse contínua, uso para moradia/trabalho e vedação de ser proprietário de outro imóvel.",
+    "palavras_chave": [
+      "usucapião",
+      "direito civil"
+    ],
+    "nivel": "média",
+    "anulada": false,
+    "ativa": true,
+    "respondida": false,
+    "status": "ATIVA",
+    "fonte": "Questões de Dto Civil com gabarito comentado.pdf"
+  },
+  {
+    "id": "civil-039",
+    "numero_original": 39,
+    "topico_numero": 39,
+    "topico": "Propriedade, aquisição e perda",
+    "tipo": "verdadeiro_falso",
+    "artigo": "Código Civil - conforme material anexado",
+    "pergunta": "Na desapropriação judicial por posse-trabalho, o proprietário é privado de uma extensa área se um grupo considerável de pessoas a possuir por 5 anos de boa-fé, realizando obras sociais/econômicas, sem necessidade de pagamento de indenização ao proprietário.",
+    "opcoes": [
+      "Verdadeiro",
+      "Falso"
+    ],
+    "correta": "Falso",
+    "gabarito_oficial": "F",
+    "comentario": "✅ RESPOSTA CORRETA: Falso.\n📌 EXPLICAÇÃO: A desapropriação judicial por posse-trabalho exige o pagamento de justa indenização ao proprietário, a qual é fixada pelo juiz.",
+    "porque_resposta_correta": "A desapropriação judicial por posse-trabalho exige o pagamento de justa indenização ao proprietário, a qual é fixada pelo juiz.",
+    "feedback_correta": "✅ Resposta correta! A desapropriação judicial por posse-trabalho exige o pagamento de justa indenização ao proprietário, a qual é fixada pelo juiz.",
+    "feedback_errada": "❌ Resposta incorreta. O gabarito é Falso. A desapropriação judicial por posse-trabalho exige o pagamento de justa indenização ao proprietário, a qual é fixada pelo juiz.",
+    "palavras_chave": [
+      "propriedade, aquisição e perda",
+      "direito civil"
+    ],
+    "nivel": "média",
+    "anulada": false,
+    "ativa": true,
+    "respondida": false,
+    "status": "ATIVA",
+    "fonte": "Questões de Dto Civil com gabarito comentado.pdf"
+  },
+  {
+    "id": "civil-040",
+    "numero_original": 40,
+    "topico_numero": 40,
+    "topico": "Posse e proteção possessória",
+    "tipo": "verdadeiro_falso",
+    "artigo": "Código Civil - conforme material anexado",
+    "pergunta": "O possuidor de má-fé responde por todos os frutos colhidos e percebidos, bem como por aqueles que, por sua culpa, deixou de perceber, mas tem direito de ser ressarcido pelas benfeitorias necessárias (sem direito de retenção).",
+    "opcoes": [
+      "Verdadeiro",
+      "Falso"
+    ],
+    "correta": "Verdadeiro",
+    "gabarito_oficial": "V",
+    "comentario": "✅ RESPOSTA CORRETA: Verdadeiro.\n📌 EXPLICAÇÃO: O possuidor de má-fé responde por todos os frutos (percebidos e os que deixou de perceber por culpa), mantendo apenas o direito ao ressarcimento das benfeitorias necessárias, sem retenção.",
+    "porque_resposta_correta": "O possuidor de má-fé responde por todos os frutos (percebidos e os que deixou de perceber por culpa), mantendo apenas o direito ao ressarcimento das benfeitorias necessárias, sem retenção.",
+    "feedback_correta": "✅ Resposta correta! O possuidor de má-fé responde por todos os frutos (percebidos e os que deixou de perceber por culpa), mantendo apenas o direito ao ressarcimento das benfeitorias necessárias, sem retenção.",
+    "feedback_errada": "❌ Resposta incorreta. O gabarito é Verdadeiro. O possuidor de má-fé responde por todos os frutos (percebidos e os que deixou de perceber por culpa), mantendo apenas o direito ao ressarcimento das benfeitorias necessárias, sem retenção.",
+    "palavras_chave": [
+      "posse e proteção possessória",
+      "direito civil"
+    ],
+    "nivel": "média",
+    "anulada": false,
+    "ativa": true,
+    "respondida": false,
+    "status": "ATIVA",
+    "fonte": "Questões de Dto Civil com gabarito comentado.pdf"
+  }
+]
