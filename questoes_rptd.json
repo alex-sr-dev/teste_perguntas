@@ -15,13 +15,45 @@
     ],
     "correta": "A) Incidente; Atrator de crimes; Problema; Analítico e proativo; Reativa.",
     "gabarito_oficial": "A",
-    "comentario": "Gabarito oficial: alternativa A.",
+    "comentario": "✅ RESPOSTA CORRETA: A) Incidente; Atrator de crimes; Problema; Analítico e proativo; Reativa.\n\n📌 POR QUE ESTÁ CORRETA?\nCada atendimento isolado é um incidente; a repetição com padrão espacial e temporal constitui um problema. Conforme o gabarito informado, a boate é tratada como atrator de crimes. O IARA substitui a simples resposta reativa por análise e atuação proativa.\n\n❌ POR QUE AS OUTRAS ESTÃO ERRADAS?\n• B) A alternativa B não corresponde à combinação conceitual exigida pelo enunciado. Compare-a com o conceito correto: Cada atendimento isolado é um incidente; a repetição com padrão espacial e temporal constitui um problema. Conforme o gabarito informado, a boate é tratada como atrator de crimes. O IARA substitui a simples resposta reativa por análise e atuação proativa.\n• C) A alternativa C não corresponde à combinação conceitual exigida pelo enunciado. Compare-a com o conceito correto: Cada atendimento isolado é um incidente; a repetição com padrão espacial e temporal constitui um problema. Conforme o gabarito informado, a boate é tratada como atrator de crimes. O IARA substitui a simples resposta reativa por análise e atuação proativa.\n• D) A alternativa D não corresponde à combinação conceitual exigida pelo enunciado. Compare-a com o conceito correto: Cada atendimento isolado é um incidente; a repetição com padrão espacial e temporal constitui um problema. Conforme o gabarito informado, a boate é tratada como atrator de crimes. O IARA substitui a simples resposta reativa por análise e atuação proativa.\n• E) A alternativa E não corresponde à combinação conceitual exigida pelo enunciado. Compare-a com o conceito correto: Cada atendimento isolado é um incidente; a repetição com padrão espacial e temporal constitui um problema. Conforme o gabarito informado, a boate é tratada como atrator de crimes. O IARA substitui a simples resposta reativa por análise e atuação proativa.\n\n💡 DICA PARA MEMORIZAR\nIncidente = evento isolado; problema = padrão recorrente.",
     "nivel": "média",
     "anulada": false,
     "ativa": true,
     "respondida": false,
     "status": "ATIVA",
-    "fonte": "Texto colado(7).txt - RPTD"
+    "fonte": "Texto colado(7).txt - RPTD",
+    "porque_resposta_correta": "Cada atendimento isolado é um incidente; a repetição com padrão espacial e temporal constitui um problema. Conforme o gabarito informado, a boate é tratada como atrator de crimes. O IARA substitui a simples resposta reativa por análise e atuação proativa.",
+    "dica_memorizacao": "Incidente = evento isolado; problema = padrão recorrente.",
+    "porque_respostas_erradas": {
+      "B": "A alternativa B não corresponde à combinação conceitual exigida pelo enunciado. Compare-a com o conceito correto: Cada atendimento isolado é um incidente; a repetição com padrão espacial e temporal constitui um problema. Conforme o gabarito informado, a boate é tratada como atrator de crimes. O IARA substitui a simples resposta reativa por análise e atuação proativa.",
+      "C": "A alternativa C não corresponde à combinação conceitual exigida pelo enunciado. Compare-a com o conceito correto: Cada atendimento isolado é um incidente; a repetição com padrão espacial e temporal constitui um problema. Conforme o gabarito informado, a boate é tratada como atrator de crimes. O IARA substitui a simples resposta reativa por análise e atuação proativa.",
+      "D": "A alternativa D não corresponde à combinação conceitual exigida pelo enunciado. Compare-a com o conceito correto: Cada atendimento isolado é um incidente; a repetição com padrão espacial e temporal constitui um problema. Conforme o gabarito informado, a boate é tratada como atrator de crimes. O IARA substitui a simples resposta reativa por análise e atuação proativa.",
+      "E": "A alternativa E não corresponde à combinação conceitual exigida pelo enunciado. Compare-a com o conceito correto: Cada atendimento isolado é um incidente; a repetição com padrão espacial e temporal constitui um problema. Conforme o gabarito informado, a boate é tratada como atrator de crimes. O IARA substitui a simples resposta reativa por análise e atuação proativa."
+    },
+    "analise_alternativas": {
+      "A": {
+        "status": "correta",
+        "explicacao": "Cada atendimento isolado é um incidente; a repetição com padrão espacial e temporal constitui um problema. Conforme o gabarito informado, a boate é tratada como atrator de crimes. O IARA substitui a simples resposta reativa por análise e atuação proativa."
+      },
+      "B": {
+        "status": "errada",
+        "explicacao": "A alternativa B não corresponde à combinação conceitual exigida pelo enunciado. Compare-a com o conceito correto: Cada atendimento isolado é um incidente; a repetição com padrão espacial e temporal constitui um problema. Conforme o gabarito informado, a boate é tratada como atrator de crimes. O IARA substitui a simples resposta reativa por análise e atuação proativa."
+      },
+      "C": {
+        "status": "errada",
+        "explicacao": "A alternativa C não corresponde à combinação conceitual exigida pelo enunciado. Compare-a com o conceito correto: Cada atendimento isolado é um incidente; a repetição com padrão espacial e temporal constitui um problema. Conforme o gabarito informado, a boate é tratada como atrator de crimes. O IARA substitui a simples resposta reativa por análise e atuação proativa."
+      },
+      "D": {
+        "status": "errada",
+        "explicacao": "A alternativa D não corresponde à combinação conceitual exigida pelo enunciado. Compare-a com o conceito correto: Cada atendimento isolado é um incidente; a repetição com padrão espacial e temporal constitui um problema. Conforme o gabarito informado, a boate é tratada como atrator de crimes. O IARA substitui a simples resposta reativa por análise e atuação proativa."
+      },
+      "E": {
+        "status": "errada",
+        "explicacao": "A alternativa E não corresponde à combinação conceitual exigida pelo enunciado. Compare-a com o conceito correto: Cada atendimento isolado é um incidente; a repetição com padrão espacial e temporal constitui um problema. Conforme o gabarito informado, a boate é tratada como atrator de crimes. O IARA substitui a simples resposta reativa por análise e atuação proativa."
+      }
+    },
+    "feedback_correta": "✅ Correto! Cada atendimento isolado é um incidente; a repetição com padrão espacial e temporal constitui um problema. Conforme o gabarito informado, a boate é tratada como atrator de crimes. O IARA substitui a simples resposta reativa por análise e atuação proativa.\n\n💡 Para fixar: Incidente = evento isolado; problema = padrão recorrente.",
+    "feedback_errada": "❌ Incorreto. O gabarito é A) Incidente; Atrator de crimes; Problema; Analítico e proativo; Reativa..\n\n📌 Cada atendimento isolado é um incidente; a repetição com padrão espacial e temporal constitui um problema. Conforme o gabarito informado, a boate é tratada como atrator de crimes. O IARA substitui a simples resposta reativa por análise e atuação proativa.\n\n💡 Para fixar: Incidente = evento isolado; problema = padrão recorrente."
   },
   {
     "id": "rptd-002",
@@ -39,13 +71,45 @@
     ],
     "correta": "B) Ansiedade/Medo; Aversão; Sistemático e controlado; Raiva; Estereotipados/superficiais.",
     "gabarito_oficial": "B",
-    "comentario": "Gabarito oficial: alternativa B.",
+    "comentario": "✅ RESPOSTA CORRETA: B) Ansiedade/Medo; Aversão; Sistemático e controlado; Raiva; Estereotipados/superficiais.\n\n📌 POR QUE ESTÁ CORRETA?\nNa lógica adotada pela questão, ansiedade/medo favorecem aversão ao risco e processamento mais sistemático e controlado; a raiva favorece decisões mais rápidas, heurísticas e julgamentos mais superficiais.\n\n❌ POR QUE AS OUTRAS ESTÃO ERRADAS?\n• A) A alternativa A não corresponde à combinação conceitual exigida pelo enunciado. Compare-a com o conceito correto: Na lógica adotada pela questão, ansiedade/medo favorecem aversão ao risco e processamento mais sistemático e controlado; a raiva favorece decisões mais rápidas, heurísticas e julgamentos mais superficiais.\n• C) A alternativa C não corresponde à combinação conceitual exigida pelo enunciado. Compare-a com o conceito correto: Na lógica adotada pela questão, ansiedade/medo favorecem aversão ao risco e processamento mais sistemático e controlado; a raiva favorece decisões mais rápidas, heurísticas e julgamentos mais superficiais.\n• D) A alternativa D não corresponde à combinação conceitual exigida pelo enunciado. Compare-a com o conceito correto: Na lógica adotada pela questão, ansiedade/medo favorecem aversão ao risco e processamento mais sistemático e controlado; a raiva favorece decisões mais rápidas, heurísticas e julgamentos mais superficiais.\n• E) A alternativa E não corresponde à combinação conceitual exigida pelo enunciado. Compare-a com o conceito correto: Na lógica adotada pela questão, ansiedade/medo favorecem aversão ao risco e processamento mais sistemático e controlado; a raiva favorece decisões mais rápidas, heurísticas e julgamentos mais superficiais.\n\n💡 DICA PARA MEMORIZAR\nMedo/ansiedade → mais cautela; raiva → maior rapidez e heurísticas.",
     "nivel": "média",
     "anulada": false,
     "ativa": true,
     "respondida": false,
     "status": "ATIVA",
-    "fonte": "Texto colado(7).txt - RPTD"
+    "fonte": "Texto colado(7).txt - RPTD",
+    "porque_resposta_correta": "Na lógica adotada pela questão, ansiedade/medo favorecem aversão ao risco e processamento mais sistemático e controlado; a raiva favorece decisões mais rápidas, heurísticas e julgamentos mais superficiais.",
+    "dica_memorizacao": "Medo/ansiedade → mais cautela; raiva → maior rapidez e heurísticas.",
+    "porque_respostas_erradas": {
+      "A": "A alternativa A não corresponde à combinação conceitual exigida pelo enunciado. Compare-a com o conceito correto: Na lógica adotada pela questão, ansiedade/medo favorecem aversão ao risco e processamento mais sistemático e controlado; a raiva favorece decisões mais rápidas, heurísticas e julgamentos mais superficiais.",
+      "C": "A alternativa C não corresponde à combinação conceitual exigida pelo enunciado. Compare-a com o conceito correto: Na lógica adotada pela questão, ansiedade/medo favorecem aversão ao risco e processamento mais sistemático e controlado; a raiva favorece decisões mais rápidas, heurísticas e julgamentos mais superficiais.",
+      "D": "A alternativa D não corresponde à combinação conceitual exigida pelo enunciado. Compare-a com o conceito correto: Na lógica adotada pela questão, ansiedade/medo favorecem aversão ao risco e processamento mais sistemático e controlado; a raiva favorece decisões mais rápidas, heurísticas e julgamentos mais superficiais.",
+      "E": "A alternativa E não corresponde à combinação conceitual exigida pelo enunciado. Compare-a com o conceito correto: Na lógica adotada pela questão, ansiedade/medo favorecem aversão ao risco e processamento mais sistemático e controlado; a raiva favorece decisões mais rápidas, heurísticas e julgamentos mais superficiais."
+    },
+    "analise_alternativas": {
+      "A": {
+        "status": "errada",
+        "explicacao": "A alternativa A não corresponde à combinação conceitual exigida pelo enunciado. Compare-a com o conceito correto: Na lógica adotada pela questão, ansiedade/medo favorecem aversão ao risco e processamento mais sistemático e controlado; a raiva favorece decisões mais rápidas, heurísticas e julgamentos mais superficiais."
+      },
+      "B": {
+        "status": "correta",
+        "explicacao": "Na lógica adotada pela questão, ansiedade/medo favorecem aversão ao risco e processamento mais sistemático e controlado; a raiva favorece decisões mais rápidas, heurísticas e julgamentos mais superficiais."
+      },
+      "C": {
+        "status": "errada",
+        "explicacao": "A alternativa C não corresponde à combinação conceitual exigida pelo enunciado. Compare-a com o conceito correto: Na lógica adotada pela questão, ansiedade/medo favorecem aversão ao risco e processamento mais sistemático e controlado; a raiva favorece decisões mais rápidas, heurísticas e julgamentos mais superficiais."
+      },
+      "D": {
+        "status": "errada",
+        "explicacao": "A alternativa D não corresponde à combinação conceitual exigida pelo enunciado. Compare-a com o conceito correto: Na lógica adotada pela questão, ansiedade/medo favorecem aversão ao risco e processamento mais sistemático e controlado; a raiva favorece decisões mais rápidas, heurísticas e julgamentos mais superficiais."
+      },
+      "E": {
+        "status": "errada",
+        "explicacao": "A alternativa E não corresponde à combinação conceitual exigida pelo enunciado. Compare-a com o conceito correto: Na lógica adotada pela questão, ansiedade/medo favorecem aversão ao risco e processamento mais sistemático e controlado; a raiva favorece decisões mais rápidas, heurísticas e julgamentos mais superficiais."
+      }
+    },
+    "feedback_correta": "✅ Correto! Na lógica adotada pela questão, ansiedade/medo favorecem aversão ao risco e processamento mais sistemático e controlado; a raiva favorece decisões mais rápidas, heurísticas e julgamentos mais superficiais.\n\n💡 Para fixar: Medo/ansiedade → mais cautela; raiva → maior rapidez e heurísticas.",
+    "feedback_errada": "❌ Incorreto. O gabarito é B) Ansiedade/Medo; Aversão; Sistemático e controlado; Raiva; Estereotipados/superficiais..\n\n📌 Na lógica adotada pela questão, ansiedade/medo favorecem aversão ao risco e processamento mais sistemático e controlado; a raiva favorece decisões mais rápidas, heurísticas e julgamentos mais superficiais.\n\n💡 Para fixar: Medo/ansiedade → mais cautela; raiva → maior rapidez e heurísticas."
   },
   {
     "id": "rptd-003",
@@ -63,13 +127,45 @@
     ],
     "correta": "A) Gerador; Policiamento Orientado para o Problema; Análise; Facilitador; Guardião.",
     "gabarito_oficial": "A",
-    "comentario": "Gabarito oficial: alternativa A.",
+    "comentario": "✅ RESPOSTA CORRETA: A) Gerador; Policiamento Orientado para o Problema; Análise; Facilitador; Guardião.\n\n📌 POR QUE ESTÁ CORRETA?\nO shopping é classificado como gerador pela grande circulação normal de pessoas; o POP utiliza o IARA; a Análise busca causas; baixa iluminação e ausência de vigilância são facilitadores; câmeras e vigilância funcionam como guardião.\n\n❌ POR QUE AS OUTRAS ESTÃO ERRADAS?\n• B) A alternativa B não corresponde à combinação conceitual exigida pelo enunciado. Compare-a com o conceito correto: O shopping é classificado como gerador pela grande circulação normal de pessoas; o POP utiliza o IARA; a Análise busca causas; baixa iluminação e ausência de vigilância são facilitadores; câmeras e vigilância funcionam como guardião.\n• C) A alternativa C não corresponde à combinação conceitual exigida pelo enunciado. Compare-a com o conceito correto: O shopping é classificado como gerador pela grande circulação normal de pessoas; o POP utiliza o IARA; a Análise busca causas; baixa iluminação e ausência de vigilância são facilitadores; câmeras e vigilância funcionam como guardião.\n• D) A alternativa D não corresponde à combinação conceitual exigida pelo enunciado. Compare-a com o conceito correto: O shopping é classificado como gerador pela grande circulação normal de pessoas; o POP utiliza o IARA; a Análise busca causas; baixa iluminação e ausência de vigilância são facilitadores; câmeras e vigilância funcionam como guardião.\n• E) A alternativa E não corresponde à combinação conceitual exigida pelo enunciado. Compare-a com o conceito correto: O shopping é classificado como gerador pela grande circulação normal de pessoas; o POP utiliza o IARA; a Análise busca causas; baixa iluminação e ausência de vigilância são facilitadores; câmeras e vigilância funcionam como guardião.\n\n💡 DICA PARA MEMORIZAR\nGerador = fluxo normal; facilitador = baixa regulação; guardião = reduz oportunidade.",
     "nivel": "média",
     "anulada": false,
     "ativa": true,
     "respondida": false,
     "status": "ATIVA",
-    "fonte": "Texto colado(7).txt - RPTD"
+    "fonte": "Texto colado(7).txt - RPTD",
+    "porque_resposta_correta": "O shopping é classificado como gerador pela grande circulação normal de pessoas; o POP utiliza o IARA; a Análise busca causas; baixa iluminação e ausência de vigilância são facilitadores; câmeras e vigilância funcionam como guardião.",
+    "dica_memorizacao": "Gerador = fluxo normal; facilitador = baixa regulação; guardião = reduz oportunidade.",
+    "porque_respostas_erradas": {
+      "B": "A alternativa B não corresponde à combinação conceitual exigida pelo enunciado. Compare-a com o conceito correto: O shopping é classificado como gerador pela grande circulação normal de pessoas; o POP utiliza o IARA; a Análise busca causas; baixa iluminação e ausência de vigilância são facilitadores; câmeras e vigilância funcionam como guardião.",
+      "C": "A alternativa C não corresponde à combinação conceitual exigida pelo enunciado. Compare-a com o conceito correto: O shopping é classificado como gerador pela grande circulação normal de pessoas; o POP utiliza o IARA; a Análise busca causas; baixa iluminação e ausência de vigilância são facilitadores; câmeras e vigilância funcionam como guardião.",
+      "D": "A alternativa D não corresponde à combinação conceitual exigida pelo enunciado. Compare-a com o conceito correto: O shopping é classificado como gerador pela grande circulação normal de pessoas; o POP utiliza o IARA; a Análise busca causas; baixa iluminação e ausência de vigilância são facilitadores; câmeras e vigilância funcionam como guardião.",
+      "E": "A alternativa E não corresponde à combinação conceitual exigida pelo enunciado. Compare-a com o conceito correto: O shopping é classificado como gerador pela grande circulação normal de pessoas; o POP utiliza o IARA; a Análise busca causas; baixa iluminação e ausência de vigilância são facilitadores; câmeras e vigilância funcionam como guardião."
+    },
+    "analise_alternativas": {
+      "A": {
+        "status": "correta",
+        "explicacao": "O shopping é classificado como gerador pela grande circulação normal de pessoas; o POP utiliza o IARA; a Análise busca causas; baixa iluminação e ausência de vigilância são facilitadores; câmeras e vigilância funcionam como guardião."
+      },
+      "B": {
+        "status": "errada",
+        "explicacao": "A alternativa B não corresponde à combinação conceitual exigida pelo enunciado. Compare-a com o conceito correto: O shopping é classificado como gerador pela grande circulação normal de pessoas; o POP utiliza o IARA; a Análise busca causas; baixa iluminação e ausência de vigilância são facilitadores; câmeras e vigilância funcionam como guardião."
+      },
+      "C": {
+        "status": "errada",
+        "explicacao": "A alternativa C não corresponde à combinação conceitual exigida pelo enunciado. Compare-a com o conceito correto: O shopping é classificado como gerador pela grande circulação normal de pessoas; o POP utiliza o IARA; a Análise busca causas; baixa iluminação e ausência de vigilância são facilitadores; câmeras e vigilância funcionam como guardião."
+      },
+      "D": {
+        "status": "errada",
+        "explicacao": "A alternativa D não corresponde à combinação conceitual exigida pelo enunciado. Compare-a com o conceito correto: O shopping é classificado como gerador pela grande circulação normal de pessoas; o POP utiliza o IARA; a Análise busca causas; baixa iluminação e ausência de vigilância são facilitadores; câmeras e vigilância funcionam como guardião."
+      },
+      "E": {
+        "status": "errada",
+        "explicacao": "A alternativa E não corresponde à combinação conceitual exigida pelo enunciado. Compare-a com o conceito correto: O shopping é classificado como gerador pela grande circulação normal de pessoas; o POP utiliza o IARA; a Análise busca causas; baixa iluminação e ausência de vigilância são facilitadores; câmeras e vigilância funcionam como guardião."
+      }
+    },
+    "feedback_correta": "✅ Correto! O shopping é classificado como gerador pela grande circulação normal de pessoas; o POP utiliza o IARA; a Análise busca causas; baixa iluminação e ausência de vigilância são facilitadores; câmeras e vigilância funcionam como guardião.\n\n💡 Para fixar: Gerador = fluxo normal; facilitador = baixa regulação; guardião = reduz oportunidade.",
+    "feedback_errada": "❌ Incorreto. O gabarito é A) Gerador; Policiamento Orientado para o Problema; Análise; Facilitador; Guardião..\n\n📌 O shopping é classificado como gerador pela grande circulação normal de pessoas; o POP utiliza o IARA; a Análise busca causas; baixa iluminação e ausência de vigilância são facilitadores; câmeras e vigilância funcionam como guardião.\n\n💡 Para fixar: Gerador = fluxo normal; facilitador = baixa regulação; guardião = reduz oportunidade."
   },
   {
     "id": "rptd-004",
@@ -87,13 +183,45 @@
     ],
     "correta": "E) Gerencial; Operacional; Execução; Resposta; Padronização.",
     "gabarito_oficial": "E",
-    "comentario": "Gabarito oficial: alternativa E.",
+    "comentario": "✅ RESPOSTA CORRETA: E) Gerencial; Operacional; Execução; Resposta; Padronização.\n\n📌 POR QUE ESTÁ CORRETA?\nConforme o gabarito informado, o PDCA tem aplicação gerencial, o IARA tem aplicação operacional, a execução corresponde ao Do, a implementação no IARA é a Resposta e a padronização consolida o que funcionou.\n\n❌ POR QUE AS OUTRAS ESTÃO ERRADAS?\n• A) A alternativa A não corresponde à combinação conceitual exigida pelo enunciado. Compare-a com o conceito correto: Conforme o gabarito informado, o PDCA tem aplicação gerencial, o IARA tem aplicação operacional, a execução corresponde ao Do, a implementação no IARA é a Resposta e a padronização consolida o que funcionou.\n• B) A alternativa B não corresponde à combinação conceitual exigida pelo enunciado. Compare-a com o conceito correto: Conforme o gabarito informado, o PDCA tem aplicação gerencial, o IARA tem aplicação operacional, a execução corresponde ao Do, a implementação no IARA é a Resposta e a padronização consolida o que funcionou.\n• C) A alternativa C não corresponde à combinação conceitual exigida pelo enunciado. Compare-a com o conceito correto: Conforme o gabarito informado, o PDCA tem aplicação gerencial, o IARA tem aplicação operacional, a execução corresponde ao Do, a implementação no IARA é a Resposta e a padronização consolida o que funcionou.\n• D) A alternativa D não corresponde à combinação conceitual exigida pelo enunciado. Compare-a com o conceito correto: Conforme o gabarito informado, o PDCA tem aplicação gerencial, o IARA tem aplicação operacional, a execução corresponde ao Do, a implementação no IARA é a Resposta e a padronização consolida o que funcionou.\n\n💡 DICA PARA MEMORIZAR\nPDCA: Planejar → Executar → Verificar → Agir; IARA: Identificar → Analisar → Responder → Avaliar.",
     "nivel": "média",
     "anulada": false,
     "ativa": true,
     "respondida": false,
     "status": "ATIVA",
-    "fonte": "Texto colado(7).txt - RPTD"
+    "fonte": "Texto colado(7).txt - RPTD",
+    "porque_resposta_correta": "Conforme o gabarito informado, o PDCA tem aplicação gerencial, o IARA tem aplicação operacional, a execução corresponde ao Do, a implementação no IARA é a Resposta e a padronização consolida o que funcionou.",
+    "dica_memorizacao": "PDCA: Planejar → Executar → Verificar → Agir; IARA: Identificar → Analisar → Responder → Avaliar.",
+    "porque_respostas_erradas": {
+      "A": "A alternativa A não corresponde à combinação conceitual exigida pelo enunciado. Compare-a com o conceito correto: Conforme o gabarito informado, o PDCA tem aplicação gerencial, o IARA tem aplicação operacional, a execução corresponde ao Do, a implementação no IARA é a Resposta e a padronização consolida o que funcionou.",
+      "B": "A alternativa B não corresponde à combinação conceitual exigida pelo enunciado. Compare-a com o conceito correto: Conforme o gabarito informado, o PDCA tem aplicação gerencial, o IARA tem aplicação operacional, a execução corresponde ao Do, a implementação no IARA é a Resposta e a padronização consolida o que funcionou.",
+      "C": "A alternativa C não corresponde à combinação conceitual exigida pelo enunciado. Compare-a com o conceito correto: Conforme o gabarito informado, o PDCA tem aplicação gerencial, o IARA tem aplicação operacional, a execução corresponde ao Do, a implementação no IARA é a Resposta e a padronização consolida o que funcionou.",
+      "D": "A alternativa D não corresponde à combinação conceitual exigida pelo enunciado. Compare-a com o conceito correto: Conforme o gabarito informado, o PDCA tem aplicação gerencial, o IARA tem aplicação operacional, a execução corresponde ao Do, a implementação no IARA é a Resposta e a padronização consolida o que funcionou."
+    },
+    "analise_alternativas": {
+      "A": {
+        "status": "errada",
+        "explicacao": "A alternativa A não corresponde à combinação conceitual exigida pelo enunciado. Compare-a com o conceito correto: Conforme o gabarito informado, o PDCA tem aplicação gerencial, o IARA tem aplicação operacional, a execução corresponde ao Do, a implementação no IARA é a Resposta e a padronização consolida o que funcionou."
+      },
+      "B": {
+        "status": "errada",
+        "explicacao": "A alternativa B não corresponde à combinação conceitual exigida pelo enunciado. Compare-a com o conceito correto: Conforme o gabarito informado, o PDCA tem aplicação gerencial, o IARA tem aplicação operacional, a execução corresponde ao Do, a implementação no IARA é a Resposta e a padronização consolida o que funcionou."
+      },
+      "C": {
+        "status": "errada",
+        "explicacao": "A alternativa C não corresponde à combinação conceitual exigida pelo enunciado. Compare-a com o conceito correto: Conforme o gabarito informado, o PDCA tem aplicação gerencial, o IARA tem aplicação operacional, a execução corresponde ao Do, a implementação no IARA é a Resposta e a padronização consolida o que funcionou."
+      },
+      "D": {
+        "status": "errada",
+        "explicacao": "A alternativa D não corresponde à combinação conceitual exigida pelo enunciado. Compare-a com o conceito correto: Conforme o gabarito informado, o PDCA tem aplicação gerencial, o IARA tem aplicação operacional, a execução corresponde ao Do, a implementação no IARA é a Resposta e a padronização consolida o que funcionou."
+      },
+      "E": {
+        "status": "correta",
+        "explicacao": "Conforme o gabarito informado, o PDCA tem aplicação gerencial, o IARA tem aplicação operacional, a execução corresponde ao Do, a implementação no IARA é a Resposta e a padronização consolida o que funcionou."
+      }
+    },
+    "feedback_correta": "✅ Correto! Conforme o gabarito informado, o PDCA tem aplicação gerencial, o IARA tem aplicação operacional, a execução corresponde ao Do, a implementação no IARA é a Resposta e a padronização consolida o que funcionou.\n\n💡 Para fixar: PDCA: Planejar → Executar → Verificar → Agir; IARA: Identificar → Analisar → Responder → Avaliar.",
+    "feedback_errada": "❌ Incorreto. O gabarito é E) Gerencial; Operacional; Execução; Resposta; Padronização..\n\n📌 Conforme o gabarito informado, o PDCA tem aplicação gerencial, o IARA tem aplicação operacional, a execução corresponde ao Do, a implementação no IARA é a Resposta e a padronização consolida o que funcionou.\n\n💡 Para fixar: PDCA: Planejar → Executar → Verificar → Agir; IARA: Identificar → Analisar → Responder → Avaliar."
   },
   {
     "id": "rptd-005",
@@ -111,13 +239,45 @@
     ],
     "correta": "C) Caminhos",
     "gabarito_oficial": "C",
-    "comentario": "Gabarito oficial: alternativa C.",
+    "comentario": "✅ RESPOSTA CORRETA: C) Caminhos\n\n📌 POR QUE ESTÁ CORRETA?\nNa Teoria do Padrão Criminal, caminhos são os trajetos rotineiros que ligam nós como residência, trabalho e lazer.\n\n❌ POR QUE AS OUTRAS ESTÃO ERRADAS?\n• A) A alternativa A não corresponde à combinação conceitual exigida pelo enunciado. Compare-a com o conceito correto: Na Teoria do Padrão Criminal, caminhos são os trajetos rotineiros que ligam nós como residência, trabalho e lazer.\n• B) A alternativa B não corresponde à combinação conceitual exigida pelo enunciado. Compare-a com o conceito correto: Na Teoria do Padrão Criminal, caminhos são os trajetos rotineiros que ligam nós como residência, trabalho e lazer.\n• D) A alternativa D não corresponde à combinação conceitual exigida pelo enunciado. Compare-a com o conceito correto: Na Teoria do Padrão Criminal, caminhos são os trajetos rotineiros que ligam nós como residência, trabalho e lazer.\n• E) A alternativa E não corresponde à combinação conceitual exigida pelo enunciado. Compare-a com o conceito correto: Na Teoria do Padrão Criminal, caminhos são os trajetos rotineiros que ligam nós como residência, trabalho e lazer.\n\n💡 DICA PARA MEMORIZAR\nNós = lugares; caminhos = ligações; bordas = limites.",
     "nivel": "média",
     "anulada": false,
     "ativa": true,
     "respondida": false,
     "status": "ATIVA",
-    "fonte": "Texto colado(7).txt - RPTD"
+    "fonte": "Texto colado(7).txt - RPTD",
+    "porque_resposta_correta": "Na Teoria do Padrão Criminal, caminhos são os trajetos rotineiros que ligam nós como residência, trabalho e lazer.",
+    "dica_memorizacao": "Nós = lugares; caminhos = ligações; bordas = limites.",
+    "porque_respostas_erradas": {
+      "A": "A alternativa A não corresponde à combinação conceitual exigida pelo enunciado. Compare-a com o conceito correto: Na Teoria do Padrão Criminal, caminhos são os trajetos rotineiros que ligam nós como residência, trabalho e lazer.",
+      "B": "A alternativa B não corresponde à combinação conceitual exigida pelo enunciado. Compare-a com o conceito correto: Na Teoria do Padrão Criminal, caminhos são os trajetos rotineiros que ligam nós como residência, trabalho e lazer.",
+      "D": "A alternativa D não corresponde à combinação conceitual exigida pelo enunciado. Compare-a com o conceito correto: Na Teoria do Padrão Criminal, caminhos são os trajetos rotineiros que ligam nós como residência, trabalho e lazer.",
+      "E": "A alternativa E não corresponde à combinação conceitual exigida pelo enunciado. Compare-a com o conceito correto: Na Teoria do Padrão Criminal, caminhos são os trajetos rotineiros que ligam nós como residência, trabalho e lazer."
+    },
+    "analise_alternativas": {
+      "A": {
+        "status": "errada",
+        "explicacao": "A alternativa A não corresponde à combinação conceitual exigida pelo enunciado. Compare-a com o conceito correto: Na Teoria do Padrão Criminal, caminhos são os trajetos rotineiros que ligam nós como residência, trabalho e lazer."
+      },
+      "B": {
+        "status": "errada",
+        "explicacao": "A alternativa B não corresponde à combinação conceitual exigida pelo enunciado. Compare-a com o conceito correto: Na Teoria do Padrão Criminal, caminhos são os trajetos rotineiros que ligam nós como residência, trabalho e lazer."
+      },
+      "C": {
+        "status": "correta",
+        "explicacao": "Na Teoria do Padrão Criminal, caminhos são os trajetos rotineiros que ligam nós como residência, trabalho e lazer."
+      },
+      "D": {
+        "status": "errada",
+        "explicacao": "A alternativa D não corresponde à combinação conceitual exigida pelo enunciado. Compare-a com o conceito correto: Na Teoria do Padrão Criminal, caminhos são os trajetos rotineiros que ligam nós como residência, trabalho e lazer."
+      },
+      "E": {
+        "status": "errada",
+        "explicacao": "A alternativa E não corresponde à combinação conceitual exigida pelo enunciado. Compare-a com o conceito correto: Na Teoria do Padrão Criminal, caminhos são os trajetos rotineiros que ligam nós como residência, trabalho e lazer."
+      }
+    },
+    "feedback_correta": "✅ Correto! Na Teoria do Padrão Criminal, caminhos são os trajetos rotineiros que ligam nós como residência, trabalho e lazer.\n\n💡 Para fixar: Nós = lugares; caminhos = ligações; bordas = limites.",
+    "feedback_errada": "❌ Incorreto. O gabarito é C) Caminhos.\n\n📌 Na Teoria do Padrão Criminal, caminhos são os trajetos rotineiros que ligam nós como residência, trabalho e lazer.\n\n💡 Para fixar: Nós = lugares; caminhos = ligações; bordas = limites."
   },
   {
     "id": "rptd-006",
@@ -135,13 +295,45 @@
     ],
     "correta": "D) Redução (Reduction) da incerteza, por meio da busca ativa e coleta de informações adicionais sobre a situação.",
     "gabarito_oficial": "D",
-    "comentario": "Gabarito oficial: alternativa D.",
+    "comentario": "✅ RESPOSTA CORRETA: D) Redução (Reduction) da incerteza, por meio da busca ativa e coleta de informações adicionais sobre a situação.\n\n📌 POR QUE ESTÁ CORRETA?\nReduction (Redução) ocorre quando a equipe busca ativamente informações adicionais para diminuir a incerteza.\n\n❌ POR QUE AS OUTRAS ESTÃO ERRADAS?\n• A) A alternativa A não corresponde à combinação conceitual exigida pelo enunciado. Compare-a com o conceito correto: Reduction (Redução) ocorre quando a equipe busca ativamente informações adicionais para diminuir a incerteza.\n• B) A alternativa B não corresponde à combinação conceitual exigida pelo enunciado. Compare-a com o conceito correto: Reduction (Redução) ocorre quando a equipe busca ativamente informações adicionais para diminuir a incerteza.\n• C) A alternativa C não corresponde à combinação conceitual exigida pelo enunciado. Compare-a com o conceito correto: Reduction (Redução) ocorre quando a equipe busca ativamente informações adicionais para diminuir a incerteza.\n• E) A alternativa E não corresponde à combinação conceitual exigida pelo enunciado. Compare-a com o conceito correto: Reduction (Redução) ocorre quando a equipe busca ativamente informações adicionais para diminuir a incerteza.\n\n💡 DICA PARA MEMORIZAR\nReduction = buscar informação.",
     "nivel": "média",
     "anulada": false,
     "ativa": true,
     "respondida": false,
     "status": "ATIVA",
-    "fonte": "Texto colado(7).txt - RPTD"
+    "fonte": "Texto colado(7).txt - RPTD",
+    "porque_resposta_correta": "Reduction (Redução) ocorre quando a equipe busca ativamente informações adicionais para diminuir a incerteza.",
+    "dica_memorizacao": "Reduction = buscar informação.",
+    "porque_respostas_erradas": {
+      "A": "A alternativa A não corresponde à combinação conceitual exigida pelo enunciado. Compare-a com o conceito correto: Reduction (Redução) ocorre quando a equipe busca ativamente informações adicionais para diminuir a incerteza.",
+      "B": "A alternativa B não corresponde à combinação conceitual exigida pelo enunciado. Compare-a com o conceito correto: Reduction (Redução) ocorre quando a equipe busca ativamente informações adicionais para diminuir a incerteza.",
+      "C": "A alternativa C não corresponde à combinação conceitual exigida pelo enunciado. Compare-a com o conceito correto: Reduction (Redução) ocorre quando a equipe busca ativamente informações adicionais para diminuir a incerteza.",
+      "E": "A alternativa E não corresponde à combinação conceitual exigida pelo enunciado. Compare-a com o conceito correto: Reduction (Redução) ocorre quando a equipe busca ativamente informações adicionais para diminuir a incerteza."
+    },
+    "analise_alternativas": {
+      "A": {
+        "status": "errada",
+        "explicacao": "A alternativa A não corresponde à combinação conceitual exigida pelo enunciado. Compare-a com o conceito correto: Reduction (Redução) ocorre quando a equipe busca ativamente informações adicionais para diminuir a incerteza."
+      },
+      "B": {
+        "status": "errada",
+        "explicacao": "A alternativa B não corresponde à combinação conceitual exigida pelo enunciado. Compare-a com o conceito correto: Reduction (Redução) ocorre quando a equipe busca ativamente informações adicionais para diminuir a incerteza."
+      },
+      "C": {
+        "status": "errada",
+        "explicacao": "A alternativa C não corresponde à combinação conceitual exigida pelo enunciado. Compare-a com o conceito correto: Reduction (Redução) ocorre quando a equipe busca ativamente informações adicionais para diminuir a incerteza."
+      },
+      "D": {
+        "status": "correta",
+        "explicacao": "Reduction (Redução) ocorre quando a equipe busca ativamente informações adicionais para diminuir a incerteza."
+      },
+      "E": {
+        "status": "errada",
+        "explicacao": "A alternativa E não corresponde à combinação conceitual exigida pelo enunciado. Compare-a com o conceito correto: Reduction (Redução) ocorre quando a equipe busca ativamente informações adicionais para diminuir a incerteza."
+      }
+    },
+    "feedback_correta": "✅ Correto! Reduction (Redução) ocorre quando a equipe busca ativamente informações adicionais para diminuir a incerteza.\n\n💡 Para fixar: Reduction = buscar informação.",
+    "feedback_errada": "❌ Incorreto. O gabarito é D) Redução (Reduction) da incerteza, por meio da busca ativa e coleta de informações adicionais sobre a situação..\n\n📌 Reduction (Redução) ocorre quando a equipe busca ativamente informações adicionais para diminuir a incerteza.\n\n💡 Para fixar: Reduction = buscar informação."
   },
   {
     "id": "rptd-007",
@@ -159,13 +351,45 @@
     ],
     "correta": "C) Abordar as causas subjacentes dos delitos para prevenir crimes futuros.",
     "gabarito_oficial": "C",
-    "comentario": "Gabarito oficial: alternativa C.",
+    "comentario": "✅ RESPOSTA CORRETA: C) Abordar as causas subjacentes dos delitos para prevenir crimes futuros.\n\n📌 POR QUE ESTÁ CORRETA?\nO POP procura compreender e tratar causas subjacentes de incidentes recorrentes para reduzir sua repetição e prevenir novos delitos.\n\n❌ POR QUE AS OUTRAS ESTÃO ERRADAS?\n• A) A alternativa A não corresponde à combinação conceitual exigida pelo enunciado. Compare-a com o conceito correto: O POP procura compreender e tratar causas subjacentes de incidentes recorrentes para reduzir sua repetição e prevenir novos delitos.\n• B) A alternativa B não corresponde à combinação conceitual exigida pelo enunciado. Compare-a com o conceito correto: O POP procura compreender e tratar causas subjacentes de incidentes recorrentes para reduzir sua repetição e prevenir novos delitos.\n• D) A alternativa D não corresponde à combinação conceitual exigida pelo enunciado. Compare-a com o conceito correto: O POP procura compreender e tratar causas subjacentes de incidentes recorrentes para reduzir sua repetição e prevenir novos delitos.\n• E) A alternativa E não corresponde à combinação conceitual exigida pelo enunciado. Compare-a com o conceito correto: O POP procura compreender e tratar causas subjacentes de incidentes recorrentes para reduzir sua repetição e prevenir novos delitos.\n\n💡 DICA PARA MEMORIZAR\nPOP trata causas, não apenas chamadas.",
     "nivel": "média",
     "anulada": false,
     "ativa": true,
     "respondida": false,
     "status": "ATIVA",
-    "fonte": "Texto colado(7).txt - RPTD"
+    "fonte": "Texto colado(7).txt - RPTD",
+    "porque_resposta_correta": "O POP procura compreender e tratar causas subjacentes de incidentes recorrentes para reduzir sua repetição e prevenir novos delitos.",
+    "dica_memorizacao": "POP trata causas, não apenas chamadas.",
+    "porque_respostas_erradas": {
+      "A": "A alternativa A não corresponde à combinação conceitual exigida pelo enunciado. Compare-a com o conceito correto: O POP procura compreender e tratar causas subjacentes de incidentes recorrentes para reduzir sua repetição e prevenir novos delitos.",
+      "B": "A alternativa B não corresponde à combinação conceitual exigida pelo enunciado. Compare-a com o conceito correto: O POP procura compreender e tratar causas subjacentes de incidentes recorrentes para reduzir sua repetição e prevenir novos delitos.",
+      "D": "A alternativa D não corresponde à combinação conceitual exigida pelo enunciado. Compare-a com o conceito correto: O POP procura compreender e tratar causas subjacentes de incidentes recorrentes para reduzir sua repetição e prevenir novos delitos.",
+      "E": "A alternativa E não corresponde à combinação conceitual exigida pelo enunciado. Compare-a com o conceito correto: O POP procura compreender e tratar causas subjacentes de incidentes recorrentes para reduzir sua repetição e prevenir novos delitos."
+    },
+    "analise_alternativas": {
+      "A": {
+        "status": "errada",
+        "explicacao": "A alternativa A não corresponde à combinação conceitual exigida pelo enunciado. Compare-a com o conceito correto: O POP procura compreender e tratar causas subjacentes de incidentes recorrentes para reduzir sua repetição e prevenir novos delitos."
+      },
+      "B": {
+        "status": "errada",
+        "explicacao": "A alternativa B não corresponde à combinação conceitual exigida pelo enunciado. Compare-a com o conceito correto: O POP procura compreender e tratar causas subjacentes de incidentes recorrentes para reduzir sua repetição e prevenir novos delitos."
+      },
+      "C": {
+        "status": "correta",
+        "explicacao": "O POP procura compreender e tratar causas subjacentes de incidentes recorrentes para reduzir sua repetição e prevenir novos delitos."
+      },
+      "D": {
+        "status": "errada",
+        "explicacao": "A alternativa D não corresponde à combinação conceitual exigida pelo enunciado. Compare-a com o conceito correto: O POP procura compreender e tratar causas subjacentes de incidentes recorrentes para reduzir sua repetição e prevenir novos delitos."
+      },
+      "E": {
+        "status": "errada",
+        "explicacao": "A alternativa E não corresponde à combinação conceitual exigida pelo enunciado. Compare-a com o conceito correto: O POP procura compreender e tratar causas subjacentes de incidentes recorrentes para reduzir sua repetição e prevenir novos delitos."
+      }
+    },
+    "feedback_correta": "✅ Correto! O POP procura compreender e tratar causas subjacentes de incidentes recorrentes para reduzir sua repetição e prevenir novos delitos.\n\n💡 Para fixar: POP trata causas, não apenas chamadas.",
+    "feedback_errada": "❌ Incorreto. O gabarito é C) Abordar as causas subjacentes dos delitos para prevenir crimes futuros..\n\n📌 O POP procura compreender e tratar causas subjacentes de incidentes recorrentes para reduzir sua repetição e prevenir novos delitos.\n\n💡 Para fixar: POP trata causas, não apenas chamadas."
   },
   {
     "id": "rptd-008",
@@ -183,13 +407,45 @@
     ],
     "correta": "A) Autor, Vítima e Ambiente.",
     "gabarito_oficial": "A",
-    "comentario": "Gabarito oficial: alternativa A.",
+    "comentario": "✅ RESPOSTA CORRETA: A) Autor, Vítima e Ambiente.\n\n📌 POR QUE ESTÁ CORRETA?\nO Triângulo de Análise do Problema é formado por Autor/Agressor, Vítima/Alvo e Ambiente/Local.\n\n❌ POR QUE AS OUTRAS ESTÃO ERRADAS?\n• B) A alternativa B não corresponde à combinação conceitual exigida pelo enunciado. Compare-a com o conceito correto: O Triângulo de Análise do Problema é formado por Autor/Agressor, Vítima/Alvo e Ambiente/Local.\n• C) A alternativa C não corresponde à combinação conceitual exigida pelo enunciado. Compare-a com o conceito correto: O Triângulo de Análise do Problema é formado por Autor/Agressor, Vítima/Alvo e Ambiente/Local.\n• D) A alternativa D não corresponde à combinação conceitual exigida pelo enunciado. Compare-a com o conceito correto: O Triângulo de Análise do Problema é formado por Autor/Agressor, Vítima/Alvo e Ambiente/Local.\n• E) A alternativa E não corresponde à combinação conceitual exigida pelo enunciado. Compare-a com o conceito correto: O Triângulo de Análise do Problema é formado por Autor/Agressor, Vítima/Alvo e Ambiente/Local.\n\n💡 DICA PARA MEMORIZAR\nTriângulo: autor, vítima e ambiente.",
     "nivel": "média",
     "anulada": false,
     "ativa": true,
     "respondida": false,
     "status": "ATIVA",
-    "fonte": "Texto colado(7).txt - RPTD"
+    "fonte": "Texto colado(7).txt - RPTD",
+    "porque_resposta_correta": "O Triângulo de Análise do Problema é formado por Autor/Agressor, Vítima/Alvo e Ambiente/Local.",
+    "dica_memorizacao": "Triângulo: autor, vítima e ambiente.",
+    "porque_respostas_erradas": {
+      "B": "A alternativa B não corresponde à combinação conceitual exigida pelo enunciado. Compare-a com o conceito correto: O Triângulo de Análise do Problema é formado por Autor/Agressor, Vítima/Alvo e Ambiente/Local.",
+      "C": "A alternativa C não corresponde à combinação conceitual exigida pelo enunciado. Compare-a com o conceito correto: O Triângulo de Análise do Problema é formado por Autor/Agressor, Vítima/Alvo e Ambiente/Local.",
+      "D": "A alternativa D não corresponde à combinação conceitual exigida pelo enunciado. Compare-a com o conceito correto: O Triângulo de Análise do Problema é formado por Autor/Agressor, Vítima/Alvo e Ambiente/Local.",
+      "E": "A alternativa E não corresponde à combinação conceitual exigida pelo enunciado. Compare-a com o conceito correto: O Triângulo de Análise do Problema é formado por Autor/Agressor, Vítima/Alvo e Ambiente/Local."
+    },
+    "analise_alternativas": {
+      "A": {
+        "status": "correta",
+        "explicacao": "O Triângulo de Análise do Problema é formado por Autor/Agressor, Vítima/Alvo e Ambiente/Local."
+      },
+      "B": {
+        "status": "errada",
+        "explicacao": "A alternativa B não corresponde à combinação conceitual exigida pelo enunciado. Compare-a com o conceito correto: O Triângulo de Análise do Problema é formado por Autor/Agressor, Vítima/Alvo e Ambiente/Local."
+      },
+      "C": {
+        "status": "errada",
+        "explicacao": "A alternativa C não corresponde à combinação conceitual exigida pelo enunciado. Compare-a com o conceito correto: O Triângulo de Análise do Problema é formado por Autor/Agressor, Vítima/Alvo e Ambiente/Local."
+      },
+      "D": {
+        "status": "errada",
+        "explicacao": "A alternativa D não corresponde à combinação conceitual exigida pelo enunciado. Compare-a com o conceito correto: O Triângulo de Análise do Problema é formado por Autor/Agressor, Vítima/Alvo e Ambiente/Local."
+      },
+      "E": {
+        "status": "errada",
+        "explicacao": "A alternativa E não corresponde à combinação conceitual exigida pelo enunciado. Compare-a com o conceito correto: O Triângulo de Análise do Problema é formado por Autor/Agressor, Vítima/Alvo e Ambiente/Local."
+      }
+    },
+    "feedback_correta": "✅ Correto! O Triângulo de Análise do Problema é formado por Autor/Agressor, Vítima/Alvo e Ambiente/Local.\n\n💡 Para fixar: Triângulo: autor, vítima e ambiente.",
+    "feedback_errada": "❌ Incorreto. O gabarito é A) Autor, Vítima e Ambiente..\n\n📌 O Triângulo de Análise do Problema é formado por Autor/Agressor, Vítima/Alvo e Ambiente/Local.\n\n💡 Para fixar: Triângulo: autor, vítima e ambiente."
   },
   {
     "id": "rptd-009",
@@ -207,13 +463,45 @@
     ],
     "correta": "C) Simulação mental.",
     "gabarito_oficial": "C",
-    "comentario": "Gabarito oficial: alternativa C.",
+    "comentario": "✅ RESPOSTA CORRETA: C) Simulação mental.\n\n📌 POR QUE ESTÁ CORRETA?\nNo RPD, simulação mental é o teste interno de um curso de ação plausível antes da execução real.\n\n❌ POR QUE AS OUTRAS ESTÃO ERRADAS?\n• A) A alternativa A não corresponde à combinação conceitual exigida pelo enunciado. Compare-a com o conceito correto: No RPD, simulação mental é o teste interno de um curso de ação plausível antes da execução real.\n• B) A alternativa B não corresponde à combinação conceitual exigida pelo enunciado. Compare-a com o conceito correto: No RPD, simulação mental é o teste interno de um curso de ação plausível antes da execução real.\n• D) A alternativa D não corresponde à combinação conceitual exigida pelo enunciado. Compare-a com o conceito correto: No RPD, simulação mental é o teste interno de um curso de ação plausível antes da execução real.\n• E) A alternativa E não corresponde à combinação conceitual exigida pelo enunciado. Compare-a com o conceito correto: No RPD, simulação mental é o teste interno de um curso de ação plausível antes da execução real.\n\n💡 DICA PARA MEMORIZAR\nRPD: reconhecer → gerar opção → simular.",
     "nivel": "média",
     "anulada": false,
     "ativa": true,
     "respondida": false,
     "status": "ATIVA",
-    "fonte": "Texto colado(7).txt - RPTD"
+    "fonte": "Texto colado(7).txt - RPTD",
+    "porque_resposta_correta": "No RPD, simulação mental é o teste interno de um curso de ação plausível antes da execução real.",
+    "dica_memorizacao": "RPD: reconhecer → gerar opção → simular.",
+    "porque_respostas_erradas": {
+      "A": "A alternativa A não corresponde à combinação conceitual exigida pelo enunciado. Compare-a com o conceito correto: No RPD, simulação mental é o teste interno de um curso de ação plausível antes da execução real.",
+      "B": "A alternativa B não corresponde à combinação conceitual exigida pelo enunciado. Compare-a com o conceito correto: No RPD, simulação mental é o teste interno de um curso de ação plausível antes da execução real.",
+      "D": "A alternativa D não corresponde à combinação conceitual exigida pelo enunciado. Compare-a com o conceito correto: No RPD, simulação mental é o teste interno de um curso de ação plausível antes da execução real.",
+      "E": "A alternativa E não corresponde à combinação conceitual exigida pelo enunciado. Compare-a com o conceito correto: No RPD, simulação mental é o teste interno de um curso de ação plausível antes da execução real."
+    },
+    "analise_alternativas": {
+      "A": {
+        "status": "errada",
+        "explicacao": "A alternativa A não corresponde à combinação conceitual exigida pelo enunciado. Compare-a com o conceito correto: No RPD, simulação mental é o teste interno de um curso de ação plausível antes da execução real."
+      },
+      "B": {
+        "status": "errada",
+        "explicacao": "A alternativa B não corresponde à combinação conceitual exigida pelo enunciado. Compare-a com o conceito correto: No RPD, simulação mental é o teste interno de um curso de ação plausível antes da execução real."
+      },
+      "C": {
+        "status": "correta",
+        "explicacao": "No RPD, simulação mental é o teste interno de um curso de ação plausível antes da execução real."
+      },
+      "D": {
+        "status": "errada",
+        "explicacao": "A alternativa D não corresponde à combinação conceitual exigida pelo enunciado. Compare-a com o conceito correto: No RPD, simulação mental é o teste interno de um curso de ação plausível antes da execução real."
+      },
+      "E": {
+        "status": "errada",
+        "explicacao": "A alternativa E não corresponde à combinação conceitual exigida pelo enunciado. Compare-a com o conceito correto: No RPD, simulação mental é o teste interno de um curso de ação plausível antes da execução real."
+      }
+    },
+    "feedback_correta": "✅ Correto! No RPD, simulação mental é o teste interno de um curso de ação plausível antes da execução real.\n\n💡 Para fixar: RPD: reconhecer → gerar opção → simular.",
+    "feedback_errada": "❌ Incorreto. O gabarito é C) Simulação mental..\n\n📌 No RPD, simulação mental é o teste interno de um curso de ação plausível antes da execução real.\n\n💡 Para fixar: RPD: reconhecer → gerar opção → simular."
   },
   {
     "id": "rptd-010",
@@ -231,13 +519,45 @@
     ],
     "correta": "B) Escolher uma alternativa que atinja um nível de aspiração preestabelecido, sendo considerada suficiente e satisfatória.",
     "gabarito_oficial": "B",
-    "comentario": "Gabarito oficial: alternativa B.",
+    "comentario": "✅ RESPOSTA CORRETA: B) Escolher uma alternativa que atinja um nível de aspiração preestabelecido, sendo considerada suficiente e satisfatória.\n\n📌 POR QUE ESTÁ CORRETA?\nSatisficing é aceitar uma alternativa suficientemente adequada ao nível mínimo de aspiração, em vez de buscar indefinidamente a solução perfeita.\n\n❌ POR QUE AS OUTRAS ESTÃO ERRADAS?\n• A) A alternativa A não corresponde à combinação conceitual exigida pelo enunciado. Compare-a com o conceito correto: Satisficing é aceitar uma alternativa suficientemente adequada ao nível mínimo de aspiração, em vez de buscar indefinidamente a solução perfeita.\n• C) A alternativa C não corresponde à combinação conceitual exigida pelo enunciado. Compare-a com o conceito correto: Satisficing é aceitar uma alternativa suficientemente adequada ao nível mínimo de aspiração, em vez de buscar indefinidamente a solução perfeita.\n• D) A alternativa D não corresponde à combinação conceitual exigida pelo enunciado. Compare-a com o conceito correto: Satisficing é aceitar uma alternativa suficientemente adequada ao nível mínimo de aspiração, em vez de buscar indefinidamente a solução perfeita.\n• E) A alternativa E não corresponde à combinação conceitual exigida pelo enunciado. Compare-a com o conceito correto: Satisficing é aceitar uma alternativa suficientemente adequada ao nível mínimo de aspiração, em vez de buscar indefinidamente a solução perfeita.\n\n💡 DICA PARA MEMORIZAR\nSatisficing = bom o suficiente para cumprir os requisitos.",
     "nivel": "média",
     "anulada": false,
     "ativa": true,
     "respondida": false,
     "status": "ATIVA",
-    "fonte": "Texto colado(7).txt - RPTD"
+    "fonte": "Texto colado(7).txt - RPTD",
+    "porque_resposta_correta": "Satisficing é aceitar uma alternativa suficientemente adequada ao nível mínimo de aspiração, em vez de buscar indefinidamente a solução perfeita.",
+    "dica_memorizacao": "Satisficing = bom o suficiente para cumprir os requisitos.",
+    "porque_respostas_erradas": {
+      "A": "A alternativa A não corresponde à combinação conceitual exigida pelo enunciado. Compare-a com o conceito correto: Satisficing é aceitar uma alternativa suficientemente adequada ao nível mínimo de aspiração, em vez de buscar indefinidamente a solução perfeita.",
+      "C": "A alternativa C não corresponde à combinação conceitual exigida pelo enunciado. Compare-a com o conceito correto: Satisficing é aceitar uma alternativa suficientemente adequada ao nível mínimo de aspiração, em vez de buscar indefinidamente a solução perfeita.",
+      "D": "A alternativa D não corresponde à combinação conceitual exigida pelo enunciado. Compare-a com o conceito correto: Satisficing é aceitar uma alternativa suficientemente adequada ao nível mínimo de aspiração, em vez de buscar indefinidamente a solução perfeita.",
+      "E": "A alternativa E não corresponde à combinação conceitual exigida pelo enunciado. Compare-a com o conceito correto: Satisficing é aceitar uma alternativa suficientemente adequada ao nível mínimo de aspiração, em vez de buscar indefinidamente a solução perfeita."
+    },
+    "analise_alternativas": {
+      "A": {
+        "status": "errada",
+        "explicacao": "A alternativa A não corresponde à combinação conceitual exigida pelo enunciado. Compare-a com o conceito correto: Satisficing é aceitar uma alternativa suficientemente adequada ao nível mínimo de aspiração, em vez de buscar indefinidamente a solução perfeita."
+      },
+      "B": {
+        "status": "correta",
+        "explicacao": "Satisficing é aceitar uma alternativa suficientemente adequada ao nível mínimo de aspiração, em vez de buscar indefinidamente a solução perfeita."
+      },
+      "C": {
+        "status": "errada",
+        "explicacao": "A alternativa C não corresponde à combinação conceitual exigida pelo enunciado. Compare-a com o conceito correto: Satisficing é aceitar uma alternativa suficientemente adequada ao nível mínimo de aspiração, em vez de buscar indefinidamente a solução perfeita."
+      },
+      "D": {
+        "status": "errada",
+        "explicacao": "A alternativa D não corresponde à combinação conceitual exigida pelo enunciado. Compare-a com o conceito correto: Satisficing é aceitar uma alternativa suficientemente adequada ao nível mínimo de aspiração, em vez de buscar indefinidamente a solução perfeita."
+      },
+      "E": {
+        "status": "errada",
+        "explicacao": "A alternativa E não corresponde à combinação conceitual exigida pelo enunciado. Compare-a com o conceito correto: Satisficing é aceitar uma alternativa suficientemente adequada ao nível mínimo de aspiração, em vez de buscar indefinidamente a solução perfeita."
+      }
+    },
+    "feedback_correta": "✅ Correto! Satisficing é aceitar uma alternativa suficientemente adequada ao nível mínimo de aspiração, em vez de buscar indefinidamente a solução perfeita.\n\n💡 Para fixar: Satisficing = bom o suficiente para cumprir os requisitos.",
+    "feedback_errada": "❌ Incorreto. O gabarito é B) Escolher uma alternativa que atinja um nível de aspiração preestabelecido, sendo considerada suficiente e satisfatória..\n\n📌 Satisficing é aceitar uma alternativa suficientemente adequada ao nível mínimo de aspiração, em vez de buscar indefinidamente a solução perfeita.\n\n💡 Para fixar: Satisficing = bom o suficiente para cumprir os requisitos."
   },
   {
     "id": "rptd-011",
@@ -255,13 +575,45 @@
     ],
     "correta": "E) Ignorar informações contraditórias ou inconsistentes presentes no ambiente em favor da decisão baseada em um único aspecto.",
     "gabarito_oficial": "E",
-    "comentario": "Gabarito oficial: alternativa E.",
+    "comentario": "✅ RESPOSTA CORRETA: E) Ignorar informações contraditórias ou inconsistentes presentes no ambiente em favor da decisão baseada em um único aspecto.\n\n📌 POR QUE ESTÁ CORRETA?\nO túnel cognitivo estreita a atenção e pode levar o decisor a privilegiar um único aspecto, ignorando sinais periféricos ou contraditórios.\n\n❌ POR QUE AS OUTRAS ESTÃO ERRADAS?\n• A) A alternativa A não corresponde à combinação conceitual exigida pelo enunciado. Compare-a com o conceito correto: O túnel cognitivo estreita a atenção e pode levar o decisor a privilegiar um único aspecto, ignorando sinais periféricos ou contraditórios.\n• B) A alternativa B não corresponde à combinação conceitual exigida pelo enunciado. Compare-a com o conceito correto: O túnel cognitivo estreita a atenção e pode levar o decisor a privilegiar um único aspecto, ignorando sinais periféricos ou contraditórios.\n• C) A alternativa C não corresponde à combinação conceitual exigida pelo enunciado. Compare-a com o conceito correto: O túnel cognitivo estreita a atenção e pode levar o decisor a privilegiar um único aspecto, ignorando sinais periféricos ou contraditórios.\n• D) A alternativa D não corresponde à combinação conceitual exigida pelo enunciado. Compare-a com o conceito correto: O túnel cognitivo estreita a atenção e pode levar o decisor a privilegiar um único aspecto, ignorando sinais periféricos ou contraditórios.\n\n💡 DICA PARA MEMORIZAR\nVisão de túnel = foco estreito.",
     "nivel": "média",
     "anulada": false,
     "ativa": true,
     "respondida": false,
     "status": "ATIVA",
-    "fonte": "Texto colado(7).txt - RPTD"
+    "fonte": "Texto colado(7).txt - RPTD",
+    "porque_resposta_correta": "O túnel cognitivo estreita a atenção e pode levar o decisor a privilegiar um único aspecto, ignorando sinais periféricos ou contraditórios.",
+    "dica_memorizacao": "Visão de túnel = foco estreito.",
+    "porque_respostas_erradas": {
+      "A": "A alternativa A não corresponde à combinação conceitual exigida pelo enunciado. Compare-a com o conceito correto: O túnel cognitivo estreita a atenção e pode levar o decisor a privilegiar um único aspecto, ignorando sinais periféricos ou contraditórios.",
+      "B": "A alternativa B não corresponde à combinação conceitual exigida pelo enunciado. Compare-a com o conceito correto: O túnel cognitivo estreita a atenção e pode levar o decisor a privilegiar um único aspecto, ignorando sinais periféricos ou contraditórios.",
+      "C": "A alternativa C não corresponde à combinação conceitual exigida pelo enunciado. Compare-a com o conceito correto: O túnel cognitivo estreita a atenção e pode levar o decisor a privilegiar um único aspecto, ignorando sinais periféricos ou contraditórios.",
+      "D": "A alternativa D não corresponde à combinação conceitual exigida pelo enunciado. Compare-a com o conceito correto: O túnel cognitivo estreita a atenção e pode levar o decisor a privilegiar um único aspecto, ignorando sinais periféricos ou contraditórios."
+    },
+    "analise_alternativas": {
+      "A": {
+        "status": "errada",
+        "explicacao": "A alternativa A não corresponde à combinação conceitual exigida pelo enunciado. Compare-a com o conceito correto: O túnel cognitivo estreita a atenção e pode levar o decisor a privilegiar um único aspecto, ignorando sinais periféricos ou contraditórios."
+      },
+      "B": {
+        "status": "errada",
+        "explicacao": "A alternativa B não corresponde à combinação conceitual exigida pelo enunciado. Compare-a com o conceito correto: O túnel cognitivo estreita a atenção e pode levar o decisor a privilegiar um único aspecto, ignorando sinais periféricos ou contraditórios."
+      },
+      "C": {
+        "status": "errada",
+        "explicacao": "A alternativa C não corresponde à combinação conceitual exigida pelo enunciado. Compare-a com o conceito correto: O túnel cognitivo estreita a atenção e pode levar o decisor a privilegiar um único aspecto, ignorando sinais periféricos ou contraditórios."
+      },
+      "D": {
+        "status": "errada",
+        "explicacao": "A alternativa D não corresponde à combinação conceitual exigida pelo enunciado. Compare-a com o conceito correto: O túnel cognitivo estreita a atenção e pode levar o decisor a privilegiar um único aspecto, ignorando sinais periféricos ou contraditórios."
+      },
+      "E": {
+        "status": "correta",
+        "explicacao": "O túnel cognitivo estreita a atenção e pode levar o decisor a privilegiar um único aspecto, ignorando sinais periféricos ou contraditórios."
+      }
+    },
+    "feedback_correta": "✅ Correto! O túnel cognitivo estreita a atenção e pode levar o decisor a privilegiar um único aspecto, ignorando sinais periféricos ou contraditórios.\n\n💡 Para fixar: Visão de túnel = foco estreito.",
+    "feedback_errada": "❌ Incorreto. O gabarito é E) Ignorar informações contraditórias ou inconsistentes presentes no ambiente em favor da decisão baseada em um único aspecto..\n\n📌 O túnel cognitivo estreita a atenção e pode levar o decisor a privilegiar um único aspecto, ignorando sinais periféricos ou contraditórios.\n\n💡 Para fixar: Visão de túnel = foco estreito."
   },
   {
     "id": "rptd-012",
@@ -279,13 +631,45 @@
     ],
     "correta": "D) Utilizam a técnica de chunking (fragmentação) para filtrar informações irrelevantes, focando no que é crítico e evitando a sobrecarga cognitiva.",
     "gabarito_oficial": "D",
-    "comentario": "Gabarito oficial: alternativa D.",
+    "comentario": "✅ RESPOSTA CORRETA: D) Utilizam a técnica de chunking (fragmentação) para filtrar informações irrelevantes, focando no que é crítico e evitando a sobrecarga cognitiva.\n\n📌 POR QUE ESTÁ CORRETA?\nNa NDM, a experiência favorece chunking e reconhecimento de padrões, permitindo filtrar informações irrelevantes e focar elementos críticos.\n\n❌ POR QUE AS OUTRAS ESTÃO ERRADAS?\n• A) A alternativa A não corresponde à combinação conceitual exigida pelo enunciado. Compare-a com o conceito correto: Na NDM, a experiência favorece chunking e reconhecimento de padrões, permitindo filtrar informações irrelevantes e focar elementos críticos.\n• B) A alternativa B não corresponde à combinação conceitual exigida pelo enunciado. Compare-a com o conceito correto: Na NDM, a experiência favorece chunking e reconhecimento de padrões, permitindo filtrar informações irrelevantes e focar elementos críticos.\n• C) A alternativa C não corresponde à combinação conceitual exigida pelo enunciado. Compare-a com o conceito correto: Na NDM, a experiência favorece chunking e reconhecimento de padrões, permitindo filtrar informações irrelevantes e focar elementos críticos.\n• E) A alternativa E não corresponde à combinação conceitual exigida pelo enunciado. Compare-a com o conceito correto: Na NDM, a experiência favorece chunking e reconhecimento de padrões, permitindo filtrar informações irrelevantes e focar elementos críticos.\n\n💡 DICA PARA MEMORIZAR\nExperiência melhora reconhecimento de padrões.",
     "nivel": "média",
     "anulada": false,
     "ativa": true,
     "respondida": false,
     "status": "ATIVA",
-    "fonte": "Texto colado(7).txt - RPTD"
+    "fonte": "Texto colado(7).txt - RPTD",
+    "porque_resposta_correta": "Na NDM, a experiência favorece chunking e reconhecimento de padrões, permitindo filtrar informações irrelevantes e focar elementos críticos.",
+    "dica_memorizacao": "Experiência melhora reconhecimento de padrões.",
+    "porque_respostas_erradas": {
+      "A": "A alternativa A não corresponde à combinação conceitual exigida pelo enunciado. Compare-a com o conceito correto: Na NDM, a experiência favorece chunking e reconhecimento de padrões, permitindo filtrar informações irrelevantes e focar elementos críticos.",
+      "B": "A alternativa B não corresponde à combinação conceitual exigida pelo enunciado. Compare-a com o conceito correto: Na NDM, a experiência favorece chunking e reconhecimento de padrões, permitindo filtrar informações irrelevantes e focar elementos críticos.",
+      "C": "A alternativa C não corresponde à combinação conceitual exigida pelo enunciado. Compare-a com o conceito correto: Na NDM, a experiência favorece chunking e reconhecimento de padrões, permitindo filtrar informações irrelevantes e focar elementos críticos.",
+      "E": "A alternativa E não corresponde à combinação conceitual exigida pelo enunciado. Compare-a com o conceito correto: Na NDM, a experiência favorece chunking e reconhecimento de padrões, permitindo filtrar informações irrelevantes e focar elementos críticos."
+    },
+    "analise_alternativas": {
+      "A": {
+        "status": "errada",
+        "explicacao": "A alternativa A não corresponde à combinação conceitual exigida pelo enunciado. Compare-a com o conceito correto: Na NDM, a experiência favorece chunking e reconhecimento de padrões, permitindo filtrar informações irrelevantes e focar elementos críticos."
+      },
+      "B": {
+        "status": "errada",
+        "explicacao": "A alternativa B não corresponde à combinação conceitual exigida pelo enunciado. Compare-a com o conceito correto: Na NDM, a experiência favorece chunking e reconhecimento de padrões, permitindo filtrar informações irrelevantes e focar elementos críticos."
+      },
+      "C": {
+        "status": "errada",
+        "explicacao": "A alternativa C não corresponde à combinação conceitual exigida pelo enunciado. Compare-a com o conceito correto: Na NDM, a experiência favorece chunking e reconhecimento de padrões, permitindo filtrar informações irrelevantes e focar elementos críticos."
+      },
+      "D": {
+        "status": "correta",
+        "explicacao": "Na NDM, a experiência favorece chunking e reconhecimento de padrões, permitindo filtrar informações irrelevantes e focar elementos críticos."
+      },
+      "E": {
+        "status": "errada",
+        "explicacao": "A alternativa E não corresponde à combinação conceitual exigida pelo enunciado. Compare-a com o conceito correto: Na NDM, a experiência favorece chunking e reconhecimento de padrões, permitindo filtrar informações irrelevantes e focar elementos críticos."
+      }
+    },
+    "feedback_correta": "✅ Correto! Na NDM, a experiência favorece chunking e reconhecimento de padrões, permitindo filtrar informações irrelevantes e focar elementos críticos.\n\n💡 Para fixar: Experiência melhora reconhecimento de padrões.",
+    "feedback_errada": "❌ Incorreto. O gabarito é D) Utilizam a técnica de chunking (fragmentação) para filtrar informações irrelevantes, focando no que é crítico e evitando a sobrecarga cognitiva..\n\n📌 Na NDM, a experiência favorece chunking e reconhecimento de padrões, permitindo filtrar informações irrelevantes e focar elementos críticos.\n\n💡 Para fixar: Experiência melhora reconhecimento de padrões."
   },
   {
     "id": "rptd-013",
@@ -303,13 +687,45 @@
     ],
     "correta": "B) Fatores Individuais.",
     "gabarito_oficial": "B",
-    "comentario": "Gabarito oficial: alternativa B.",
+    "comentario": "✅ RESPOSTA CORRETA: B) Fatores Individuais.\n\n📌 POR QUE ESTÁ CORRETA?\nUso de drogas, escolaridade e impulsividade são fatores ligados diretamente ao indivíduo e pertencem ao nível individual do Modelo Ecológico.\n\n❌ POR QUE AS OUTRAS ESTÃO ERRADAS?\n• A) A alternativa A não corresponde à combinação conceitual exigida pelo enunciado. Compare-a com o conceito correto: Uso de drogas, escolaridade e impulsividade são fatores ligados diretamente ao indivíduo e pertencem ao nível individual do Modelo Ecológico.\n• C) A alternativa C não corresponde à combinação conceitual exigida pelo enunciado. Compare-a com o conceito correto: Uso de drogas, escolaridade e impulsividade são fatores ligados diretamente ao indivíduo e pertencem ao nível individual do Modelo Ecológico.\n• D) A alternativa D não corresponde à combinação conceitual exigida pelo enunciado. Compare-a com o conceito correto: Uso de drogas, escolaridade e impulsividade são fatores ligados diretamente ao indivíduo e pertencem ao nível individual do Modelo Ecológico.\n• E) A alternativa E não corresponde à combinação conceitual exigida pelo enunciado. Compare-a com o conceito correto: Uso de drogas, escolaridade e impulsividade são fatores ligados diretamente ao indivíduo e pertencem ao nível individual do Modelo Ecológico.\n\n💡 DICA PARA MEMORIZAR\nIndividual → Relacionamento → Comunitário → Social.",
     "nivel": "média",
     "anulada": false,
     "ativa": true,
     "respondida": false,
     "status": "ATIVA",
-    "fonte": "Texto colado(7).txt - RPTD"
+    "fonte": "Texto colado(7).txt - RPTD",
+    "porque_resposta_correta": "Uso de drogas, escolaridade e impulsividade são fatores ligados diretamente ao indivíduo e pertencem ao nível individual do Modelo Ecológico.",
+    "dica_memorizacao": "Individual → Relacionamento → Comunitário → Social.",
+    "porque_respostas_erradas": {
+      "A": "A alternativa A não corresponde à combinação conceitual exigida pelo enunciado. Compare-a com o conceito correto: Uso de drogas, escolaridade e impulsividade são fatores ligados diretamente ao indivíduo e pertencem ao nível individual do Modelo Ecológico.",
+      "C": "A alternativa C não corresponde à combinação conceitual exigida pelo enunciado. Compare-a com o conceito correto: Uso de drogas, escolaridade e impulsividade são fatores ligados diretamente ao indivíduo e pertencem ao nível individual do Modelo Ecológico.",
+      "D": "A alternativa D não corresponde à combinação conceitual exigida pelo enunciado. Compare-a com o conceito correto: Uso de drogas, escolaridade e impulsividade são fatores ligados diretamente ao indivíduo e pertencem ao nível individual do Modelo Ecológico.",
+      "E": "A alternativa E não corresponde à combinação conceitual exigida pelo enunciado. Compare-a com o conceito correto: Uso de drogas, escolaridade e impulsividade são fatores ligados diretamente ao indivíduo e pertencem ao nível individual do Modelo Ecológico."
+    },
+    "analise_alternativas": {
+      "A": {
+        "status": "errada",
+        "explicacao": "A alternativa A não corresponde à combinação conceitual exigida pelo enunciado. Compare-a com o conceito correto: Uso de drogas, escolaridade e impulsividade são fatores ligados diretamente ao indivíduo e pertencem ao nível individual do Modelo Ecológico."
+      },
+      "B": {
+        "status": "correta",
+        "explicacao": "Uso de drogas, escolaridade e impulsividade são fatores ligados diretamente ao indivíduo e pertencem ao nível individual do Modelo Ecológico."
+      },
+      "C": {
+        "status": "errada",
+        "explicacao": "A alternativa C não corresponde à combinação conceitual exigida pelo enunciado. Compare-a com o conceito correto: Uso de drogas, escolaridade e impulsividade são fatores ligados diretamente ao indivíduo e pertencem ao nível individual do Modelo Ecológico."
+      },
+      "D": {
+        "status": "errada",
+        "explicacao": "A alternativa D não corresponde à combinação conceitual exigida pelo enunciado. Compare-a com o conceito correto: Uso de drogas, escolaridade e impulsividade são fatores ligados diretamente ao indivíduo e pertencem ao nível individual do Modelo Ecológico."
+      },
+      "E": {
+        "status": "errada",
+        "explicacao": "A alternativa E não corresponde à combinação conceitual exigida pelo enunciado. Compare-a com o conceito correto: Uso de drogas, escolaridade e impulsividade são fatores ligados diretamente ao indivíduo e pertencem ao nível individual do Modelo Ecológico."
+      }
+    },
+    "feedback_correta": "✅ Correto! Uso de drogas, escolaridade e impulsividade são fatores ligados diretamente ao indivíduo e pertencem ao nível individual do Modelo Ecológico.\n\n💡 Para fixar: Individual → Relacionamento → Comunitário → Social.",
+    "feedback_errada": "❌ Incorreto. O gabarito é B) Fatores Individuais..\n\n📌 Uso de drogas, escolaridade e impulsividade são fatores ligados diretamente ao indivíduo e pertencem ao nível individual do Modelo Ecológico.\n\n💡 Para fixar: Individual → Relacionamento → Comunitário → Social."
   },
   {
     "id": "rptd-014",
@@ -327,13 +743,45 @@
     ],
     "correta": "D) Ancoragem e ajustamento insuficiente.",
     "gabarito_oficial": "D",
-    "comentario": "Gabarito oficial: alternativa D.",
+    "comentario": "✅ RESPOSTA CORRETA: D) Ancoragem e ajustamento insuficiente.\n\n📌 POR QUE ESTÁ CORRETA?\nAncoragem e ajustamento insuficiente ocorre quando a informação inicial pesa excessivamente e as evidências novas não provocam revisão suficiente.\n\n❌ POR QUE AS OUTRAS ESTÃO ERRADAS?\n• A) A alternativa A não corresponde à combinação conceitual exigida pelo enunciado. Compare-a com o conceito correto: Ancoragem e ajustamento insuficiente ocorre quando a informação inicial pesa excessivamente e as evidências novas não provocam revisão suficiente.\n• B) A alternativa B não corresponde à combinação conceitual exigida pelo enunciado. Compare-a com o conceito correto: Ancoragem e ajustamento insuficiente ocorre quando a informação inicial pesa excessivamente e as evidências novas não provocam revisão suficiente.\n• C) A alternativa C não corresponde à combinação conceitual exigida pelo enunciado. Compare-a com o conceito correto: Ancoragem e ajustamento insuficiente ocorre quando a informação inicial pesa excessivamente e as evidências novas não provocam revisão suficiente.\n• E) A alternativa E não corresponde à combinação conceitual exigida pelo enunciado. Compare-a com o conceito correto: Ancoragem e ajustamento insuficiente ocorre quando a informação inicial pesa excessivamente e as evidências novas não provocam revisão suficiente.\n\n💡 DICA PARA MEMORIZAR\nÂncora = primeira informação pesa demais.",
     "nivel": "média",
     "anulada": false,
     "ativa": true,
     "respondida": false,
     "status": "ATIVA",
-    "fonte": "Texto colado(7).txt - RPTD"
+    "fonte": "Texto colado(7).txt - RPTD",
+    "porque_resposta_correta": "Ancoragem e ajustamento insuficiente ocorre quando a informação inicial pesa excessivamente e as evidências novas não provocam revisão suficiente.",
+    "dica_memorizacao": "Âncora = primeira informação pesa demais.",
+    "porque_respostas_erradas": {
+      "A": "A alternativa A não corresponde à combinação conceitual exigida pelo enunciado. Compare-a com o conceito correto: Ancoragem e ajustamento insuficiente ocorre quando a informação inicial pesa excessivamente e as evidências novas não provocam revisão suficiente.",
+      "B": "A alternativa B não corresponde à combinação conceitual exigida pelo enunciado. Compare-a com o conceito correto: Ancoragem e ajustamento insuficiente ocorre quando a informação inicial pesa excessivamente e as evidências novas não provocam revisão suficiente.",
+      "C": "A alternativa C não corresponde à combinação conceitual exigida pelo enunciado. Compare-a com o conceito correto: Ancoragem e ajustamento insuficiente ocorre quando a informação inicial pesa excessivamente e as evidências novas não provocam revisão suficiente.",
+      "E": "A alternativa E não corresponde à combinação conceitual exigida pelo enunciado. Compare-a com o conceito correto: Ancoragem e ajustamento insuficiente ocorre quando a informação inicial pesa excessivamente e as evidências novas não provocam revisão suficiente."
+    },
+    "analise_alternativas": {
+      "A": {
+        "status": "errada",
+        "explicacao": "A alternativa A não corresponde à combinação conceitual exigida pelo enunciado. Compare-a com o conceito correto: Ancoragem e ajustamento insuficiente ocorre quando a informação inicial pesa excessivamente e as evidências novas não provocam revisão suficiente."
+      },
+      "B": {
+        "status": "errada",
+        "explicacao": "A alternativa B não corresponde à combinação conceitual exigida pelo enunciado. Compare-a com o conceito correto: Ancoragem e ajustamento insuficiente ocorre quando a informação inicial pesa excessivamente e as evidências novas não provocam revisão suficiente."
+      },
+      "C": {
+        "status": "errada",
+        "explicacao": "A alternativa C não corresponde à combinação conceitual exigida pelo enunciado. Compare-a com o conceito correto: Ancoragem e ajustamento insuficiente ocorre quando a informação inicial pesa excessivamente e as evidências novas não provocam revisão suficiente."
+      },
+      "D": {
+        "status": "correta",
+        "explicacao": "Ancoragem e ajustamento insuficiente ocorre quando a informação inicial pesa excessivamente e as evidências novas não provocam revisão suficiente."
+      },
+      "E": {
+        "status": "errada",
+        "explicacao": "A alternativa E não corresponde à combinação conceitual exigida pelo enunciado. Compare-a com o conceito correto: Ancoragem e ajustamento insuficiente ocorre quando a informação inicial pesa excessivamente e as evidências novas não provocam revisão suficiente."
+      }
+    },
+    "feedback_correta": "✅ Correto! Ancoragem e ajustamento insuficiente ocorre quando a informação inicial pesa excessivamente e as evidências novas não provocam revisão suficiente.\n\n💡 Para fixar: Âncora = primeira informação pesa demais.",
+    "feedback_errada": "❌ Incorreto. O gabarito é D) Ancoragem e ajustamento insuficiente..\n\n📌 Ancoragem e ajustamento insuficiente ocorre quando a informação inicial pesa excessivamente e as evidências novas não provocam revisão suficiente.\n\n💡 Para fixar: Âncora = primeira informação pesa demais."
   },
   {
     "id": "rptd-015",
@@ -348,13 +796,20 @@
     ],
     "correta": "Falso",
     "gabarito_oficial": "F",
-    "comentario": "Gabarito oficial: F.",
+    "comentario": "✅ RESPOSTA CORRETA: Falso\n\n📌 EXPLICAÇÃO\nA afirmação é falsa: IARA significa Identificação, Análise, Resposta e Avaliação.\n\n💡 DICA PARA MEMORIZAR\nIARA = Identificação, Análise, Resposta e Avaliação.",
     "nivel": "média",
     "anulada": false,
     "ativa": true,
     "respondida": false,
     "status": "ATIVA",
-    "fonte": "Texto colado(7).txt - RPTD"
+    "fonte": "Texto colado(7).txt - RPTD",
+    "porque_resposta_correta": "A afirmação é falsa: IARA significa Identificação, Análise, Resposta e Avaliação.",
+    "dica_memorizacao": "IARA = Identificação, Análise, Resposta e Avaliação.",
+    "porque_respostas_erradas": {
+      "Verdadeiro": "Marcar Verdadeiro contraria a explicação do gabarito: A afirmação é falsa: IARA significa Identificação, Análise, Resposta e Avaliação."
+    },
+    "feedback_correta": "✅ Correto! A afirmação é falsa: IARA significa Identificação, Análise, Resposta e Avaliação.",
+    "feedback_errada": "❌ Incorreto. O gabarito é Falso. A afirmação é falsa: IARA significa Identificação, Análise, Resposta e Avaliação."
   },
   {
     "id": "rptd-016",
@@ -369,13 +824,20 @@
     ],
     "correta": "Verdadeiro",
     "gabarito_oficial": "V",
-    "comentario": "Gabarito oficial: V.",
+    "comentario": "✅ RESPOSTA CORRETA: Verdadeiro\n\n📌 EXPLICAÇÃO\nA afirmação é verdadeira: o nível comunitário considera condições do bairro e do espaço urbano, como degradação, desorganização e desordem física.\n\n💡 DICA PARA MEMORIZAR\nComunitário = bairro e ambiente local.",
     "nivel": "média",
     "anulada": false,
     "ativa": true,
     "respondida": false,
     "status": "ATIVA",
-    "fonte": "Texto colado(7).txt - RPTD"
+    "fonte": "Texto colado(7).txt - RPTD",
+    "porque_resposta_correta": "A afirmação é verdadeira: o nível comunitário considera condições do bairro e do espaço urbano, como degradação, desorganização e desordem física.",
+    "dica_memorizacao": "Comunitário = bairro e ambiente local.",
+    "porque_respostas_erradas": {
+      "Falso": "Marcar Falso contraria a explicação do gabarito: A afirmação é verdadeira: o nível comunitário considera condições do bairro e do espaço urbano, como degradação, desorganização e desordem física."
+    },
+    "feedback_correta": "✅ Correto! A afirmação é verdadeira: o nível comunitário considera condições do bairro e do espaço urbano, como degradação, desorganização e desordem física.",
+    "feedback_errada": "❌ Incorreto. O gabarito é Verdadeiro. A afirmação é verdadeira: o nível comunitário considera condições do bairro e do espaço urbano, como degradação, desorganização e desordem física."
   },
   {
     "id": "rptd-017",
@@ -390,13 +852,20 @@
     ],
     "correta": "Falso",
     "gabarito_oficial": "F",
-    "comentario": "Gabarito oficial: F.",
+    "comentario": "✅ RESPOSTA CORRETA: Falso\n\n📌 EXPLICAÇÃO\nA afirmação é falsa: satisficing não exige comparação exaustiva nem solução matematicamente ótima; procura uma alternativa suficientemente adequada.\n\n💡 DICA PARA MEMORIZAR\nSatisficing não é maximização.",
     "nivel": "média",
     "anulada": false,
     "ativa": true,
     "respondida": false,
     "status": "ATIVA",
-    "fonte": "Texto colado(7).txt - RPTD"
+    "fonte": "Texto colado(7).txt - RPTD",
+    "porque_resposta_correta": "A afirmação é falsa: satisficing não exige comparação exaustiva nem solução matematicamente ótima; procura uma alternativa suficientemente adequada.",
+    "dica_memorizacao": "Satisficing não é maximização.",
+    "porque_respostas_erradas": {
+      "Verdadeiro": "Marcar Verdadeiro contraria a explicação do gabarito: A afirmação é falsa: satisficing não exige comparação exaustiva nem solução matematicamente ótima; procura uma alternativa suficientemente adequada."
+    },
+    "feedback_correta": "✅ Correto! A afirmação é falsa: satisficing não exige comparação exaustiva nem solução matematicamente ótima; procura uma alternativa suficientemente adequada.",
+    "feedback_errada": "❌ Incorreto. O gabarito é Falso. A afirmação é falsa: satisficing não exige comparação exaustiva nem solução matematicamente ótima; procura uma alternativa suficientemente adequada."
   },
   {
     "id": "rptd-018",
@@ -411,13 +880,20 @@
     ],
     "correta": "Verdadeiro",
     "gabarito_oficial": "V",
-    "comentario": "Gabarito oficial: V.",
+    "comentario": "✅ RESPOSTA CORRETA: Verdadeiro\n\n📌 EXPLICAÇÃO\nConforme o gabarito informado, a afirmação está correta: a segunda variação do RPD enfatiza diagnóstico diante de ambiguidade e a terceira testa uma opção por simulação mental.\n\n💡 DICA PARA MEMORIZAR\nRPD usa diagnóstico e simulação mental.",
     "nivel": "média",
     "anulada": false,
     "ativa": true,
     "respondida": false,
     "status": "ATIVA",
-    "fonte": "Texto colado(7).txt - RPTD"
+    "fonte": "Texto colado(7).txt - RPTD",
+    "porque_resposta_correta": "Conforme o gabarito informado, a afirmação está correta: a segunda variação do RPD enfatiza diagnóstico diante de ambiguidade e a terceira testa uma opção por simulação mental.",
+    "dica_memorizacao": "RPD usa diagnóstico e simulação mental.",
+    "porque_respostas_erradas": {
+      "Falso": "Marcar Falso contraria a explicação do gabarito: Conforme o gabarito informado, a afirmação está correta: a segunda variação do RPD enfatiza diagnóstico diante de ambiguidade e a terceira testa uma opção por simulação mental."
+    },
+    "feedback_correta": "✅ Correto! Conforme o gabarito informado, a afirmação está correta: a segunda variação do RPD enfatiza diagnóstico diante de ambiguidade e a terceira testa uma opção por simulação mental.",
+    "feedback_errada": "❌ Incorreto. O gabarito é Verdadeiro. Conforme o gabarito informado, a afirmação está correta: a segunda variação do RPD enfatiza diagnóstico diante de ambiguidade e a terceira testa uma opção por simulação mental."
   },
   {
     "id": "rptd-019",
@@ -432,13 +908,20 @@
     ],
     "correta": "Falso",
     "gabarito_oficial": "F",
-    "comentario": "Gabarito oficial: F.",
+    "comentario": "✅ RESPOSTA CORRETA: Falso\n\n📌 EXPLICAÇÃO\nA afirmação é falsa: o Triângulo de Análise é empregado na fase de Análise, não na Avaliação, e uma resposta não precisa obrigatoriamente atuar de forma simultânea sobre os três vértices.\n\n💡 DICA PARA MEMORIZAR\nTriângulo é ferramenta de Análise.",
     "nivel": "média",
     "anulada": false,
     "ativa": true,
     "respondida": false,
     "status": "ATIVA",
-    "fonte": "Texto colado(7).txt - RPTD"
+    "fonte": "Texto colado(7).txt - RPTD",
+    "porque_resposta_correta": "A afirmação é falsa: o Triângulo de Análise é empregado na fase de Análise, não na Avaliação, e uma resposta não precisa obrigatoriamente atuar de forma simultânea sobre os três vértices.",
+    "dica_memorizacao": "Triângulo é ferramenta de Análise.",
+    "porque_respostas_erradas": {
+      "Verdadeiro": "Marcar Verdadeiro contraria a explicação do gabarito: A afirmação é falsa: o Triângulo de Análise é empregado na fase de Análise, não na Avaliação, e uma resposta não precisa obrigatoriamente atuar de forma simultânea sobre os três vértices."
+    },
+    "feedback_correta": "✅ Correto! A afirmação é falsa: o Triângulo de Análise é empregado na fase de Análise, não na Avaliação, e uma resposta não precisa obrigatoriamente atuar de forma simultânea sobre os três vértices.",
+    "feedback_errada": "❌ Incorreto. O gabarito é Falso. A afirmação é falsa: o Triângulo de Análise é empregado na fase de Análise, não na Avaliação, e uma resposta não precisa obrigatoriamente atuar de forma simultânea sobre os três vértices."
   },
   {
     "id": "rptd-020",
@@ -453,12 +936,1441 @@
     ],
     "correta": "Verdadeiro",
     "gabarito_oficial": "V",
-    "comentario": "Gabarito oficial: V.",
+    "comentario": "✅ RESPOSTA CORRETA: Verdadeiro\n\n📌 EXPLICAÇÃO\nA afirmação é verdadeira: baixa regulação, pouca vigilância, iluminação deficiente e deterioração ambiental podem facilitar oportunidades delitivas.\n\n💡 DICA PARA MEMORIZAR\nFacilitador = ambiente com baixa capacidade regulatória.",
     "nivel": "média",
     "anulada": false,
     "ativa": true,
     "respondida": false,
     "status": "ATIVA",
-    "fonte": "Texto colado(7).txt - RPTD"
+    "fonte": "Texto colado(7).txt - RPTD",
+    "porque_resposta_correta": "A afirmação é verdadeira: baixa regulação, pouca vigilância, iluminação deficiente e deterioração ambiental podem facilitar oportunidades delitivas.",
+    "dica_memorizacao": "Facilitador = ambiente com baixa capacidade regulatória.",
+    "porque_respostas_erradas": {
+      "Falso": "Marcar Falso contraria a explicação do gabarito: A afirmação é verdadeira: baixa regulação, pouca vigilância, iluminação deficiente e deterioração ambiental podem facilitar oportunidades delitivas."
+    },
+    "feedback_correta": "✅ Correto! A afirmação é verdadeira: baixa regulação, pouca vigilância, iluminação deficiente e deterioração ambiental podem facilitar oportunidades delitivas.",
+    "feedback_errada": "❌ Incorreto. O gabarito é Verdadeiro. A afirmação é verdadeira: baixa regulação, pouca vigilância, iluminação deficiente e deterioração ambiental podem facilitar oportunidades delitivas."
+  },
+  {
+    "id": "rptd-021",
+    "numero_original": 21,
+    "numero_no_pdf": 1,
+    "topico_numero": 21,
+    "topico": "POP: incidente, problema e atuação proativa",
+    "tipo": "multipla_escolha",
+    "pergunta": "Em determinado setor, a PM atende todas as sextas-feiras ocorrências semelhantes de furtos nas proximidades de uma casa noturna. Cada atendimento individual constitui um ________, enquanto a repetição desses eventos, apresentando padrão espacial e temporal, caracteriza um ________. Ao deixar de apenas atender cada chamado e passar a investigar suas causas subjacentes, a atuação policial migra de uma postura ________ para uma postura ________.",
+    "opcoes": [
+      "A) Problema; incidente; preventiva; repressiva.",
+      "B) Incidente; problema; reativa; proativa.",
+      "C) Incidente; gerador; analítica; reativa.",
+      "D) Problema; incidente; proativa; reativa.",
+      "E) Incidente; facilitador; operacional; estratégica."
+    ],
+    "correta": "B) Incidente; problema; reativa; proativa.",
+    "gabarito_oficial": "B",
+    "comentario_base_pdf": "Incidente é um evento isolado; problema é um conjunto recorrente de incidentes. O POP busca superar a atuação meramente reativa e adotar análise e intervenção proativas.",
+    "nivel": "média",
+    "anulada": false,
+    "ativa": true,
+    "respondida": false,
+    "status": "ATIVA",
+    "fonte": "Simulado_RPTD_Questoes_260913_232252.pdf; Simulado_RPTD_Gabarito_Comentado_260913_232325.pdf",
+    "lote_importacao": "simulado_rptd_260913_232325",
+    "porque_resposta_correta": "Incidente é um evento isolado; problema é um conjunto recorrente de incidentes. O POP busca superar a atuação meramente reativa e adotar análise e intervenção proativas.",
+    "porque_respostas_erradas": {
+      "A": "Inverte incidente e problema e também troca a evolução reativa → proativa.",
+      "C": "O padrão recorrente é problema, não gerador, e a atuação buscada não é reativa.",
+      "D": "Inverte incidente/problema e proativa/reativa.",
+      "E": "Facilitador não é o nome do padrão recorrente de incidentes."
+    },
+    "analise_alternativas": {
+      "A": {
+        "status": "errada",
+        "explicacao": "Inverte incidente e problema e também troca a evolução reativa → proativa."
+      },
+      "B": {
+        "status": "correta",
+        "explicacao": "Incidente é um evento isolado; problema é um conjunto recorrente de incidentes. O POP busca superar a atuação meramente reativa e adotar análise e intervenção proativas."
+      },
+      "C": {
+        "status": "errada",
+        "explicacao": "O padrão recorrente é problema, não gerador, e a atuação buscada não é reativa."
+      },
+      "D": {
+        "status": "errada",
+        "explicacao": "Inverte incidente/problema e proativa/reativa."
+      },
+      "E": {
+        "status": "errada",
+        "explicacao": "Facilitador não é o nome do padrão recorrente de incidentes."
+      }
+    },
+    "dica_memorizacao": "Incidente = isolado; problema = recorrente; POP = proativo.",
+    "comentario": "✅ RESPOSTA CORRETA: B) Incidente; problema; reativa; proativa.\n\n📌 POR QUE ESTÁ CORRETA?\nIncidente é um evento isolado; problema é um conjunto recorrente de incidentes. O POP busca superar a atuação meramente reativa e adotar análise e intervenção proativas.\n\n❌ POR QUE AS OUTRAS ESTÃO ERRADAS?\n• A) Inverte incidente e problema e também troca a evolução reativa → proativa.\n• C) O padrão recorrente é problema, não gerador, e a atuação buscada não é reativa.\n• D) Inverte incidente/problema e proativa/reativa.\n• E) Facilitador não é o nome do padrão recorrente de incidentes.\n\n💡 DICA PARA MEMORIZAR\nIncidente = isolado; problema = recorrente; POP = proativo.",
+    "feedback_correta": "✅ Muito bem! Incidente é um evento isolado; problema é um conjunto recorrente de incidentes. O POP busca superar a atuação meramente reativa e adotar análise e intervenção proativas.\n\n💡 Para fixar: Incidente = isolado; problema = recorrente; POP = proativo.",
+    "feedback_errada": "❌ Resposta incorreta. A alternativa correta é B) Incidente; problema; reativa; proativa..\n\n📌 Incidente é um evento isolado; problema é um conjunto recorrente de incidentes. O POP busca superar a atuação meramente reativa e adotar análise e intervenção proativas.\n\n❌ Compare as demais:\n• A) Inverte incidente e problema e também troca a evolução reativa → proativa.\n• C) O padrão recorrente é problema, não gerador, e a atuação buscada não é reativa.\n• D) Inverte incidente/problema e proativa/reativa.\n• E) Facilitador não é o nome do padrão recorrente de incidentes.\n\n💡 Para fixar: Incidente = isolado; problema = recorrente; POP = proativo."
+  },
+  {
+    "id": "rptd-022",
+    "numero_original": 22,
+    "numero_no_pdf": 2,
+    "topico_numero": 22,
+    "topico": "Criminologia Ambiental: geradores e atratores",
+    "tipo": "multipla_escolha",
+    "pergunta": "Durante a análise de furtos, a equipe verifica que um terminal rodoviário concentra grande circulação diária de pessoas. Próximo ao terminal há um ponto conhecido de tráfico que atrai deliberadamente infratores. Na Criminologia Ambiental, esses locais correspondem, respectivamente, a:",
+    "opcoes": [
+      "A) Atrator e facilitador.",
+      "B) Facilitador e gerador.",
+      "C) Gerador e atrator.",
+      "D) Gerador e facilitador.",
+      "E) Atrator e gerador."
+    ],
+    "correta": "C) Gerador e atrator.",
+    "gabarito_oficial": "C",
+    "comentario_base_pdf": "Geradores concentram pessoas pelas atividades normais; atratores possuem características ou reputação que atraem infratores intencionalmente.",
+    "nivel": "média",
+    "anulada": false,
+    "ativa": true,
+    "respondida": false,
+    "status": "ATIVA",
+    "fonte": "Simulado_RPTD_Questoes_260913_232252.pdf; Simulado_RPTD_Gabarito_Comentado_260913_232325.pdf",
+    "lote_importacao": "simulado_rptd_260913_232325",
+    "porque_resposta_correta": "Geradores concentram pessoas pelas atividades normais; atratores possuem características ou reputação que atraem infratores intencionalmente.",
+    "porque_respostas_erradas": {
+      "A": "Grande circulação cotidiana caracteriza gerador; o ponto que atrai infratores deliberadamente é atrator.",
+      "B": "Facilitador é ambiente com baixa regulação, não o terminal movimentado.",
+      "D": "O segundo local atrai infratores e, portanto, é atrator, não facilitador.",
+      "E": "As duas classificações aparecem invertidas."
+    },
+    "analise_alternativas": {
+      "A": {
+        "status": "errada",
+        "explicacao": "Grande circulação cotidiana caracteriza gerador; o ponto que atrai infratores deliberadamente é atrator."
+      },
+      "B": {
+        "status": "errada",
+        "explicacao": "Facilitador é ambiente com baixa regulação, não o terminal movimentado."
+      },
+      "C": {
+        "status": "correta",
+        "explicacao": "Geradores concentram pessoas pelas atividades normais; atratores possuem características ou reputação que atraem infratores intencionalmente."
+      },
+      "D": {
+        "status": "errada",
+        "explicacao": "O segundo local atrai infratores e, portanto, é atrator, não facilitador."
+      },
+      "E": {
+        "status": "errada",
+        "explicacao": "As duas classificações aparecem invertidas."
+      }
+    },
+    "dica_memorizacao": "Gerador = fluxo normal; atrator = atrai infratores.",
+    "comentario": "✅ RESPOSTA CORRETA: C) Gerador e atrator.\n\n📌 POR QUE ESTÁ CORRETA?\nGeradores concentram pessoas pelas atividades normais; atratores possuem características ou reputação que atraem infratores intencionalmente.\n\n❌ POR QUE AS OUTRAS ESTÃO ERRADAS?\n• A) Grande circulação cotidiana caracteriza gerador; o ponto que atrai infratores deliberadamente é atrator.\n• B) Facilitador é ambiente com baixa regulação, não o terminal movimentado.\n• D) O segundo local atrai infratores e, portanto, é atrator, não facilitador.\n• E) As duas classificações aparecem invertidas.\n\n💡 DICA PARA MEMORIZAR\nGerador = fluxo normal; atrator = atrai infratores.",
+    "feedback_correta": "✅ Muito bem! Geradores concentram pessoas pelas atividades normais; atratores possuem características ou reputação que atraem infratores intencionalmente.\n\n💡 Para fixar: Gerador = fluxo normal; atrator = atrai infratores.",
+    "feedback_errada": "❌ Resposta incorreta. A alternativa correta é C) Gerador e atrator..\n\n📌 Geradores concentram pessoas pelas atividades normais; atratores possuem características ou reputação que atraem infratores intencionalmente.\n\n❌ Compare as demais:\n• A) Grande circulação cotidiana caracteriza gerador; o ponto que atrai infratores deliberadamente é atrator.\n• B) Facilitador é ambiente com baixa regulação, não o terminal movimentado.\n• D) O segundo local atrai infratores e, portanto, é atrator, não facilitador.\n• E) As duas classificações aparecem invertidas.\n\n💡 Para fixar: Gerador = fluxo normal; atrator = atrai infratores."
+  },
+  {
+    "id": "rptd-023",
+    "numero_original": 23,
+    "numero_no_pdf": 3,
+    "topico_numero": 23,
+    "topico": "Método IARA",
+    "tipo": "multipla_escolha",
+    "pergunta": "Durante a fase de ________ do IARA, a equipe identifica que roubos recorrentes estão relacionados à iluminação precária, vegetação que reduz a visibilidade e ausência de vigilância. Depois, na fase de ________, são instaladas luminárias e câmeras e realizada poda. Após determinado período, os índices são medidos durante a ________.",
+    "opcoes": [
+      "A) Identificação; Análise; Resposta.",
+      "B) Análise; Resposta; Avaliação.",
+      "C) Resposta; Identificação; Avaliação.",
+      "D) Análise; Avaliação; Resposta.",
+      "E) Identificação; Resposta; Análise."
+    ],
+    "correta": "B) Análise; Resposta; Avaliação.",
+    "gabarito_oficial": "B",
+    "comentario_base_pdf": "IARA: Identificação reconhece o problema; Análise investiga causas; Resposta implementa medidas; Avaliação mede os resultados.",
+    "nivel": "média",
+    "anulada": false,
+    "ativa": true,
+    "respondida": false,
+    "status": "ATIVA",
+    "fonte": "Simulado_RPTD_Questoes_260913_232252.pdf; Simulado_RPTD_Gabarito_Comentado_260913_232325.pdf",
+    "lote_importacao": "simulado_rptd_260913_232325",
+    "porque_resposta_correta": "IARA: Identificação reconhece o problema; Análise investiga causas; Resposta implementa medidas; Avaliação mede os resultados.",
+    "porque_respostas_erradas": {
+      "A": "A primeira lacuna descreve investigação de causas, portanto Análise; a última é Avaliação.",
+      "C": "Resposta não é fase de descobrir causas e Identificação não instala medidas.",
+      "D": "Depois da Análise vem a Resposta; Avaliação ocorre posteriormente.",
+      "E": "O enunciado já está investigando causas, portanto não está na Identificação."
+    },
+    "analise_alternativas": {
+      "A": {
+        "status": "errada",
+        "explicacao": "A primeira lacuna descreve investigação de causas, portanto Análise; a última é Avaliação."
+      },
+      "B": {
+        "status": "correta",
+        "explicacao": "IARA: Identificação reconhece o problema; Análise investiga causas; Resposta implementa medidas; Avaliação mede os resultados."
+      },
+      "C": {
+        "status": "errada",
+        "explicacao": "Resposta não é fase de descobrir causas e Identificação não instala medidas."
+      },
+      "D": {
+        "status": "errada",
+        "explicacao": "Depois da Análise vem a Resposta; Avaliação ocorre posteriormente."
+      },
+      "E": {
+        "status": "errada",
+        "explicacao": "O enunciado já está investigando causas, portanto não está na Identificação."
+      }
+    },
+    "dica_memorizacao": "IARA: Identificação → Análise → Resposta → Avaliação.",
+    "comentario": "✅ RESPOSTA CORRETA: B) Análise; Resposta; Avaliação.\n\n📌 POR QUE ESTÁ CORRETA?\nIARA: Identificação reconhece o problema; Análise investiga causas; Resposta implementa medidas; Avaliação mede os resultados.\n\n❌ POR QUE AS OUTRAS ESTÃO ERRADAS?\n• A) A primeira lacuna descreve investigação de causas, portanto Análise; a última é Avaliação.\n• C) Resposta não é fase de descobrir causas e Identificação não instala medidas.\n• D) Depois da Análise vem a Resposta; Avaliação ocorre posteriormente.\n• E) O enunciado já está investigando causas, portanto não está na Identificação.\n\n💡 DICA PARA MEMORIZAR\nIARA: Identificação → Análise → Resposta → Avaliação.",
+    "feedback_correta": "✅ Muito bem! IARA: Identificação reconhece o problema; Análise investiga causas; Resposta implementa medidas; Avaliação mede os resultados.\n\n💡 Para fixar: IARA: Identificação → Análise → Resposta → Avaliação.",
+    "feedback_errada": "❌ Resposta incorreta. A alternativa correta é B) Análise; Resposta; Avaliação..\n\n📌 IARA: Identificação reconhece o problema; Análise investiga causas; Resposta implementa medidas; Avaliação mede os resultados.\n\n❌ Compare as demais:\n• A) A primeira lacuna descreve investigação de causas, portanto Análise; a última é Avaliação.\n• C) Resposta não é fase de descobrir causas e Identificação não instala medidas.\n• D) Depois da Análise vem a Resposta; Avaliação ocorre posteriormente.\n• E) O enunciado já está investigando causas, portanto não está na Identificação.\n\n💡 Para fixar: IARA: Identificação → Análise → Resposta → Avaliação."
+  },
+  {
+    "id": "rptd-024",
+    "numero_original": 24,
+    "numero_no_pdf": 4,
+    "topico_numero": 24,
+    "topico": "Teoria das Atividades Rotineiras",
+    "tipo": "multipla_escolha",
+    "pergunta": "Uma área comercial recebe milhares de pessoas. Um infrator identifica usuários com celulares ostensivos e ausência de policiais, seguranças ou câmeras capazes de exercer vigilância. Segundo a Teoria das Atividades Rotineiras, a oportunidade criminal decorre da convergência entre:",
+    "opcoes": [
+      "A) Gerador + atrator + facilitador.",
+      "B) Agressor motivado + alvo adequado + ausência de guardião capaz.",
+      "C) Agressor + ambiente degradado + caminho.",
+      "D) Alvo + nó + ausência de bordas.",
+      "E) Agressor + vítima + presença de guardião."
+    ],
+    "correta": "B) Agressor motivado + alvo adequado + ausência de guardião capaz.",
+    "gabarito_oficial": "B",
+    "comentario_base_pdf": "A oportunidade surge com ofensor motivado, alvo adequado e ausência de guardião capaz. Romper um desses elementos reduz a oportunidade criminal.",
+    "nivel": "média",
+    "anulada": false,
+    "ativa": true,
+    "respondida": false,
+    "status": "ATIVA",
+    "fonte": "Simulado_RPTD_Questoes_260913_232252.pdf; Simulado_RPTD_Gabarito_Comentado_260913_232325.pdf",
+    "lote_importacao": "simulado_rptd_260913_232325",
+    "porque_resposta_correta": "A oportunidade surge com ofensor motivado, alvo adequado e ausência de guardião capaz. Romper um desses elementos reduz a oportunidade criminal.",
+    "porque_respostas_erradas": {
+      "A": "Gerador/atrator/facilitador são classificações ambientais, não a tríade das Atividades Rotineiras.",
+      "C": "Ambiente degradado e caminho pertencem a outras abordagens.",
+      "D": "Nó e borda são conceitos do Padrão Criminal.",
+      "E": "A presença de guardião capaz rompe a oportunidade em vez de completá-la."
+    },
+    "analise_alternativas": {
+      "A": {
+        "status": "errada",
+        "explicacao": "Gerador/atrator/facilitador são classificações ambientais, não a tríade das Atividades Rotineiras."
+      },
+      "B": {
+        "status": "correta",
+        "explicacao": "A oportunidade surge com ofensor motivado, alvo adequado e ausência de guardião capaz. Romper um desses elementos reduz a oportunidade criminal."
+      },
+      "C": {
+        "status": "errada",
+        "explicacao": "Ambiente degradado e caminho pertencem a outras abordagens."
+      },
+      "D": {
+        "status": "errada",
+        "explicacao": "Nó e borda são conceitos do Padrão Criminal."
+      },
+      "E": {
+        "status": "errada",
+        "explicacao": "A presença de guardião capaz rompe a oportunidade em vez de completá-la."
+      }
+    },
+    "dica_memorizacao": "Atividades Rotineiras: ofensor + alvo + ausência de guardião.",
+    "comentario": "✅ RESPOSTA CORRETA: B) Agressor motivado + alvo adequado + ausência de guardião capaz.\n\n📌 POR QUE ESTÁ CORRETA?\nA oportunidade surge com ofensor motivado, alvo adequado e ausência de guardião capaz. Romper um desses elementos reduz a oportunidade criminal.\n\n❌ POR QUE AS OUTRAS ESTÃO ERRADAS?\n• A) Gerador/atrator/facilitador são classificações ambientais, não a tríade das Atividades Rotineiras.\n• C) Ambiente degradado e caminho pertencem a outras abordagens.\n• D) Nó e borda são conceitos do Padrão Criminal.\n• E) A presença de guardião capaz rompe a oportunidade em vez de completá-la.\n\n💡 DICA PARA MEMORIZAR\nAtividades Rotineiras: ofensor + alvo + ausência de guardião.",
+    "feedback_correta": "✅ Muito bem! A oportunidade surge com ofensor motivado, alvo adequado e ausência de guardião capaz. Romper um desses elementos reduz a oportunidade criminal.\n\n💡 Para fixar: Atividades Rotineiras: ofensor + alvo + ausência de guardião.",
+    "feedback_errada": "❌ Resposta incorreta. A alternativa correta é B) Agressor motivado + alvo adequado + ausência de guardião capaz..\n\n📌 A oportunidade surge com ofensor motivado, alvo adequado e ausência de guardião capaz. Romper um desses elementos reduz a oportunidade criminal.\n\n❌ Compare as demais:\n• A) Gerador/atrator/facilitador são classificações ambientais, não a tríade das Atividades Rotineiras.\n• C) Ambiente degradado e caminho pertencem a outras abordagens.\n• D) Nó e borda são conceitos do Padrão Criminal.\n• E) A presença de guardião capaz rompe a oportunidade em vez de completá-la.\n\n💡 Para fixar: Atividades Rotineiras: ofensor + alvo + ausência de guardião."
+  },
+  {
+    "id": "rptd-025",
+    "numero_original": 25,
+    "numero_no_pdf": 5,
+    "topico_numero": 25,
+    "topico": "RAWFS: Reduction",
+    "tipo": "multipla_escolha",
+    "pergunta": "Durante o deslocamento para ocorrência de indivíduo supostamente armado, o comandante solicita ao COPOM características adicionais, consulta imagens disponíveis e procura saber quantos suspeitos existem. No RAWFS, essa conduta representa:",
+    "opcoes": [
+      "A) Suppression (Supressão).",
+      "B) Assumption (Suposição).",
+      "C) Weighing (Pesagem/Ponderação).",
+      "D) Reduction (Redução).",
+      "E) Forestalling (Prevenção/Antecipação)."
+    ],
+    "correta": "D) Reduction (Redução).",
+    "gabarito_oficial": "D",
+    "comentario_base_pdf": "Reduction (Redução) significa buscar ativamente informações adicionais para diminuir a incerteza.",
+    "nivel": "média",
+    "anulada": false,
+    "ativa": true,
+    "respondida": false,
+    "status": "ATIVA",
+    "fonte": "Simulado_RPTD_Questoes_260913_232252.pdf; Simulado_RPTD_Gabarito_Comentado_260913_232325.pdf",
+    "lote_importacao": "simulado_rptd_260913_232325",
+    "porque_resposta_correta": "Reduction (Redução) significa buscar ativamente informações adicionais para diminuir a incerteza.",
+    "porque_respostas_erradas": {
+      "A": "Suppression é deixar incertezas menores de lado.",
+      "B": "Assumption preenche lacunas com pressupostos plausíveis.",
+      "C": "Weighing compara alternativas em conflito.",
+      "E": "Forestalling antecipa consequências e prepara contingências."
+    },
+    "analise_alternativas": {
+      "A": {
+        "status": "errada",
+        "explicacao": "Suppression é deixar incertezas menores de lado."
+      },
+      "B": {
+        "status": "errada",
+        "explicacao": "Assumption preenche lacunas com pressupostos plausíveis."
+      },
+      "C": {
+        "status": "errada",
+        "explicacao": "Weighing compara alternativas em conflito."
+      },
+      "D": {
+        "status": "correta",
+        "explicacao": "Reduction (Redução) significa buscar ativamente informações adicionais para diminuir a incerteza."
+      },
+      "E": {
+        "status": "errada",
+        "explicacao": "Forestalling antecipa consequências e prepara contingências."
+      }
+    },
+    "dica_memorizacao": "Reduction = buscar informação.",
+    "comentario": "✅ RESPOSTA CORRETA: D) Reduction (Redução).\n\n📌 POR QUE ESTÁ CORRETA?\nReduction (Redução) significa buscar ativamente informações adicionais para diminuir a incerteza.\n\n❌ POR QUE AS OUTRAS ESTÃO ERRADAS?\n• A) Suppression é deixar incertezas menores de lado.\n• B) Assumption preenche lacunas com pressupostos plausíveis.\n• C) Weighing compara alternativas em conflito.\n• E) Forestalling antecipa consequências e prepara contingências.\n\n💡 DICA PARA MEMORIZAR\nReduction = buscar informação.",
+    "feedback_correta": "✅ Muito bem! Reduction (Redução) significa buscar ativamente informações adicionais para diminuir a incerteza.\n\n💡 Para fixar: Reduction = buscar informação.",
+    "feedback_errada": "❌ Resposta incorreta. A alternativa correta é D) Reduction (Redução)..\n\n📌 Reduction (Redução) significa buscar ativamente informações adicionais para diminuir a incerteza.\n\n❌ Compare as demais:\n• A) Suppression é deixar incertezas menores de lado.\n• B) Assumption preenche lacunas com pressupostos plausíveis.\n• C) Weighing compara alternativas em conflito.\n• E) Forestalling antecipa consequências e prepara contingências.\n\n💡 Para fixar: Reduction = buscar informação."
+  },
+  {
+    "id": "rptd-026",
+    "numero_original": 26,
+    "numero_no_pdf": 6,
+    "topico_numero": 26,
+    "topico": "RAWFS: Suppression",
+    "tipo": "multipla_escolha",
+    "pergunta": "Não existe tempo suficiente para eliminar todas as incertezas. A equipe desconsidera informações secundárias que não impedem a intervenção e concentra-se nos elementos essenciais da doutrina para agir. No RAWFS, ocorre predominantemente:",
+    "opcoes": [
+      "A) Reduction (Redução).",
+      "B) Suppression (Supressão).",
+      "C) Weighing (Pesagem/Ponderação).",
+      "D) Forestalling (Prevenção/Antecipação).",
+      "E) Assumption (Suposição)."
+    ],
+    "correta": "B) Suppression (Supressão).",
+    "gabarito_oficial": "B",
+    "comentario_base_pdf": "Suppression (Supressão) é ignorar incertezas ou ruídos menores para manter foco e permitir a ação.",
+    "nivel": "média",
+    "anulada": false,
+    "ativa": true,
+    "respondida": false,
+    "status": "ATIVA",
+    "fonte": "Simulado_RPTD_Questoes_260913_232252.pdf; Simulado_RPTD_Gabarito_Comentado_260913_232325.pdf",
+    "lote_importacao": "simulado_rptd_260913_232325",
+    "porque_resposta_correta": "Suppression (Supressão) é ignorar incertezas ou ruídos menores para manter foco e permitir a ação.",
+    "porque_respostas_erradas": {
+      "A": "Reduction busca novos dados; aqui a equipe deixa ruídos secundários de lado.",
+      "C": "Weighing exige alternativas concorrentes.",
+      "D": "Forestalling prepara contingências futuras.",
+      "E": "Assumption preenche lacunas; não significa simplesmente ignorar ruídos."
+    },
+    "analise_alternativas": {
+      "A": {
+        "status": "errada",
+        "explicacao": "Reduction busca novos dados; aqui a equipe deixa ruídos secundários de lado."
+      },
+      "B": {
+        "status": "correta",
+        "explicacao": "Suppression (Supressão) é ignorar incertezas ou ruídos menores para manter foco e permitir a ação."
+      },
+      "C": {
+        "status": "errada",
+        "explicacao": "Weighing exige alternativas concorrentes."
+      },
+      "D": {
+        "status": "errada",
+        "explicacao": "Forestalling prepara contingências futuras."
+      },
+      "E": {
+        "status": "errada",
+        "explicacao": "Assumption preenche lacunas; não significa simplesmente ignorar ruídos."
+      }
+    },
+    "dica_memorizacao": "Suppression = deixar ruído menor de lado.",
+    "comentario": "✅ RESPOSTA CORRETA: B) Suppression (Supressão).\n\n📌 POR QUE ESTÁ CORRETA?\nSuppression (Supressão) é ignorar incertezas ou ruídos menores para manter foco e permitir a ação.\n\n❌ POR QUE AS OUTRAS ESTÃO ERRADAS?\n• A) Reduction busca novos dados; aqui a equipe deixa ruídos secundários de lado.\n• C) Weighing exige alternativas concorrentes.\n• D) Forestalling prepara contingências futuras.\n• E) Assumption preenche lacunas; não significa simplesmente ignorar ruídos.\n\n💡 DICA PARA MEMORIZAR\nSuppression = deixar ruído menor de lado.",
+    "feedback_correta": "✅ Muito bem! Suppression (Supressão) é ignorar incertezas ou ruídos menores para manter foco e permitir a ação.\n\n💡 Para fixar: Suppression = deixar ruído menor de lado.",
+    "feedback_errada": "❌ Resposta incorreta. A alternativa correta é B) Suppression (Supressão)..\n\n📌 Suppression (Supressão) é ignorar incertezas ou ruídos menores para manter foco e permitir a ação.\n\n❌ Compare as demais:\n• A) Reduction busca novos dados; aqui a equipe deixa ruídos secundários de lado.\n• C) Weighing exige alternativas concorrentes.\n• D) Forestalling prepara contingências futuras.\n• E) Assumption preenche lacunas; não significa simplesmente ignorar ruídos.\n\n💡 Para fixar: Suppression = deixar ruído menor de lado."
+  },
+  {
+    "id": "rptd-027",
+    "numero_original": 27,
+    "numero_no_pdf": 7,
+    "topico_numero": 27,
+    "topico": "RAWFS: Weighing",
+    "tipo": "multipla_escolha",
+    "pergunta": "Há duas alternativas de alto risco: perseguir um agressor armado ou interromper a perseguição para socorrer uma vítima gravemente ferida. A equipe avalia rapidamente vantagens, riscos e consequências. A situação envolve ________ e o mecanismo RAWFS correspondente é ________.",
+    "opcoes": [
+      "A) Falta de informação; Reduction (Redução).",
+      "B) Compreensão inadequada; Assumption (Suposição).",
+      "C) Alternativas em conflito; Weighing (Pesagem/Ponderação).",
+      "D) Falta de informação; Suppression (Supressão).",
+      "E) Ambiguidade; Forestalling (Prevenção/Antecipação)."
+    ],
+    "correta": "C) Alternativas em conflito; Weighing (Pesagem/Ponderação).",
+    "gabarito_oficial": "C",
+    "comentario_base_pdf": "Alternativas em conflito exigem ponderação rápida. Weighing (Pesagem/Ponderação) avalia prós e contras em curto espaço de tempo.",
+    "nivel": "média",
+    "anulada": false,
+    "ativa": true,
+    "respondida": false,
+    "status": "ATIVA",
+    "fonte": "Simulado_RPTD_Questoes_260913_232252.pdf; Simulado_RPTD_Gabarito_Comentado_260913_232325.pdf",
+    "lote_importacao": "simulado_rptd_260913_232325",
+    "porque_resposta_correta": "Alternativas em conflito exigem ponderação rápida. Weighing (Pesagem/Ponderação) avalia prós e contras em curto espaço de tempo.",
+    "porque_respostas_erradas": {
+      "A": "O problema é conflito entre cursos de ação, não simples falta de informação.",
+      "B": "Não há compreensão inadequada; há duas opções concorrentes.",
+      "D": "Suppression não pondera prós e contras.",
+      "E": "Forestalling é antecipação, não comparação imediata entre duas opções."
+    },
+    "analise_alternativas": {
+      "A": {
+        "status": "errada",
+        "explicacao": "O problema é conflito entre cursos de ação, não simples falta de informação."
+      },
+      "B": {
+        "status": "errada",
+        "explicacao": "Não há compreensão inadequada; há duas opções concorrentes."
+      },
+      "C": {
+        "status": "correta",
+        "explicacao": "Alternativas em conflito exigem ponderação rápida. Weighing (Pesagem/Ponderação) avalia prós e contras em curto espaço de tempo."
+      },
+      "D": {
+        "status": "errada",
+        "explicacao": "Suppression não pondera prós e contras."
+      },
+      "E": {
+        "status": "errada",
+        "explicacao": "Forestalling é antecipação, não comparação imediata entre duas opções."
+      }
+    },
+    "dica_memorizacao": "Weighing = ponderar alternativas em conflito.",
+    "comentario": "✅ RESPOSTA CORRETA: C) Alternativas em conflito; Weighing (Pesagem/Ponderação).\n\n📌 POR QUE ESTÁ CORRETA?\nAlternativas em conflito exigem ponderação rápida. Weighing (Pesagem/Ponderação) avalia prós e contras em curto espaço de tempo.\n\n❌ POR QUE AS OUTRAS ESTÃO ERRADAS?\n• A) O problema é conflito entre cursos de ação, não simples falta de informação.\n• B) Não há compreensão inadequada; há duas opções concorrentes.\n• D) Suppression não pondera prós e contras.\n• E) Forestalling é antecipação, não comparação imediata entre duas opções.\n\n💡 DICA PARA MEMORIZAR\nWeighing = ponderar alternativas em conflito.",
+    "feedback_correta": "✅ Muito bem! Alternativas em conflito exigem ponderação rápida. Weighing (Pesagem/Ponderação) avalia prós e contras em curto espaço de tempo.\n\n💡 Para fixar: Weighing = ponderar alternativas em conflito.",
+    "feedback_errada": "❌ Resposta incorreta. A alternativa correta é C) Alternativas em conflito; Weighing (Pesagem/Ponderação)..\n\n📌 Alternativas em conflito exigem ponderação rápida. Weighing (Pesagem/Ponderação) avalia prós e contras em curto espaço de tempo.\n\n❌ Compare as demais:\n• A) O problema é conflito entre cursos de ação, não simples falta de informação.\n• B) Não há compreensão inadequada; há duas opções concorrentes.\n• D) Suppression não pondera prós e contras.\n• E) Forestalling é antecipação, não comparação imediata entre duas opções.\n\n💡 Para fixar: Weighing = ponderar alternativas em conflito."
+  },
+  {
+    "id": "rptd-028",
+    "numero_original": 28,
+    "numero_no_pdf": 8,
+    "topico_numero": 28,
+    "topico": "RPD — Recognition-Primed Decision",
+    "tipo": "multipla_escolha",
+    "pergunta": "Um policial experiente reconhece uma configuração semelhante a ocorrências anteriores. Em vez de comparar simultaneamente várias alternativas, gera um curso de ação plausível e imagina suas consequências antes de executá-lo. Essa dinâmica corresponde principalmente ao:",
+    "opcoes": [
+      "A) PDCA (Planejar, Executar, Verificar e Agir).",
+      "B) Ishikawa (Diagrama de causa e efeito).",
+      "C) RPD — Recognition-Primed Decision (Decisão Baseada no Reconhecimento).",
+      "D) SWOT (Forças, Fraquezas, Oportunidades e Ameaças).",
+      "E) IARA (Identificação, Análise, Resposta e Avaliação)."
+    ],
+    "correta": "C) RPD — Recognition-Primed Decision (Decisão Baseada no Reconhecimento).",
+    "gabarito_oficial": "C",
+    "comentario_base_pdf": "No RPD (Decisão Baseada no Reconhecimento), a experiência permite reconhecer padrões, gerar uma opção plausível e testá-la por simulação mental.",
+    "nivel": "média",
+    "anulada": false,
+    "ativa": true,
+    "respondida": false,
+    "status": "ATIVA",
+    "fonte": "Simulado_RPTD_Questoes_260913_232252.pdf; Simulado_RPTD_Gabarito_Comentado_260913_232325.pdf",
+    "lote_importacao": "simulado_rptd_260913_232325",
+    "porque_resposta_correta": "No RPD (Decisão Baseada no Reconhecimento), a experiência permite reconhecer padrões, gerar uma opção plausível e testá-la por simulação mental.",
+    "porque_respostas_erradas": {
+      "A": "PDCA é ciclo de melhoria gerencial.",
+      "B": "Ishikawa organiza causas e efeitos.",
+      "D": "SWOT analisa forças, fraquezas, oportunidades e ameaças.",
+      "E": "IARA é método de resolução de problemas, não modelo de decisão naturalista."
+    },
+    "analise_alternativas": {
+      "A": {
+        "status": "errada",
+        "explicacao": "PDCA é ciclo de melhoria gerencial."
+      },
+      "B": {
+        "status": "errada",
+        "explicacao": "Ishikawa organiza causas e efeitos."
+      },
+      "C": {
+        "status": "correta",
+        "explicacao": "No RPD (Decisão Baseada no Reconhecimento), a experiência permite reconhecer padrões, gerar uma opção plausível e testá-la por simulação mental."
+      },
+      "D": {
+        "status": "errada",
+        "explicacao": "SWOT analisa forças, fraquezas, oportunidades e ameaças."
+      },
+      "E": {
+        "status": "errada",
+        "explicacao": "IARA é método de resolução de problemas, não modelo de decisão naturalista."
+      }
+    },
+    "dica_memorizacao": "RPD = reconhecer → gerar opção → simular.",
+    "comentario": "✅ RESPOSTA CORRETA: C) RPD — Recognition-Primed Decision (Decisão Baseada no Reconhecimento).\n\n📌 POR QUE ESTÁ CORRETA?\nNo RPD (Decisão Baseada no Reconhecimento), a experiência permite reconhecer padrões, gerar uma opção plausível e testá-la por simulação mental.\n\n❌ POR QUE AS OUTRAS ESTÃO ERRADAS?\n• A) PDCA é ciclo de melhoria gerencial.\n• B) Ishikawa organiza causas e efeitos.\n• D) SWOT analisa forças, fraquezas, oportunidades e ameaças.\n• E) IARA é método de resolução de problemas, não modelo de decisão naturalista.\n\n💡 DICA PARA MEMORIZAR\nRPD = reconhecer → gerar opção → simular.",
+    "feedback_correta": "✅ Muito bem! No RPD (Decisão Baseada no Reconhecimento), a experiência permite reconhecer padrões, gerar uma opção plausível e testá-la por simulação mental.\n\n💡 Para fixar: RPD = reconhecer → gerar opção → simular.",
+    "feedback_errada": "❌ Resposta incorreta. A alternativa correta é C) RPD — Recognition-Primed Decision (Decisão Baseada no Reconhecimento)..\n\n📌 No RPD (Decisão Baseada no Reconhecimento), a experiência permite reconhecer padrões, gerar uma opção plausível e testá-la por simulação mental.\n\n❌ Compare as demais:\n• A) PDCA é ciclo de melhoria gerencial.\n• B) Ishikawa organiza causas e efeitos.\n• D) SWOT analisa forças, fraquezas, oportunidades e ameaças.\n• E) IARA é método de resolução de problemas, não modelo de decisão naturalista.\n\n💡 Para fixar: RPD = reconhecer → gerar opção → simular."
+  },
+  {
+    "id": "rptd-029",
+    "numero_original": 29,
+    "numero_no_pdf": 9,
+    "topico_numero": 29,
+    "topico": "Viés de confirmação",
+    "tipo": "multipla_escolha",
+    "pergunta": "Um policial recebe pelo rádio a informação de que um homem de camiseta preta está armado. Mesmo após surgirem evidências indicando outro indivíduo como possível autor, continua direcionando a atenção ao primeiro e interpreta os novos dados de modo compatível com a hipótese inicial. O fenômeno aproxima-se principalmente de:",
+    "opcoes": [
+      "A) Satisficing (solução satisfatória/suficiente).",
+      "B) Viés de confirmação.",
+      "C) Simulação mental.",
+      "D) Chunking (agrupamento de informações).",
+      "E) Racionalidade ilimitada."
+    ],
+    "correta": "B) Viés de confirmação.",
+    "gabarito_oficial": "B",
+    "comentario_base_pdf": "O viés de confirmação favorece a hipótese inicial e reduz a consideração de evidências contraditórias.",
+    "nivel": "média",
+    "anulada": false,
+    "ativa": true,
+    "respondida": false,
+    "status": "ATIVA",
+    "fonte": "Simulado_RPTD_Questoes_260913_232252.pdf; Simulado_RPTD_Gabarito_Comentado_260913_232325.pdf",
+    "lote_importacao": "simulado_rptd_260913_232325",
+    "porque_resposta_correta": "O viés de confirmação favorece a hipótese inicial e reduz a consideração de evidências contraditórias.",
+    "porque_respostas_erradas": {
+      "A": "Satisficing é aceitar uma opção suficientemente boa.",
+      "C": "Simulação mental testa um curso de ação.",
+      "D": "Chunking agrupa informações em padrões significativos.",
+      "E": "Racionalidade ilimitada não explica a fixação na hipótese inicial."
+    },
+    "analise_alternativas": {
+      "A": {
+        "status": "errada",
+        "explicacao": "Satisficing é aceitar uma opção suficientemente boa."
+      },
+      "B": {
+        "status": "correta",
+        "explicacao": "O viés de confirmação favorece a hipótese inicial e reduz a consideração de evidências contraditórias."
+      },
+      "C": {
+        "status": "errada",
+        "explicacao": "Simulação mental testa um curso de ação."
+      },
+      "D": {
+        "status": "errada",
+        "explicacao": "Chunking agrupa informações em padrões significativos."
+      },
+      "E": {
+        "status": "errada",
+        "explicacao": "Racionalidade ilimitada não explica a fixação na hipótese inicial."
+      }
+    },
+    "dica_memorizacao": "Viés de confirmação favorece a hipótese inicial.",
+    "comentario": "✅ RESPOSTA CORRETA: B) Viés de confirmação.\n\n📌 POR QUE ESTÁ CORRETA?\nO viés de confirmação favorece a hipótese inicial e reduz a consideração de evidências contraditórias.\n\n❌ POR QUE AS OUTRAS ESTÃO ERRADAS?\n• A) Satisficing é aceitar uma opção suficientemente boa.\n• C) Simulação mental testa um curso de ação.\n• D) Chunking agrupa informações em padrões significativos.\n• E) Racionalidade ilimitada não explica a fixação na hipótese inicial.\n\n💡 DICA PARA MEMORIZAR\nViés de confirmação favorece a hipótese inicial.",
+    "feedback_correta": "✅ Muito bem! O viés de confirmação favorece a hipótese inicial e reduz a consideração de evidências contraditórias.\n\n💡 Para fixar: Viés de confirmação favorece a hipótese inicial.",
+    "feedback_errada": "❌ Resposta incorreta. A alternativa correta é B) Viés de confirmação..\n\n📌 O viés de confirmação favorece a hipótese inicial e reduz a consideração de evidências contraditórias.\n\n❌ Compare as demais:\n• A) Satisficing é aceitar uma opção suficientemente boa.\n• C) Simulação mental testa um curso de ação.\n• D) Chunking agrupa informações em padrões significativos.\n• E) Racionalidade ilimitada não explica a fixação na hipótese inicial.\n\n💡 Para fixar: Viés de confirmação favorece a hipótese inicial."
+  },
+  {
+    "id": "rptd-030",
+    "numero_original": 30,
+    "numero_no_pdf": 10,
+    "topico_numero": 30,
+    "topico": "Racionalidade Limitada e satisficing",
+    "tipo": "multipla_escolha",
+    "pergunta": "Sob pouco tempo, informações incompletas e elevada pressão, um comandante interrompe a busca por novas alternativas quando encontra uma opção que atende aos requisitos mínimos de segurança, legalidade e missão. Trata-se de:",
+    "opcoes": [
+      "A) Maximizing (maximização).",
+      "B) Forestalling (Prevenção/Antecipação).",
+      "C) Satisficing (solução satisfatória/suficiente).",
+      "D) Suppression (Supressão).",
+      "E) Pattern Matching (Reconhecimento/Correspondência de padrões)."
+    ],
+    "correta": "C) Satisficing (solução satisfatória/suficiente).",
+    "gabarito_oficial": "C",
+    "comentario_base_pdf": "Satisficing é escolher a primeira alternativa suficientemente adequada ao nível de aspiração, em vez de buscar a solução perfeita.",
+    "nivel": "média",
+    "anulada": false,
+    "ativa": true,
+    "respondida": false,
+    "status": "ATIVA",
+    "fonte": "Simulado_RPTD_Questoes_260913_232252.pdf; Simulado_RPTD_Gabarito_Comentado_260913_232325.pdf",
+    "lote_importacao": "simulado_rptd_260913_232325",
+    "porque_resposta_correta": "Satisficing é escolher a primeira alternativa suficientemente adequada ao nível de aspiração, em vez de buscar a solução perfeita.",
+    "porque_respostas_erradas": {
+      "A": "Maximizing busca a melhor opção possível.",
+      "B": "Forestalling antecipa consequências.",
+      "D": "Suppression lida com incertezas menores.",
+      "E": "Pattern Matching reconhece padrões; não define o critério de parar a busca."
+    },
+    "analise_alternativas": {
+      "A": {
+        "status": "errada",
+        "explicacao": "Maximizing busca a melhor opção possível."
+      },
+      "B": {
+        "status": "errada",
+        "explicacao": "Forestalling antecipa consequências."
+      },
+      "C": {
+        "status": "correta",
+        "explicacao": "Satisficing é escolher a primeira alternativa suficientemente adequada ao nível de aspiração, em vez de buscar a solução perfeita."
+      },
+      "D": {
+        "status": "errada",
+        "explicacao": "Suppression lida com incertezas menores."
+      },
+      "E": {
+        "status": "errada",
+        "explicacao": "Pattern Matching reconhece padrões; não define o critério de parar a busca."
+      }
+    },
+    "dica_memorizacao": "Satisficing = suficientemente bom.",
+    "comentario": "✅ RESPOSTA CORRETA: C) Satisficing (solução satisfatória/suficiente).\n\n📌 POR QUE ESTÁ CORRETA?\nSatisficing é escolher a primeira alternativa suficientemente adequada ao nível de aspiração, em vez de buscar a solução perfeita.\n\n❌ POR QUE AS OUTRAS ESTÃO ERRADAS?\n• A) Maximizing busca a melhor opção possível.\n• B) Forestalling antecipa consequências.\n• D) Suppression lida com incertezas menores.\n• E) Pattern Matching reconhece padrões; não define o critério de parar a busca.\n\n💡 DICA PARA MEMORIZAR\nSatisficing = suficientemente bom.",
+    "feedback_correta": "✅ Muito bem! Satisficing é escolher a primeira alternativa suficientemente adequada ao nível de aspiração, em vez de buscar a solução perfeita.\n\n💡 Para fixar: Satisficing = suficientemente bom.",
+    "feedback_errada": "❌ Resposta incorreta. A alternativa correta é C) Satisficing (solução satisfatória/suficiente)..\n\n📌 Satisficing é escolher a primeira alternativa suficientemente adequada ao nível de aspiração, em vez de buscar a solução perfeita.\n\n❌ Compare as demais:\n• A) Maximizing busca a melhor opção possível.\n• B) Forestalling antecipa consequências.\n• D) Suppression lida com incertezas menores.\n• E) Pattern Matching reconhece padrões; não define o critério de parar a busca.\n\n💡 Para fixar: Satisficing = suficientemente bom."
+  },
+  {
+    "id": "rptd-031",
+    "numero_original": 31,
+    "numero_no_pdf": 11,
+    "topico_numero": 31,
+    "topico": "Solução dos 3Is — Integração",
+    "tipo": "multipla_escolha",
+    "pergunta": "PM, Polícia Civil, Ministério Público e outros órgãos passam a compartilhar informações, realizar planejamento conjunto e executar operações coordenadas. No modelo dos 3Is, essa medida representa predominantemente:",
+    "opcoes": [
+      "A) Inteligência.",
+      "B) Investimentos.",
+      "C) Integração.",
+      "D) Investigação.",
+      "E) Intervenção."
+    ],
+    "correta": "C) Integração.",
+    "gabarito_oficial": "C",
+    "comentario_base_pdf": "Integração significa cooperação, compartilhamento de informações, planejamento conjunto e objetivos comuns.",
+    "nivel": "média",
+    "anulada": false,
+    "ativa": true,
+    "respondida": false,
+    "status": "ATIVA",
+    "fonte": "Simulado_RPTD_Questoes_260913_232252.pdf; Simulado_RPTD_Gabarito_Comentado_260913_232325.pdf",
+    "lote_importacao": "simulado_rptd_260913_232325",
+    "porque_resposta_correta": "Integração significa cooperação, compartilhamento de informações, planejamento conjunto e objetivos comuns.",
+    "porque_respostas_erradas": {
+      "A": "Inteligência produz e analisa conhecimento.",
+      "B": "Investimentos destinam recursos e capacidades.",
+      "D": "Investigação não é um dos três pilares.",
+      "E": "Intervenção não é o pilar que representa cooperação interinstitucional."
+    },
+    "analise_alternativas": {
+      "A": {
+        "status": "errada",
+        "explicacao": "Inteligência produz e analisa conhecimento."
+      },
+      "B": {
+        "status": "errada",
+        "explicacao": "Investimentos destinam recursos e capacidades."
+      },
+      "C": {
+        "status": "correta",
+        "explicacao": "Integração significa cooperação, compartilhamento de informações, planejamento conjunto e objetivos comuns."
+      },
+      "D": {
+        "status": "errada",
+        "explicacao": "Investigação não é um dos três pilares."
+      },
+      "E": {
+        "status": "errada",
+        "explicacao": "Intervenção não é o pilar que representa cooperação interinstitucional."
+      }
+    },
+    "dica_memorizacao": "Integração = órgãos trabalhando juntos.",
+    "comentario": "✅ RESPOSTA CORRETA: C) Integração.\n\n📌 POR QUE ESTÁ CORRETA?\nIntegração significa cooperação, compartilhamento de informações, planejamento conjunto e objetivos comuns.\n\n❌ POR QUE AS OUTRAS ESTÃO ERRADAS?\n• A) Inteligência produz e analisa conhecimento.\n• B) Investimentos destinam recursos e capacidades.\n• D) Investigação não é um dos três pilares.\n• E) Intervenção não é o pilar que representa cooperação interinstitucional.\n\n💡 DICA PARA MEMORIZAR\nIntegração = órgãos trabalhando juntos.",
+    "feedback_correta": "✅ Muito bem! Integração significa cooperação, compartilhamento de informações, planejamento conjunto e objetivos comuns.\n\n💡 Para fixar: Integração = órgãos trabalhando juntos.",
+    "feedback_errada": "❌ Resposta incorreta. A alternativa correta é C) Integração..\n\n📌 Integração significa cooperação, compartilhamento de informações, planejamento conjunto e objetivos comuns.\n\n❌ Compare as demais:\n• A) Inteligência produz e analisa conhecimento.\n• B) Investimentos destinam recursos e capacidades.\n• D) Investigação não é um dos três pilares.\n• E) Intervenção não é o pilar que representa cooperação interinstitucional.\n\n💡 Para fixar: Integração = órgãos trabalhando juntos."
+  },
+  {
+    "id": "rptd-032",
+    "numero_original": 32,
+    "numero_no_pdf": 12,
+    "topico_numero": 32,
+    "topico": "Solução dos 3Is — Inteligência",
+    "tipo": "multipla_escolha",
+    "pergunta": "Os gestores utilizam estatísticas, mapas criminais, análise de risco e tendências para estabelecer onde e quando realizar operações. Essa atividade corresponde principalmente ao pilar:",
+    "opcoes": [
+      "A) Integração.",
+      "B) Inteligência.",
+      "C) Investimentos.",
+      "D) Infraestrutura.",
+      "E) Intervenção."
+    ],
+    "correta": "B) Inteligência.",
+    "gabarito_oficial": "B",
+    "comentario_base_pdf": "Inteligência coleta e analisa informações, transforma-as em conhecimento e orienta decisões estratégicas, táticas e operacionais.",
+    "nivel": "média",
+    "anulada": false,
+    "ativa": true,
+    "respondida": false,
+    "status": "ATIVA",
+    "fonte": "Simulado_RPTD_Questoes_260913_232252.pdf; Simulado_RPTD_Gabarito_Comentado_260913_232325.pdf",
+    "lote_importacao": "simulado_rptd_260913_232325",
+    "porque_resposta_correta": "Inteligência coleta e analisa informações, transforma-as em conhecimento e orienta decisões estratégicas, táticas e operacionais.",
+    "porque_respostas_erradas": {
+      "A": "Integração significa cooperação entre órgãos.",
+      "C": "Investimentos significam recursos, treinamento, tecnologia e infraestrutura.",
+      "D": "Infraestrutura pode receber investimento, mas não é um dos 3Is.",
+      "E": "Intervenção não é o pilar de análise de dados."
+    },
+    "analise_alternativas": {
+      "A": {
+        "status": "errada",
+        "explicacao": "Integração significa cooperação entre órgãos."
+      },
+      "B": {
+        "status": "correta",
+        "explicacao": "Inteligência coleta e analisa informações, transforma-as em conhecimento e orienta decisões estratégicas, táticas e operacionais."
+      },
+      "C": {
+        "status": "errada",
+        "explicacao": "Investimentos significam recursos, treinamento, tecnologia e infraestrutura."
+      },
+      "D": {
+        "status": "errada",
+        "explicacao": "Infraestrutura pode receber investimento, mas não é um dos 3Is."
+      },
+      "E": {
+        "status": "errada",
+        "explicacao": "Intervenção não é o pilar de análise de dados."
+      }
+    },
+    "dica_memorizacao": "Inteligência = dados analisados para decidir.",
+    "comentario": "✅ RESPOSTA CORRETA: B) Inteligência.\n\n📌 POR QUE ESTÁ CORRETA?\nInteligência coleta e analisa informações, transforma-as em conhecimento e orienta decisões estratégicas, táticas e operacionais.\n\n❌ POR QUE AS OUTRAS ESTÃO ERRADAS?\n• A) Integração significa cooperação entre órgãos.\n• C) Investimentos significam recursos, treinamento, tecnologia e infraestrutura.\n• D) Infraestrutura pode receber investimento, mas não é um dos 3Is.\n• E) Intervenção não é o pilar de análise de dados.\n\n💡 DICA PARA MEMORIZAR\nInteligência = dados analisados para decidir.",
+    "feedback_correta": "✅ Muito bem! Inteligência coleta e analisa informações, transforma-as em conhecimento e orienta decisões estratégicas, táticas e operacionais.\n\n💡 Para fixar: Inteligência = dados analisados para decidir.",
+    "feedback_errada": "❌ Resposta incorreta. A alternativa correta é B) Inteligência..\n\n📌 Inteligência coleta e analisa informações, transforma-as em conhecimento e orienta decisões estratégicas, táticas e operacionais.\n\n❌ Compare as demais:\n• A) Integração significa cooperação entre órgãos.\n• C) Investimentos significam recursos, treinamento, tecnologia e infraestrutura.\n• D) Infraestrutura pode receber investimento, mas não é um dos 3Is.\n• E) Intervenção não é o pilar de análise de dados.\n\n💡 Para fixar: Inteligência = dados analisados para decidir."
+  },
+  {
+    "id": "rptd-033",
+    "numero_original": 33,
+    "numero_no_pdf": 13,
+    "topico_numero": 33,
+    "topico": "Solução dos 3Is — Investimentos",
+    "tipo": "multipla_escolha",
+    "pergunta": "O governo amplia câmeras, moderniza centros integrados, capacita policiais e renova equipamentos. Considerando os 3Is, essas ações representam:",
+    "opcoes": [
+      "A) Somente Inteligência.",
+      "B) Integração.",
+      "C) Investimentos, entendidos de forma estratégica e não apenas como gasto financeiro.",
+      "D) Inteligência operacional exclusivamente.",
+      "E) Integração e Inteligência, mas nunca Investimentos."
+    ],
+    "correta": "C) Investimentos, entendidos de forma estratégica e não apenas como gasto financeiro.",
+    "gabarito_oficial": "C",
+    "comentario_base_pdf": "Investimentos abrangem pessoas, treinamento, tecnologia, infraestrutura e equipamentos, fortalecendo a capacidade estatal.",
+    "nivel": "média",
+    "anulada": false,
+    "ativa": true,
+    "respondida": false,
+    "status": "ATIVA",
+    "fonte": "Simulado_RPTD_Questoes_260913_232252.pdf; Simulado_RPTD_Gabarito_Comentado_260913_232325.pdf",
+    "lote_importacao": "simulado_rptd_260913_232325",
+    "porque_resposta_correta": "Investimentos abrangem pessoas, treinamento, tecnologia, infraestrutura e equipamentos, fortalecendo a capacidade estatal.",
+    "porque_respostas_erradas": {
+      "A": "As ações descritas não são apenas produção de inteligência.",
+      "B": "Integração trata da articulação entre instituições, não da aplicação de recursos.",
+      "D": "O conjunto é mais amplo do que inteligência operacional.",
+      "E": "O próprio modelo considera essas ações como Investimentos."
+    },
+    "analise_alternativas": {
+      "A": {
+        "status": "errada",
+        "explicacao": "As ações descritas não são apenas produção de inteligência."
+      },
+      "B": {
+        "status": "errada",
+        "explicacao": "Integração trata da articulação entre instituições, não da aplicação de recursos."
+      },
+      "C": {
+        "status": "correta",
+        "explicacao": "Investimentos abrangem pessoas, treinamento, tecnologia, infraestrutura e equipamentos, fortalecendo a capacidade estatal."
+      },
+      "D": {
+        "status": "errada",
+        "explicacao": "O conjunto é mais amplo do que inteligência operacional."
+      },
+      "E": {
+        "status": "errada",
+        "explicacao": "O próprio modelo considera essas ações como Investimentos."
+      }
+    },
+    "dica_memorizacao": "Investimentos = pessoas + treinamento + tecnologia + infraestrutura.",
+    "comentario": "✅ RESPOSTA CORRETA: C) Investimentos, entendidos de forma estratégica e não apenas como gasto financeiro.\n\n📌 POR QUE ESTÁ CORRETA?\nInvestimentos abrangem pessoas, treinamento, tecnologia, infraestrutura e equipamentos, fortalecendo a capacidade estatal.\n\n❌ POR QUE AS OUTRAS ESTÃO ERRADAS?\n• A) As ações descritas não são apenas produção de inteligência.\n• B) Integração trata da articulação entre instituições, não da aplicação de recursos.\n• D) O conjunto é mais amplo do que inteligência operacional.\n• E) O próprio modelo considera essas ações como Investimentos.\n\n💡 DICA PARA MEMORIZAR\nInvestimentos = pessoas + treinamento + tecnologia + infraestrutura.",
+    "feedback_correta": "✅ Muito bem! Investimentos abrangem pessoas, treinamento, tecnologia, infraestrutura e equipamentos, fortalecendo a capacidade estatal.\n\n💡 Para fixar: Investimentos = pessoas + treinamento + tecnologia + infraestrutura.",
+    "feedback_errada": "❌ Resposta incorreta. A alternativa correta é C) Investimentos, entendidos de forma estratégica e não apenas como gasto financeiro..\n\n📌 Investimentos abrangem pessoas, treinamento, tecnologia, infraestrutura e equipamentos, fortalecendo a capacidade estatal.\n\n❌ Compare as demais:\n• A) As ações descritas não são apenas produção de inteligência.\n• B) Integração trata da articulação entre instituições, não da aplicação de recursos.\n• D) O conjunto é mais amplo do que inteligência operacional.\n• E) O próprio modelo considera essas ações como Investimentos.\n\n💡 Para fixar: Investimentos = pessoas + treinamento + tecnologia + infraestrutura."
+  },
+  {
+    "id": "rptd-034",
+    "numero_original": 34,
+    "numero_no_pdf": 14,
+    "topico_numero": 34,
+    "topico": "Solução dos 3Is — interdependência",
+    "tipo": "multipla_escolha",
+    "pergunta": "Sobre a relação entre os três pilares da Solução dos 3Is, assinale a alternativa CORRETA:",
+    "opcoes": [
+      "A) Inteligência é suficiente independentemente dos demais pilares.",
+      "B) Integração substitui investimentos.",
+      "C) Investimentos possuem prioridade absoluta.",
+      "D) Integração, Inteligência e Investimentos são interdependentes e devem funcionar conjuntamente.",
+      "E) Os três pilares são aplicáveis somente após o crime."
+    ],
+    "correta": "D) Integração, Inteligência e Investimentos são interdependentes e devem funcionar conjuntamente.",
+    "gabarito_oficial": "D",
+    "comentario_base_pdf": "Os três pilares são interdependentes. Nenhum, isoladamente, resolve o problema complexo.",
+    "nivel": "média",
+    "anulada": false,
+    "ativa": true,
+    "respondida": false,
+    "status": "ATIVA",
+    "fonte": "Simulado_RPTD_Questoes_260913_232252.pdf; Simulado_RPTD_Gabarito_Comentado_260913_232325.pdf",
+    "lote_importacao": "simulado_rptd_260913_232325",
+    "porque_resposta_correta": "Os três pilares são interdependentes. Nenhum, isoladamente, resolve o problema complexo.",
+    "porque_respostas_erradas": {
+      "A": "Inteligência isolada não substitui os demais pilares.",
+      "B": "Integração complementa, mas não substitui Investimentos.",
+      "C": "Não existe prioridade absoluta de um único pilar.",
+      "E": "Os pilares também orientam prevenção e planejamento, não só atuação após o crime."
+    },
+    "analise_alternativas": {
+      "A": {
+        "status": "errada",
+        "explicacao": "Inteligência isolada não substitui os demais pilares."
+      },
+      "B": {
+        "status": "errada",
+        "explicacao": "Integração complementa, mas não substitui Investimentos."
+      },
+      "C": {
+        "status": "errada",
+        "explicacao": "Não existe prioridade absoluta de um único pilar."
+      },
+      "D": {
+        "status": "correta",
+        "explicacao": "Os três pilares são interdependentes. Nenhum, isoladamente, resolve o problema complexo."
+      },
+      "E": {
+        "status": "errada",
+        "explicacao": "Os pilares também orientam prevenção e planejamento, não só atuação após o crime."
+      }
+    },
+    "dica_memorizacao": "Os 3Is são interdependentes.",
+    "comentario": "✅ RESPOSTA CORRETA: D) Integração, Inteligência e Investimentos são interdependentes e devem funcionar conjuntamente.\n\n📌 POR QUE ESTÁ CORRETA?\nOs três pilares são interdependentes. Nenhum, isoladamente, resolve o problema complexo.\n\n❌ POR QUE AS OUTRAS ESTÃO ERRADAS?\n• A) Inteligência isolada não substitui os demais pilares.\n• B) Integração complementa, mas não substitui Investimentos.\n• C) Não existe prioridade absoluta de um único pilar.\n• E) Os pilares também orientam prevenção e planejamento, não só atuação após o crime.\n\n💡 DICA PARA MEMORIZAR\nOs 3Is são interdependentes.",
+    "feedback_correta": "✅ Muito bem! Os três pilares são interdependentes. Nenhum, isoladamente, resolve o problema complexo.\n\n💡 Para fixar: Os 3Is são interdependentes.",
+    "feedback_errada": "❌ Resposta incorreta. A alternativa correta é D) Integração, Inteligência e Investimentos são interdependentes e devem funcionar conjuntamente..\n\n📌 Os três pilares são interdependentes. Nenhum, isoladamente, resolve o problema complexo.\n\n❌ Compare as demais:\n• A) Inteligência isolada não substitui os demais pilares.\n• B) Integração complementa, mas não substitui Investimentos.\n• C) Não existe prioridade absoluta de um único pilar.\n• E) Os pilares também orientam prevenção e planejamento, não só atuação após o crime.\n\n💡 Para fixar: Os 3Is são interdependentes."
+  },
+  {
+    "id": "rptd-035",
+    "numero_original": 35,
+    "numero_no_pdf": 15,
+    "topico_numero": 35,
+    "topico": "Solução dos 3Is — aplicação integrada",
+    "tipo": "multipla_escolha",
+    "pergunta": "Uma operação utiliza análise criminal para identificar áreas prioritárias; PM e Polícia Civil compartilham os dados; depois são destinados equipamentos e recursos humanos aos locais identificados. A sequência evidencia, respectivamente:",
+    "opcoes": [
+      "A) Investimentos → Integração → Inteligência.",
+      "B) Inteligência → Integração → Investimentos.",
+      "C) Integração → Investimentos → Inteligência.",
+      "D) Inteligência → Investimentos → Integração.",
+      "E) Integração → Inteligência → Investigação."
+    ],
+    "correta": "B) Inteligência → Integração → Investimentos.",
+    "gabarito_oficial": "B",
+    "comentario_base_pdf": "Análise de dados corresponde à Inteligência; compartilhamento entre órgãos à Integração; destinação de recursos a Investimentos.",
+    "nivel": "média",
+    "anulada": false,
+    "ativa": true,
+    "respondida": false,
+    "status": "ATIVA",
+    "fonte": "Simulado_RPTD_Questoes_260913_232252.pdf; Simulado_RPTD_Gabarito_Comentado_260913_232325.pdf",
+    "lote_importacao": "simulado_rptd_260913_232325",
+    "porque_resposta_correta": "Análise de dados corresponde à Inteligência; compartilhamento entre órgãos à Integração; destinação de recursos a Investimentos.",
+    "porque_respostas_erradas": {
+      "A": "A análise de dados vem primeiro e é Inteligência.",
+      "C": "A ordem não acompanha os fatos do enunciado.",
+      "D": "O compartilhamento ocorre antes da destinação de recursos.",
+      "E": "A etapa final é Investimentos, não Investigação."
+    },
+    "analise_alternativas": {
+      "A": {
+        "status": "errada",
+        "explicacao": "A análise de dados vem primeiro e é Inteligência."
+      },
+      "B": {
+        "status": "correta",
+        "explicacao": "Análise de dados corresponde à Inteligência; compartilhamento entre órgãos à Integração; destinação de recursos a Investimentos."
+      },
+      "C": {
+        "status": "errada",
+        "explicacao": "A ordem não acompanha os fatos do enunciado."
+      },
+      "D": {
+        "status": "errada",
+        "explicacao": "O compartilhamento ocorre antes da destinação de recursos."
+      },
+      "E": {
+        "status": "errada",
+        "explicacao": "A etapa final é Investimentos, não Investigação."
+      }
+    },
+    "dica_memorizacao": "Dados → Inteligência; cooperação → Integração; recursos → Investimentos.",
+    "comentario": "✅ RESPOSTA CORRETA: B) Inteligência → Integração → Investimentos.\n\n📌 POR QUE ESTÁ CORRETA?\nAnálise de dados corresponde à Inteligência; compartilhamento entre órgãos à Integração; destinação de recursos a Investimentos.\n\n❌ POR QUE AS OUTRAS ESTÃO ERRADAS?\n• A) A análise de dados vem primeiro e é Inteligência.\n• C) A ordem não acompanha os fatos do enunciado.\n• D) O compartilhamento ocorre antes da destinação de recursos.\n• E) A etapa final é Investimentos, não Investigação.\n\n💡 DICA PARA MEMORIZAR\nDados → Inteligência; cooperação → Integração; recursos → Investimentos.",
+    "feedback_correta": "✅ Muito bem! Análise de dados corresponde à Inteligência; compartilhamento entre órgãos à Integração; destinação de recursos a Investimentos.\n\n💡 Para fixar: Dados → Inteligência; cooperação → Integração; recursos → Investimentos.",
+    "feedback_errada": "❌ Resposta incorreta. A alternativa correta é B) Inteligência → Integração → Investimentos..\n\n📌 Análise de dados corresponde à Inteligência; compartilhamento entre órgãos à Integração; destinação de recursos a Investimentos.\n\n❌ Compare as demais:\n• A) A análise de dados vem primeiro e é Inteligência.\n• C) A ordem não acompanha os fatos do enunciado.\n• D) O compartilhamento ocorre antes da destinação de recursos.\n• E) A etapa final é Investimentos, não Investigação.\n\n💡 Para fixar: Dados → Inteligência; cooperação → Integração; recursos → Investimentos."
+  },
+  {
+    "id": "rptd-036",
+    "numero_original": 36,
+    "numero_no_pdf": 16,
+    "topico_numero": 36,
+    "topico": "Modelo Ecológico",
+    "tipo": "multipla_escolha",
+    "pergunta": "Em um bairro, a análise identifica: I) histórico de drogadição e impulsividade; II) influência de amigos envolvidos com delitos; III) ruas degradadas e iluminação deficiente; IV) tolerância cultural a práticas ilícitas. Segundo o Modelo Ecológico, correspondem, respectivamente, aos níveis:",
+    "opcoes": [
+      "A) Individual; Relacionamento; Comunitário; Social.",
+      "B) Relacionamento; Individual; Social; Comunitário.",
+      "C) Individual; Comunitário; Relacionamento; Social.",
+      "D) Social; Relacionamento; Comunitário; Individual.",
+      "E) Individual; Relacionamento; Social; Comunitário."
+    ],
+    "correta": "A) Individual; Relacionamento; Comunitário; Social.",
+    "gabarito_oficial": "A",
+    "comentario_base_pdf": "Individual envolve características pessoais; Relacionamento, família e pares; Comunitário, bairro e infraestrutura; Social, cultura, normas e instituições.",
+    "nivel": "média",
+    "anulada": false,
+    "ativa": true,
+    "respondida": false,
+    "status": "ATIVA",
+    "fonte": "Simulado_RPTD_Questoes_260913_232252.pdf; Simulado_RPTD_Gabarito_Comentado_260913_232325.pdf",
+    "lote_importacao": "simulado_rptd_260913_232325",
+    "porque_resposta_correta": "Individual envolve características pessoais; Relacionamento, família e pares; Comunitário, bairro e infraestrutura; Social, cultura, normas e instituições.",
+    "porque_respostas_erradas": {
+      "B": "Drogadição/impulsividade são individuais e amigos envolvidos pertencem ao nível de relacionamento.",
+      "C": "Ruas degradadas são comunitárias.",
+      "D": "Tolerância cultural é social, não individual.",
+      "E": "A terceira categoria é comunitária e a quarta é social."
+    },
+    "analise_alternativas": {
+      "A": {
+        "status": "correta",
+        "explicacao": "Individual envolve características pessoais; Relacionamento, família e pares; Comunitário, bairro e infraestrutura; Social, cultura, normas e instituições."
+      },
+      "B": {
+        "status": "errada",
+        "explicacao": "Drogadição/impulsividade são individuais e amigos envolvidos pertencem ao nível de relacionamento."
+      },
+      "C": {
+        "status": "errada",
+        "explicacao": "Ruas degradadas são comunitárias."
+      },
+      "D": {
+        "status": "errada",
+        "explicacao": "Tolerância cultural é social, não individual."
+      },
+      "E": {
+        "status": "errada",
+        "explicacao": "A terceira categoria é comunitária e a quarta é social."
+      }
+    },
+    "dica_memorizacao": "Ecológico: Individual → Relacionamento → Comunitário → Social.",
+    "comentario": "✅ RESPOSTA CORRETA: A) Individual; Relacionamento; Comunitário; Social.\n\n📌 POR QUE ESTÁ CORRETA?\nIndividual envolve características pessoais; Relacionamento, família e pares; Comunitário, bairro e infraestrutura; Social, cultura, normas e instituições.\n\n❌ POR QUE AS OUTRAS ESTÃO ERRADAS?\n• B) Drogadição/impulsividade são individuais e amigos envolvidos pertencem ao nível de relacionamento.\n• C) Ruas degradadas são comunitárias.\n• D) Tolerância cultural é social, não individual.\n• E) A terceira categoria é comunitária e a quarta é social.\n\n💡 DICA PARA MEMORIZAR\nEcológico: Individual → Relacionamento → Comunitário → Social.",
+    "feedback_correta": "✅ Muito bem! Individual envolve características pessoais; Relacionamento, família e pares; Comunitário, bairro e infraestrutura; Social, cultura, normas e instituições.\n\n💡 Para fixar: Ecológico: Individual → Relacionamento → Comunitário → Social.",
+    "feedback_errada": "❌ Resposta incorreta. A alternativa correta é A) Individual; Relacionamento; Comunitário; Social..\n\n📌 Individual envolve características pessoais; Relacionamento, família e pares; Comunitário, bairro e infraestrutura; Social, cultura, normas e instituições.\n\n❌ Compare as demais:\n• B) Drogadição/impulsividade são individuais e amigos envolvidos pertencem ao nível de relacionamento.\n• C) Ruas degradadas são comunitárias.\n• D) Tolerância cultural é social, não individual.\n• E) A terceira categoria é comunitária e a quarta é social.\n\n💡 Para fixar: Ecológico: Individual → Relacionamento → Comunitário → Social."
+  },
+  {
+    "id": "rptd-037",
+    "numero_original": 37,
+    "numero_no_pdf": 17,
+    "topico_numero": 37,
+    "topico": "Matriz SWOT",
+    "tipo": "multipla_escolha",
+    "pergunta": "Na análise SWOT, foram identificados: efetivo treinado; frota insuficiente; possibilidade de parceria com a prefeitura; expansão de organização criminosa. Esses fatores são, respectivamente:",
+    "opcoes": [
+      "A) Força; Fraqueza; Oportunidade; Ameaça.",
+      "B) Oportunidade; Fraqueza; Força; Ameaça.",
+      "C) Força; Ameaça; Oportunidade; Fraqueza.",
+      "D) Força; Fraqueza; Ameaça; Oportunidade.",
+      "E) Oportunidade; Ameaça; Força; Fraqueza."
+    ],
+    "correta": "A) Força; Fraqueza; Oportunidade; Ameaça.",
+    "gabarito_oficial": "A",
+    "comentario_base_pdf": "SWOT: Strengths (Forças) e Weaknesses (Fraquezas) são internas; Opportunities (Oportunidades) e Threats (Ameaças) são externas.",
+    "nivel": "média",
+    "anulada": false,
+    "ativa": true,
+    "respondida": false,
+    "status": "ATIVA",
+    "fonte": "Simulado_RPTD_Questoes_260913_232252.pdf; Simulado_RPTD_Gabarito_Comentado_260913_232325.pdf",
+    "lote_importacao": "simulado_rptd_260913_232325",
+    "porque_resposta_correta": "SWOT: Strengths (Forças) e Weaknesses (Fraquezas) são internas; Opportunities (Oportunidades) e Threats (Ameaças) são externas.",
+    "porque_respostas_erradas": {
+      "B": "Efetivo treinado é força interna, não oportunidade.",
+      "C": "Frota insuficiente é fraqueza interna, não ameaça.",
+      "D": "Parceria com prefeitura é oportunidade; expansão criminosa é ameaça.",
+      "E": "A sequência desloca fatores internos e externos para categorias erradas."
+    },
+    "analise_alternativas": {
+      "A": {
+        "status": "correta",
+        "explicacao": "SWOT: Strengths (Forças) e Weaknesses (Fraquezas) são internas; Opportunities (Oportunidades) e Threats (Ameaças) são externas."
+      },
+      "B": {
+        "status": "errada",
+        "explicacao": "Efetivo treinado é força interna, não oportunidade."
+      },
+      "C": {
+        "status": "errada",
+        "explicacao": "Frota insuficiente é fraqueza interna, não ameaça."
+      },
+      "D": {
+        "status": "errada",
+        "explicacao": "Parceria com prefeitura é oportunidade; expansão criminosa é ameaça."
+      },
+      "E": {
+        "status": "errada",
+        "explicacao": "A sequência desloca fatores internos e externos para categorias erradas."
+      }
+    },
+    "dica_memorizacao": "SWOT: Forças/Fraquezas internas; Oportunidades/Ameaças externas.",
+    "comentario": "✅ RESPOSTA CORRETA: A) Força; Fraqueza; Oportunidade; Ameaça.\n\n📌 POR QUE ESTÁ CORRETA?\nSWOT: Strengths (Forças) e Weaknesses (Fraquezas) são internas; Opportunities (Oportunidades) e Threats (Ameaças) são externas.\n\n❌ POR QUE AS OUTRAS ESTÃO ERRADAS?\n• B) Efetivo treinado é força interna, não oportunidade.\n• C) Frota insuficiente é fraqueza interna, não ameaça.\n• D) Parceria com prefeitura é oportunidade; expansão criminosa é ameaça.\n• E) A sequência desloca fatores internos e externos para categorias erradas.\n\n💡 DICA PARA MEMORIZAR\nSWOT: Forças/Fraquezas internas; Oportunidades/Ameaças externas.",
+    "feedback_correta": "✅ Muito bem! SWOT: Strengths (Forças) e Weaknesses (Fraquezas) são internas; Opportunities (Oportunidades) e Threats (Ameaças) são externas.\n\n💡 Para fixar: SWOT: Forças/Fraquezas internas; Oportunidades/Ameaças externas.",
+    "feedback_errada": "❌ Resposta incorreta. A alternativa correta é A) Força; Fraqueza; Oportunidade; Ameaça..\n\n📌 SWOT: Strengths (Forças) e Weaknesses (Fraquezas) são internas; Opportunities (Oportunidades) e Threats (Ameaças) são externas.\n\n❌ Compare as demais:\n• B) Efetivo treinado é força interna, não oportunidade.\n• C) Frota insuficiente é fraqueza interna, não ameaça.\n• D) Parceria com prefeitura é oportunidade; expansão criminosa é ameaça.\n• E) A sequência desloca fatores internos e externos para categorias erradas.\n\n💡 Para fixar: SWOT: Forças/Fraquezas internas; Oportunidades/Ameaças externas."
+  },
+  {
+    "id": "rptd-038",
+    "numero_original": 38,
+    "numero_no_pdf": 18,
+    "topico_numero": 38,
+    "topico": "5W2H",
+    "tipo": "multipla_escolha",
+    "pergunta": "No planejamento pelo 5W2H, ao definir qual unidade realizará determinada ação, em qual região e quanto recurso financeiro será necessário, responde-se, respectivamente, a:",
+    "opcoes": [
+      "A) What (O quê); When (Quando); Why (Por quê).",
+      "B) Who (Quem); Where (Onde); How Much (Quanto).",
+      "C) How (Como); Where (Onde); What (O quê).",
+      "D) Who (Quem); When (Quando); How (Como).",
+      "E) Why (Por quê); Where (Onde); How Much (Quanto)."
+    ],
+    "correta": "B) Who (Quem); Where (Onde); How Much (Quanto).",
+    "gabarito_oficial": "B",
+    "comentario_base_pdf": "5W2H: What (O quê), Why (Por quê), Where (Onde), When (Quando), Who (Quem), How (Como) e How Much (Quanto).",
+    "nivel": "média",
+    "anulada": false,
+    "ativa": true,
+    "respondida": false,
+    "status": "ATIVA",
+    "fonte": "Simulado_RPTD_Questoes_260913_232252.pdf; Simulado_RPTD_Gabarito_Comentado_260913_232325.pdf",
+    "lote_importacao": "simulado_rptd_260913_232325",
+    "porque_resposta_correta": "5W2H: What (O quê), Why (Por quê), Where (Onde), When (Quando), Who (Quem), How (Como) e How Much (Quanto).",
+    "porque_respostas_erradas": {
+      "A": "Qual unidade = Who; região = Where; custo = How Much.",
+      "C": "How responde como, não quem.",
+      "D": "A segunda pergunta é onde e a terceira é quanto.",
+      "E": "A primeira pergunta é quem, não por quê."
+    },
+    "analise_alternativas": {
+      "A": {
+        "status": "errada",
+        "explicacao": "Qual unidade = Who; região = Where; custo = How Much."
+      },
+      "B": {
+        "status": "correta",
+        "explicacao": "5W2H: What (O quê), Why (Por quê), Where (Onde), When (Quando), Who (Quem), How (Como) e How Much (Quanto)."
+      },
+      "C": {
+        "status": "errada",
+        "explicacao": "How responde como, não quem."
+      },
+      "D": {
+        "status": "errada",
+        "explicacao": "A segunda pergunta é onde e a terceira é quanto."
+      },
+      "E": {
+        "status": "errada",
+        "explicacao": "A primeira pergunta é quem, não por quê."
+      }
+    },
+    "dica_memorizacao": "5W2H: Who = quem; Where = onde; How Much = quanto.",
+    "comentario": "✅ RESPOSTA CORRETA: B) Who (Quem); Where (Onde); How Much (Quanto).\n\n📌 POR QUE ESTÁ CORRETA?\n5W2H: What (O quê), Why (Por quê), Where (Onde), When (Quando), Who (Quem), How (Como) e How Much (Quanto).\n\n❌ POR QUE AS OUTRAS ESTÃO ERRADAS?\n• A) Qual unidade = Who; região = Where; custo = How Much.\n• C) How responde como, não quem.\n• D) A segunda pergunta é onde e a terceira é quanto.\n• E) A primeira pergunta é quem, não por quê.\n\n💡 DICA PARA MEMORIZAR\n5W2H: Who = quem; Where = onde; How Much = quanto.",
+    "feedback_correta": "✅ Muito bem! 5W2H: What (O quê), Why (Por quê), Where (Onde), When (Quando), Who (Quem), How (Como) e How Much (Quanto).\n\n💡 Para fixar: 5W2H: Who = quem; Where = onde; How Much = quanto.",
+    "feedback_errada": "❌ Resposta incorreta. A alternativa correta é B) Who (Quem); Where (Onde); How Much (Quanto)..\n\n📌 5W2H: What (O quê), Why (Por quê), Where (Onde), When (Quando), Who (Quem), How (Como) e How Much (Quanto).\n\n❌ Compare as demais:\n• A) Qual unidade = Who; região = Where; custo = How Much.\n• C) How responde como, não quem.\n• D) A segunda pergunta é onde e a terceira é quanto.\n• E) A primeira pergunta é quem, não por quê.\n\n💡 Para fixar: 5W2H: Who = quem; Where = onde; How Much = quanto."
+  },
+  {
+    "id": "rptd-039",
+    "numero_original": 39,
+    "numero_no_pdf": 19,
+    "topico_numero": 39,
+    "topico": "Método IARA",
+    "tipo": "verdadeiro_falso",
+    "pergunta": "No método IARA, a Identificação reconhece padrões recorrentes; a Análise busca compreender causas; a Resposta aplica ações específicas; e a Avaliação verifica a eficácia das medidas implementadas.",
+    "opcoes": [
+      "Verdadeiro",
+      "Falso"
+    ],
+    "correta": "Verdadeiro",
+    "gabarito_oficial": "V",
+    "comentario_base_pdf": "A afirmação reproduz corretamente as quatro fases do IARA.",
+    "nivel": "média",
+    "anulada": false,
+    "ativa": true,
+    "respondida": false,
+    "status": "ATIVA",
+    "fonte": "Simulado_RPTD_Questoes_260913_232252.pdf; Simulado_RPTD_Gabarito_Comentado_260913_232325.pdf",
+    "lote_importacao": "simulado_rptd_260913_232325",
+    "porque_resposta_correta": "A afirmação reproduz corretamente as quatro fases do IARA.",
+    "porque_respostas_erradas": {
+      "Falso": "O valor oposto está incorreto porque: A afirmação reproduz corretamente as quatro fases do IARA."
+    },
+    "comentario": "✅ RESPOSTA CORRETA: Verdadeiro\n\n📌 EXPLICAÇÃO\nA afirmação reproduz corretamente as quatro fases do IARA.",
+    "feedback_correta": "✅ Correto. A afirmação reproduz corretamente as quatro fases do IARA.",
+    "feedback_errada": "❌ Incorreto. O gabarito é Verdadeiro. A afirmação reproduz corretamente as quatro fases do IARA."
+  },
+  {
+    "id": "rptd-040",
+    "numero_original": 40,
+    "numero_no_pdf": 20,
+    "topico_numero": 40,
+    "topico": "Criminologia Ambiental",
+    "tipo": "verdadeiro_falso",
+    "pergunta": "Um shopping com grande circulação de pessoas é necessariamente um atrator de crimes, pois todo local com grande quantidade de vítimas potenciais atrai deliberadamente criminosos.",
+    "opcoes": [
+      "Verdadeiro",
+      "Falso"
+    ],
+    "correta": "Falso",
+    "gabarito_oficial": "F",
+    "comentario_base_pdf": "Grande circulação caracteriza tipicamente um gerador. Atrator é o local que atrai intencionalmente infratores pelas oportunidades conhecidas.",
+    "nivel": "média",
+    "anulada": false,
+    "ativa": true,
+    "respondida": false,
+    "status": "ATIVA",
+    "fonte": "Simulado_RPTD_Questoes_260913_232252.pdf; Simulado_RPTD_Gabarito_Comentado_260913_232325.pdf",
+    "lote_importacao": "simulado_rptd_260913_232325",
+    "porque_resposta_correta": "Grande circulação caracteriza tipicamente um gerador. Atrator é o local que atrai intencionalmente infratores pelas oportunidades conhecidas.",
+    "porque_respostas_erradas": {
+      "Verdadeiro": "O valor oposto está incorreto porque: Grande circulação caracteriza tipicamente um gerador. Atrator é o local que atrai intencionalmente infratores pelas oportunidades conhecidas."
+    },
+    "comentario": "✅ RESPOSTA CORRETA: Falso\n\n📌 EXPLICAÇÃO\nGrande circulação caracteriza tipicamente um gerador. Atrator é o local que atrai intencionalmente infratores pelas oportunidades conhecidas.",
+    "feedback_correta": "✅ Correto. Grande circulação caracteriza tipicamente um gerador. Atrator é o local que atrai intencionalmente infratores pelas oportunidades conhecidas.",
+    "feedback_errada": "❌ Incorreto. O gabarito é Falso. Grande circulação caracteriza tipicamente um gerador. Atrator é o local que atrai intencionalmente infratores pelas oportunidades conhecidas."
+  },
+  {
+    "id": "rptd-041",
+    "numero_original": 41,
+    "numero_no_pdf": 21,
+    "topico_numero": 41,
+    "topico": "Teoria das Atividades Rotineiras",
+    "tipo": "verdadeiro_falso",
+    "pergunta": "Segundo a Teoria das Atividades Rotineiras, a presença de um guardião capaz pode romper a oportunidade criminal mesmo que exista um ofensor motivado e um alvo adequado.",
+    "opcoes": [
+      "Verdadeiro",
+      "Falso"
+    ],
+    "correta": "Verdadeiro",
+    "gabarito_oficial": "V",
+    "comentario_base_pdf": "A teoria exige convergência dos três elementos; a presença de guardião capaz rompe essa configuração.",
+    "nivel": "média",
+    "anulada": false,
+    "ativa": true,
+    "respondida": false,
+    "status": "ATIVA",
+    "fonte": "Simulado_RPTD_Questoes_260913_232252.pdf; Simulado_RPTD_Gabarito_Comentado_260913_232325.pdf",
+    "lote_importacao": "simulado_rptd_260913_232325",
+    "porque_resposta_correta": "A teoria exige convergência dos três elementos; a presença de guardião capaz rompe essa configuração.",
+    "porque_respostas_erradas": {
+      "Falso": "O valor oposto está incorreto porque: A teoria exige convergência dos três elementos; a presença de guardião capaz rompe essa configuração."
+    },
+    "comentario": "✅ RESPOSTA CORRETA: Verdadeiro\n\n📌 EXPLICAÇÃO\nA teoria exige convergência dos três elementos; a presença de guardião capaz rompe essa configuração.",
+    "feedback_correta": "✅ Correto. A teoria exige convergência dos três elementos; a presença de guardião capaz rompe essa configuração.",
+    "feedback_errada": "❌ Incorreto. O gabarito é Verdadeiro. A teoria exige convergência dos três elementos; a presença de guardião capaz rompe essa configuração."
+  },
+  {
+    "id": "rptd-042",
+    "numero_original": 42,
+    "numero_no_pdf": 22,
+    "topico_numero": 42,
+    "topico": "RAWFS",
+    "tipo": "verdadeiro_falso",
+    "pergunta": "No RAWFS, Reduction (Redução) consiste em preencher lacunas com pressupostos derivados da experiência, enquanto Assumption (Suposição) exige buscar ativamente novas informações.",
+    "opcoes": [
+      "Verdadeiro",
+      "Falso"
+    ],
+    "correta": "Falso",
+    "gabarito_oficial": "F",
+    "comentario_base_pdf": "Os conceitos foram invertidos: Reduction busca informações; Assumption preenche lacunas logicamente com base em treinamento/experiência.",
+    "nivel": "média",
+    "anulada": false,
+    "ativa": true,
+    "respondida": false,
+    "status": "ATIVA",
+    "fonte": "Simulado_RPTD_Questoes_260913_232252.pdf; Simulado_RPTD_Gabarito_Comentado_260913_232325.pdf",
+    "lote_importacao": "simulado_rptd_260913_232325",
+    "porque_resposta_correta": "Os conceitos foram invertidos: Reduction busca informações; Assumption preenche lacunas logicamente com base em treinamento/experiência.",
+    "porque_respostas_erradas": {
+      "Verdadeiro": "O valor oposto está incorreto porque: Os conceitos foram invertidos: Reduction busca informações; Assumption preenche lacunas logicamente com base em treinamento/experiência."
+    },
+    "comentario": "✅ RESPOSTA CORRETA: Falso\n\n📌 EXPLICAÇÃO\nOs conceitos foram invertidos: Reduction busca informações; Assumption preenche lacunas logicamente com base em treinamento/experiência.",
+    "feedback_correta": "✅ Correto. Os conceitos foram invertidos: Reduction busca informações; Assumption preenche lacunas logicamente com base em treinamento/experiência.",
+    "feedback_errada": "❌ Incorreto. O gabarito é Falso. Os conceitos foram invertidos: Reduction busca informações; Assumption preenche lacunas logicamente com base em treinamento/experiência."
+  },
+  {
+    "id": "rptd-043",
+    "numero_original": 43,
+    "numero_no_pdf": 23,
+    "topico_numero": 43,
+    "topico": "Racionalidade Limitada",
+    "tipo": "verdadeiro_falso",
+    "pergunta": "A racionalidade limitada pressupõe que, sob pressão operacional, o decisor possui capacidade cognitiva restrita e pode optar por uma alternativa satisfatória em vez de buscar indefinidamente uma solução ótima.",
+    "opcoes": [
+      "Verdadeiro",
+      "Falso"
+    ],
+    "correta": "Verdadeiro",
+    "gabarito_oficial": "V",
+    "comentario_base_pdf": "É a lógica da racionalidade limitada e do satisficing.",
+    "nivel": "média",
+    "anulada": false,
+    "ativa": true,
+    "respondida": false,
+    "status": "ATIVA",
+    "fonte": "Simulado_RPTD_Questoes_260913_232252.pdf; Simulado_RPTD_Gabarito_Comentado_260913_232325.pdf",
+    "lote_importacao": "simulado_rptd_260913_232325",
+    "porque_resposta_correta": "É a lógica da racionalidade limitada e do satisficing.",
+    "porque_respostas_erradas": {
+      "Falso": "O valor oposto está incorreto porque: É a lógica da racionalidade limitada e do satisficing."
+    },
+    "comentario": "✅ RESPOSTA CORRETA: Verdadeiro\n\n📌 EXPLICAÇÃO\nÉ a lógica da racionalidade limitada e do satisficing.",
+    "feedback_correta": "✅ Correto. É a lógica da racionalidade limitada e do satisficing.",
+    "feedback_errada": "❌ Incorreto. O gabarito é Verdadeiro. É a lógica da racionalidade limitada e do satisficing."
+  },
+  {
+    "id": "rptd-044",
+    "numero_original": 44,
+    "numero_no_pdf": 24,
+    "topico_numero": 44,
+    "topico": "Solução dos 3Is — Inteligência",
+    "tipo": "verdadeiro_falso",
+    "pergunta": "Na Solução dos 3Is, Inteligência corresponde exclusivamente à investigação criminal, não abrangendo planejamento estratégico ou análise de dados.",
+    "opcoes": [
+      "Verdadeiro",
+      "Falso"
+    ],
+    "correta": "Falso",
+    "gabarito_oficial": "F",
+    "comentario_base_pdf": "Inteligência abrange coleta/análise de dados e orientação de decisões nos níveis estratégico, tático e operacional.",
+    "nivel": "média",
+    "anulada": false,
+    "ativa": true,
+    "respondida": false,
+    "status": "ATIVA",
+    "fonte": "Simulado_RPTD_Questoes_260913_232252.pdf; Simulado_RPTD_Gabarito_Comentado_260913_232325.pdf",
+    "lote_importacao": "simulado_rptd_260913_232325",
+    "porque_resposta_correta": "Inteligência abrange coleta/análise de dados e orientação de decisões nos níveis estratégico, tático e operacional.",
+    "porque_respostas_erradas": {
+      "Verdadeiro": "O valor oposto está incorreto porque: Inteligência abrange coleta/análise de dados e orientação de decisões nos níveis estratégico, tático e operacional."
+    },
+    "comentario": "✅ RESPOSTA CORRETA: Falso\n\n📌 EXPLICAÇÃO\nInteligência abrange coleta/análise de dados e orientação de decisões nos níveis estratégico, tático e operacional.",
+    "feedback_correta": "✅ Correto. Inteligência abrange coleta/análise de dados e orientação de decisões nos níveis estratégico, tático e operacional.",
+    "feedback_errada": "❌ Incorreto. O gabarito é Falso. Inteligência abrange coleta/análise de dados e orientação de decisões nos níveis estratégico, tático e operacional."
+  },
+  {
+    "id": "rptd-045",
+    "numero_original": 45,
+    "numero_no_pdf": 25,
+    "topico_numero": 45,
+    "topico": "Solução dos 3Is — Integração",
+    "tipo": "verdadeiro_falso",
+    "pergunta": "Integração busca reduzir ações isoladas e duplicidades mediante compartilhamento de informações, planejamento conjunto e cooperação entre instituições.",
+    "opcoes": [
+      "Verdadeiro",
+      "Falso"
+    ],
+    "correta": "Verdadeiro",
+    "gabarito_oficial": "V",
+    "comentario_base_pdf": "Esses são objetivos centrais do pilar Integração.",
+    "nivel": "média",
+    "anulada": false,
+    "ativa": true,
+    "respondida": false,
+    "status": "ATIVA",
+    "fonte": "Simulado_RPTD_Questoes_260913_232252.pdf; Simulado_RPTD_Gabarito_Comentado_260913_232325.pdf",
+    "lote_importacao": "simulado_rptd_260913_232325",
+    "porque_resposta_correta": "Esses são objetivos centrais do pilar Integração.",
+    "porque_respostas_erradas": {
+      "Falso": "O valor oposto está incorreto porque: Esses são objetivos centrais do pilar Integração."
+    },
+    "comentario": "✅ RESPOSTA CORRETA: Verdadeiro\n\n📌 EXPLICAÇÃO\nEsses são objetivos centrais do pilar Integração.",
+    "feedback_correta": "✅ Correto. Esses são objetivos centrais do pilar Integração.",
+    "feedback_errada": "❌ Incorreto. O gabarito é Verdadeiro. Esses são objetivos centrais do pilar Integração."
+  },
+  {
+    "id": "rptd-046",
+    "numero_original": 46,
+    "numero_no_pdf": 26,
+    "topico_numero": 46,
+    "topico": "Solução dos 3Is — Investimentos",
+    "tipo": "verdadeiro_falso",
+    "pergunta": "Investimentos, no modelo dos 3Is, não se restringem à aquisição de equipamentos, podendo envolver recursos humanos, capacitação, tecnologia e infraestrutura.",
+    "opcoes": [
+      "Verdadeiro",
+      "Falso"
+    ],
+    "correta": "Verdadeiro",
+    "gabarito_oficial": "V",
+    "comentario_base_pdf": "O conceito de investimento no material é estratégico e abrangente.",
+    "nivel": "média",
+    "anulada": false,
+    "ativa": true,
+    "respondida": false,
+    "status": "ATIVA",
+    "fonte": "Simulado_RPTD_Questoes_260913_232252.pdf; Simulado_RPTD_Gabarito_Comentado_260913_232325.pdf",
+    "lote_importacao": "simulado_rptd_260913_232325",
+    "porque_resposta_correta": "O conceito de investimento no material é estratégico e abrangente.",
+    "porque_respostas_erradas": {
+      "Falso": "O valor oposto está incorreto porque: O conceito de investimento no material é estratégico e abrangente."
+    },
+    "comentario": "✅ RESPOSTA CORRETA: Verdadeiro\n\n📌 EXPLICAÇÃO\nO conceito de investimento no material é estratégico e abrangente.",
+    "feedback_correta": "✅ Correto. O conceito de investimento no material é estratégico e abrangente.",
+    "feedback_errada": "❌ Incorreto. O gabarito é Verdadeiro. O conceito de investimento no material é estratégico e abrangente."
+  },
+  {
+    "id": "rptd-047",
+    "numero_original": 47,
+    "numero_no_pdf": 27,
+    "topico_numero": 47,
+    "topico": "Solução dos 3Is — modelo proativo",
+    "tipo": "verdadeiro_falso",
+    "pergunta": "O modelo tradicional apresentado no material possui caráter predominantemente reativo, enquanto o modelo dos 3Is procura estabelecer atuação proativa e baseada em evidências.",
+    "opcoes": [
+      "Verdadeiro",
+      "Falso"
+    ],
+    "correta": "Verdadeiro",
+    "gabarito_oficial": "V",
+    "comentario_base_pdf": "Essa é a comparação apresentada no material.",
+    "nivel": "média",
+    "anulada": false,
+    "ativa": true,
+    "respondida": false,
+    "status": "ATIVA",
+    "fonte": "Simulado_RPTD_Questoes_260913_232252.pdf; Simulado_RPTD_Gabarito_Comentado_260913_232325.pdf",
+    "lote_importacao": "simulado_rptd_260913_232325",
+    "porque_resposta_correta": "Essa é a comparação apresentada no material.",
+    "porque_respostas_erradas": {
+      "Falso": "O valor oposto está incorreto porque: Essa é a comparação apresentada no material."
+    },
+    "comentario": "✅ RESPOSTA CORRETA: Verdadeiro\n\n📌 EXPLICAÇÃO\nEssa é a comparação apresentada no material.",
+    "feedback_correta": "✅ Correto. Essa é a comparação apresentada no material.",
+    "feedback_errada": "❌ Incorreto. O gabarito é Verdadeiro. Essa é a comparação apresentada no material."
+  },
+  {
+    "id": "rptd-048",
+    "numero_original": 48,
+    "numero_no_pdf": 28,
+    "topico_numero": 48,
+    "topico": "Modelo Ecológico",
+    "tipo": "verdadeiro_falso",
+    "pergunta": "No Modelo Ecológico, degradação urbana, deficiência de iluminação e isolamento entre vizinhos pertencem predominantemente ao nível individual.",
+    "opcoes": [
+      "Verdadeiro",
+      "Falso"
+    ],
+    "correta": "Falso",
+    "gabarito_oficial": "F",
+    "comentario_base_pdf": "Esses fatores são predominantemente comunitários.",
+    "nivel": "média",
+    "anulada": false,
+    "ativa": true,
+    "respondida": false,
+    "status": "ATIVA",
+    "fonte": "Simulado_RPTD_Questoes_260913_232252.pdf; Simulado_RPTD_Gabarito_Comentado_260913_232325.pdf",
+    "lote_importacao": "simulado_rptd_260913_232325",
+    "porque_resposta_correta": "Esses fatores são predominantemente comunitários.",
+    "porque_respostas_erradas": {
+      "Verdadeiro": "O valor oposto está incorreto porque: Esses fatores são predominantemente comunitários."
+    },
+    "comentario": "✅ RESPOSTA CORRETA: Falso\n\n📌 EXPLICAÇÃO\nEsses fatores são predominantemente comunitários.",
+    "feedback_correta": "✅ Correto. Esses fatores são predominantemente comunitários.",
+    "feedback_errada": "❌ Incorreto. O gabarito é Falso. Esses fatores são predominantemente comunitários."
+  },
+  {
+    "id": "rptd-049",
+    "numero_original": 49,
+    "numero_no_pdf": 29,
+    "topico_numero": 49,
+    "topico": "Matriz SWOT",
+    "tipo": "verdadeiro_falso",
+    "pergunta": "Na matriz SWOT (Forças, Fraquezas, Oportunidades e Ameaças), Forças e Fraquezas são fatores internos, enquanto Oportunidades e Ameaças são fatores externos.",
+    "opcoes": [
+      "Verdadeiro",
+      "Falso"
+    ],
+    "correta": "Verdadeiro",
+    "gabarito_oficial": "V",
+    "comentario_base_pdf": "Essa é a separação básica da matriz SWOT.",
+    "nivel": "média",
+    "anulada": false,
+    "ativa": true,
+    "respondida": false,
+    "status": "ATIVA",
+    "fonte": "Simulado_RPTD_Questoes_260913_232252.pdf; Simulado_RPTD_Gabarito_Comentado_260913_232325.pdf",
+    "lote_importacao": "simulado_rptd_260913_232325",
+    "porque_resposta_correta": "Essa é a separação básica da matriz SWOT.",
+    "porque_respostas_erradas": {
+      "Falso": "O valor oposto está incorreto porque: Essa é a separação básica da matriz SWOT."
+    },
+    "comentario": "✅ RESPOSTA CORRETA: Verdadeiro\n\n📌 EXPLICAÇÃO\nEssa é a separação básica da matriz SWOT.",
+    "feedback_correta": "✅ Correto. Essa é a separação básica da matriz SWOT.",
+    "feedback_errada": "❌ Incorreto. O gabarito é Verdadeiro. Essa é a separação básica da matriz SWOT."
+  },
+  {
+    "id": "rptd-050",
+    "numero_original": 50,
+    "numero_no_pdf": 30,
+    "topico_numero": 50,
+    "topico": "RPD — Recognition-Primed Decision",
+    "tipo": "verdadeiro_falso",
+    "pergunta": "No modelo RPD — Recognition-Primed Decision (Decisão Baseada no Reconhecimento), o decisor experiente necessariamente compara simultaneamente todas as alternativas disponíveis antes de escolher aquela que apresenta matematicamente o menor risco.",
+    "opcoes": [
+      "Verdadeiro",
+      "Falso"
+    ],
+    "correta": "Falso",
+    "gabarito_oficial": "F",
+    "comentario_base_pdf": "O RPD enfatiza reconhecimento de padrões, geração de uma opção plausível e simulação mental, não comparação exaustiva simultânea.",
+    "nivel": "média",
+    "anulada": false,
+    "ativa": true,
+    "respondida": false,
+    "status": "ATIVA",
+    "fonte": "Simulado_RPTD_Questoes_260913_232252.pdf; Simulado_RPTD_Gabarito_Comentado_260913_232325.pdf",
+    "lote_importacao": "simulado_rptd_260913_232325",
+    "porque_resposta_correta": "O RPD enfatiza reconhecimento de padrões, geração de uma opção plausível e simulação mental, não comparação exaustiva simultânea.",
+    "porque_respostas_erradas": {
+      "Verdadeiro": "O valor oposto está incorreto porque: O RPD enfatiza reconhecimento de padrões, geração de uma opção plausível e simulação mental, não comparação exaustiva simultânea."
+    },
+    "comentario": "✅ RESPOSTA CORRETA: Falso\n\n📌 EXPLICAÇÃO\nO RPD enfatiza reconhecimento de padrões, geração de uma opção plausível e simulação mental, não comparação exaustiva simultânea.",
+    "feedback_correta": "✅ Correto. O RPD enfatiza reconhecimento de padrões, geração de uma opção plausível e simulação mental, não comparação exaustiva simultânea.",
+    "feedback_errada": "❌ Incorreto. O gabarito é Falso. O RPD enfatiza reconhecimento de padrões, geração de uma opção plausível e simulação mental, não comparação exaustiva simultânea."
   }
 ]
