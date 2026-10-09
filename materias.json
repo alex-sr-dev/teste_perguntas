@@ -1,3 +1,4 @@
 [
-  { "id": "depm", "materia": "DEPM" }
+  { "id": "depm", "materia": "DEPM" },
+  { "id": "telecon", "materia": "TCOM" }
 ]
