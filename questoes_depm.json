@@ -406,7 +406,7 @@
     "topico_numero": 15,
     "topico": "Diretriz de Emprego Operacional PMPR",
     "tipo": "relacionar",
-    "pergunta": "Relacione a divisão territorial: 1-Região; 2-Área; 3-Subárea; 4-Setor; 5-Subsetor; 6-Posto.",
+    "pergunta": "Relacione os níveis de divisão territorial da PMPR (Coluna A) às respectivas organizações ou frações (Coluna B), informando o número correspondente em cada item.",
     "opcoes": [
       "Companhia ou equivalente",
       "Comando Regional",
@@ -418,17 +418,33 @@
     "correta": "3, 1, 4, 2, 5, 6",
     "gabarito_inferido": "3, 1, 4, 2, 5, 6",
     "origem_gabarito": "gabarito comentado fornecido no próprio PDF",
-    "comentario": "✅ RESPOSTA CORRETA: 3, 1, 4, 2, 5, 6\n\n📌 EXPLICAÇÃO\nConforme o gabarito comentado do material, a resposta é: 3, 1, 4, 2, 5, 6.",
-    "porque_resposta_correta": "Conforme o gabarito comentado do material, a resposta é: 3, 1, 4, 2, 5, 6.",
-    "feedback_correta": "✅ Resposta correta. Conforme o gabarito comentado do material, a resposta é: 3, 1, 4, 2, 5, 6.",
-    "feedback_errada": "❌ Resposta incorreta. Conforme o gabarito comentado do material, a resposta é: 3, 1, 4, 2, 5, 6.",
+    "comentario": "✅ RESPOSTA CORRETA: 3, 1, 4, 2, 5, 6\n\n📌 EXPLICAÇÃO\n1 – Região: Comando Regional; 2 – Área: BPM ou equivalente; 3 – Subárea: Companhia ou equivalente; 4 – Setor: Pelotão ou equivalente; 5 – Subsetor: DPM ou equivalente; 6 – Posto: fração elementar ou constituída escalada para atividade-fim.",
+    "porque_resposta_correta": "1 – Região: Comando Regional; 2 – Área: BPM ou equivalente; 3 – Subárea: Companhia ou equivalente; 4 – Setor: Pelotão ou equivalente; 5 – Subsetor: DPM ou equivalente; 6 – Posto: fração elementar ou constituída escalada para atividade-fim.",
+    "feedback_correta": "✅ Correto! Todas as seis correspondências estão certas. 1 – Região: Comando Regional; 2 – Área: BPM ou equivalente; 3 – Subárea: Companhia ou equivalente; 4 – Setor: Pelotão ou equivalente; 5 – Subsetor: DPM ou equivalente; 6 – Posto: fração elementar ou constituída escalada para atividade-fim.",
+    "feedback_errada": "❌ Há correspondência(s) incorreta(s). Sequência correta: 3, 1, 4, 2, 5, 6. 1 – Região: Comando Regional; 2 – Área: BPM ou equivalente; 3 – Subárea: Companhia ou equivalente; 4 – Setor: Pelotão ou equivalente; 5 – Subsetor: DPM ou equivalente; 6 – Posto: fração elementar ou constituída escalada para atividade-fim.",
     "nivel": "média",
     "anulada": false,
     "ativa": true,
     "respondida": false,
     "status": "ATIVA",
     "fonte": "Questoes_Diretriz_016_2024_PMPR_Grifos_261006_075147.pdf",
-    "status_validacao": "GABARITO_DO_MATERIAL"
+    "status_validacao": "GABARITO_DO_MATERIAL",
+    "coluna_a": [
+      "Região",
+      "Área",
+      "Subárea",
+      "Setor",
+      "Subsetor",
+      "Posto"
+    ],
+    "coluna_b": [
+      "Companhia ou equivalente",
+      "Comando Regional",
+      "Pelotão ou equivalente",
+      "BPM ou equivalente",
+      "DPM ou equivalente",
+      "Fração elementar ou constituída escalada para atividade-fim"
+    ]
   },
   {
     "id": "depm-016",
