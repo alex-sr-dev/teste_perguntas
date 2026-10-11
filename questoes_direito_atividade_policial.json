@@ -1,563 +1,428 @@
 [
   {
-    "id": "daap-001",
-    "numero_sequencial": 1,
-    "numero_original": "01",
-    "topico": "TERMO CIRCUNSTANCIADO",
-    "pagina_referencia": 2,
-    "tipo": "multipla_escolha",
-    "pergunta": "Em patrulhamento, a equipe atende uma ocorrência de contravenção penal. O autor é identificado, não há circunstância legal que afaste o rito dos Juizados e ele assume o compromisso de comparecer quando intimado. À luz das regras gerais apresentadas no material, qual encaminhamento é mais adequado?",
-    "opcoes": [
-      "A) Lavrar o termo circunstanciado, registrando os dados essenciais e encaminhando-o ao Juizado.",
-      "B) Efetuar obrigatoriamente a prisão em flagrante, independentemente do compromisso assumido.",
-      "C) Exigir pagamento imediato de fiança como condição para não conduzir o autor ao cárcere.",
-      "D) Aplicar diretamente a pena criminal, dispensando a apreciação judicial."
-    ],
-    "correta": "A) Lavrar o termo circunstanciado, registrando os dados essenciais e encaminhando-o ao Juizado.",
-    "resposta_comentada": "A Lei nº 9.099/1995 prevê o termo circunstanciado para infrações de menor potencial ofensivo e afasta, em regra, prisão em flagrante e fiança quando houver encaminhamento imediato ao Juizado ou compromisso de comparecimento."
-  },
-  {
-    "id": "daap-002",
-    "numero_sequencial": 2,
-    "numero_original": "02",
-    "topico": "TERMO CIRCUNSTANCIADO",
-    "pagina_referencia": 2,
-    "tipo": "multipla_escolha",
-    "pergunta": "Uma guarnição atende dois fatos distintos: o primeiro é crime cuja pena máxima é de dois anos; o segundo também tem pena máxima de dois anos, mas ocorreu em contexto de violência doméstica e familiar contra a mulher. Considerando somente as informações fornecidas, assinale a conclusão correta.",
-    "opcoes": [
-      "A) Ambos devem seguir obrigatoriamente o rito da Lei nº 9.099/1995.",
-      "B) O primeiro admite, em regra, TCO; o segundo não se submete à Lei nº 9.099/1995.",
-      "C) Nenhum admite TCO, pois somente contravenções são de menor potencial ofensivo.",
-      "D) O segundo admite TCO sempre que a vítima autorizar expressamente."
-    ],
-    "correta": "B) O primeiro admite, em regra, TCO; o segundo não se submete à Lei nº 9.099/1995.",
-    "resposta_comentada": "A pena máxima de até dois anos integra a regra geral do TCO, mas a Lei Maria da Penha afasta a Lei nº 9.099/1995 para crimes de violência doméstica e familiar contra a mulher."
-  },
-  {
-    "id": "daap-003",
-    "numero_sequencial": 3,
-    "numero_original": "03",
-    "topico": "TERMO CIRCUNSTANCIADO",
-    "pagina_referencia": 2,
-    "tipo": "multipla_escolha",
-    "pergunta": "Ao revisar o boletim de ocorrência, um policial verifica que a infração tem pena máxima de dois anos. Antes de concluir pela lavratura do TCO, deve analisar uma condição adicional. Qual é ela?",
-    "opcoes": [
-      "A) Se o investigado possui emprego formal, pois isso define a competência do Juizado.",
-      "B) Se a vítima aceita previamente a transação penal, requisito obrigatório para o registro.",
-      "C) Se há lei especial ou situação processual que afaste o procedimento simplificado.",
-      "D) Se a ocorrência foi atendida durante o dia, pois à noite o TCO é vedado."
-    ],
-    "correta": "C) Se há lei especial ou situação processual que afaste o procedimento simplificado.",
-    "resposta_comentada": "O material ressalta que não basta verificar o limite de pena: leis especiais e circunstâncias processuais podem afastar o rito dos Juizados."
-  },
-  {
-    "id": "daap-004",
-    "numero_sequencial": 4,
-    "numero_original": "04",
+    "id": "daap-034",
+    "numero_sequencial": 34,
+    "numero_original": "PROVA-01",
     "topico": "ABUSO DE AUTORIDADE",
-    "pagina_referencia": 3,
+    "pagina_referencia": null,
     "tipo": "multipla_escolha",
-    "pergunta": "Durante uma investigação, dois agentes divergem de boa-fé quanto à interpretação de um dispositivo legal. Não há elementos de intenção de prejudicar alguém, favorecer pessoa determinada ou agir por capricho. Com base na regra geral da Lei nº 13.869/2019, a divergência:",
+    "pergunta": "Um policial militar realiza uma prisão em flagrante. Embora o preso esteja colaborando, sem resistência e sem risco de fuga, o agente decide divulgar a imagem do preso nas redes sociais oficiais do órgão para “dar exemplo à população”. À luz da Lei 13.869/2019, assinale a alternativa correta.",
     "opcoes": [
-      "A) Configura abuso de autoridade sempre que a interpretação minoritária for adotada.",
-      "B) Dispensa qualquer análise de finalidade porque o agente é servidor público.",
-      "C) Configura abuso apenas se o investigado apresentar reclamação administrativa.",
-      "D) Não configura, por si só, abuso de autoridade, diante da exigência legal de finalidade específica."
+      "A) A divulgação é permitida por se tratar de ato praticado por agente público em função.",
+      "B) A divulgação só será ilícita se houver autorização verbal da autoridade competente.",
+      "C) A conduta pode caracterizar abuso de autoridade, pois a exposição da imagem do preso, sem amparo legal e com finalidade de constrangimento ou promoção, pode configurar ilícito.",
+      "D) A divulgação é obrigatória sempre que o preso não apresentar resistência à prisão.",
+      "E) A divulgação da imagem é permitida sempre que o preso não apresentar resistência à prisão."
     ],
-    "correta": "D) Não configura, por si só, abuso de autoridade, diante da exigência legal de finalidade específica.",
-    "resposta_comentada": "A lei exige finalidade específica e estabelece que divergência na interpretação da lei ou avaliação de fatos e provas, isoladamente, não configura abuso."
+    "correta": "C) A conduta pode caracterizar abuso de autoridade, pois a exposição da imagem do preso, sem amparo legal e com finalidade de constrangimento ou promoção, pode configurar ilícito.",
+    "resposta_comentada": "Art. 13 da Lei 13.869/2019: constranger preso ou detento a exibir-se à curiosidade pública mediante violência, grave ameaça ou redução da capacidade de resistência; a divulgação isolada exige exame dos elementos do tipo, não sendo automaticamente art. 13.",
+    "origem": "Prova fotografada - Direito Aplicado à Atividade Policial"
   },
   {
-    "id": "daap-005",
-    "numero_sequencial": 5,
-    "numero_original": "05",
+    "id": "daap-035",
+    "numero_sequencial": 35,
+    "numero_original": "PROVA-02",
+    "topico": "CRIMES HEDIONDOS",
+    "pagina_referencia": null,
+    "tipo": "multipla_escolha",
+    "pergunta": "Durante audiência de instrução criminal, discutiu-se a natureza jurídica de determinado delito previsto na legislação brasileira. Com fundamento na Lei nº 8.072/1990 – Lei de Crimes Hediondos, assinale a alternativa correta.",
+    "opcoes": [
+      "A) O crime de feminicídio integra o rol legal dos crimes hediondos.",
+      "B) O crime tentado de lesão corporal praticado em contexto doméstico é considerado crime hediondo, com redução de 1/3 da pena.",
+      "C) Todo crime praticado com violência ou grave ameaça é considerado hediondo.",
+      "D) A classificação de crime hediondo depende da repercussão social e jurídica do caso concreto."
+    ],
+    "correta": "A) O crime de feminicídio integra o rol legal dos crimes hediondos.",
+    "resposta_comentada": "A hediondez depende de previsão expressa no rol legal da Lei 8.072/1990, que contempla o feminicídio.",
+    "origem": "Prova fotografada - Direito Aplicado à Atividade Policial"
+  },
+  {
+    "id": "daap-036",
+    "numero_sequencial": 36,
+    "numero_original": "PROVA-03",
+    "topico": "LEI DE TORTURA",
+    "pagina_referencia": null,
+    "tipo": "multipla_escolha",
+    "pergunta": "Segundo a Lei nº 9.455, de 07 de abril de 1997, que define os crimes de tortura, constitui crime de tortura, EXCETO:",
+    "opcoes": [
+      "A) Constranger alguém com emprego de violência ou grave ameaça, causando-lhe sofrimento físico ou mental, com o fim de obter informação, declaração ou confissão da vítima ou de terceira pessoa.",
+      "B) Constranger alguém com emprego de violência ou grave ameaça, causando-lhe sofrimento físico ou mental para provocar ação ou omissão de natureza criminosa.",
+      "C) Constranger o preso ou detento, mediante violência, grave ameaça ou redução de sua capacidade de resistência, a exibir-se ou ter seu corpo ou parte dele exibido à curiosidade pública.",
+      "D) Constranger alguém com emprego de violência ou grave ameaça, causando-lhe sofrimento físico ou mental em razão de discriminação racial ou religiosa."
+    ],
+    "correta": "C) Constranger o preso ou detento, mediante violência, grave ameaça ou redução de sua capacidade de resistência, a exibir-se ou ter seu corpo ou parte dele exibido à curiosidade pública.",
+    "resposta_comentada": "A alternativa C corresponde ao art. 13 da Lei de Abuso de Autoridade, não à tipificação de tortura da Lei 9.455/1997.",
+    "origem": "Prova fotografada - Direito Aplicado à Atividade Policial"
+  },
+  {
+    "id": "daap-037",
+    "numero_sequencial": 37,
+    "numero_original": "PROVA-04",
+    "topico": "LEI MARIA DA PENHA",
+    "pagina_referencia": null,
+    "tipo": "multipla_escolha",
+    "pergunta": "Um sujeito pratica agressões físicas e psicológicas contra uma mulher com quem mantém relação íntima de afeto, no interior da residência comum, causando lesões à integridade corporal e abalo emocional. Marque o item correto.",
+    "opcoes": [
+      "A) A configuração de violência doméstica exige coabitação atual entre agressor e vítima.",
+      "B) A violência psicológica não se insere no conceito de violência doméstica.",
+      "C) A prática de lesão corporal no contexto doméstico configura forma de violência doméstica e familiar contra a mulher, sendo considerada violação de direitos humanos.",
+      "D) A violência doméstica limita-se às relações familiares formais."
+    ],
+    "correta": "C) A prática de lesão corporal no contexto doméstico configura forma de violência doméstica e familiar contra a mulher, sendo considerada violação de direitos humanos.",
+    "resposta_comentada": "Arts. 5º, 6º e 7º da Lei 11.340/2006. Coabitação não é requisito obrigatório.",
+    "origem": "Prova fotografada - Direito Aplicado à Atividade Policial"
+  },
+  {
+    "id": "daap-038",
+    "numero_sequencial": 38,
+    "numero_original": "PROVA-05",
+    "topico": "ESTATUTO DO DESARMAMENTO",
+    "pagina_referencia": null,
+    "tipo": "multipla_escolha",
+    "pergunta": "Um homem é submetido licitamente a uma batida policial, e uma arma de fogo com numeração raspada, com sinais de identificação adulterados, é encontrada em seu porta-luvas. O homem informa que é integrante das forças armadas. Tomando apenas as informações disponíveis no caso narrado e considerando a Lei nº 10.826/2003, o homem praticou:",
+    "opcoes": [
+      "A) crime de posse irregular de arma de fogo de uso restrito.",
+      "B) crime de porte ilegal de arma de fogo de uso restrito.",
+      "C) crime de posse irregular de arma de fogo de uso permitido.",
+      "D) crime de porte ilegal de arma de fogo de uso permitido.",
+      "E) fato atípico, por ser integrante das forças armadas."
+    ],
+    "correta": "B) crime de porte ilegal de arma de fogo de uso restrito.",
+    "resposta_comentada": "Art. 16, §1º, IV, da Lei 10.826/2003: portar arma com numeração ou sinal identificador raspado ou adulterado é equiparado ao crime do art. 16. A condição militar não torna lícita a arma adulterada.",
+    "origem": "Prova fotografada - Direito Aplicado à Atividade Policial"
+  },
+  {
+    "id": "daap-039",
+    "numero_sequencial": 39,
+    "numero_original": "PROVA-06",
+    "topico": "LEI MARIA DA PENHA",
+    "pagina_referencia": null,
+    "tipo": "multipla_escolha",
+    "pergunta": "Configura violência moral contra a mulher _____. Assinale a alternativa que preencha corretamente a lacuna.",
+    "opcoes": [
+      "A) qualquer conduta que a constranja a presenciar, manter ou participar de relação sexual não desejada.",
+      "B) qualquer conduta que configure retenção, subtração de documentos pessoais, bens ou valores.",
+      "C) qualquer conduta que ofenda sua integridade ou saúde corporal.",
+      "D) qualquer conduta que configure calúnia, difamação ou injúria."
+    ],
+    "correta": "D) qualquer conduta que configure calúnia, difamação ou injúria.",
+    "resposta_comentada": "Art. 7º, V, da Lei Maria da Penha.",
+    "origem": "Prova fotografada - Direito Aplicado à Atividade Policial"
+  },
+  {
+    "id": "daap-040",
+    "numero_sequencial": 40,
+    "numero_original": "PROVA-07",
     "topico": "ABUSO DE AUTORIDADE",
-    "pagina_referencia": 3,
+    "pagina_referencia": null,
     "tipo": "multipla_escolha",
-    "pergunta": "Uma vítima de crime violento é submetida, sem necessidade para a apuração, a repetidas entrevistas invasivas que a fazem reviver o episódio traumático. O material relaciona essa conduta, observados os requisitos legais, a qual figura?",
+    "pergunta": "Em relação às condutas configuradas como crime de abuso de autoridade, conforme a Lei nº 13.869/2019, considere: I. Constranger o preso, mediante violência, a exibir-se à curiosidade pública. II. Submeter a vítima de infração penal a procedimentos desnecessários que a levem a reviver situações de violência. III. Impedir, sem justa causa, a entrevista pessoal e reservada do preso com seu advogado. IV. Manter presos de ambos os sexos na mesma cela não é considerado crime de abuso de autoridade. Pode-se afirmar que:",
     "opcoes": [
-      "A) Violência institucional, prevista no art. 15-A.",
-      "B) Omissão de cautela, prevista no art. 13.",
-      "C) Corrupção eleitoral, prevista no art. 299.",
-      "D) Inovação artificiosa do estado de coisa, prevista no art. 23."
+      "A) apenas I e IV estão incorretas.",
+      "B) apenas I, III e IV estão corretas.",
+      "C) apenas I, II e III estão corretas.",
+      "D) apenas I e IV estão corretas.",
+      "E) todas estão corretas."
     ],
-    "correta": "A) Violência institucional, prevista no art. 15-A.",
-    "resposta_comentada": "O art. 15-A versa sobre revitimização por procedimentos desnecessários, repetitivos ou invasivos envolvendo vítima ou testemunha de crimes violentos."
+    "correta": "C) apenas I, II e III estão corretas.",
+    "resposta_comentada": "I: art. 13; II: art. 15-A, observados requisitos específicos; III: art. 20; IV é falsa, conforme art. 21.",
+    "origem": "Prova fotografada - Direito Aplicado à Atividade Policial"
   },
   {
-    "id": "daap-006",
-    "numero_sequencial": 6,
-    "numero_original": "06",
-    "topico": "ABUSO DE AUTORIDADE",
-    "pagina_referencia": 4,
-    "tipo": "multipla_escolha",
-    "pergunta": "No curso de diligência, um agente altera artificiosamente a posição de um objeto para criar versão falsa sobre o ocorrido, com a finalidade específica prevista na Lei de Abuso de Autoridade. A conduta se relaciona diretamente à proteção de qual bem jurídico-operacional?",
-    "opcoes": [
-      "A) À liberdade de escolha do eleitor durante a votação.",
-      "B) À integridade do estado de lugar, coisa ou pessoa e à fidelidade da prova.",
-      "C) Ao direito de exploração econômica de atividade comercial de armas.",
-      "D) À separação física de presos de sexos distintos em estabelecimentos prisionais."
-    ],
-    "correta": "B) À integridade do estado de lugar, coisa ou pessoa e à fidelidade da prova.",
-    "resposta_comentada": "O art. 23 refere-se à inovação artificiosa do estado de lugar, coisa ou pessoa no curso de diligência, investigação ou processo."
-  },
-  {
-    "id": "daap-007",
-    "numero_sequencial": 7,
-    "numero_original": "07",
-    "topico": "LEI MARIA DA PENHA",
-    "pagina_referencia": 5,
-    "tipo": "multipla_escolha",
-    "pergunta": "Durante atendimento, uma mulher relata que seu companheiro retém seus documentos, destrói ferramentas usadas no trabalho e controla o acesso aos próprios recursos financeiros. Segundo o art. 7º da Lei Maria da Penha, a forma de violência diretamente evidenciada é:",
-    "opcoes": [
-      "A) Moral, pois exige exclusivamente ofensa à reputação.",
-      "B) Sexual, pois restringe necessariamente direitos reprodutivos.",
-      "C) Patrimonial, pois envolve retenção e destruição de bens, documentos e recursos.",
-      "D) Física, pois pressupõe lesão corporal demonstrada por laudo."
-    ],
-    "correta": "C) Patrimonial, pois envolve retenção e destruição de bens, documentos e recursos.",
-    "resposta_comentada": "O inciso IV do art. 7º abrange retenção, subtração ou destruição de documentos, objetos, instrumentos de trabalho, bens e recursos econômicos."
-  },
-  {
-    "id": "daap-008",
-    "numero_sequencial": 8,
-    "numero_original": "08",
-    "topico": "LEI MARIA DA PENHA",
-    "pagina_referencia": 5,
-    "tipo": "multipla_escolha",
-    "pergunta": "Uma mulher relata que o parceiro monitora continuamente seus deslocamentos, isola-a de amigos, humilha-a e tenta controlar suas decisões. Não há relato de agressão física. Qual classificação corresponde mais diretamente à descrição legal?",
-    "opcoes": [
-      "A) Violência moral, limitada a calúnia, difamação e injúria.",
-      "B) Violência patrimonial, que exige retenção de bens ou valores.",
-      "C) Violência sexual, definida pela ausência de consentimento em relações íntimas.",
-      "D) Violência psicológica, por meio de vigilância, isolamento e controle de comportamentos."
-    ],
-    "correta": "D) Violência psicológica, por meio de vigilância, isolamento e controle de comportamentos.",
-    "resposta_comentada": "O inciso II do art. 7º inclui humilhação, manipulação, isolamento, vigilância, perseguição e controle de ações e decisões."
-  },
-  {
-    "id": "daap-009",
-    "numero_sequencial": 9,
-    "numero_original": "09",
-    "topico": "LEI MARIA DA PENHA",
-    "pagina_referencia": 5,
-    "tipo": "multipla_escolha",
-    "pergunta": "Um agressor impede a companheira de utilizar método contraceptivo e a constrange a manter relação sexual não desejada. Para fins de identificação das formas de violência previstas no art. 7º, o caso exemplifica principalmente:",
-    "opcoes": [
-      "A) Violência sexual.",
-      "B) Violência moral.",
-      "C) Violência patrimonial.",
-      "D) Violência psicológica exclusivamente."
-    ],
-    "correta": "A) Violência sexual.",
-    "resposta_comentada": "O inciso III abrange constranger a relação sexual não desejada e impedir o uso de métodos contraceptivos, entre outras condutas."
-  },
-  {
-    "id": "daap-010",
-    "numero_sequencial": 10,
-    "numero_original": "10",
-    "topico": "ESTATUTO DA CRIANÇA E DO ADOLESCENTE",
-    "pagina_referencia": 6,
-    "tipo": "multipla_escolha",
-    "pergunta": "Uma equipe apreende adolescente em situação que, conforme o relato, não envolve flagrante de ato infracional nem ordem escrita da autoridade judiciária. Segundo o recorte do ECA presente no PDF, a apreensão irregular está diretamente associada ao:",
-    "opcoes": [
-      "A) Art. 231, que trata da comunicação da apreensão.",
-      "B) Art. 230, relativo à privação irregular de liberdade.",
-      "C) Art. 232, referente a vexame ou constrangimento sob autoridade.",
-      "D) Art. 236, relativo ao embaraço de atuação institucional."
-    ],
-    "correta": "B) Art. 230, relativo à privação irregular de liberdade.",
-    "resposta_comentada": "O art. 230 criminaliza a privação de liberdade mediante apreensão sem flagrante de ato infracional ou ordem judicial escrita, ressalvadas hipóteses legais."
-  },
-  {
-    "id": "daap-011",
-    "numero_sequencial": 11,
-    "numero_original": "11",
-    "topico": "ESTATUTO DA CRIANÇA E DO ADOLESCENTE",
-    "pagina_referencia": 6,
-    "tipo": "multipla_escolha",
-    "pergunta": "Após a apreensão de adolescente, a autoridade policial deixa de comunicar imediatamente o fato à autoridade judiciária competente e à família ou pessoa indicada. Qual dispositivo do ECA aborda especificamente essa omissão?",
-    "opcoes": [
-      "A) Art. 228.",
-      "B) Art. 230.",
-      "C) Art. 231.",
-      "D) Art. 238."
-    ],
-    "correta": "C) Art. 231.",
-    "resposta_comentada": "O art. 231 prevê a comunicação imediata da apreensão à autoridade judiciária e à família do adolescente ou pessoa indicada."
-  },
-  {
-    "id": "daap-012",
-    "numero_sequencial": 12,
-    "numero_original": "12",
-    "topico": "ESTATUTO DA CRIANÇA E DO ADOLESCENTE",
-    "pagina_referencia": 7,
-    "tipo": "multipla_escolha",
-    "pergunta": "Um adulto, sabendo que seu acompanhante tem 17 anos, pratica com ele uma infração penal e contribui para sua participação no delito. O enquadramento específico indicado no material, sem prejuízo da infração principal, é:",
-    "opcoes": [
-      "A) Venda de material pornográfico, prevista no art. 241.",
-      "B) Entrega de bebida alcoólica, prevista no art. 243.",
-      "C) Subtração para colocação em lar substituto, prevista no art. 237.",
-      "D) Corrupção de menores, prevista no art. 244-B."
-    ],
-    "correta": "D) Corrupção de menores, prevista no art. 244-B.",
-    "resposta_comentada": "O art. 244-B abrange corromper ou facilitar a corrupção de menor de 18 anos praticando com ele infração penal ou induzindo-o a praticá-la."
-  },
-  {
-    "id": "daap-013",
-    "numero_sequencial": 13,
-    "numero_original": "13",
-    "topico": "ESTATUTO DA PESSOA IDOSA",
-    "pagina_referencia": 8,
-    "tipo": "multipla_escolha",
-    "pergunta": "Uma pessoa responsável legalmente pelos cuidados de um idoso deixa de prover suas necessidades básicas e o abandona em estabelecimento hospitalar. Conforme o Estatuto da Pessoa Idosa, o núcleo da conduta descrita corresponde ao:",
-    "opcoes": [
-      "A) Art. 98, relativo ao abandono e à falta de provimento de necessidades básicas.",
-      "B) Art. 104, referente à retenção de cartão para garantia de dívida.",
-      "C) Art. 106, relativo à indução à outorga de procuração.",
-      "D) Art. 108, referente à lavratura irregular de ato notarial."
-    ],
-    "correta": "A) Art. 98, relativo ao abandono e à falta de provimento de necessidades básicas.",
-    "resposta_comentada": "O art. 98 criminaliza abandonar pessoa idosa em hospital ou instituição congênere e deixar de prover necessidades básicas quando houver obrigação legal ou por mandado."
-  },
-  {
-    "id": "daap-014",
-    "numero_sequencial": 14,
-    "numero_original": "14",
-    "topico": "ESTATUTO DA PESSOA IDOSA",
-    "pagina_referencia": 8,
-    "tipo": "multipla_escolha",
-    "pergunta": "Um familiar passa a utilizar a aposentadoria de uma pessoa idosa para despesas pessoais, desviando os valores da finalidade de manutenção do titular. Segundo o material, a conduta está descrita no:",
-    "opcoes": [
-      "A) Art. 97, omissão de assistência em situação de perigo.",
-      "B) Art. 102, apropriação ou desvio de rendimentos da pessoa idosa.",
-      "C) Art. 103, recusa de acolhimento por falta de procuração.",
-      "D) Art. 105, veiculação de imagem depreciativa."
-    ],
-    "correta": "B) Art. 102, apropriação ou desvio de rendimentos da pessoa idosa.",
-    "resposta_comentada": "O art. 102 contempla apropriar-se ou desviar bens, proventos, pensão ou qualquer outro rendimento da pessoa idosa, atribuindo-lhes finalidade diversa."
-  },
-  {
-    "id": "daap-015",
-    "numero_sequencial": 15,
-    "numero_original": "15",
-    "topico": "ESTATUTO DA PESSOA IDOSA",
-    "pagina_referencia": 9,
-    "tipo": "multipla_escolha",
-    "pergunta": "Para obter controle sobre os bens de uma pessoa idosa, um indivíduo a ameaça até que ela assine uma procuração. Qual dispositivo do Estatuto da Pessoa Idosa corresponde diretamente à conduta descrita?",
-    "opcoes": [
-      "A) Art. 103, sobre acolhimento em entidade.",
-      "B) Art. 104, sobre retenção de cartão bancário.",
-      "C) Art. 107, sobre coação para doar, contratar, testar ou outorgar procuração.",
-      "D) Art. 108, sobre ato notarial sem representação legal."
-    ],
-    "correta": "C) Art. 107, sobre coação para doar, contratar, testar ou outorgar procuração.",
-    "resposta_comentada": "O art. 107 pune coagir pessoa idosa, de qualquer modo, a doar, contratar, testar ou outorgar procuração."
-  },
-  {
-    "id": "daap-016",
-    "numero_sequencial": 16,
-    "numero_original": "16",
-    "topico": "LEI ANTIDROGAS",
-    "pagina_referencia": 10,
-    "tipo": "multipla_escolha",
-    "pergunta": "Durante uma ocorrência, o policial precisa avaliar se a droga apreendida se destinava ao consumo pessoal. Considerando os parâmetros expressamente reunidos no PDF para o art. 28, qual procedimento analítico é adequado?",
-    "opcoes": [
-      "A) Utilizar exclusivamente o peso da substância, sem examinar outros dados.",
-      "B) Considerar somente a declaração verbal do abordado, independentemente do contexto.",
-      "C) Presumir tráfico sempre que a apreensão ocorrer em local público.",
-      "D) Avaliar natureza e quantidade da substância, local, circunstâncias, conduta e antecedentes."
-    ],
-    "correta": "D) Avaliar natureza e quantidade da substância, local, circunstâncias, conduta e antecedentes.",
-    "resposta_comentada": "O material enumera diversos fatores para análise da destinação, sem reduzir a conclusão a um único dado. A aplicação do art. 28 deve considerar também as atualizações jurisprudenciais pertinentes."
-  },
-  {
-    "id": "daap-017",
-    "numero_sequencial": 17,
-    "numero_original": "17",
-    "topico": "LEI ANTIDROGAS",
-    "pagina_referencia": 10,
-    "tipo": "multipla_escolha",
-    "pergunta": "Um investigado fornece droga gratuitamente a terceiros, fora das hipóteses específicas de consumo conjunto descritas no material. Considerando o texto do caput do art. 33, a ausência de pagamento:",
-    "opcoes": [
-      "A) Não afasta, por si só, a possibilidade de enquadramento no tráfico.",
-      "B) Impede qualquer enquadramento na Lei Antidrogas.",
-      "C) Transforma necessariamente a conduta em porte para consumo pessoal.",
-      "D) Afasta todos os verbos típicos que envolvam entregar ou fornecer drogas."
-    ],
-    "correta": "A) Não afasta, por si só, a possibilidade de enquadramento no tráfico.",
-    "resposta_comentada": "O art. 33 inclui entregar a consumo e fornecer drogas ainda que gratuitamente, sem autorização ou em desacordo com determinação legal."
-  },
-  {
-    "id": "daap-018",
-    "numero_sequencial": 18,
-    "numero_original": "18",
-    "topico": "LEI ANTIDROGAS",
-    "pagina_referencia": 10,
-    "tipo": "multipla_escolha",
-    "pergunta": "Em uma prova, afirma-se que o art. 33 trata apenas da venda de drogas e não alcança preparação, transporte ou armazenamento. De acordo com a estrutura do artigo apresentada no PDF, essa afirmação está:",
-    "opcoes": [
-      "A) Correta, porque o tráfico exige sempre pagamento em dinheiro.",
-      "B) Incorreta, porque o tipo contempla diversos verbos, inclusive preparar, transportar e guardar.",
-      "C) Correta, porque as demais condutas aparecem somente no art. 28.",
-      "D) Incorreta apenas quanto ao transporte, que é o único verbo adicional previsto."
-    ],
-    "correta": "B) Incorreta, porque o tipo contempla diversos verbos, inclusive preparar, transportar e guardar.",
-    "resposta_comentada": "O caput do art. 33 é de ação múltipla, abrangendo numerosos verbos como preparar, produzir, transportar, guardar e fornecer."
-  },
-  {
-    "id": "daap-019",
-    "numero_sequencial": 19,
-    "numero_original": "19",
-    "topico": "CRIMES HEDIONDOS",
-    "pagina_referencia": 11,
-    "tipo": "multipla_escolha",
-    "pergunta": "Após atender ocorrência de extrema repercussão, um policial classifica o delito como hediondo exclusivamente por considerá-lo muito grave. Qual afirmação reflete corretamente a lógica indicada na Lei nº 8.072/1990, segundo o material?",
-    "opcoes": [
-      "A) A repercussão social basta para estabelecer a hediondez.",
-      "B) A presença de qualquer violência torna o delito automaticamente hediondo.",
-      "C) A classificação depende de previsão legal, e não da gravidade subjetivamente atribuída.",
-      "D) A hediondez decorre de decisão discricionária da equipe que registrou o fato."
-    ],
-    "correta": "C) A classificação depende de previsão legal, e não da gravidade subjetivamente atribuída.",
-    "resposta_comentada": "O art. 1º contém rol legal de crimes hediondos, consumados ou tentados, e a classificação decorre da lei."
-  },
-  {
-    "id": "daap-020",
-    "numero_sequencial": 20,
-    "numero_original": "20",
-    "topico": "CRIMES HEDIONDOS",
-    "pagina_referencia": 11,
-    "tipo": "multipla_escolha",
-    "pergunta": "Ao estudar o art. 2º da Lei dos Crimes Hediondos, um candidato deve identificar o grupo de infrações submetidas ao tratamento legal mais rigoroso mencionado no PDF. Qual alternativa corresponde a esse conjunto?",
-    "opcoes": [
-      "A) Apenas crimes contra a administração pública e crimes ambientais.",
-      "B) Somente infrações de menor potencial ofensivo e contravenções.",
-      "C) Apenas crimes praticados com arma de fogo de uso permitido.",
-      "D) Crimes hediondos, tortura, tráfico ilícito de entorpecentes e terrorismo."
-    ],
-    "correta": "D) Crimes hediondos, tortura, tráfico ilícito de entorpecentes e terrorismo.",
-    "resposta_comentada": "O art. 2º reúne crimes hediondos e os delitos equiparados mencionados no material, com tratamento constitucional e legal mais severo."
-  },
-  {
-    "id": "daap-021",
-    "numero_sequencial": 21,
-    "numero_original": "21",
-    "topico": "CRIMES HEDIONDOS",
-    "pagina_referencia": 11,
-    "tipo": "multipla_escolha",
-    "pergunta": "Ao consultar a Lei nº 8.072/1990, um candidato encontra artigos que alteraram dispositivos de outras leis e artigos expressamente revogados. Qual método de estudo é mais adequado para questões de literalidade?",
-    "opcoes": [
-      "A) Conferir a redação legal compilada vigente e identificar os dispositivos modificadores ou revogados.",
-      "B) Considerar todos os artigos originais integralmente vigentes, sem exceções.",
-      "C) Ignorar o texto legal e utilizar somente a percepção de gravidade de cada crime.",
-      "D) Aplicar exclusivamente a redação de 1990, desconsiderando alterações posteriores."
-    ],
-    "correta": "A) Conferir a redação legal compilada vigente e identificar os dispositivos modificadores ou revogados.",
-    "resposta_comentada": "O material alerta para artigos modificadores e revogados e recomenda a consulta à legislação consolidada atualizada."
-  },
-  {
-    "id": "daap-022",
-    "numero_sequencial": 22,
-    "numero_original": "22",
-    "topico": "LEI DE TORTURA",
-    "pagina_referencia": 13,
-    "tipo": "multipla_escolha",
-    "pergunta": "Durante interrogatório, um agente emprega grave ameaça e provoca sofrimento mental para obter confissão de pessoa investigada. Considerando a finalidade descrita, a hipótese se aproxima diretamente de qual previsão da Lei nº 9.455/1997?",
-    "opcoes": [
-      "A) Art. 1º, inciso II, que exige castigo pessoal sob guarda.",
-      "B) Art. 1º, inciso I, que contempla sofrimento provocado para obter informação ou confissão.",
-      "C) Art. 1º, §1º, aplicável apenas a atos de comércio de armas.",
-      "D) Art. 1º, inciso II, que exige finalidade exclusivamente econômica."
-    ],
-    "correta": "B) Art. 1º, inciso I, que contempla sofrimento provocado para obter informação ou confissão.",
-    "resposta_comentada": "O art. 1º, I, contempla constranger alguém com violência ou grave ameaça, causando sofrimento físico ou mental, com finalidade de obter informação, declaração ou confissão, entre outras."
-  },
-  {
-    "id": "daap-023",
-    "numero_sequencial": 23,
-    "numero_original": "23",
-    "topico": "LEI DE TORTURA",
-    "pagina_referencia": 13,
-    "tipo": "multipla_escolha",
-    "pergunta": "Uma pessoa sob a guarda de responsável é submetida a intenso sofrimento físico, mediante violência, para receber castigo pessoal. Segundo a diferenciação feita no PDF, trata-se da modalidade:",
-    "opcoes": [
-      "A) Tortura para obtenção de confissão, necessariamente.",
-      "B) Tortura por discriminação religiosa, necessariamente.",
-      "C) Tortura-castigo, do art. 1º, inciso II.",
-      "D) Crime eleitoral de coação, do art. 301."
-    ],
-    "correta": "C) Tortura-castigo, do art. 1º, inciso II.",
-    "resposta_comentada": "O inciso II refere-se à pessoa sob guarda, poder ou autoridade, submetida a intenso sofrimento como castigo ou medida preventiva."
-  },
-  {
-    "id": "daap-024",
-    "numero_sequencial": 24,
-    "numero_original": "24",
-    "topico": "LEI DE TORTURA",
-    "pagina_referencia": 13,
-    "tipo": "multipla_escolha",
-    "pergunta": "Uma pessoa presa é submetida a sofrimento físico por meio de ato não previsto em lei e não resultante de medida legal. O material destaca que essa hipótese recebe tratamento específico em qual dispositivo?",
-    "opcoes": [
-      "A) Art. 1º, inciso I, exclusivamente na modalidade discriminação racial.",
-      "B) Art. 1º, inciso II, exclusivamente por castigo pessoal.",
-      "C) Art. 1º, inciso I, exclusivamente para obter declaração.",
-      "D) Art. 1º, §1º, relativo à pessoa presa ou sujeita a medida de segurança."
-    ],
-    "correta": "D) Art. 1º, §1º, relativo à pessoa presa ou sujeita a medida de segurança.",
-    "resposta_comentada": "O §1º prevê a mesma pena para submeter pessoa presa ou sujeita a medida de segurança a sofrimento por ato não previsto em lei ou não resultante de medida legal."
-  },
-  {
-    "id": "daap-025",
-    "numero_sequencial": 25,
-    "numero_original": "25",
+    "id": "daap-041",
+    "numero_sequencial": 41,
+    "numero_original": "PROVA-08",
     "topico": "ESTATUTO DO DESARMAMENTO",
-    "pagina_referencia": 14,
+    "pagina_referencia": null,
     "tipo": "multipla_escolha",
-    "pergunta": "Em uma vistoria, encontra-se arma de fogo de uso permitido mantida irregularmente dentro da residência do morador, sem notícia de porte em via pública. Considerando a distinção apresentada nos arts. 12 e 14 do Estatuto do Desarmamento, o enquadramento descrito corresponde, em tese, a:",
+    "pergunta": "Ramiro, conhecido como rei das munições e colecionador regulamentado, deixa sobre a mesa de jantar um carregador e munições de uso permitido e, sem guardá-los em local seguro, sai de casa rumo à loja de doces. Seu filho de 13 anos acessa o material e o leva para a escola. Nesse contexto, a conduta de Ramiro configura:",
     "opcoes": [
-      "A) Posse irregular de arma de fogo de uso permitido, art. 12.",
-      "B) Porte ilegal de arma de fogo de uso permitido, art. 14, obrigatoriamente.",
-      "C) Disparo de arma de fogo, art. 15.",
-      "D) Tráfico internacional de arma de fogo, art. 18."
+      "A) Omissão de cautela (art. 13 da Lei de Armas).",
+      "B) Comércio ilegal de arma de fogo (art. 17 da Lei de Armas).",
+      "C) Conduta atípica.",
+      "D) Maus-tratos (art. 136 do Código Penal).",
+      "E) Induzimento, instigação ou auxílio ao suicídio ou à automutilação (art. 122 do Código Penal)."
     ],
-    "correta": "A) Posse irregular de arma de fogo de uso permitido, art. 12.",
-    "resposta_comentada": "O art. 12 aborda posse ou guarda irregular de arma, acessório ou munição de uso permitido no interior da residência ou local de trabalho nas condições legais."
+    "correta": "C) Conduta atípica.",
+    "resposta_comentada": "O art. 13 refere-se especificamente a cautelas para impedir que menor se apodere de arma de fogo; o enunciado menciona somente carregador e munições, não a arma.",
+    "origem": "Prova fotografada - Direito Aplicado à Atividade Policial"
   },
   {
-    "id": "daap-026",
-    "numero_sequencial": 26,
-    "numero_original": "26",
+    "id": "daap-042",
+    "numero_sequencial": 42,
+    "numero_original": "PROVA-09",
+    "topico": "ESTATUTO DA CRIANÇA E DO ADOLESCENTE",
+    "pagina_referencia": null,
+    "tipo": "multipla_escolha",
+    "pergunta": "Durante patrulhamento preventivo, a Polícia Militar realiza apreensão em flagrante de adolescente de 16 anos por ato infracional equiparado ao crime de roubo. No atendimento, policiais impõem humilhações e exposição pública ao adolescente. À luz dos arts. 232 a 244-C do ECA, assinale a afirmativa correta.",
+    "opcoes": [
+      "A) A conduta é atípica na esfera penal por ser norma apenas administrativa.",
+      "B) O crime em questão só pode ser praticado por pais ou tutores.",
+      "C) A configuração exige violência física, não abrangendo humilhação moral.",
+      "D) Configura crime submeter criança ou adolescente sob sua autoridade, guarda ou vigilância a vexame ou constrangimento, independentemente de resultado naturalístico."
+    ],
+    "correta": "D) Configura crime submeter criança ou adolescente sob sua autoridade, guarda ou vigilância a vexame ou constrangimento, independentemente de resultado naturalístico.",
+    "resposta_comentada": "Art. 232 do ECA: submeter criança ou adolescente sob autoridade, guarda ou vigilância a vexame ou constrangimento.",
+    "origem": "Prova fotografada - Direito Aplicado à Atividade Policial"
+  },
+  {
+    "id": "daap-043",
+    "numero_sequencial": 43,
+    "numero_original": "PROVA-10",
+    "topico": "LEI ANTIDROGAS",
+    "pagina_referencia": null,
+    "tipo": "multipla_escolha",
+    "pergunta": "O tráfico privilegiado é previsto na legislação como causa de redução de pena. Sobre o art. 33, §4º, da Lei nº 11.343/2006, assinale a alternativa que indica os requisitos:",
+    "opcoes": [
+      "A) Ter o agente confessado espontaneamente e colaborado com a instrução penal.",
+      "B) Não ter provocado o crime por motivo torpe e ter colaborado com a polícia.",
+      "C) Ser agente primário, de bons antecedentes, não se dedicar a atividades criminosas nem integrar organização criminosa.",
+      "D) Ter menos de 21 anos na data do fato ou mais de 70 anos na data da sentença."
+    ],
+    "correta": "C) Ser agente primário, de bons antecedentes, não se dedicar a atividades criminosas nem integrar organização criminosa.",
+    "resposta_comentada": "São os requisitos cumulativos do art. 33, §4º, da Lei de Drogas.",
+    "origem": "Prova fotografada - Direito Aplicado à Atividade Policial"
+  },
+  {
+    "id": "daap-044",
+    "numero_sequencial": 44,
+    "numero_original": "PROVA-11",
+    "topico": "ESTATUTO DA CRIANÇA E DO ADOLESCENTE",
+    "pagina_referencia": null,
+    "tipo": "multipla_escolha",
+    "pergunta": "Sobre os crimes previstos no ECA, avalie: I. Aos crimes do ECA cuja pena máxima não ultrapasse 2 anos aplica-se a Lei nº 9.099/1995. II. Os crimes definidos no ECA são de ação pública incondicionada. III. Nos casos de violência doméstica e familiar contra criança e adolescente, é vedada a aplicação de penas de cesta básica ou outras de prestação pecuniária, bem como substituição de pena que implique pagamento isolado de multa. Estão corretas:",
+    "opcoes": [
+      "A) II e III, apenas.",
+      "B) I e III, apenas.",
+      "C) I, II e III.",
+      "D) I, apenas."
+    ],
+    "correta": "C) I, II e III.",
+    "resposta_comentada": "Arts. 226 e 227 do ECA e art. 6º da Lei 14.344/2022. A aplicação do rito da Lei 9.099 depende das exceções legais.",
+    "origem": "Prova fotografada - Direito Aplicado à Atividade Policial"
+  },
+  {
+    "id": "daap-045",
+    "numero_sequencial": 45,
+    "numero_original": "PROVA-12",
     "topico": "ESTATUTO DO DESARMAMENTO",
-    "pagina_referencia": 14,
+    "pagina_referencia": null,
     "tipo": "multipla_escolha",
-    "pergunta": "Um responsável por arma de fogo deixa de adotar cautelas necessárias e, em decorrência disso, um adolescente de 15 anos consegue apoderar-se do armamento. O dispositivo que trata especificamente dessa omissão é:",
+    "pergunta": "Quem portar, possuir, adquirir, transportar ou fornecer arma de fogo com numeração, marca ou qualquer sinal de identificação raspado, suprimido ou adulterado incorre nas mesmas penas do crime de:",
     "opcoes": [
-      "A) Art. 12, posse irregular.",
-      "B) Art. 13, omissão de cautela.",
-      "C) Art. 17, comércio ilegal.",
-      "D) Art. 18, tráfico internacional."
+      "A) disparo de arma de fogo.",
+      "B) porte ou posse ilegal de arma de fogo de uso restrito.",
+      "C) porte ou posse ilegal de arma de fogo de uso proibido.",
+      "D) tráfico internacional de arma de fogo.",
+      "E) posse de arma de fogo."
     ],
-    "correta": "B) Art. 13, omissão de cautela.",
-    "resposta_comentada": "O art. 13 trata de deixar de observar cautelas necessárias para impedir que menor de 18 anos ou pessoa com deficiência mental se apodere de arma de fogo sob posse ou propriedade do agente."
+    "correta": "B) porte ou posse ilegal de arma de fogo de uso restrito.",
+    "resposta_comentada": "Art. 16, §1º, IV, da Lei 10.826/2003 equipara a conduta ao tipo do caput, referente a arma de uso restrito.",
+    "origem": "Prova fotografada - Direito Aplicado à Atividade Policial"
   },
   {
-    "id": "daap-027",
-    "numero_sequencial": 27,
-    "numero_original": "27",
+    "id": "daap-046",
+    "numero_sequencial": 46,
+    "numero_original": "PROVA-13",
     "topico": "ESTATUTO DO DESARMAMENTO",
-    "pagina_referencia": 14,
+    "pagina_referencia": null,
     "tipo": "multipla_escolha",
-    "pergunta": "Uma pessoa importa munições sem autorização da autoridade competente, introduzindo-as no território nacional. Sem acrescentar circunstâncias não narradas, o dispositivo diretamente relacionado à conduta é:",
+    "pergunta": "Proprietário de pequeno bar obteve autorização para portar arma de fogo, motivado por assaltos. Após discussão política entre clientes, sacou a arma de fogo e intimidou um freguês. Vizinhos acionaram a polícia. Com relação ao caso, é correto afirmar que o proprietário do bar:",
     "opcoes": [
-      "A) Art. 14, porte ilegal de arma de fogo de uso permitido.",
-      "B) Art. 15, disparo de arma de fogo.",
-      "C) Art. 18, tráfico internacional de arma de fogo, acessório ou munição.",
-      "D) Art. 13, omissão de cautela."
+      "A) responderá pelo crime de posse irregular de arma de fogo, uma vez que a autorização se restringe a mantê-la no interior da residência.",
+      "B) responderá pelo crime de disparo de arma de fogo.",
+      "C) perderá autorização de porte de arma de fogo por portá-la em local proibido à embriaguez.",
+      "D) terá que pagar multa correspondente ao dobro do valor relativo ao registro.",
+      "E) poderá comercializar sua arma de fogo para pessoa física após o incidente."
     ],
-    "correta": "C) Art. 18, tráfico internacional de arma de fogo, acessório ou munição.",
-    "resposta_comentada": "O art. 18 contempla importar, exportar ou favorecer a entrada ou saída de arma de fogo, acessório ou munição sem autorização."
+    "correta": "C) perderá autorização de porte de arma de fogo por portá-la em local proibido à embriaguez.",
+    "resposta_comentada": "Art. 10, §2º, da Lei 10.826/2003 prevê perda da eficácia da autorização em hipóteses como condução ostensiva ou ingresso/permanência em locais públicos com aglomeração em razão de eventos, nas condições legais. A redação da alternativa fotografada está parcialmente ilegível; revisar antes de usar como gabarito definitivo.",
+    "origem": "Prova fotografada - Direito Aplicado à Atividade Policial"
   },
   {
-    "id": "daap-028",
-    "numero_sequencial": 28,
-    "numero_original": "28",
-    "topico": "CRIMES AMBIENTAIS",
-    "pagina_referencia": 15,
+    "id": "daap-047",
+    "numero_sequencial": 47,
+    "numero_original": "PROVA-14",
+    "topico": "ESTATUTO DO DESARMAMENTO",
+    "pagina_referencia": null,
     "tipo": "multipla_escolha",
-    "pergunta": "Durante fiscalização, agentes constatam pesca com emprego de explosivos, que produzem efeito destrutivo na água. Qual artigo da Lei nº 9.605/1998 corresponde ao método empregado, conforme o material?",
+    "pergunta": "Com base na Lei nº 10.826/2003 – Lei de Armas, analise: I. Alterar ou suprimir o número de identificação de arma de fogo de uso restrito constitui crime. II. Comete crime aquele que possui arma de fogo de uso permitido em desacordo com determinação legal ou regulamentar, ainda que no interior de sua residência ou dependência desta. III. Comete crime aquele que deixar de observar cautelas necessárias para impedir que menor de 18 anos se apodere de arma de fogo que esteja sob sua posse ou propriedade. Quais estão corretas?",
     "opcoes": [
-      "A) Art. 29, sobre captura de fauna silvestre em geral.",
-      "B) Art. 33, sobre perecimento de fauna aquática por efluentes.",
-      "C) Art. 34, exclusivamente sobre pesca em período proibido.",
-      "D) Art. 35, sobre pesca com explosivos, substâncias tóxicas e meios proibidos."
+      "A) Apenas I.",
+      "B) Apenas I e II.",
+      "C) Apenas I e III.",
+      "D) Apenas II e III.",
+      "E) I, II e III."
     ],
-    "correta": "D) Art. 35, sobre pesca com explosivos, substâncias tóxicas e meios proibidos.",
-    "resposta_comentada": "O art. 35 descreve a pesca com explosivos ou substâncias de efeito semelhante e com substâncias tóxicas ou outros meios proibidos."
+    "correta": "E) I, II e III.",
+    "resposta_comentada": "Arts. 12, 13 e 16, §1º, IV, da Lei 10.826/2003.",
+    "origem": "Prova fotografada - Direito Aplicado à Atividade Policial"
   },
   {
-    "id": "daap-029",
-    "numero_sequencial": 29,
-    "numero_original": "29",
-    "topico": "CRIMES AMBIENTAIS",
-    "pagina_referencia": 15,
+    "id": "daap-048",
+    "numero_sequencial": 48,
+    "numero_original": "PROVA-15",
+    "topico": "ESTATUTO DA PESSOA IDOSA",
+    "pagina_referencia": null,
     "tipo": "multipla_escolha",
-    "pergunta": "Uma pessoa pratica maus-tratos contra um cão doméstico. Em comparação com o crime geral contra a fauna silvestre, qual dispositivo mencionado no PDF trata diretamente de abuso, maus-tratos, ferimentos e mutilações de animais domésticos?",
+    "pergunta": "Assinale a alternativa que NÃO constitui crime contra a pessoa idosa, segundo a Lei nº 10.741/2003.",
     "opcoes": [
-      "A) Art. 32, que também prevê disciplina específica para cães e gatos.",
-      "B) Art. 29, que trata exclusivamente de danos à flora.",
-      "C) Art. 39, que trata do corte de árvores em área protegida.",
-      "D) Art. 65, que trata de pichação de edificação urbana."
+      "A) Expor a pessoa idosa a perigo desnecessário, seja por abandono ou omissão de cuidados.",
+      "B) Agredir a pessoa idosa de forma verbal ou física.",
+      "C) Deixar de oferecer passeios e viagens mensais.",
+      "D) Apropriar-se de bens ou rendimentos da pessoa idosa.",
+      "E) Submeter a pessoa idosa a condições degradantes ou desumanas."
     ],
-    "correta": "A) Art. 32, que também prevê disciplina específica para cães e gatos.",
-    "resposta_comentada": "O art. 32 abrange maus-tratos a animais silvestres, domésticos ou domesticados e prevê disciplina específica mais severa para cão ou gato."
+    "correta": "C) Deixar de oferecer passeios e viagens mensais.",
+    "resposta_comentada": "Não existe obrigação penal genérica de oferecer passeios e viagens mensais.",
+    "origem": "Prova fotografada - Direito Aplicado à Atividade Policial"
   },
   {
-    "id": "daap-030",
-    "numero_sequencial": 30,
-    "numero_original": "30",
-    "topico": "CRIMES AMBIENTAIS",
-    "pagina_referencia": 15,
+    "id": "daap-049",
+    "numero_sequencial": 49,
+    "numero_original": "PROVA-16",
+    "topico": "ESTATUTO DA PESSOA IDOSA",
+    "pagina_referencia": null,
     "tipo": "multipla_escolha",
-    "pergunta": "Em ronda, policiais encontram pessoa pichando monumento urbano sem autorização. Considerando os tipos penais ambientais listados no material, qual artigo trata diretamente dessa conduta?",
+    "pergunta": "Uma instituição financeira realizou análise cadastral de cliente de 72 anos que solicitou empréstimo consignado. Após verificar elevado comprometimento de renda e risco de agravamento da situação financeira, recusou a contratação. O cliente alegou discriminação por idade. Assinale a alternativa correta.",
     "opcoes": [
-      "A) Art. 49, sobre plantas ornamentais.",
-      "B) Art. 65, sobre pichação ou conspurcação de edificação ou monumento urbano.",
-      "C) Art. 50-A, sobre degradação de floresta em terra pública.",
-      "D) Art. 41, sobre incêndio em mata ou floresta."
+      "A) A recusa caracteriza crime, pois a idade da solicitante impede qualquer restrição ao acesso a operações bancárias.",
+      "B) A conduta não caracteriza crime quando a recusa estiver fundamentada na proteção da própria pessoa idosa diante de situação de superendividamento.",
+      "C) A instituição responderá criminalmente sempre que negar operação bancária à pessoa idosa.",
+      "D) A licitude depende de autorização prévia do Banco Central ou Ministério Público."
     ],
-    "correta": "B) Art. 65, sobre pichação ou conspurcação de edificação ou monumento urbano.",
-    "resposta_comentada": "O art. 65 contempla pichar ou conspurcar edificação ou monumento urbano e contém regras específicas para bens tombados e grafite autorizado."
+    "correta": "B) A conduta não caracteriza crime quando a recusa estiver fundamentada na proteção da própria pessoa idosa diante de situação de superendividamento.",
+    "resposta_comentada": "Art. 96, §3º, da Lei 10.741/2003: não constitui crime a negativa de crédito motivada por superendividamento da pessoa idosa.",
+    "origem": "Prova fotografada - Direito Aplicado à Atividade Policial"
   },
   {
-    "id": "daap-031",
-    "numero_sequencial": 31,
-    "numero_original": "31",
+    "id": "daap-050",
+    "numero_sequencial": 50,
+    "numero_original": "PROVA-17",
     "topico": "CRIMES ELEITORAIS",
-    "pagina_referencia": 16,
+    "pagina_referencia": null,
     "tipo": "multipla_escolha",
-    "pergunta": "Durante a campanha, um candidato oferece dinheiro a eleitor para obter seu voto. A proposta é recusada. Considerando a descrição do art. 299 do Código Eleitoral constante do PDF, assinale a alternativa correta.",
+    "pergunta": "A Lei nº 4.737/1965 prevê que a pena aplicável ao agente dos crimes de calúnia, injúria e difamação no âmbito eleitoral será aumentada em razão de seu cometimento:",
     "opcoes": [
-      "A) A recusa impede a caracterização da conduta prevista no artigo.",
-      "B) O fato configura somente infração administrativa, sem previsão criminal.",
-      "C) A oferta pode integrar corrupção eleitoral mesmo que não seja aceita.",
-      "D) O crime exige que o eleitor tenha efetivamente votado no candidato."
+      "A) em caso de retratação imediata.",
+      "B) contra candidato eleito.",
+      "C) com menosprezo ou discriminação à condição de mulher.",
+      "D) com uso de violência ou grave ameaça.",
+      "E) contra pessoa maior de 60 anos de idade."
     ],
-    "correta": "C) A oferta pode integrar corrupção eleitoral mesmo que não seja aceita.",
-    "resposta_comentada": "O art. 299 inclui dar, oferecer, prometer, solicitar ou receber vantagem para obter ou dar voto ou abstenção, ainda que a oferta não seja aceita."
+    "correta": "C) com menosprezo ou discriminação à condição de mulher.",
+    "resposta_comentada": "O Código Eleitoral contempla aumento relacionado a menosprezo ou discriminação à condição de mulher; verificar dispositivo e redação atual para aplicação concreta.",
+    "origem": "Prova fotografada - Direito Aplicado à Atividade Policial"
   },
   {
-    "id": "daap-032",
-    "numero_sequencial": 32,
-    "numero_original": "32",
-    "topico": "CRIMES ELEITORAIS",
-    "pagina_referencia": 16,
+    "id": "daap-051",
+    "numero_sequencial": 51,
+    "numero_original": "PROVA-18",
+    "topico": "CRIMES AMBIENTAIS",
+    "pagina_referencia": null,
     "tipo": "multipla_escolha",
-    "pergunta": "Um servidor público vale-se da autoridade do cargo para constranger eleitores a votar em candidato determinado, sem descrição de violência física ou grave ameaça. Qual dispositivo, entre os indicados no PDF, trata especificamente dessa conduta?",
+    "pergunta": "Sobre os crimes contra a fauna da Lei nº 9.605/1998, considere: I. São espécimes da fauna silvestre os pertencentes às espécies nativas, migratórias e outras, aquáticas ou terrestres, que tenham todo ou parte do ciclo de vida no território brasileiro ou águas jurisdicionais brasileiras. II. Quando o abate de animal for realizado em estado de necessidade para saciar a fome do agente ou família, a pena será reduzida pela metade. III. Maus-tratos contra cão ou gato têm pena de reclusão de 2 a 5 anos, multa e proibição da guarda. Quais estão corretas?",
     "opcoes": [
-      "A) Art. 297, impedimento do sufrágio em geral.",
-      "B) Art. 299, oferta de vantagem econômica.",
-      "C) Art. 301, coação mediante violência ou grave ameaça.",
-      "D) Art. 300, coação eleitoral mediante abuso da autoridade de servidor público."
+      "A) Apenas I.",
+      "B) Apenas II.",
+      "C) Apenas I e III.",
+      "D) Apenas II e III.",
+      "E) I, II e III."
     ],
-    "correta": "D) Art. 300, coação eleitoral mediante abuso da autoridade de servidor público.",
-    "resposta_comentada": "O art. 300 trata de servidor público que se vale da autoridade para coagir alguém a votar ou deixar de votar em determinado candidato ou partido."
+    "correta": "C) Apenas I e III.",
+    "resposta_comentada": "I reproduz o art. 29, §3º; II é falsa: art. 37 prevê não ser crime, não mera redução; III corresponde ao art. 32, §1º-A.",
+    "origem": "Prova fotografada - Direito Aplicado à Atividade Policial"
   },
   {
-    "id": "daap-033",
-    "numero_sequencial": 33,
-    "numero_original": "33",
+    "id": "daap-052",
+    "numero_sequencial": 52,
+    "numero_original": "PROVA-19",
     "topico": "CRIMES ELEITORAIS",
-    "pagina_referencia": 16,
+    "pagina_referencia": null,
     "tipo": "multipla_escolha",
-    "pergunta": "Durante campanha, uma candidata sofre perseguições e ameaças baseadas em sua condição de mulher, destinadas a dificultar sua atividade eleitoral. Segundo o recorte do Código Eleitoral presente no material, a descrição se relaciona ao:",
+    "pergunta": "A legislação eleitoral brasileira prevê sanções severas para agentes que cometem crimes eleitorais, visando garantir a lisura dos processos e a legitimidade dos resultados eleitorais. Com base nos crimes eleitorais, assinale a alternativa correta.",
     "opcoes": [
-      "A) Art. 326-B, relativo à violência política contra a mulher no âmbito eleitoral.",
-      "B) Art. 312, relativo à violação do sigilo do voto.",
-      "C) Art. 295, relativo à retenção de título eleitoral.",
-      "D) Art. 317, relativo ao sigilo da urna."
+      "A) A divulgação de pesquisas eleitorais sem registro prévio na Justiça Eleitoral é permitida até a véspera do pleito.",
+      "B) A prática de boca de urna no dia da eleição não configura crime eleitoral, sendo apenas infração administrativa.",
+      "C) A compra de votos, configurada pela oferta de vantagem a eleitores em troca de seu voto, é crime eleitoral punível com reclusão e multa.",
+      "D) O transporte irregular de eleitores no dia da eleição é permitido desde que realizado por partidos políticos sem autorização da Justiça Eleitoral."
     ],
-    "correta": "A) Art. 326-B, relativo à violência política contra a mulher no âmbito eleitoral.",
-    "resposta_comentada": "O art. 326-B descreve assédio, constrangimento, humilhação, perseguição ou ameaça à candidata ou detentora de mandato com motivação discriminatória e finalidade eleitoral indicada em lei."
+    "correta": "C) A compra de votos, configurada pela oferta de vantagem a eleitores em troca de seu voto, é crime eleitoral punível com reclusão e multa.",
+    "resposta_comentada": "A corrupção eleitoral é prevista no art. 299 do Código Eleitoral; a pena legal é reclusão até quatro anos e pagamento de cinco a quinze dias-multa.",
+    "origem": "Prova fotografada - Direito Aplicado à Atividade Policial"
+  },
+  {
+    "id": "daap-053",
+    "numero_sequencial": 53,
+    "numero_original": "PROVA-20",
+    "topico": "ESTATUTO DA CRIANÇA E DO ADOLESCENTE",
+    "pagina_referencia": null,
+    "tipo": "multipla_escolha",
+    "pergunta": "Arthur, de 12 anos, vive sob a guarda de seu tio, Sr. Nelson, desde o falecimento dos pais. Após receber boletim escolar com notas baixas, Nelson o obriga a ajoelhar-se sobre grãos, profere ofensas e o expõe a vizinhos. Com base no ECA, assinale a alternativa correta.",
+    "opcoes": [
+      "A) A alegação de agir para corrigir o comportamento exclui a ilicitude, pois o ECA autoriza medidas disciplinares moderadas.",
+      "B) A conduta configura castigo físico nos termos do ECA, pois o uso de orelha não resultou em lesão corporal grave.",
+      "C) A conduta caracteriza prática de castigo físico e tratamento cruel ou degradante, ambos vedados pelo ECA, independentemente de Nelson ser responsável legal.",
+      "D) Por ser responsável legal, Nelson está excluído da vedação do art. 18-A do ECA."
+    ],
+    "correta": "C) A conduta caracteriza prática de castigo físico e tratamento cruel ou degradante, ambos vedados pelo ECA, independentemente de Nelson ser responsável legal.",
+    "resposta_comentada": "Arts. 18-A e 18-B do ECA vedam castigo físico e tratamento cruel ou degradante como formas de correção.",
+    "origem": "Prova fotografada - Direito Aplicado à Atividade Policial"
+  },
+  {
+    "id": "daap-054",
+    "numero_sequencial": 54,
+    "numero_original": "PROVA-21",
+    "topico": "LEI DE TORTURA",
+    "pagina_referencia": null,
+    "tipo": "multipla_escolha",
+    "pergunta": "O crime de tortura previsto na Lei 9.455/1997 é considerado:",
+    "opcoes": [
+      "A) Inafiançável, mas suscetível de graça ou anistia.",
+      "B) Hediondo, mas suscetível de graça ou anistia.",
+      "C) Hediondo e insuscetível de graça ou anistia.",
+      "D) Inafiançável, mas suscetível apenas de anistia.",
+      "E) Inafiançável e insuscetível de graça ou anistia."
+    ],
+    "correta": "E) Inafiançável e insuscetível de graça ou anistia.",
+    "resposta_comentada": "Art. 1º, §6º, da Lei 9.455/1997: inafiançável e insuscetível de graça ou anistia; é equiparado a hediondo, não propriamente listado como crime hediondo.",
+    "origem": "Prova fotografada - Direito Aplicado à Atividade Policial"
+  },
+  {
+    "id": "daap-055",
+    "numero_sequencial": 55,
+    "numero_original": "PROVA-22",
+    "topico": "LEI ANTIDROGAS",
+    "pagina_referencia": null,
+    "tipo": "multipla_escolha",
+    "pergunta": "Sobre a aplicação da pena no crime de tráfico de drogas, é correto afirmar:",
+    "opcoes": [
+      "A) Há causa de aumento de pena se o agente financiar ou custear a prática do crime.",
+      "B) A natureza e a quantidade da substância entorpecente incidem como agravante no patamar de um terço.",
+      "C) A reincidência, ao contrário dos crimes hediondos, não possui influência na determinação do regime inicial de cumprimento da pena.",
+      "D) É vedada a aplicação da pena de multa por ausência de previsão legal.",
+      "E) O Código Penal é inaplicável, pois a Lei de Drogas possui um método bifásico próprio."
+    ],
+    "correta": "A) Há causa de aumento de pena se o agente financiar ou custear a prática do crime.",
+    "resposta_comentada": "O art. 40, VII, da Lei 11.343/2006 prevê majorante quando o agente financia ou custeia a prática do crime, ressalvada a distinção com o tipo autônomo do art. 36.",
+    "origem": "Prova fotografada - Direito Aplicado à Atividade Policial"
+  },
+  {
+    "id": "daap-056",
+    "numero_sequencial": 56,
+    "numero_original": "PROVA-23",
+    "topico": "LEI MARIA DA PENHA",
+    "pagina_referencia": null,
+    "tipo": "multipla_escolha",
+    "pergunta": "Jeana Obscuro, mulher trans não operada, compareceu à delegacia para denunciar seu ex-convivente, Basílio dos Santos, que passou a persegui-la após o término da relação, seguindo-a e fazendo com que alterasse seus itinerários. À luz da Lei Maria da Penha, a violência sofrida é:",
+    "opcoes": [
+      "A) física, visto que seu ex-convivente reduziu sua liberdade de locomoção.",
+      "B) moral, pois teve sua honra subjetiva afetada.",
+      "C) psicológica, devido à vigilância constante e perseguição praticada pelo ex-convivente.",
+      "D) patrimonial, em face da restrição que está sofrendo em usufruir de seus bens."
+    ],
+    "correta": "C) psicológica, devido à vigilância constante e perseguição praticada pelo ex-convivente.",
+    "resposta_comentada": "Art. 7º, II, da Lei Maria da Penha abrange perseguição, vigilância constante e limitação da autodeterminação. A proteção alcança mulheres trans.",
+    "origem": "Prova fotografada - Direito Aplicado à Atividade Policial"
   }
 ]
