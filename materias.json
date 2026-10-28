@@ -1,4 +1,5 @@
 [
+  { "id": "depm", "materia": "DEPM" },
   { "id": "dd", "materia": "DD" },
   { "id": "tic", "materia": "TIC" }
 ]
