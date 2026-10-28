@@ -1,5 +1,4 @@
 [
-  { "id": "depm", "materia": "DEPM" },
-  { "id": "telecon", "materia": "TCOM" },
-  { "id": "direito_atividade_policial", "materia": "DAP"}
+  { "id": "dd", "materia": "DD" },
+  { "id": "tic", "materia": "TIC" }
 ]
