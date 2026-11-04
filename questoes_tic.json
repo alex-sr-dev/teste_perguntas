@@ -1322,7 +1322,7 @@
     "fonte": "questões tic.odt",
     "status_validacao": "GABARITO_CONFERIDO_COM_FOTO"
   },
-  {
+{
     "id": "tic-050",
     "numero_sequencial": 50,
     "numero_original": "50",
@@ -1334,19 +1334,19 @@
       "V) Verdadeiro",
       "F) Falso"
     ],
-    "correta": null,
-    "gabarito_inferido": null,
-    "origem_gabarito": "A questão 50 aparece sem marcação V/F legível na imagem enviada.",
-    "comentario": "RESPOSTA: V) Verdadeiro\n\nJUSTIFICATIVA: Para lavrar TCIP pela equipe PM, devem existir até duas naturezas de infrações de menor potencial ofensivo, as partes devem estar identificadas e assumir o compromisso de comparecer à audiência do Juizado Especial Criminal. A confecção deve ocorrer preferencialmente no local.\n\nAtenção: a questão 50 não possui marcação V/F legível na foto; gabarito pendente de confirmação.",
-    "porque_resposta_correta": "Não foi possível identificar uma resposta V/F para a questão 50 na imagem.",
-    "feedback_correta": "Gabarito pendente: a questão 50 está sem marcação legível na foto.",
-    "feedback_errada": "A questão 50 precisa ter o gabarito confirmado antes da correção.",
+    "correta": "V) Verdadeiro",
+    "gabarito_inferido": "V",
+    "origem_gabarito": "Conforme gabarito e justificativa fornecidos pelo usuário.",
+    "comentario": "RESPOSTA: V) Verdadeiro\n\nJUSTIFICATIVA: Para lavrar TCIP pela equipe PM, devem existir até duas naturezas de infrações de menor potencial ofensivo, as partes devem estar identificadas e assumir o compromisso de comparecer à audiência do Juizado Especial Criminal. A confecção deve ocorrer preferencialmente no local.",
+    "porque_resposta_correta": "Para lavrar TCIP pela equipe PM, devem existir até duas naturezas de infrações de menor potencial ofensivo, as partes devem estar identificadas e assumir o compromisso de comparecer à audiência do Juizado Especial Criminal. A confecção deve ocorrer preferencialmente no local.",
+    "feedback_correta": "Resposta correta. Para lavrar TCIP pela equipe PM, devem existir até duas naturezas de infrações de menor potencial ofensivo, as partes devem estar identificadas e assumir o compromisso de comparecer à audiência do Juizado Especial Criminal. A confecção deve ocorrer preferencialmente no local.",
+    "feedback_errada": "Resposta incorreta. Gabarito: V) Verdadeiro. Justificativa: Para lavrar TCIP pela equipe PM, devem existir até duas naturezas de infrações de menor potencial ofensivo, as partes devem estar identificadas e assumir o compromisso de comparecer à audiência do Juizado Especial Criminal. A confecção deve ocorrer preferencialmente no local.",
     "nivel": "média",
     "anulada": false,
     "ativa": true,
     "respondida": false,
     "status": "ATIVA",
     "fonte": "questões tic.odt",
-    "status_validacao": "PENDENTE_GABARITO_SEM_MARCACAO_LEGIVEL_NA_FOTO"
+    "status_validacao": "GABARITO_CORRIGIDO_CONFORME_TEXTO_DO_USUARIO"
   }
 ]
